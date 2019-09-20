@@ -1,0 +1,147 @@
+[
+  {
+    "Name": "Watchmen",
+    "Author": "Alan Moore",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Star Wars: Darth Vader",
+    "Author": "Kieron Gillen",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "X-Men: God Loves, Man Kills",
+    "Author": "Chris Claremont",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Comics for a Strange World: A Book of Poorly Drawn Lines",
+    "Author": "Reza Farazmand",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "The Adventure Zone: Here There Be Gerblins",
+    "Author": "McElroy Brothers",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "The Odd 1s Out: How to Be Cool and Other Things I Definitely Learned from Growing Up",
+    "Author": "James Rallison",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Chilling Adventures of Sabrina",
+    "Author": "Roberto Aguirre-Sacasa",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Little Moments of Love",
+    "Author": "Catana Chetwynd",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Superchill",
+    "Author": "Adam Ellis",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "If our love were a book...",
+    "Author": "Lisa Swerling & Ralph Lazar",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Emotions Explained With Buff Dudes",
+    "Author": "Andrew Tsyaston",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "War of the Realms: Journey Into Mystery",
+    "Author": "McElroy Brothers",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "The Adventure Zone: Murder on the Rockport Limited!",
+    "Author": "McElroy Brothers",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Batman: The Killing Joke",
+    "Author": "Alan Moore & Brian Bolland",
+    "Genre": "Comics"
+  },
+  {
+    "Name": "Turtles All the Way Down",
+    "Author": "John Green",
+    "Genre": "Drama"
+  },
+  {
+    "Name": "The Ultimate RPG Character Backstory Guide",
+    "Author": "James D'Amato",
+    "Genre": "Guides"
+  },
+  {
+    "Name": "D&D: Dungeon Master's Guide",
+    "Author": "Wizards of the Coast",
+    "Genre": "Guides"
+  },
+  {
+    "Name": "D&D: Player's Handbook",
+    "Author": "Wizards of the Coast",
+    "Genre": "Guides"
+  },
+  {
+    "Name": "D&D: Monster Manual",
+    "Author": "Wizards of the Coast",
+    "Genre": "Guides"
+  },
+  {
+    "Name": "Endless Loop: The History of the Basic Programming Language",
+    "Author": "Mark Jones Lorenzo",
+    "Genre": "History"
+  },
+  {
+    "Name": "The Stanley Kubrick Archives",
+    "Author": "Alison Castle",
+    "Genre": "History"
+  },
+  {
+    "Name": "Art & Arcana: A Visual History",
+    "Author": "Michael Witwer & Kyle Newman & Jon Peterson & Sam Witwer",
+    "Genre": "History"
+  },
+  {
+    "Name": "Battle Angel Alita - Edition 1",
+    "Author": "Yukito Kishiro",
+    "Genre": "Manga"
+  },
+  {
+    "Name": "Room",
+    "Author": "Emma Donoghue",
+    "Genre": "Mystery"
+  },
+  {
+    "Name": "The Martian",
+    "Author": "Andy Weir",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "An Absolutely Remarkable Thing",
+    "Author": "Hank Green",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "Author": "Randall Munroe",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "We Have No Idea",
+    "Author": "Jorge Cham & Daniel Whiteson",
+    "Genre": "Science"
+  },
+  {
+    "Name": "How To: Absurd Scientific Advice for Common Real-World Problems",
+    "Author": "Randall Munroe",
+    "Genre": "Science"
+  }
+]
