@@ -1,0 +1,537 @@
+[
+  {
+    "Name": "2001 A Space Odyssey",
+    "Director": "Stanley Kubrick",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "A Nightmare on Elm Street",
+    "Director": "Wes Craven",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "A Silent Voice",
+    "Director": "Naoko Yamada",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Akira",
+    "Director": "Katsuhiro Otomo",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Alien",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Alien Covenant",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Aliens",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Back to the Future",
+    "Director": "Robert Zemeckis",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Batam Begings",
+    "Director": "Christopher Nolan",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Big Hero 6",
+    "Director": "Don Hall & Chris Williams",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Blade Runner",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Blade Runner 2049",
+    "Director": "Denis Villeneuve",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Brave",
+    "Director": "Mark Andrews & Brenda Chapman",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Carrie",
+    "Director": "Brian De Palma",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Cars",
+    "Director": "John Lasseter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Cars 2",
+    "Director": "John Lasseter & Brad Lewis",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Casino Royal",
+    "Director": "Barbara Broccoli & Michael G. Wilson",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Deadpool",
+    "Director": "Tim Miller",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Finding Dory",
+    "Director": "Andrew Stanton & Angus MacLane",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Finding Nemo",
+    "Director": "Andrew Stanton",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Friday the 13th",
+    "Director": "Sean S. Cunningham",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Ghost in the Shell",
+    "Director": "Mamoru Oshii",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Ghostbusters",
+    "Director": "Ivan Reitman",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Ghostbusters 2",
+    "Director": "Ivan Reitman",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Halloween",
+    "Director": "John Carpenter",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Hannibal",
+    "Director": "Ridley Scott",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Harry Potter and The Chamber of Secrets",
+    "Director": "Chris Columbus",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Deathly Hallows - Part 1",
+    "Director": "David Yates",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Deathly Hallows - Part 2",
+    "Director": "David Yates",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Goblet of Fire",
+    "Director": "Mike Newell",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Half-Blood Prince",
+    "Director": "David Yates",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Order of the Phoenix",
+    "Director": "David Yates",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Prisoner of Azkaban",
+    "Director": "Alfonso Cuarón",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Harry Potter and The Sorcorer's Stone",
+    "Director": "Chris Columbus",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Howl's Moving Castle",
+    "Director": "Hayao Miyazaki",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Inside Out",
+    "Director": "Peter Docter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Interstellar",
+    "Director": "Christopher Nolan",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Jaws",
+    "Director": "Stephen Spielberg",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "John Wick",
+    "Director": "Chad Stahelski",
+    "Genre": "Action"
+  },
+  {
+    "Name": "John Wick 2",
+    "Director": "Chad Stahelski",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Jurassic Park",
+    "Director": "Steven Spielberg",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Jurassic Park 2",
+    "Director": "Steven Spielberg",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Jurassic Park 3",
+    "Director": "Joe Johnston",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Jurassic World",
+    "Director": "Colin Trevorrow",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Logan",
+    "Director": "James Mangold",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Lord of the Rings: The Fellowship of the Ring",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Lord of the Rings: The Return of the King",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Lord of the Rings: The Two Towers",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "Monsters Inc",
+    "Director": "Peter Docter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Monsters University",
+    "Director": "Dan Scanlon",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "My Neighbor Totoro",
+    "Director": "Hayao Miyazaki",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Pirates of the Caribbean: At World's End",
+    "Director": "Gore Verbinski",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Pirates of the Caribbean: Dead Man's Chest",
+    "Director": "Gore Verbisnki",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Pirates of the Caribbean: On Stranger Tides",
+    "Director": "Rob Marshall",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Pirates of the Caribbean: The Curse of the Black Perl",
+    "Director": "Gore Verbinski",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Poltergeist",
+    "Director": "Tobe Hooper",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Princess Mononoke",
+    "Director": "Hayao Miyazaki",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Prometheus",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Quantum of Solace",
+    "Director": "Marc Forster",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Ratatouille",
+    "Director": "Jan Pinkava & Brad Bird",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Sinister",
+    "Director": "Scott Derrickson",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Skyfall",
+    "Director": "Sam Mended",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Specter",
+    "Director": "Sam Mendes",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Spirited Away",
+    "Director": "Hayao Miyazaki",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Star Trek",
+    "Director": "J.J. Abrams",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Trek Beyond",
+    "Director": "Justin Lin",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Trek: Into Darkness",
+    "Director": "J.J. Abrams",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars A New Hope",
+    "Director": "George Lucas",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars Attack of the Clones",
+    "Director": "George Lucas",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars Return of the Jedi",
+    "Director": "J.J. Abrams",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars Revenge of the Sith",
+    "Director": "George Lucas",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars The Empire Strikes Back",
+    "Director": "Irvin Kershner",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars The Force Awakens",
+    "Director": "J.J. Abrams",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "Star Wars The Phantom Menace",
+    "Director": "George Lucas",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "The Amityville Horror",
+    "Director": "Stuart Rosenberg",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Dark Knight",
+    "Director": "Christopher Nolan",
+    "Genre": "Action"
+  },
+  {
+    "Name": "The Dark Knight Rises",
+    "Director": "Christopher Nolan",
+    "Genre": "Action"
+  },
+  {
+    "Name": "The Evil Dead",
+    "Director": "Sam Raimi",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Evil Dead 2",
+    "Director": "Sam Raimi",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Exorcist",
+    "Director": "William Friedkin",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Godfather",
+    "Director": "Francis Ford Coppola",
+    "Genre": "Drama"
+  },
+  {
+    "Name": "The Godfather 2",
+    "Director": "Francis Ford Coppola",
+    "Genre": "Drama"
+  },
+  {
+    "Name": "The Godfather 3",
+    "Director": "Francis Ford Coppola",
+    "Genre": "Drama"
+  },
+  {
+    "Name": "The Good Dinosaur",
+    "Director": "Peter Sohn",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "The Hobbit: An Unexpected Journey",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "The Hobbit: The Battle of the Five Armies",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "The Hobbit: The Desolation of Smaug",
+    "Director": "Peter Jackson",
+    "Genre": "Fantasy"
+  },
+  {
+    "Name": "The Incredibles",
+    "Director": "Brad Bird",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "The LEGO Movie",
+    "Director": "Phil Lord & Christopher Miller",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "The Martian",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi"
+  },
+  {
+    "Name": "The Rite",
+    "Director": "Mikael Håfström",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Shinning",
+    "Director": "Stanley Kubrick",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Silence of the Lamb",
+    "Director": "Jonathan Demme",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Texas Chain Saw Massacre",
+    "Director": "Tobe Hooper",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "The Witch",
+    "Director": "Robert Eggers",
+    "Genre": "Horror"
+  },
+  {
+    "Name": "Toy Story",
+    "Director": "John Lasseter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Toy Story 2",
+    "Director": "John Lasseter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Toy Story 3",
+    "Director": "Lee Unkrich",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Up",
+    "Director": "Peter Docter",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Wall-E",
+    "Director": "Andrew Stanton",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "Warcraft",
+    "Director": "Duncan Jones",
+    "Genre": "Adventure"
+  },
+  {
+    "Name": "Wreck-It Ralph",
+    "Director": "Rich Moore",
+    "Genre": "Animated"
+  },
+  {
+    "Name": "X-Men: Apocalypse",
+    "Director": "Bryan Singer",
+    "Genre": "Action"
+  },
+  {
+    "Name": "X-Men: Days of Future Past",
+    "Director": "Bryan Singer",
+    "Genre": "Action"
+  },
+  {
+    "Name": "X-Men: First Class",
+    "Director": "Matthew Vaughn",
+    "Genre": "Action"
+  },
+  {
+    "Name": "Your Name",
+    "Director": "Makoto Shinkai",
+    "Genre": "Anime"
+  },
+  {
+    "Name": "Zootopia",
+    "Director": "Rich Moore & Byron Howard",
+    "Genre": "Animated"
+  }
+]
