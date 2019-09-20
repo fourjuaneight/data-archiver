@@ -1,0 +1,434 @@
+[
+  {
+    "Name": "Bodies",
+    "RSS": "https://www.webtoons.com/en/challenge/bodies/rss?title_no=313877",
+    "URL": "https://m.webtoons.com/en/challenge/bodies/list?title_no=313877",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Catana",
+    "RSS": "https://catanacomics.com/feed/",
+    "URL": "https://catanacomics.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "CommitStrip",
+    "RSS": "http://www.commitstrip.com/en/feed/",
+    "URL": "http://www.commitstrip.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Fun Fact",
+    "RSS": "http://www.funfactcomics.com/rss",
+    "URL": "http://www.funfactcomics.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Good Bear",
+    "RSS": "https://goodbearcomics.com/feed/",
+    "URL": "https://goodbearcomics.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "JS Power Hour",
+    "RSS": "https://www.jspowerhour.com/comics.rss",
+    "URL": "http://www.jspowerhour.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Lil Char and the Gang",
+    "RSS": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/rss?title_no=154745",
+    "URL": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/list?title_no=154745",
+    "Category": "Comic"
+  },
+  {
+    "Name": "MonkeyUser",
+    "RSS": "https://www.monkeyuser.com/feed.xml",
+    "URL": "https://www.monkeyuser.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Oglaf",
+    "RSS": "https://www.oglaf.com/feeds/rss/",
+    "URL": "https://www.oglaf.com/latest/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Poorly Drawn Lines",
+    "RSS": "http://www.poorlydrawnlines.com/feed/",
+    "URL": "http://www.poorlydrawnlines.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Port Sherry",
+    "RSS": "http://portsherry.com/feed/",
+    "URL": "http://portsherry.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Saturday Morning Breakfast Cereal",
+    "RSS": "https://www.smbc-comics.com/comic/rss",
+    "URL": "https://www.smbc-comics.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Swords",
+    "RSS": "https://swordscomic.com/swords/feed/",
+    "URL": "https://swordscomic.com/swords/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "The Oatmeal",
+    "RSS": "https://feeds.feedburner.com/oatmealfeed",
+    "URL": "http://theoatmeal.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "The Other End",
+    "RSS": "http://www.kohney.com/feed/",
+    "URL": "http://www.kohney.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "The Perry Bible Fellowship",
+    "RSS": "https://pbfcomics.com/feed/",
+    "URL": "https://pbfcomics.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "Things in Squares",
+    "RSS": "https://www.thingsinsquares.com/feed/",
+    "URL": "https://www.thingsinsquares.com",
+    "Category": "Comic"
+  },
+  {
+    "Name": "xkcd",
+    "RSS": "https://xkcd.com/rss.xml",
+    "URL": "https://xkcd.com/",
+    "Category": "Comic"
+  },
+  {
+    "Name": "A List Apart",
+    "RSS": "https://alistapart.com/main/feed/",
+    "URL": "https://alistapart.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Alligator",
+    "RSS": "https://alligator.io/feed.xml",
+    "URL": "https://alligator.io/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Andy Bell",
+    "RSS": "https://andy-bell.design/feed/all.xml",
+    "URL": "https://andy-bell.design/",
+    "Category": "Development"
+  },
+  {
+    "Name": "bitsofcode",
+    "RSS": "https://bitsofco.de/rss/",
+    "URL": "https://bitsofco.de/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Brad Frost",
+    "RSS": "http://feeds.feedburner.com/brad-frosts-blog",
+    "URL": "http://bradfrost.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "Bryan Irace",
+    "RSS": "http://irace.me/feed.xml",
+    "URL": "http://irace.me/",
+    "Category": "Development"
+  },
+  {
+    "Name": "CSS-Tricks",
+    "RSS": "http://feeds.feedburner.com/CssTricks",
+    "URL": "https://css-tricks.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Dave Rupert",
+    "RSS": "https://daverupert.com/atom.xml",
+    "URL": "http://daverupert.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "Ethan Marcotte",
+    "RSS": "https://ethanmarcotte.com/wrote/feed.xml",
+    "URL": "https://ethanmarcotte.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "Go Make Things",
+    "RSS": "https://gomakethings.com/feed/index.xml",
+    "URL": "https://gomakethings.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Ian Bicking",
+    "RSS": "https://www.ianbicking.org/feeds/atom.xml",
+    "URL": "https://www.ianbicking.org/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Jake Archibald",
+    "RSS": "https://jakearchibald.com/posts.rss",
+    "URL": "https://jakearchibald.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Lucas F. Costa",
+    "RSS": "http://lucasfcosta.com/feed.xml",
+    "URL": "https://lucasfcosta.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Manuel Matuzović",
+    "RSS": "https://www.matuzo.at/feed.xml",
+    "URL": "https://www.matuzo.at/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Matthew Bischoff",
+    "RSS": "http://matthewbischoff.com/feed/",
+    "URL": "https://matthewbischoff.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Mike McQuaid",
+    "RSS": "https://mikemcquaid.com/atom.xml",
+    "URL": "https://mikemcquaid.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Panic Blog",
+    "RSS": "https://panic.com/blog/feed/",
+    "URL": "https://panic.com/blog",
+    "Category": "Development"
+  },
+  {
+    "Name": "Phil Coffman",
+    "RSS": "https://philcoffman.com/feed.xml",
+    "URL": "https://philcoffman.com/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Random Hacks",
+    "RSS": "http://www.randomhacks.net/feed.xml",
+    "URL": "http://www.randomhacks.net/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Rob Weychert",
+    "RSS": "http://feeds.feedburner.com/robweychert",
+    "URL": "https://v6.robweychert.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "Scott Spence",
+    "RSS": "https://blog.scottspence.me/rss.xml",
+    "URL": "https://blog.scottspence.me/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Surma",
+    "RSS": "https://dassur.ma/index.xml",
+    "URL": "https://dassur.ma/",
+    "Category": "Development"
+  },
+  {
+    "Name": "Test Double",
+    "RSS": "https://blog.testdouble.com/index.xml",
+    "URL": "http://blog.testdouble.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "The History of the Web",
+    "RSS": "https://thehistoryoftheweb.com/feed/",
+    "URL": "https://thehistoryoftheweb.com",
+    "Category": "Development"
+  },
+  {
+    "Name": "Two-Bit History",
+    "RSS": "https://twobithistory.org/feed.xml",
+    "URL": "https://twobithistory.org/",
+    "Category": "Development"
+  },
+  {
+    "Name": "5ish",
+    "RSS": "https://5ish.org",
+    "URL": "https://5ish.org/feed/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "500is Words",
+    "RSS": "https://500ish.com",
+    "URL": "https://500ish.com/feed",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Ash Furrow",
+    "RSS": "https://feed.ashfurrow.com/feed.xml",
+    "URL": "https://ashfurrow.com/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Brain Dump",
+    "RSS": "https://mikeisaac.substack.com/feed/",
+    "URL": "https://mikeisaac.substack.com",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Cortex Animated",
+    "RSS": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
+    "URL": "https://www.youtube.com/playlist?list=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "First Draught",
+    "RSS": "http://newsletter.mgsiegler.com/?format=rss",
+    "URL": "http://newsletter.mgsiegler.com/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Hot Ones",
+    "RSS": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
+    "URL": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Hyperbole and a Half",
+    "RSS": "http://feeds.feedburner.com/Hyperbole-and-a-half",
+    "URL": "http://hyperboleandahalf.blogspot.com/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Hypercritical",
+    "RSS": "http://hypercritical.co/feeds/main",
+    "URL": "http://hypercritical.co/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Kottke",
+    "RSS": "http://feeds.kottke.org/main",
+    "URL": "http://kottke.org/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Liss is More",
+    "RSS": "https://www.caseyliss.com/rss",
+    "URL": "https://www.caseyliss.com",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Marco Arment",
+    "RSS": "https://marco.org/rss",
+    "URL": "https://marco.org/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Movies with Mikey",
+    "RSS": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
+    "URL": "https://www.youtube.com/playlist?list=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Rands in Repose",
+    "RSS": "http://randsinrepose.com/feed/",
+    "URL": "http://randsinrepose.com",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "The Burger Show",
+    "RSS": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMJe0ZOKPLRgEc-sp4cLmtz6",
+    "URL": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMK8zGcsu70ju7KvWyNBWYnL",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "The Quartermaster",
+    "RSS": "https://quartermaster.substack.com/feed/",
+    "URL": "https://quartermaster.substack.com/",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Why is this interesting?",
+    "RSS": "https://whyisthisinteresting.substack.com/feed/",
+    "URL": "https://whyisthisinteresting.substack.com",
+    "Category": "Entertainment"
+  },
+  {
+    "Name": "Rebecca Boyle | The Atlantic",
+    "RSS": "https://www.theatlantic.com/feed/author/rebecca-boyle/",
+    "URL": "https://www.theatlantic.com/author/rebecca-boyle/",
+    "Category": "Science"
+  },
+  {
+    "Name": "Wait But Why",
+    "RSS": "https://waitbutwhy.com/feed",
+    "URL": "https://waitbutwhy.com",
+    "Category": "Science"
+  },
+  {
+    "Name": "What If?",
+    "RSS": "https://what-if.xkcd.com/feed.atom",
+    "URL": "https://what-if.xkcd.com/feed.atom",
+    "Category": "Science"
+  },
+  {
+    "Name": "And now it’s all this",
+    "RSS": "https://leancrew.com/all-this/feed/",
+    "URL": "https://leancrew.com/all-this/",
+    "Category": "Technology"
+  },
+  {
+    "Name": "Backchannel",
+    "RSS": "https://www.wired.com/feed/category/backchannel/latest/rss",
+    "URL": "https://www.wired.com/category/backchannel/latest",
+    "Category": "Technology"
+  },
+  {
+    "Name": "Justin O'Beirne",
+    "RSS": "https://www.justinobeirne.com/rss?format=rss",
+    "URL": "https://www.justinobeirne.com/",
+    "Category": "Technology"
+  },
+  {
+    "Name": "Macdrifter",
+    "RSS": "http://macdrifter.com/feeds/all.atom.xml",
+    "URL": "http://www.macdrifter.com/",
+    "Category": "Technology"
+  },
+  {
+    "Name": "MacStories",
+    "RSS": "https://www.macstories.net/feed/",
+    "URL": "https://www.macstories.net",
+    "Category": "Technology"
+  },
+  {
+    "Name": "Mike Isaac | NYTimes",
+    "RSS": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/mike-isaac/rss.xml",
+    "URL": "http://www.nytimes.com",
+    "Category": "Technology"
+  },
+  {
+    "Name": "Nellie Bowles | NYTimes",
+    "RSS": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/nellie-bowles/rss.xml",
+    "URL": "http://www.nytimes.com",
+    "Category": "Technology"
+  },
+  {
+    "Name": "The Interface",
+    "RSS": "https://www.theverge.com/rss/interface/index.xml",
+    "URL": "https://www.theverge.com/interface",
+    "Category": "Technology"
+  },
+  {
+    "Name": "WIRED Guides",
+    "RSS": "https://www.wired.com/feed/tag/wired-guide/latest/rss",
+    "URL": "https://www.wired.com/tag/wired-guide/latest",
+    "Category": "Technology"
+  }
+]
