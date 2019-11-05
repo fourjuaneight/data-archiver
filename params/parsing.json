@@ -1,27 +1,27 @@
 {
   "overcast": {
-    "creator": "<a\shref=\"/itunes\d+.*\"\s?>(.*)</a>",
-    "title": "<h2\sclass=\"margintop0 marginbottom0\"\sclass=\"title\">(.*)</h2>",
-    "url": "<source\ssrc=\"(.*)\"\stype=\"audio\/\w+\"\s?/>"
+    "creator": "<a\\shref=\\\"/itunes\\d+.*\\\"\\s?>(.*)</a>",
+    "title": "<h2\\sclass=\\\"margintop0 marginbottom0\\\"\\sclass=\\\"title\\\">(.*)<\\/h2>",
+    "url": "<source\\ssrc=\\\"(.*)\\\"\\stype=\\\"audio\\/\\w+\\\"\\s?\\/>"
   },
   "reddit": {
-    "creator": "<title>.*\s:\s(.*)</title>",
-    "title": "<title>(.*)\s:\s.*</title>",
-    "url": "<link\srel=\"canonical\"\shref=\"(.*)\"?\s/>"
+    "creator": "<title>.*\\s:\\s(.*)<\\/title>",
+    "title": "<title>(.*)\\s:\\s.*<\\/title>",
+    "url": "<meta\\sproperty=\\\"og:url\\\"\\scontent=\\\"(https://www.reddit.com/.*/)\\\"\\/>"
   },
   "twitter": {
-    "creator": "<a\sclass=\"PermalinkProfile-overlay js-nav\"\shref=\"/(.*)\">",
-    "title": "<link\srel=\"alternate\"\stype=\"application/json+oembed\"\shref=\".*\"\stitle=\"(.*)\">",
-    "url": "<link\srel=\"canonical\"\shref=\"(.*)\">"
+    "creator": "<a\\sclass=\\\"PermalinkProfile-overlay js-nav\\\"\\shref=\\\"\\/(.*)\\\">",
+    "title": "<link\\srel=\\\"alternate\\\"\\stype=\\\"application\\/json\\+oembed\\\"\\shref=\\\".*\\\"\\stitle=\\\".*\\son\\sTwitter:\\s&quot;(.*)&quot;\\\">",
+    "url": "<link\\srel=\\\"canonical\\\"\\shref=\\\"(.*)\\\">"
   },
   "vimeo": {
-    "creator": "<button\sdata-action=\"actions.follow\"\sclass=\"[a-z_\s-]+\"\sdata-url=\"[a-z0-9/]+\"\sdata-name=\"(.*)\"\sdata-user=\"\d+\"?\s>",
-    "title": "<meta\sproperty=\"og:title\"\scontent=\"(.*)\">",
-    "url": "<meta\sproperty=\"og:url\"\scontent=\"(.*)\">"
+    "creator": "<button\\sdata-action=\\\"actions.follow\\\"\\sclass=\\\"[a-z_\\s-]+\\\"\\sdata-url=\\\"[a-z0-9/]+\\\"\\sdata-name=\\\"(.*)\\\"\\sdata-user=\\\"\\d+\\\"?\\s>",
+    "title": "<meta\\sproperty=\\\"og:title\\\"\\scontent=\\\"(.*)\\\">",
+    "url": "<meta\\sproperty=\\\"og:url\\\"\\scontent=\\\"(.*)\\\">"
   },
   "youtube": {
-    "creator": "<div\sclass=\"yt-user-info\">?\n?\s+<a\shref=\".*\"\sclass=\".*\"\sdata-sessionlink=\".*\"?\s>(.*)</a>",
-    "title": "<meta\sname=\"title\"\scontent=\"(.*)\">",
-    "url": "<link\srel=\"shortlink\"\shref=\"(.*)\">"
+    "creator": "<div\\sclass=\\\"yt-user-info\\\">?\\n?\\s+<a\\shref=\\\".*\\\"\\sclass=\\\".*\\\"\\sdata-sessionlink=\\\".*\\\"?\\s>(.*)</a>",
+    "title": "<meta\\sname=\\\"title\\\"\\scontent=\\\"(.*)\\\">",
+    "url": "<link\\srel=\\\"canonical\\\"\\shref=\\\"(https://www.reddit.com/.*)\\\"\\/>"
   }
 }
