@@ -1,27 +1,27 @@
 {
   "overcast": {
-    "creator": "/<ashref=\"/itunesd+.*\"s?>(.*)</a>/g",
-    "title": "/<h2sclass=\"margintop0 marginbottom0\"sclass=\"title\">(.*)</h2>/g",
-    "url": "/<sourcessrc=\"(.*)\"stype=\"audio/w+\"s?/>/g"
+    "creator": "<a\shref=\"/itunes\d+.*\"\s?>(.*)</a>",
+    "title": "<h2\sclass=\"margintop0 marginbottom0\"\sclass=\"title\">(.*)</h2>",
+    "url": "<source\ssrc=\"(.*)\"\stype=\"audio\/\w+\"\s?/>"
   },
   "reddit": {
-    "creator": "/<title>.*s:s(.*)</title>/g",
-    "title": "/<title>(.*)s:s.*</title>/g",
-    "url": "/<linksrel=\"canonical\"shref=\"(.*)\"?s/>/g"
+    "creator": "<title>.*\s:\s(.*)</title>",
+    "title": "<title>(.*)\s:\s.*</title>",
+    "url": "<link\srel=\"canonical\"\shref=\"(.*)\"?\s/>"
   },
   "twitter": {
-    "creator": "/<asclass=\"PermalinkProfile-overlay js-nav\"shref=\"/(.*)\">/g",
-    "title": "/<linksrel=\"alternate\"stype=\"application/json+oembed\"shref=\".*\"stitle=\"(.*)\">/g",
-    "url": "/<linksrel=\"canonical\"shref=\"(.*)\">/g"
+    "creator": "<a\sclass=\"PermalinkProfile-overlay js-nav\"\shref=\"/(.*)\">",
+    "title": "<link\srel=\"alternate\"\stype=\"application/json+oembed\"\shref=\".*\"\stitle=\"(.*)\">",
+    "url": "<link\srel=\"canonical\"\shref=\"(.*)\">"
   },
   "vimeo": {
-    "creator": "/<buttonsdata-action=\"actions.follow\"sclass=\"[a-z_s-]+\"sdata-url=\"[a-z0-9/]+\"sdata-name=\"(.*)\"sdata-user=\"d+\"?s>/g",
-    "title": "/<metasproperty=\"og:title\"scontent=\"(.*)\">/g",
-    "url": "/<metasproperty=\"og:url\"scontent=\"(.*)\">/g"
+    "creator": "<button\sdata-action=\"actions.follow\"\sclass=\"[a-z_\s-]+\"\sdata-url=\"[a-z0-9/]+\"\sdata-name=\"(.*)\"\sdata-user=\"\d+\"?\s>",
+    "title": "<meta\sproperty=\"og:title\"\scontent=\"(.*)\">",
+    "url": "<meta\sproperty=\"og:url\"\scontent=\"(.*)\">"
   },
   "youtube": {
-    "creator": "/<div class=\"yt-user-info\">?\n?s+<ashref=\".*\"sclass=\".*\"sdata-sessionlink=\".*\"?s>(.*)</a>/g",
-    "title": "/<metasname=\"title\"scontent=\"(.*)\">/g",
-    "url": "/<linksrel=\"shortlink\"shref=\"(.*)\">/g"
+    "creator": "<div\sclass=\"yt-user-info\">?\n?\s+<a\shref=\".*\"\sclass=\".*\"\sdata-sessionlink=\".*\"?\s>(.*)</a>",
+    "title": "<meta\sname=\"title\"\scontent=\"(.*)\">",
+    "url": "<link\srel=\"shortlink\"\shref=\"(.*)\">"
   }
 }
