@@ -1,0 +1,43 @@
+{
+  "bookmarks": [
+    "Articles",
+    "Comics",
+    "Podcasts",
+    "Reddits",
+    "Tweets",
+    "Videos"
+  ],
+  "books": [
+    "Business",
+    "Finance",
+    "Fiction",
+    "Manga",
+    "Mystery & Thriller",
+    "Nonfiction",
+    "Romance"
+  ],
+  "media": [
+    "Action",
+    "Anime",
+    "Comedy",
+    "Documentary",
+    "Drama",
+    "Horror",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "podcasts": [
+    "Development",
+    "Entertainment",
+    "Gaming",
+    "Science",
+    "Journalism",
+    "Technology"
+  ],
+  "rss": [
+    "Comics",
+    "Development",
+    "Technology"
+  ]
+}
