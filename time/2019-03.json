@@ -2,439 +2,439 @@
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/01",
-    "Start": "12:00 AM",
-    "Finish": "12:30 AM",
+    "Date": "2019-03-01",
+    "Start": "00:00:00",
+    "Finish": "00:30:00",
     "Duration": "00:30:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/01",
-    "Start": "11:01 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:59:00"
+    "Date": "2019-03-01",
+    "Start": "11:01:00",
+    "Finish": "23:59:00",
+    "Duration": "00:59:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/02",
-    "Start": "12:00 AM",
-    "Finish": "1:39 AM",
+    "Date": "2019-03-02",
+    "Start": "00:00:00",
+    "Finish": "01:39:00",
     "Duration": "01:39:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/02",
-    "Start": "10:35 AM",
-    "Finish": "12:52 PM",
+    "Date": "2019-03-02",
+    "Start": "10:35:00",
+    "Finish": "12:52:00",
     "Duration": "02:17:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/02",
-    "Start": "10:06 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-02",
+    "Start": "22:06:00",
+    "Finish": "23:59:00",
     "Duration": "01:54:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/03",
-    "Start": "12:00 AM",
-    "Finish": "1:42 AM",
+    "Date": "2019-03-03",
+    "Start": "00:00:00",
+    "Finish": "01:42:00",
     "Duration": "01:42:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/03",
-    "Start": "10:12 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-03",
+    "Start": "10:12:00",
+    "Finish": "23:59:00",
     "Duration": "13:48:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/04",
-    "Start": "12:00 AM",
-    "Finish": "12:39 AM",
+    "Date": "2019-03-04",
+    "Start": "00:00:00",
+    "Finish": "00:39:00",
     "Duration": "00:39:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/04",
-    "Start": "10:14 AM",
-    "Finish": "11:05 AM",
+    "Date": "2019-03-04",
+    "Start": "10:14:00",
+    "Finish": "11:05:00",
     "Duration": "00:51:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "8:10 PM",
-    "Finish": "11:41 PM",
+    "Finish": "23:41:00",
     "Duration": "03:31:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/05",
+    "Date": "2019-03-05",
     "Start": "3:35 PM",
-    "Finish": "10:40 PM",
+    "Finish": "22:40:00",
     "Duration": "07:05:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "4:01 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "07:59:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/07",
-    "Start": "12:00 AM",
-    "Finish": "2:20 AM",
+    "Date": "2019-03-07",
+    "Start": "00:00:00",
+    "Finish": "02:20:00",
     "Duration": "02:20:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/07",
-    "Start": "11:20 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:40:00"
+    "Date": "2019-03-07",
+    "Start": "11:20:00",
+    "Finish": "23:59:00",
+    "Duration": "00:40:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/08",
-    "Start": "12:00 AM",
-    "Finish": "1:15 AM",
+    "Date": "2019-03-08",
+    "Start": "00:00:00",
+    "Finish": "01:15:00",
     "Duration": "01:15:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/08",
-    "Start": "10:21 AM",
-    "Finish": "11:05 AM",
+    "Date": "2019-03-08",
+    "Start": "10:21:00",
+    "Finish": "11:05:00",
     "Duration": "00:44:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "8:07 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:53:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/09",
-    "Start": "12:00 AM",
-    "Finish": "12:46 AM",
+    "Date": "2019-03-09",
+    "Start": "00:00:00",
+    "Finish": "00:46:00",
     "Duration": "00:46:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/09",
-    "Start": "11:05 AM",
+    "Date": "2019-03-09",
+    "Start": "11:05:00",
     "Finish": "2:01 PM",
     "Duration": "02:56:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/09",
-    "Start": "10:10 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-09",
+    "Start": "22:10:00",
+    "Finish": "23:59:00",
     "Duration": "01:50:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/10",
-    "Start": "12:00 AM",
-    "Finish": "12:21 AM",
+    "Date": "2019-03-10",
+    "Start": "00:00:00",
+    "Finish": "00:21:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/10",
+    "Date": "2019-03-10",
     "Start": "5:15 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "06:45:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/11",
-    "Start": "12:00 AM",
-    "Finish": "12:28 AM",
+    "Date": "2019-03-11",
+    "Start": "00:00:00",
+    "Finish": "00:28:00",
     "Duration": "00:28:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "8:10 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:50:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/12",
-    "Start": "12:00 AM",
-    "Finish": "12:16 AM",
+    "Date": "2019-03-12",
+    "Start": "00:00:00",
+    "Finish": "00:16:00",
     "Duration": "00:16:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/12",
+    "Date": "2019-03-12",
     "Start": "3:35 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "08:25:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/13",
-    "Start": "12:00 AM",
-    "Finish": "1:22 AM",
+    "Date": "2019-03-13",
+    "Start": "00:00:00",
+    "Finish": "01:22:00",
     "Duration": "01:22:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/13",
-    "Start": "12:00 PM",
+    "Date": "2019-03-13",
+    "Start": "12:00:00",
     "Finish": "2:30 PM",
     "Duration": "02:30:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/13",
-    "Start": "10:01 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-13",
+    "Start": "22:01:00",
+    "Finish": "23:59:00",
     "Duration": "01:59:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/14",
-    "Start": "12:00 AM",
+    "Date": "2019-03-14",
+    "Start": "00:00:00",
     "Finish": "1:30 PM",
     "Duration": "13:30:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/14",
-    "Start": "11:18 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:42:00"
+    "Date": "2019-03-14",
+    "Start": "11:18:00",
+    "Finish": "23:59:00",
+    "Duration": "00:42:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/15",
-    "Start": "12:00 AM",
-    "Finish": "1:05 AM",
+    "Date": "2019-03-15",
+    "Start": "00:00:00",
+    "Finish": "01:05:00",
     "Duration": "01:05:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/15",
-    "Start": "11:20 AM",
+    "Date": "2019-03-15",
+    "Start": "11:20:00",
     "Finish": "1:34 PM",
     "Duration": "02:14:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "9:59 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "02:01:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/16",
-    "Start": "12:00 AM",
-    "Finish": "1:20 AM",
+    "Date": "2019-03-16",
+    "Start": "00:00:00",
+    "Finish": "01:20:00",
     "Duration": "01:20:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/16",
-    "Start": "7:56 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-16",
+    "Start": "07:56:00",
+    "Finish": "23:59:00",
     "Duration": "16:04:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/17",
-    "Start": "12:00 AM",
-    "Finish": "1:59 AM",
+    "Date": "2019-03-17",
+    "Start": "00:00:00",
+    "Finish": "01:59:00",
     "Duration": "01:59:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/17",
-    "Start": "10:20 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-17",
+    "Start": "10:20:00",
+    "Finish": "23:59:00",
     "Duration": "13:40:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/18",
-    "Start": "12:00 AM",
-    "Finish": "12:25 AM",
+    "Date": "2019-03-18",
+    "Start": "00:00:00",
+    "Finish": "00:25:00",
     "Duration": "00:25:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/18",
-    "Start": "11:29 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:31:00"
+    "Date": "2019-03-18",
+    "Start": "11:29:00",
+    "Finish": "23:59:00",
+    "Duration": "00:31:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/19",
-    "Start": "12:00 AM",
-    "Finish": "1:37 AM",
+    "Date": "2019-03-19",
+    "Start": "00:00:00",
+    "Finish": "01:37:00",
     "Duration": "01:37:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/19",
-    "Start": "11:26 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:34:00"
+    "Date": "2019-03-19",
+    "Start": "11:26:00",
+    "Finish": "23:59:00",
+    "Duration": "00:34:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/20",
-    "Start": "12:00 AM",
-    "Finish": "12:43 AM",
+    "Date": "2019-03-20",
+    "Start": "00:00:00",
+    "Finish": "00:43:00",
     "Duration": "00:43:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/20",
-    "Start": "11:00 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-20",
+    "Start": "11:00:00",
+    "Finish": "23:59:00",
     "Duration": "13:00:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/21",
-    "Start": "12:00 AM",
-    "Finish": "2:37 AM",
+    "Date": "2019-03-21",
+    "Start": "00:00:00",
+    "Finish": "02:37:00",
     "Duration": "02:37:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/21",
-    "Start": "10:31 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-21",
+    "Start": "10:31:00",
+    "Finish": "23:59:00",
     "Duration": "13:29:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/22",
-    "Start": "12:00 AM",
-    "Finish": "12:09 AM",
+    "Date": "2019-03-22",
+    "Start": "00:00:00",
+    "Finish": "00:09:00",
     "Duration": "00:09:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/22",
-    "Start": "6:53 AM",
-    "Finish": "8:05 AM",
+    "Date": "2019-03-22",
+    "Start": "06:53:00",
+    "Finish": "08:05:00",
     "Duration": "01:12:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/22",
-    "Start": "11:36 AM",
-    "Finish": "11:30 PM",
+    "Date": "2019-03-22",
+    "Start": "11:36:00",
+    "Finish": "23:30:00",
     "Duration": "11:54:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/23",
-    "Start": "10:07 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-23",
+    "Start": "10:07:00",
+    "Finish": "23:59:00",
     "Duration": "13:53:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/24",
-    "Start": "12:00 AM",
-    "Finish": "1:31 AM",
+    "Date": "2019-03-24",
+    "Start": "00:00:00",
+    "Finish": "01:31:00",
     "Duration": "01:31:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/24",
-    "Start": "12:09 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-24",
+    "Start": "12:09:00",
+    "Finish": "23:59:00",
     "Duration": "11:51:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/25",
-    "Start": "12:00 AM",
-    "Finish": "12:09 AM",
+    "Date": "2019-03-25",
+    "Start": "00:00:00",
+    "Finish": "00:09:00",
     "Duration": "00:09:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/25",
-    "Start": "9:20 AM",
-    "Finish": "11:30 AM",
+    "Date": "2019-03-25",
+    "Start": "09:20:00",
+    "Finish": "11:30:00",
     "Duration": "02:10:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "3:51 PM",
     "Finish": "4:21 PM",
     "Duration": "00:30:00"
@@ -442,111 +442,111 @@
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "8:05 PM",
-    "Finish": "11:27 PM",
+    "Finish": "23:27:00",
     "Duration": "03:22:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/26",
+    "Date": "2019-03-26",
     "Start": "3:39 PM",
-    "Finish": "11:25 PM",
+    "Finish": "23:25:00",
     "Duration": "07:46:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/27",
-    "Start": "11:22 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:38:00"
+    "Date": "2019-03-27",
+    "Start": "11:22:00",
+    "Finish": "23:59:00",
+    "Duration": "00:38:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/28",
-    "Start": "12:00 AM",
-    "Finish": "12:08 AM",
+    "Date": "2019-03-28",
+    "Start": "00:00:00",
+    "Finish": "00:08:00",
     "Duration": "00:08:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/28",
-    "Start": "8:52 AM",
-    "Finish": "12:06 PM",
+    "Date": "2019-03-28",
+    "Start": "08:52:00",
+    "Finish": "12:06:00",
     "Duration": "03:14:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/28",
+    "Date": "2019-03-28",
     "Start": "8:09 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:51:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/29",
-    "Start": "12:00 AM",
-    "Finish": "1:22 AM",
+    "Date": "2019-03-29",
+    "Start": "00:00:00",
+    "Finish": "01:22:00",
     "Duration": "01:22:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/29",
-    "Start": "10:45 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-29",
+    "Start": "10:45:00",
+    "Finish": "23:59:00",
     "Duration": "13:14:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/30",
-    "Start": "11:12 AM",
+    "Date": "2019-03-30",
+    "Start": "11:12:00",
     "Finish": "1:58 PM",
     "Duration": "02:46:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/30",
-    "Start": "10:04 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-30",
+    "Start": "22:04:00",
+    "Finish": "23:59:00",
     "Duration": "01:56:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/31",
-    "Start": "12:00 AM",
-    "Finish": "1:02 AM",
+    "Date": "2019-03-31",
+    "Start": "00:00:00",
+    "Finish": "01:02:00",
     "Duration": "01:02:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/31",
-    "Start": "9:01 AM",
-    "Finish": "10:10 AM",
+    "Date": "2019-03-31",
+    "Start": "09:01:00",
+    "Finish": "10:10:00",
     "Duration": "01:09:00"
   },
   {
     "Group": "Life",
     "Task": "Family",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "7:03 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "04:57:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "4:01 PM",
     "Finish": "6:03 PM",
     "Duration": "02:02:00"
@@ -554,15 +554,15 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/08",
-    "Start": "11:17 AM",
+    "Date": "2019-03-08",
+    "Start": "11:17:00",
     "Finish": "2:30 PM",
     "Duration": "03:13:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "3:05 PM",
     "Finish": "5:29 PM",
     "Duration": "02:24:00"
@@ -570,15 +570,15 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/09",
-    "Start": "12:46 AM",
-    "Finish": "1:44 AM",
+    "Date": "2019-03-09",
+    "Start": "00:46:00",
+    "Finish": "01:44:00",
     "Duration": "00:58:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "6:47 PM",
     "Finish": "7:48 PM",
     "Duration": "01:01:00"
@@ -586,15 +586,15 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/12",
-    "Start": "12:16 AM",
-    "Finish": "12:28 AM",
+    "Date": "2019-03-12",
+    "Start": "00:16:00",
+    "Finish": "00:28:00",
     "Duration": "00:12:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "3:11 PM",
     "Finish": "5:57 PM",
     "Duration": "02:46:00"
@@ -602,31 +602,31 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "9:54 PM",
-    "Finish": "10:53 PM",
+    "Finish": "22:53:00",
     "Duration": "00:59:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/16",
+    "Date": "2019-03-16",
     "Start": "8:08 PM",
-    "Finish": "11:37 PM",
+    "Finish": "23:37:00",
     "Duration": "03:29:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/18",
-    "Start": "1:30 AM",
-    "Finish": "3:19 AM",
+    "Date": "2019-03-18",
+    "Start": "01:30:00",
+    "Finish": "03:19:00",
     "Duration": "01:49:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/21",
+    "Date": "2019-03-21",
     "Start": "6:46 PM",
     "Finish": "7:52 PM",
     "Duration": "01:06:00"
@@ -634,23 +634,23 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/22",
-    "Start": "12:09 AM",
-    "Finish": "2:39 AM",
+    "Date": "2019-03-22",
+    "Start": "00:09:00",
+    "Finish": "02:39:00",
     "Duration": "02:30:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/22",
-    "Start": "2:49 AM",
-    "Finish": "3:20 AM",
+    "Date": "2019-03-22",
+    "Start": "02:49:00",
+    "Finish": "03:20:00",
     "Duration": "00:31:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/27",
+    "Date": "2019-03-27",
     "Start": "2:05 PM",
     "Finish": "4:06 PM",
     "Duration": "02:01:00"
@@ -658,15 +658,15 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/31",
-    "Start": "12:32 AM",
-    "Finish": "3:14 AM",
+    "Date": "2019-03-31",
+    "Start": "00:32:00",
+    "Finish": "03:14:00",
     "Duration": "02:42:00"
   },
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "2:26 PM",
     "Finish": "3:29 PM",
     "Duration": "01:03:00"
@@ -674,7 +674,7 @@
   {
     "Group": "Projects",
     "Task": "Automation",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "6:18 PM",
     "Finish": "6:35 PM",
     "Duration": "00:17:00"
@@ -682,263 +682,263 @@
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/01",
-    "Start": "2:09 AM",
-    "Finish": "11:01 AM",
+    "Date": "2019-03-01",
+    "Start": "02:09:00",
+    "Finish": "11:01:00",
     "Duration": "08:52:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/02",
-    "Start": "2:00 AM",
-    "Finish": "10:35 AM",
+    "Date": "2019-03-02",
+    "Start": "02:00:00",
+    "Finish": "10:35:00",
     "Duration": "08:35:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/03",
-    "Start": "2:10 AM",
-    "Finish": "10:12 AM",
+    "Date": "2019-03-03",
+    "Start": "02:10:00",
+    "Finish": "10:12:00",
     "Duration": "08:02:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/04",
-    "Start": "1:48 AM",
-    "Finish": "10:02 AM",
+    "Date": "2019-03-04",
+    "Start": "01:48:00",
+    "Finish": "10:02:00",
     "Duration": "08:14:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/05",
-    "Start": "2:30 AM",
-    "Finish": "10:17 AM",
+    "Date": "2019-03-05",
+    "Start": "02:30:00",
+    "Finish": "10:17:00",
     "Duration": "07:47:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/06",
-    "Start": "3:09 AM",
-    "Finish": "4:34 AM",
+    "Date": "2019-03-06",
+    "Start": "03:09:00",
+    "Finish": "04:34:00",
     "Duration": "01:25:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/06",
-    "Start": "5:14 AM",
-    "Finish": "10:03 AM",
+    "Date": "2019-03-06",
+    "Start": "05:14:00",
+    "Finish": "10:03:00",
     "Duration": "04:49:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/07",
-    "Start": "2:20 AM",
-    "Finish": "11:20 AM",
+    "Date": "2019-03-07",
+    "Start": "02:20:00",
+    "Finish": "11:20:00",
     "Duration": "09:00:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/08",
-    "Start": "2:20 AM",
-    "Finish": "10:03 AM",
+    "Date": "2019-03-08",
+    "Start": "02:20:00",
+    "Finish": "10:03:00",
     "Duration": "07:43:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/09",
-    "Start": "2:35 AM",
-    "Finish": "11:05 AM",
+    "Date": "2019-03-09",
+    "Start": "02:35:00",
+    "Finish": "11:05:00",
     "Duration": "08:30:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/10",
-    "Start": "3:18 AM",
-    "Finish": "10:52 AM",
+    "Date": "2019-03-10",
+    "Start": "03:18:00",
+    "Finish": "10:52:00",
     "Duration": "07:34:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/11",
-    "Start": "2:02 AM",
-    "Finish": "10:28 AM",
+    "Date": "2019-03-11",
+    "Start": "02:02:00",
+    "Finish": "10:28:00",
     "Duration": "08:26:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/12",
-    "Start": "2:45 AM",
-    "Finish": "11:45 AM",
+    "Date": "2019-03-12",
+    "Start": "02:45:00",
+    "Finish": "11:45:00",
     "Duration": "09:00:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/13",
-    "Start": "3:30 AM",
-    "Finish": "12:00 PM",
+    "Date": "2019-03-13",
+    "Start": "03:30:00",
+    "Finish": "12:00:00",
     "Duration": "08:30:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/14",
-    "Start": "3:18 AM",
-    "Finish": "11:17 AM",
+    "Date": "2019-03-14",
+    "Start": "03:18:00",
+    "Finish": "11:17:00",
     "Duration": "07:59:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/15",
-    "Start": "2:59 AM",
-    "Finish": "11:19 AM",
+    "Date": "2019-03-15",
+    "Start": "02:59:00",
+    "Finish": "11:19:00",
     "Duration": "08:20:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/16",
-    "Start": "1:20 AM",
-    "Finish": "7:56 AM",
+    "Date": "2019-03-16",
+    "Start": "01:20:00",
+    "Finish": "07:56:00",
     "Duration": "06:36:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/17",
-    "Start": "4:05 AM",
-    "Finish": "10:20 AM",
+    "Date": "2019-03-17",
+    "Start": "04:05:00",
+    "Finish": "10:20:00",
     "Duration": "06:15:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/18",
-    "Start": "3:19 AM",
-    "Finish": "11:29 AM",
+    "Date": "2019-03-18",
+    "Start": "03:19:00",
+    "Finish": "11:29:00",
     "Duration": "08:10:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/19",
-    "Start": "2:49 AM",
-    "Finish": "11:26 AM",
+    "Date": "2019-03-19",
+    "Start": "02:49:00",
+    "Finish": "11:26:00",
     "Duration": "08:37:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/20",
-    "Start": "2:18 AM",
-    "Finish": "10:13 AM",
+    "Date": "2019-03-20",
+    "Start": "02:18:00",
+    "Finish": "10:13:00",
     "Duration": "07:55:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/21",
-    "Start": "3:42 AM",
-    "Finish": "9:00 AM",
+    "Date": "2019-03-21",
+    "Start": "03:42:00",
+    "Finish": "09:00:00",
     "Duration": "05:18:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/22",
-    "Start": "11:30 AM",
-    "Finish": "11:59 PM",
-    "Duration": "12:30:00"
+    "Date": "2019-03-22",
+    "Start": "11:30:00",
+    "Finish": "23:59:00",
+    "Duration": "00:30:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/23",
-    "Start": "12:00 AM",
-    "Finish": "10:07 AM",
+    "Date": "2019-03-23",
+    "Start": "00:00:00",
+    "Finish": "10:07:00",
     "Duration": "10:07:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/24",
-    "Start": "3:07 AM",
-    "Finish": "12:09 PM",
+    "Date": "2019-03-24",
+    "Start": "03:07:00",
+    "Finish": "12:09:00",
     "Duration": "09:02:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/25",
-    "Start": "2:13 AM",
-    "Finish": "9:20 AM",
+    "Date": "2019-03-25",
+    "Start": "02:13:00",
+    "Finish": "09:20:00",
     "Duration": "07:07:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/26",
-    "Start": "12:58 AM",
-    "Finish": "10:34 AM",
+    "Date": "2019-03-26",
+    "Start": "00:58:00",
+    "Finish": "10:34:00",
     "Duration": "09:36:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/27",
-    "Start": "2:01 AM",
-    "Finish": "11:22 AM",
+    "Date": "2019-03-27",
+    "Start": "02:01:00",
+    "Finish": "11:22:00",
     "Duration": "09:21:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/28",
-    "Start": "2:20 AM",
-    "Finish": "8:52 AM",
+    "Date": "2019-03-28",
+    "Start": "02:20:00",
+    "Finish": "08:52:00",
     "Duration": "06:32:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/29",
-    "Start": "2:03 AM",
-    "Finish": "10:45 AM",
+    "Date": "2019-03-29",
+    "Start": "02:03:00",
+    "Finish": "10:45:00",
     "Duration": "08:42:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/30",
-    "Start": "2:40 AM",
-    "Finish": "11:12 AM",
+    "Date": "2019-03-30",
+    "Start": "02:40:00",
+    "Finish": "11:12:00",
     "Duration": "08:32:00"
   },
   {
     "Group": "Life",
     "Task": "Sleeping",
-    "Date": "2019/03/31",
-    "Start": "3:14 AM",
-    "Finish": "9:01 AM",
+    "Date": "2019-03-31",
+    "Start": "03:14:00",
+    "Finish": "09:01:00",
     "Duration": "05:47:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/02",
+    "Date": "2019-03-02",
     "Start": "4:31 PM",
     "Finish": "9:40 PM",
     "Duration": "05:09:00"
@@ -946,7 +946,7 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "1:36 PM",
     "Finish": "6:12 PM",
     "Duration": "04:36:00"
@@ -954,47 +954,47 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/05",
-    "Start": "11:15 AM",
+    "Date": "2019-03-05",
+    "Start": "11:15:00",
     "Finish": "2:50 PM",
     "Duration": "03:35:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/05",
-    "Start": "10:27 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-05",
+    "Start": "22:27:00",
+    "Finish": "23:59:00",
     "Duration": "01:33:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/06",
-    "Start": "12:00 AM",
-    "Finish": "12:16 AM",
+    "Date": "2019-03-06",
+    "Start": "00:00:00",
+    "Finish": "00:16:00",
     "Duration": "00:16:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/10",
-    "Start": "12:21 AM",
-    "Finish": "1:56 AM",
+    "Date": "2019-03-10",
+    "Start": "00:21:00",
+    "Finish": "01:56:00",
     "Duration": "01:35:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/10",
-    "Start": "11:21 AM",
+    "Date": "2019-03-10",
+    "Start": "11:21:00",
     "Finish": "2:44 PM",
     "Duration": "03:23:00"
   },
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/10",
+    "Date": "2019-03-10",
     "Start": "3:48 PM",
     "Finish": "6:06 PM",
     "Duration": "02:18:00"
@@ -1002,7 +1002,7 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "4:46 PM",
     "Finish": "7:25 PM",
     "Duration": "02:39:00"
@@ -1010,7 +1010,7 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "7:47 PM",
     "Finish": "9:41 PM",
     "Duration": "01:54:00"
@@ -1018,7 +1018,7 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/21",
+    "Date": "2019-03-21",
     "Start": "3:46 PM",
     "Finish": "6:46 PM",
     "Duration": "03:00:00"
@@ -1026,15 +1026,15 @@
   {
     "Group": "Projects",
     "Task": "Blog",
-    "Date": "2019/03/30",
+    "Date": "2019-03-30",
     "Start": "8:38 PM",
-    "Finish": "10:57 PM",
+    "Finish": "22:57:00",
     "Duration": "02:19:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "6:03 PM",
     "Finish": "9:48 PM",
     "Duration": "03:45:00"
@@ -1042,7 +1042,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/07",
+    "Date": "2019-03-07",
     "Start": "6:15 PM",
     "Finish": "8:55 PM",
     "Duration": "02:40:00"
@@ -1050,7 +1050,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/09",
+    "Date": "2019-03-09",
     "Start": "4:00 PM",
     "Finish": "5:20 PM",
     "Duration": "01:20:00"
@@ -1058,7 +1058,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "6:05 PM",
     "Finish": "6:30 PM",
     "Duration": "00:25:00"
@@ -1066,7 +1066,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/21",
+    "Date": "2019-03-21",
     "Start": "2:57 PM",
     "Finish": "3:46 PM",
     "Duration": "00:49:00"
@@ -1074,23 +1074,23 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/02",
-    "Start": "11:16 AM",
-    "Finish": "12:20 PM",
+    "Date": "2019-03-02",
+    "Start": "11:16:00",
+    "Finish": "12:20:00",
     "Duration": "01:04:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/02",
+    "Date": "2019-03-02",
     "Start": "9:40 PM",
-    "Finish": "11:51 PM",
+    "Finish": "23:51:00",
     "Duration": "02:11:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "6:12 PM",
     "Finish": "9:00 PM",
     "Duration": "02:48:00"
@@ -1098,15 +1098,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/06",
-    "Start": "10:19 AM",
-    "Finish": "11:18 AM",
+    "Date": "2019-03-06",
+    "Start": "10:19:00",
+    "Finish": "11:18:00",
     "Duration": "00:59:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "1:09 PM",
     "Finish": "2:00 PM",
     "Duration": "00:51:00"
@@ -1114,7 +1114,7 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "5:50 PM",
     "Finish": "6:33 PM",
     "Duration": "00:43:00"
@@ -1122,15 +1122,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/09",
+    "Date": "2019-03-09",
     "Start": "9:48 PM",
-    "Finish": "10:53 PM",
+    "Finish": "22:53:00",
     "Duration": "01:05:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/10",
+    "Date": "2019-03-10",
     "Start": "2:44 PM",
     "Finish": "3:48 PM",
     "Duration": "01:04:00"
@@ -1138,7 +1138,7 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/10",
+    "Date": "2019-03-10",
     "Start": "7:00 PM",
     "Finish": "7:57 PM",
     "Duration": "00:57:00"
@@ -1146,15 +1146,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/11",
-    "Start": "12:36 PM",
+    "Date": "2019-03-11",
+    "Start": "12:36:00",
     "Finish": "1:46 PM",
     "Duration": "01:10:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "7:49 PM",
     "Finish": "9:02 PM",
     "Duration": "01:13:00"
@@ -1162,15 +1162,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/12",
-    "Start": "12:26 PM",
-    "Finish": "12:41 PM",
+    "Date": "2019-03-12",
+    "Start": "12:26:00",
+    "Finish": "12:41:00",
     "Duration": "00:15:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "9:26 PM",
     "Finish": "9:51 PM",
     "Duration": "00:25:00"
@@ -1178,15 +1178,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/15",
-    "Start": "12:18 PM",
-    "Finish": "12:43 PM",
+    "Date": "2019-03-15",
+    "Start": "12:18:00",
+    "Finish": "12:43:00",
     "Duration": "00:25:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "9:41 PM",
     "Finish": "9:54 PM",
     "Duration": "00:13:00"
@@ -1194,15 +1194,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/16",
+    "Date": "2019-03-16",
     "Start": "8:08 PM",
-    "Finish": "10:49 PM",
+    "Finish": "22:49:00",
     "Duration": "02:41:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/20",
+    "Date": "2019-03-20",
     "Start": "6:03 PM",
     "Finish": "6:47 PM",
     "Duration": "00:44:00"
@@ -1210,7 +1210,7 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/21",
+    "Date": "2019-03-21",
     "Start": "7:52 PM",
     "Finish": "8:33 PM",
     "Duration": "00:41:00"
@@ -1218,15 +1218,15 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/22",
-    "Start": "10:48 AM",
-    "Finish": "11:36 AM",
+    "Date": "2019-03-22",
+    "Start": "10:48:00",
+    "Finish": "11:36:00",
     "Duration": "00:48:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/24",
+    "Date": "2019-03-24",
     "Start": "2:54 PM",
     "Finish": "3:42 PM",
     "Duration": "00:48:00"
@@ -1234,7 +1234,7 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/26",
+    "Date": "2019-03-26",
     "Start": "2:33 PM",
     "Finish": "3:05 PM",
     "Duration": "00:32:00"
@@ -1242,23 +1242,23 @@
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/29",
-    "Start": "11:04 AM",
-    "Finish": "12:06 PM",
+    "Date": "2019-03-29",
+    "Start": "11:04:00",
+    "Finish": "12:06:00",
     "Duration": "01:02:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/30",
-    "Start": "11:35 AM",
-    "Finish": "12:13 PM",
+    "Date": "2019-03-30",
+    "Start": "11:35:00",
+    "Finish": "12:13:00",
     "Duration": "00:38:00"
   },
   {
     "Group": "Life",
     "Task": "Chores",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "3:29 PM",
     "Finish": "5:31 PM",
     "Duration": "02:02:00"
@@ -1266,7 +1266,7 @@
   {
     "Group": "Media",
     "Task": "Social",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "2:41 PM",
     "Finish": "4:46 PM",
     "Duration": "02:05:00"
@@ -1274,7 +1274,7 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "1:03 PM",
     "Finish": "4:18 PM",
     "Duration": "03:15:00"
@@ -1282,15 +1282,15 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/05",
-    "Start": "10:33 AM",
-    "Finish": "11:15 AM",
+    "Date": "2019-03-05",
+    "Start": "10:33:00",
+    "Finish": "11:15:00",
     "Duration": "00:42:00"
   },
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "6:03 PM",
     "Finish": "9:47 PM",
     "Duration": "03:44:00"
@@ -1298,7 +1298,7 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "4:12 PM",
     "Finish": "6:33 PM",
     "Duration": "02:21:00"
@@ -1306,15 +1306,15 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/11",
-    "Start": "1:54 AM",
-    "Finish": "2:02 AM",
+    "Date": "2019-03-11",
+    "Start": "01:54:00",
+    "Finish": "02:02:00",
     "Duration": "00:08:00"
   },
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "2:41 PM",
     "Finish": "4:09 PM",
     "Duration": "01:28:00"
@@ -1322,7 +1322,7 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "4:46 PM",
     "Finish": "7:49 PM",
     "Duration": "03:03:00"
@@ -1330,7 +1330,7 @@
   {
     "Group": "Media",
     "Task": "Music",
-    "Date": "2019/03/30",
+    "Date": "2019-03-30",
     "Start": "8:55 PM",
     "Finish": "9:22 PM",
     "Duration": "00:27:00"
@@ -1338,31 +1338,31 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/02",
-    "Start": "1:40 AM",
-    "Finish": "2:00 AM",
+    "Date": "2019-03-02",
+    "Start": "01:40:00",
+    "Finish": "02:00:00",
     "Duration": "00:20:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/02",
+    "Date": "2019-03-02",
     "Start": "9:40 PM",
-    "Finish": "10:06 PM",
+    "Finish": "22:06:00",
     "Duration": "00:26:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/03",
-    "Start": "1:43 AM",
-    "Finish": "2:10 AM",
+    "Date": "2019-03-03",
+    "Start": "01:43:00",
+    "Finish": "02:10:00",
     "Duration": "00:27:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "6:12 PM",
     "Finish": "8:10 PM",
     "Duration": "01:58:00"
@@ -1370,23 +1370,23 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/05",
-    "Start": "12:22 AM",
-    "Finish": "2:17 AM",
+    "Date": "2019-03-05",
+    "Start": "00:22:00",
+    "Finish": "02:17:00",
     "Duration": "01:55:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/05",
-    "Start": "11:15 AM",
+    "Date": "2019-03-05",
+    "Start": "11:15:00",
     "Finish": "2:50 PM",
     "Duration": "03:35:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/05",
+    "Date": "2019-03-05",
     "Start": "2:50 PM",
     "Finish": "3:32 PM",
     "Duration": "00:42:00"
@@ -1394,23 +1394,23 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/06",
-    "Start": "12:37 AM",
-    "Finish": "2:25 AM",
+    "Date": "2019-03-06",
+    "Start": "00:37:00",
+    "Finish": "02:25:00",
     "Duration": "01:48:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/06",
-    "Start": "10:19 AM",
+    "Date": "2019-03-06",
+    "Start": "10:19:00",
     "Finish": "2:00 PM",
     "Duration": "03:41:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "3:35 PM",
     "Finish": "4:01 PM",
     "Duration": "00:26:00"
@@ -1418,15 +1418,15 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/08",
-    "Start": "1:15 AM",
-    "Finish": "2:20 AM",
+    "Date": "2019-03-08",
+    "Start": "01:15:00",
+    "Finish": "02:20:00",
     "Duration": "01:05:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "2:15 PM",
     "Finish": "2:30 PM",
     "Duration": "00:15:00"
@@ -1434,7 +1434,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "3:05 PM",
     "Finish": "4:12 PM",
     "Duration": "01:07:00"
@@ -1442,7 +1442,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "6:35 PM",
     "Finish": "8:07 PM",
     "Duration": "01:32:00"
@@ -1450,63 +1450,63 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/09",
-    "Start": "1:49 AM",
-    "Finish": "2:36 AM",
+    "Date": "2019-03-09",
+    "Start": "01:49:00",
+    "Finish": "02:36:00",
     "Duration": "00:47:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/09",
+    "Date": "2019-03-09",
     "Start": "7:31 PM",
-    "Finish": "10:10 PM",
+    "Finish": "22:10:00",
     "Duration": "02:39:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/10",
-    "Start": "12:48 AM",
-    "Finish": "3:15 AM",
+    "Date": "2019-03-10",
+    "Start": "00:48:00",
+    "Finish": "03:15:00",
     "Duration": "01:27:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/10",
-    "Start": "11:21 AM",
+    "Date": "2019-03-10",
+    "Start": "11:21:00",
     "Finish": "5:15 PM",
     "Duration": "05:54:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/11",
-    "Start": "11:43 AM",
+    "Date": "2019-03-11",
+    "Start": "11:43:00",
     "Finish": "8:10 PM",
     "Duration": "08:27:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/12",
-    "Start": "12:28 AM",
-    "Finish": "2:00 AM",
+    "Date": "2019-03-12",
+    "Start": "00:28:00",
+    "Finish": "02:00:00",
     "Duration": "01:32:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/12",
-    "Start": "12:26 PM",
+    "Date": "2019-03-12",
+    "Start": "12:26:00",
     "Finish": "3:30 PM",
     "Duration": "03:04:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "2:30 PM",
     "Finish": "2:41 PM",
     "Duration": "00:11:00"
@@ -1514,31 +1514,31 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "9:26 PM",
-    "Finish": "10:01 PM",
+    "Finish": "22:01:00",
     "Duration": "00:35:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/14",
-    "Start": "1:54 AM",
-    "Finish": "2:48 AM",
+    "Date": "2019-03-14",
+    "Start": "01:54:00",
+    "Finish": "02:48:00",
     "Duration": "00:54:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/15",
-    "Start": "2:41 AM",
-    "Finish": "2:59 AM",
+    "Date": "2019-03-15",
+    "Start": "02:41:00",
+    "Finish": "02:59:00",
     "Duration": "00:18:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "1:34 PM",
     "Finish": "3:11 PM",
     "Duration": "01:37:00"
@@ -1546,7 +1546,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "7:47 PM",
     "Finish": "9:59 PM",
     "Duration": "02:12:00"
@@ -1554,39 +1554,39 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/16",
-    "Start": "10:49 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-16",
+    "Start": "22:49:00",
+    "Finish": "23:59:00",
     "Duration": "01:11:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/17",
-    "Start": "12:00 AM",
-    "Finish": "12:49 AM",
+    "Date": "2019-03-17",
+    "Start": "00:00:00",
+    "Finish": "00:49:00",
     "Duration": "00:49:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/17",
-    "Start": "3:03 AM",
-    "Finish": "4:00 AM",
+    "Date": "2019-03-17",
+    "Start": "03:03:00",
+    "Finish": "04:00:00",
     "Duration": "00:57:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/18",
-    "Start": "12:25 AM",
-    "Finish": "1:30 AM",
+    "Date": "2019-03-18",
+    "Start": "00:25:00",
+    "Finish": "01:30:00",
     "Duration": "01:05:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/20",
+    "Date": "2019-03-20",
     "Start": "6:03 PM",
     "Finish": "6:48 PM",
     "Duration": "00:45:00"
@@ -1594,23 +1594,23 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/21",
-    "Start": "2:37 AM",
-    "Finish": "3:42 AM",
+    "Date": "2019-03-21",
+    "Start": "02:37:00",
+    "Finish": "03:42:00",
     "Duration": "01:05:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/21",
-    "Start": "9:00 AM",
-    "Finish": "10:31 AM",
+    "Date": "2019-03-21",
+    "Start": "09:00:00",
+    "Finish": "10:31:00",
     "Duration": "01:31:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/21",
+    "Date": "2019-03-21",
     "Start": "6:46 PM",
     "Finish": "7:52 PM",
     "Duration": "01:06:00"
@@ -1618,23 +1618,23 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/22",
-    "Start": "2:49 AM",
-    "Finish": "3:20 AM",
+    "Date": "2019-03-22",
+    "Start": "02:49:00",
+    "Finish": "03:20:00",
     "Duration": "00:31:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/25",
-    "Start": "11:30 AM",
-    "Finish": "12:59 PM",
+    "Date": "2019-03-25",
+    "Start": "11:30:00",
+    "Finish": "12:59:00",
     "Duration": "01:29:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "2:51 PM",
     "Finish": "3:51 PM",
     "Duration": "01:00:00"
@@ -1642,7 +1642,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "4:21 PM",
     "Finish": "5:13 PM",
     "Duration": "00:52:00"
@@ -1650,7 +1650,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "5:15 PM",
     "Finish": "5:47 PM",
     "Duration": "00:32:00"
@@ -1658,7 +1658,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/26",
+    "Date": "2019-03-26",
     "Start": "3:05 PM",
     "Finish": "3:40 PM",
     "Duration": "00:35:00"
@@ -1666,7 +1666,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/27",
+    "Date": "2019-03-27",
     "Start": "2:05 PM",
     "Finish": "4:06 PM",
     "Duration": "02:01:00"
@@ -1674,7 +1674,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/28",
+    "Date": "2019-03-28",
     "Start": "5:13 PM",
     "Finish": "6:04 PM",
     "Duration": "00:51:00"
@@ -1682,7 +1682,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/28",
+    "Date": "2019-03-28",
     "Start": "7:33 PM",
     "Finish": "8:09 PM",
     "Duration": "00:36:00"
@@ -1690,15 +1690,15 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/30",
-    "Start": "11:40 AM",
-    "Finish": "12:05 PM",
+    "Date": "2019-03-30",
+    "Start": "11:40:00",
+    "Finish": "12:05:00",
     "Duration": "00:25:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/30",
+    "Date": "2019-03-30",
     "Start": "6:36 PM",
     "Finish": "8:55 PM",
     "Duration": "02:19:00"
@@ -1706,23 +1706,23 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/30",
+    "Date": "2019-03-30",
     "Start": "9:22 PM",
-    "Finish": "10:04 PM",
+    "Finish": "22:04:00",
     "Duration": "00:42:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/31",
-    "Start": "1:36 AM",
-    "Finish": "3:14 AM",
+    "Date": "2019-03-31",
+    "Start": "01:36:00",
+    "Finish": "03:14:00",
     "Duration": "01:38:00"
   },
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "2:26 PM",
     "Finish": "4:53 PM",
     "Duration": "02:27:00"
@@ -1730,7 +1730,7 @@
   {
     "Group": "Media",
     "Task": "Podcasts",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "5:31 PM",
     "Finish": "7:03 PM",
     "Duration": "01:32:00"
@@ -1738,23 +1738,23 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/06",
-    "Start": "11:18 AM",
+    "Date": "2019-03-06",
+    "Start": "11:18:00",
     "Finish": "1:09 PM",
     "Duration": "01:51:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/11",
-    "Start": "11:30 AM",
-    "Finish": "12:14 PM",
+    "Date": "2019-03-11",
+    "Start": "11:30:00",
+    "Finish": "12:14:00",
     "Duration": "00:44:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "5:55 PM",
     "Finish": "6:05 PM",
     "Duration": "00:10:00"
@@ -1762,7 +1762,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/12",
+    "Date": "2019-03-12",
     "Start": "5:58 PM",
     "Finish": "6:01 PM",
     "Duration": "00:03:00"
@@ -1770,7 +1770,7 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "5:29 PM",
     "Finish": "5:50 PM",
     "Duration": "00:21:00"
@@ -1778,15 +1778,15 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/11",
-    "Start": "12:14 PM",
-    "Finish": "12:36 PM",
+    "Date": "2019-03-11",
+    "Start": "12:14:00",
+    "Finish": "12:36:00",
     "Duration": "00:22:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/11",
+    "Date": "2019-03-11",
     "Start": "1:46 PM",
     "Finish": "6:00 PM",
     "Duration": "04:14:00"
@@ -1794,39 +1794,39 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/12",
-    "Start": "12:41 PM",
+    "Date": "2019-03-12",
+    "Start": "12:41:00",
     "Finish": "5:12 PM",
     "Duration": "04:31:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/13",
-    "Start": "1:23 AM",
-    "Finish": "3:30 AM",
+    "Date": "2019-03-13",
+    "Start": "01:23:00",
+    "Finish": "03:30:00",
     "Duration": "02:07:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "9:51 PM",
-    "Finish": "10:40 PM",
+    "Finish": "22:40:00",
     "Duration": "00:49:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/15",
-    "Start": "12:44 AM",
-    "Finish": "2:05 AM",
+    "Date": "2019-03-15",
+    "Start": "00:44:00",
+    "Finish": "02:05:00",
     "Duration": "01:21:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "2:41 PM",
     "Finish": "3:11 PM",
     "Duration": "00:30:00"
@@ -1834,23 +1834,23 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/20",
-    "Start": "11:30 AM",
-    "Finish": "12:10 PM",
+    "Date": "2019-03-20",
+    "Start": "11:30:00",
+    "Finish": "12:10:00",
     "Duration": "00:40:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/20",
-    "Start": "12:30 PM",
+    "Date": "2019-03-20",
+    "Start": "12:30:00",
     "Finish": "4:03 PM",
     "Duration": "03:33:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/20",
+    "Date": "2019-03-20",
     "Start": "4:21 PM",
     "Finish": "6:03 PM",
     "Duration": "01:42:00"
@@ -1858,55 +1858,55 @@
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/27",
-    "Start": "11:39 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-27",
+    "Start": "23:39:00",
+    "Finish": "23:59:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Work",
     "Task": "Client",
-    "Date": "2019/03/28",
-    "Start": "12:00 AM",
-    "Finish": "12:29 AM",
+    "Date": "2019-03-28",
+    "Start": "00:00:00",
+    "Finish": "00:29:00",
     "Duration": "00:29:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/04",
-    "Start": "10:02 AM",
-    "Finish": "10:14 AM",
+    "Date": "2019-03-04",
+    "Start": "10:02:00",
+    "Finish": "10:14:00",
     "Duration": "00:12:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/04",
-    "Start": "11:41 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-04",
+    "Start": "23:41:00",
+    "Finish": "23:59:00",
     "Duration": "00:19:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/05",
-    "Start": "12:00 AM",
-    "Finish": "12:13 AM",
+    "Date": "2019-03-05",
+    "Start": "00:00:00",
+    "Finish": "00:13:00",
     "Duration": "00:13:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/05",
-    "Start": "10:17 AM",
-    "Finish": "10:33 AM",
+    "Date": "2019-03-05",
+    "Start": "10:17:00",
+    "Finish": "10:33:00",
     "Duration": "00:16:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/05",
+    "Date": "2019-03-05",
     "Start": "3:32 PM",
     "Finish": "3:35 PM",
     "Duration": "00:03:00"
@@ -1914,31 +1914,31 @@
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/06",
-    "Start": "12:16 AM",
-    "Finish": "12:37 AM",
+    "Date": "2019-03-06",
+    "Start": "00:16:00",
+    "Finish": "00:37:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/06",
-    "Start": "10:03 AM",
-    "Finish": "10:19 AM",
+    "Date": "2019-03-06",
+    "Start": "10:03:00",
+    "Finish": "10:19:00",
     "Duration": "00:16:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/08",
-    "Start": "10:03 AM",
-    "Finish": "10:21 AM",
+    "Date": "2019-03-08",
+    "Start": "10:03:00",
+    "Finish": "10:21:00",
     "Duration": "00:18:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "6:33 PM",
     "Finish": "8:07 PM",
     "Duration": "01:34:00"
@@ -1946,15 +1946,15 @@
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/09",
-    "Start": "1:44 AM",
-    "Finish": "2:35 AM",
+    "Date": "2019-03-09",
+    "Start": "01:44:00",
+    "Finish": "02:35:00",
     "Duration": "00:51:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/09",
+    "Date": "2019-03-09",
     "Start": "2:01 PM",
     "Finish": "2:20 PM",
     "Duration": "00:19:00"
@@ -1962,87 +1962,87 @@
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/10",
-    "Start": "10:52 AM",
-    "Finish": "11:21 AM",
+    "Date": "2019-03-10",
+    "Start": "10:52:00",
+    "Finish": "11:21:00",
     "Duration": "00:29:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/11",
-    "Start": "10:28 AM",
-    "Finish": "11:43 AM",
+    "Date": "2019-03-11",
+    "Start": "10:28:00",
+    "Finish": "11:43:00",
     "Duration": "01:15:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/12",
-    "Start": "11:45 AM",
-    "Finish": "12:26 PM",
+    "Date": "2019-03-12",
+    "Start": "11:45:00",
+    "Finish": "12:26:00",
     "Duration": "00:41:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/15",
-    "Start": "2:05 AM",
-    "Finish": "2:41 AM",
+    "Date": "2019-03-15",
+    "Start": "02:05:00",
+    "Finish": "02:41:00",
     "Duration": "00:36:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/19",
-    "Start": "1:37 AM",
-    "Finish": "2:49 AM",
+    "Date": "2019-03-19",
+    "Start": "01:37:00",
+    "Finish": "02:49:00",
     "Duration": "01:12:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/20",
-    "Start": "10:13 AM",
-    "Finish": "11:00 AM",
+    "Date": "2019-03-20",
+    "Start": "10:13:00",
+    "Finish": "11:00:00",
     "Duration": "00:47:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/24",
-    "Start": "12:09 PM",
-    "Finish": "12:33 PM",
+    "Date": "2019-03-24",
+    "Start": "12:09:00",
+    "Finish": "12:33:00",
     "Duration": "00:24:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/26",
-    "Start": "10:34 AM",
-    "Finish": "10:55 AM",
+    "Date": "2019-03-26",
+    "Start": "10:34:00",
+    "Finish": "10:55:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/29",
-    "Start": "10:45 AM",
-    "Finish": "11:04 AM",
+    "Date": "2019-03-29",
+    "Start": "10:45:00",
+    "Finish": "11:04:00",
     "Duration": "00:19:00"
   },
   {
     "Group": "Life",
     "Task": "Misc",
-    "Date": "2019/03/31",
-    "Start": "10:10 AM",
+    "Date": "2019-03-31",
+    "Start": "10:10:00",
     "Finish": "1:24 PM",
     "Duration": "03:14:00"
   },
   {
     "Group": "Work",
     "Task": "Admin",
-    "Date": "2019/03/13",
+    "Date": "2019-03-13",
     "Start": "7:49 PM",
     "Finish": "9:26 PM",
     "Duration": "01:37:00"
@@ -2050,7 +2050,7 @@
   {
     "Group": "Work",
     "Task": "Admin",
-    "Date": "2019/03/15",
+    "Date": "2019-03-15",
     "Start": "5:57 PM",
     "Finish": "7:47 PM",
     "Duration": "01:50:00"
@@ -2058,95 +2058,95 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/04",
-    "Start": "12:39 AM",
-    "Finish": "1:11 AM",
+    "Date": "2019-03-04",
+    "Start": "00:39:00",
+    "Finish": "01:11:00",
     "Duration": "00:32:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/04",
-    "Start": "1:25 AM",
-    "Finish": "1:48 AM",
+    "Date": "2019-03-04",
+    "Start": "01:25:00",
+    "Finish": "01:48:00",
     "Duration": "00:23:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/05",
-    "Start": "12:13 AM",
-    "Finish": "12:22 AM",
+    "Date": "2019-03-05",
+    "Start": "00:13:00",
+    "Finish": "00:22:00",
     "Duration": "00:09:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/06",
-    "Start": "2:25 AM",
-    "Finish": "3:09 AM",
+    "Date": "2019-03-06",
+    "Start": "02:25:00",
+    "Finish": "03:09:00",
     "Duration": "00:44:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/06",
-    "Start": "4:34 AM",
-    "Finish": "5:14 AM",
+    "Date": "2019-03-06",
+    "Start": "04:34:00",
+    "Finish": "05:14:00",
     "Duration": "00:40:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/10",
-    "Start": "3:15 AM",
-    "Finish": "3:18 AM",
+    "Date": "2019-03-10",
+    "Start": "03:15:00",
+    "Finish": "03:18:00",
     "Duration": "00:03:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/12",
-    "Start": "2:00 AM",
-    "Finish": "2:45 AM",
+    "Date": "2019-03-12",
+    "Start": "02:00:00",
+    "Finish": "02:45:00",
     "Duration": "00:45:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/14",
-    "Start": "2:48 AM",
-    "Finish": "3:18 AM",
+    "Date": "2019-03-14",
+    "Start": "02:48:00",
+    "Finish": "03:18:00",
     "Duration": "00:30:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/17",
-    "Start": "10:35 AM",
-    "Finish": "11:00 AM",
+    "Date": "2019-03-17",
+    "Start": "10:35:00",
+    "Finish": "11:00:00",
     "Duration": "00:25:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/20",
-    "Start": "1:57 AM",
-    "Finish": "2:18 AM",
+    "Date": "2019-03-20",
+    "Start": "01:57:00",
+    "Finish": "02:18:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/22",
-    "Start": "3:20 AM",
-    "Finish": "6:53 AM",
+    "Date": "2019-03-22",
+    "Start": "03:20:00",
+    "Finish": "06:53:00",
     "Duration": "03:33:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "5:13 PM",
     "Finish": "5:15 PM",
     "Duration": "00:02:00"
@@ -2154,7 +2154,7 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "5:47 PM",
     "Finish": "8:56 PM",
     "Duration": "03:09:00"
@@ -2162,23 +2162,23 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/26",
-    "Start": "12:54 AM",
-    "Finish": "12:57 AM",
+    "Date": "2019-03-26",
+    "Start": "00:54:00",
+    "Finish": "00:57:00",
     "Duration": "00:03:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/27",
-    "Start": "1:10 AM",
-    "Finish": "2:01 AM",
+    "Date": "2019-03-27",
+    "Start": "01:10:00",
+    "Finish": "02:01:00",
     "Duration": "00:51:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/27",
+    "Date": "2019-03-27",
     "Start": "5:48 PM",
     "Finish": "7:24 PM",
     "Duration": "01:36:00"
@@ -2186,39 +2186,39 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/27",
-    "Start": "10:53 PM",
-    "Finish": "11:39 PM",
+    "Date": "2019-03-27",
+    "Start": "22:53:00",
+    "Finish": "23:39:00",
     "Duration": "00:46:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/28",
-    "Start": "12:51 AM",
-    "Finish": "2:20 AM",
+    "Date": "2019-03-28",
+    "Start": "00:51:00",
+    "Finish": "02:20:00",
     "Duration": "01:29:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
-    "Start": "12:32 AM",
-    "Finish": "2:03 AM",
+    "Date": "2019-03-29",
+    "Start": "00:32:00",
+    "Finish": "02:03:00",
     "Duration": "01:31:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
-    "Start": "12:42 PM",
-    "Finish": "12:51 PM",
+    "Date": "2019-03-29",
+    "Start": "12:42:00",
+    "Finish": "12:51:00",
     "Duration": "00:09:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
+    "Date": "2019-03-29",
     "Start": "1:17 PM",
     "Finish": "1:47 PM",
     "Duration": "00:30:00"
@@ -2226,7 +2226,7 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
+    "Date": "2019-03-29",
     "Start": "2:17 PM",
     "Finish": "3:07 PM",
     "Duration": "00:50:00"
@@ -2234,7 +2234,7 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
+    "Date": "2019-03-29",
     "Start": "5:16 PM",
     "Finish": "5:57 PM",
     "Duration": "00:41:00"
@@ -2242,135 +2242,135 @@
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/29",
-    "Start": "10:29 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-29",
+    "Start": "22:29:00",
+    "Finish": "23:59:00",
     "Duration": "01:31:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/30",
-    "Start": "12:00 AM",
-    "Finish": "12:08 AM",
+    "Date": "2019-03-30",
+    "Start": "00:00:00",
+    "Finish": "00:08:00",
     "Duration": "00:08:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/30",
-    "Start": "1:45 AM",
-    "Finish": "2:40 AM",
+    "Date": "2019-03-30",
+    "Start": "01:45:00",
+    "Finish": "02:40:00",
     "Duration": "00:55:00"
   },
   {
     "Group": "Media",
     "Task": "Reading",
-    "Date": "2019/03/31",
-    "Start": "12:31 AM",
-    "Finish": "12:32 AM",
+    "Date": "2019-03-31",
+    "Start": "00:31:00",
+    "Finish": "00:32:00",
     "Duration": "00:01:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/01",
-    "Start": "12:00 AM",
-    "Finish": "12:27 AM",
+    "Date": "2019-03-01",
+    "Start": "00:00:00",
+    "Finish": "00:27:00",
     "Duration": "00:27:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/01",
-    "Start": "12:30 AM",
-    "Finish": "2:09 AM",
+    "Date": "2019-03-01",
+    "Start": "00:30:00",
+    "Finish": "02:09:00",
     "Duration": "01:39:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/01",
+    "Date": "2019-03-01",
     "Start": "6:00 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "06:00:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/02",
-    "Start": "12:00 AM",
-    "Finish": "1:39 AM",
+    "Date": "2019-03-02",
+    "Start": "00:00:00",
+    "Finish": "01:39:00",
     "Duration": "01:39:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/02",
-    "Start": "12:20 PM",
+    "Date": "2019-03-02",
+    "Start": "12:20:00",
     "Finish": "4:31 PM",
     "Duration": "04:11:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/03",
-    "Start": "12:15 AM",
-    "Finish": "1:42 AM",
+    "Date": "2019-03-03",
+    "Start": "00:15:00",
+    "Finish": "01:42:00",
     "Duration": "01:27:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/03",
-    "Start": "10:30 AM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-03",
+    "Start": "10:30:00",
+    "Finish": "23:59:00",
     "Duration": "13:30:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/04",
-    "Start": "12:00 AM",
-    "Finish": "12:39 AM",
+    "Date": "2019-03-04",
+    "Start": "00:00:00",
+    "Finish": "00:39:00",
     "Duration": "00:39:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/04",
-    "Start": "1:11 AM",
-    "Finish": "1:25 AM",
+    "Date": "2019-03-04",
+    "Start": "01:11:00",
+    "Finish": "01:25:00",
     "Duration": "00:14:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/04",
-    "Start": "11:05 AM",
+    "Date": "2019-03-04",
+    "Start": "11:05:00",
     "Finish": "1:02 PM",
     "Duration": "01:57:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/04",
+    "Date": "2019-03-04",
     "Start": "9:56 PM",
-    "Finish": "11:40 PM",
+    "Finish": "23:40:00",
     "Duration": "01:44:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/05",
+    "Date": "2019-03-05",
     "Start": "6:00 PM",
-    "Finish": "10:27 PM",
+    "Finish": "22:27:00",
     "Duration": "04:27:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/06",
+    "Date": "2019-03-06",
     "Start": "2:00 PM",
     "Finish": "3:35 PM",
     "Duration": "01:35:00"
@@ -2378,23 +2378,23 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/06",
-    "Start": "11:00 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-06",
+    "Start": "23:00:00",
+    "Finish": "23:59:00",
     "Duration": "01:00:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/07",
-    "Start": "12:00 AM",
-    "Finish": "1:13 AM",
+    "Date": "2019-03-07",
+    "Start": "00:00:00",
+    "Finish": "01:13:00",
     "Duration": "01:13:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/07",
+    "Date": "2019-03-07",
     "Start": "1:20 PM",
     "Finish": "6:15 PM",
     "Duration": "04:55:00"
@@ -2402,31 +2402,31 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/07",
+    "Date": "2019-03-07",
     "Start": "8:55 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:05:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/08",
-    "Start": "12:00 AM",
-    "Finish": "1:15 AM",
+    "Date": "2019-03-08",
+    "Start": "00:00:00",
+    "Finish": "01:15:00",
     "Duration": "01:15:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/08",
-    "Start": "11:05 AM",
+    "Date": "2019-03-08",
+    "Start": "11:05:00",
     "Finish": "2:15 PM",
     "Duration": "03:10:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "2:30 PM",
     "Finish": "3:05 PM",
     "Duration": "00:35:00"
@@ -2434,39 +2434,39 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/08",
+    "Date": "2019-03-08",
     "Start": "8:59 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:01:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/09",
-    "Start": "12:00 AM",
-    "Finish": "12:32 AM",
+    "Date": "2019-03-09",
+    "Start": "00:00:00",
+    "Finish": "00:32:00",
     "Duration": "00:32:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/09",
-    "Start": "12:46 AM",
-    "Finish": "1:44 AM",
+    "Date": "2019-03-09",
+    "Start": "00:46:00",
+    "Finish": "01:44:00",
     "Duration": "00:58:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/09",
-    "Start": "12:12 PM",
+    "Date": "2019-03-09",
+    "Start": "12:12:00",
     "Finish": "1:59 PM",
     "Duration": "01:47:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/09",
+    "Date": "2019-03-09",
     "Start": "2:20 PM",
     "Finish": "7:31 PM",
     "Duration": "05:11:00"
@@ -2474,127 +2474,127 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/09",
-    "Start": "11:10 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-09",
+    "Start": "23:10:00",
+    "Finish": "23:59:00",
     "Duration": "00:50:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/10",
-    "Start": "12:00 AM",
-    "Finish": "12:21 AM",
+    "Date": "2019-03-10",
+    "Start": "00:00:00",
+    "Finish": "00:21:00",
     "Duration": "00:21:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/10",
+    "Date": "2019-03-10",
     "Start": "8:00 PM",
-    "Finish": "11:30 PM",
+    "Finish": "23:30:00",
     "Duration": "03:30:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/11",
-    "Start": "12:28 AM",
-    "Finish": "1:54 AM",
+    "Date": "2019-03-11",
+    "Start": "00:28:00",
+    "Finish": "01:54:00",
     "Duration": "01:26:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/12",
+    "Date": "2019-03-12",
     "Start": "8:04 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "03:56:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/13",
-    "Start": "12:00 AM",
-    "Finish": "1:22 AM",
+    "Date": "2019-03-13",
+    "Start": "00:00:00",
+    "Finish": "01:22:00",
     "Duration": "01:22:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/13",
-    "Start": "12:20 PM",
+    "Date": "2019-03-13",
+    "Start": "12:20:00",
     "Finish": "1:30 PM",
     "Duration": "01:10:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/13",
-    "Start": "11:55 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-13",
+    "Start": "23:55:00",
+    "Finish": "23:59:00",
     "Duration": "00:05:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/14",
-    "Start": "12:00 AM",
-    "Finish": "1:54 AM",
+    "Date": "2019-03-14",
+    "Start": "00:00:00",
+    "Finish": "01:54:00",
     "Duration": "01:54:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/14",
+    "Date": "2019-03-14",
     "Start": "7:30 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "04:30:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/15",
-    "Start": "12:00 AM",
-    "Finish": "12:44 AM",
+    "Date": "2019-03-15",
+    "Start": "00:00:00",
+    "Finish": "00:44:00",
     "Duration": "00:44:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/15",
-    "Start": "12:43 PM",
+    "Date": "2019-03-15",
+    "Start": "12:43:00",
     "Finish": "1:34 PM",
     "Duration": "00:51:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/15",
-    "Start": "11:32 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-15",
+    "Start": "23:32:00",
+    "Finish": "23:59:00",
     "Duration": "00:28:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/16",
-    "Start": "12:00 AM",
-    "Finish": "1:09 AM",
+    "Date": "2019-03-16",
+    "Start": "00:00:00",
+    "Finish": "01:09:00",
     "Duration": "01:09:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/16",
-    "Start": "9:52 AM",
-    "Finish": "10:11 AM",
+    "Date": "2019-03-16",
+    "Start": "09:52:00",
+    "Finish": "10:11:00",
     "Duration": "00:19:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/16",
+    "Date": "2019-03-16",
     "Start": "7:30 PM",
     "Finish": "8:07 PM",
     "Duration": "00:37:00"
@@ -2602,23 +2602,23 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/17",
-    "Start": "1:59 AM",
-    "Finish": "3:03 AM",
+    "Date": "2019-03-17",
+    "Start": "01:59:00",
+    "Finish": "03:03:00",
     "Duration": "01:04:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/18",
-    "Start": "11:29 AM",
-    "Finish": "12:20 PM",
+    "Date": "2019-03-18",
+    "Start": "11:29:00",
+    "Finish": "12:20:00",
     "Duration": "00:51:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/18",
+    "Date": "2019-03-18",
     "Start": "1:20 PM",
     "Finish": "3:35 PM",
     "Duration": "02:15:00"
@@ -2626,79 +2626,79 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/20",
-    "Start": "12:43 AM",
-    "Finish": "1:57 AM",
+    "Date": "2019-03-20",
+    "Start": "00:43:00",
+    "Finish": "01:57:00",
     "Duration": "01:14:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/20",
+    "Date": "2019-03-20",
     "Start": "6:48 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "05:12:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/21",
-    "Start": "12:00 AM",
-    "Finish": "12:37 AM",
+    "Date": "2019-03-21",
+    "Start": "00:00:00",
+    "Finish": "00:37:00",
     "Duration": "00:37:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/21",
-    "Start": "11:26 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-21",
+    "Start": "23:26:00",
+    "Finish": "23:59:00",
     "Duration": "00:34:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/22",
-    "Start": "12:00 AM",
-    "Finish": "2:49 AM",
+    "Date": "2019-03-22",
+    "Start": "00:00:00",
+    "Finish": "02:49:00",
     "Duration": "02:49:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/22",
-    "Start": "8:05 AM",
-    "Finish": "10:48 AM",
+    "Date": "2019-03-22",
+    "Start": "08:05:00",
+    "Finish": "10:48:00",
     "Duration": "02:43:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/22",
-    "Start": "10:53 PM",
-    "Finish": "11:30 PM",
+    "Date": "2019-03-22",
+    "Start": "22:53:00",
+    "Finish": "23:30:00",
     "Duration": "00:37:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/23",
+    "Date": "2019-03-23",
     "Start": "5:30 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "06:30:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/24",
-    "Start": "12:00 AM",
-    "Finish": "3:07 AM",
+    "Date": "2019-03-24",
+    "Start": "00:00:00",
+    "Finish": "03:07:00",
     "Duration": "03:07:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/24",
+    "Date": "2019-03-24",
     "Start": "1:36 PM",
     "Finish": "2:54 PM",
     "Duration": "01:18:00"
@@ -2706,7 +2706,7 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/24",
+    "Date": "2019-03-24",
     "Start": "6:11 PM",
     "Finish": "6:54 PM",
     "Duration": "00:43:00"
@@ -2714,39 +2714,39 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/24",
+    "Date": "2019-03-24",
     "Start": "7:39 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "04:21:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/25",
-    "Start": "12:00 AM",
-    "Finish": "12:02 AM",
+    "Date": "2019-03-25",
+    "Start": "00:00:00",
+    "Finish": "00:02:00",
     "Duration": "00:02:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/25",
-    "Start": "12:09 AM",
-    "Finish": "2:13 AM",
+    "Date": "2019-03-25",
+    "Start": "00:09:00",
+    "Finish": "02:13:00",
     "Duration": "02:04:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/25",
-    "Start": "12:59 PM",
+    "Date": "2019-03-25",
+    "Start": "12:59:00",
     "Finish": "2:51 PM",
     "Duration": "01:52:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/25",
+    "Date": "2019-03-25",
     "Start": "8:56 PM",
     "Finish": "9:53 PM",
     "Duration": "00:57:00"
@@ -2754,63 +2754,63 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/25",
-    "Start": "11:00 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-25",
+    "Start": "23:00:00",
+    "Finish": "23:59:00",
     "Duration": "01:00:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/26",
-    "Start": "12:00 AM",
-    "Finish": "12:54 AM",
+    "Date": "2019-03-26",
+    "Start": "00:00:00",
+    "Finish": "00:54:00",
     "Duration": "00:54:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/26",
-    "Start": "10:55 AM",
+    "Date": "2019-03-26",
+    "Start": "10:55:00",
     "Finish": "2:33 PM",
     "Duration": "03:38:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/26",
-    "Start": "11:25 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-26",
+    "Start": "23:25:00",
+    "Finish": "23:59:00",
     "Duration": "00:35:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/27",
-    "Start": "12:00 AM",
-    "Finish": "1:10 AM",
+    "Date": "2019-03-27",
+    "Start": "00:00:00",
+    "Finish": "01:10:00",
     "Duration": "01:10:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/28",
-    "Start": "12:29 AM",
-    "Finish": "12:51 AM",
+    "Date": "2019-03-28",
+    "Start": "00:29:00",
+    "Finish": "00:51:00",
     "Duration": "00:22:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/28",
-    "Start": "11:30 AM",
+    "Date": "2019-03-28",
+    "Start": "11:30:00",
     "Finish": "5:13 PM",
     "Duration": "05:43:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/28",
+    "Date": "2019-03-28",
     "Start": "6:04 PM",
     "Finish": "7:33 PM",
     "Duration": "01:29:00"
@@ -2818,23 +2818,23 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/28",
+    "Date": "2019-03-28",
     "Start": "9:13 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "02:47:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/29",
-    "Start": "12:00 AM",
-    "Finish": "12:32 AM",
+    "Date": "2019-03-29",
+    "Start": "00:00:00",
+    "Finish": "00:32:00",
     "Duration": "00:32:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/29",
+    "Date": "2019-03-29",
     "Start": "5:57 PM",
     "Finish": "7:20 PM",
     "Duration": "01:23:00"
@@ -2842,31 +2842,31 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/29",
+    "Date": "2019-03-29",
     "Start": "8:15 PM",
-    "Finish": "10:29 PM",
+    "Finish": "22:29:00",
     "Duration": "02:14:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/30",
-    "Start": "12:08 AM",
-    "Finish": "1:45 AM",
+    "Date": "2019-03-30",
+    "Start": "00:08:00",
+    "Finish": "01:45:00",
     "Duration": "01:37:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/30",
-    "Start": "12:13 PM",
+    "Date": "2019-03-30",
+    "Start": "12:13:00",
     "Finish": "1:45 PM",
     "Duration": "01:32:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/30",
+    "Date": "2019-03-30",
     "Start": "1:58 PM",
     "Finish": "6:36 PM",
     "Duration": "04:38:00"
@@ -2874,15 +2874,15 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/30",
-    "Start": "11:03 PM",
-    "Finish": "11:59 PM",
+    "Date": "2019-03-30",
+    "Start": "23:03:00",
+    "Finish": "23:59:00",
     "Duration": "00:57:00"
   },
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "1:24 PM",
     "Finish": "2:26 PM",
     "Duration": "01:02:00"
@@ -2890,9 +2890,9 @@
   {
     "Group": "Media",
     "Task": "Watching",
-    "Date": "2019/03/31",
+    "Date": "2019-03-31",
     "Start": "8:00 PM",
-    "Finish": "11:59 PM",
+    "Finish": "23:59:00",
     "Duration": "04:00:00"
   }
 ]
