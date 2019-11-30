@@ -5,7 +5,6 @@
     "Date": "2019/03/01",
     "Start": "12:00 AM",
     "Finish": "12:30 AM",
-    "Minutes": "30",
     "Duration": "00:30:00"
   },
   {
@@ -14,7 +13,6 @@
     "Date": "2019/03/01",
     "Start": "11:01 AM",
     "Finish": "11:59 PM",
-    "Minutes": "779",
     "Duration": "12:59:00"
   },
   {
@@ -23,7 +21,6 @@
     "Date": "2019/03/02",
     "Start": "12:00 AM",
     "Finish": "1:39 AM",
-    "Minutes": "99",
     "Duration": "01:39:00"
   },
   {
@@ -32,7 +29,6 @@
     "Date": "2019/03/02",
     "Start": "10:35 AM",
     "Finish": "12:52 PM",
-    "Minutes": "137",
     "Duration": "02:17:00"
   },
   {
@@ -41,7 +37,6 @@
     "Date": "2019/03/02",
     "Start": "10:06 PM",
     "Finish": "11:59 PM",
-    "Minutes": "114",
     "Duration": "01:54:00"
   },
   {
@@ -50,7 +45,6 @@
     "Date": "2019/03/03",
     "Start": "12:00 AM",
     "Finish": "1:42 AM",
-    "Minutes": "102",
     "Duration": "01:42:00"
   },
   {
@@ -59,7 +53,6 @@
     "Date": "2019/03/03",
     "Start": "10:12 AM",
     "Finish": "11:59 PM",
-    "Minutes": "828",
     "Duration": "13:48:00"
   },
   {
@@ -68,7 +61,6 @@
     "Date": "2019/03/04",
     "Start": "12:00 AM",
     "Finish": "12:39 AM",
-    "Minutes": "39",
     "Duration": "00:39:00"
   },
   {
@@ -77,7 +69,6 @@
     "Date": "2019/03/04",
     "Start": "10:14 AM",
     "Finish": "11:05 AM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -86,7 +77,6 @@
     "Date": "2019/03/04",
     "Start": "8:10 PM",
     "Finish": "11:41 PM",
-    "Minutes": "211",
     "Duration": "03:31:00"
   },
   {
@@ -95,7 +85,6 @@
     "Date": "2019/03/05",
     "Start": "3:35 PM",
     "Finish": "10:40 PM",
-    "Minutes": "425",
     "Duration": "07:05:00"
   },
   {
@@ -104,7 +93,6 @@
     "Date": "2019/03/06",
     "Start": "4:01 PM",
     "Finish": "11:59 PM",
-    "Minutes": "479",
     "Duration": "07:59:00"
   },
   {
@@ -113,7 +101,6 @@
     "Date": "2019/03/07",
     "Start": "12:00 AM",
     "Finish": "2:20 AM",
-    "Minutes": "140",
     "Duration": "02:20:00"
   },
   {
@@ -122,7 +109,6 @@
     "Date": "2019/03/07",
     "Start": "11:20 AM",
     "Finish": "11:59 PM",
-    "Minutes": "760",
     "Duration": "12:40:00"
   },
   {
@@ -131,7 +117,6 @@
     "Date": "2019/03/08",
     "Start": "12:00 AM",
     "Finish": "1:15 AM",
-    "Minutes": "75",
     "Duration": "01:15:00"
   },
   {
@@ -140,7 +125,6 @@
     "Date": "2019/03/08",
     "Start": "10:21 AM",
     "Finish": "11:05 AM",
-    "Minutes": "44",
     "Duration": "00:44:00"
   },
   {
@@ -149,7 +133,6 @@
     "Date": "2019/03/08",
     "Start": "8:07 PM",
     "Finish": "11:59 PM",
-    "Minutes": "233",
     "Duration": "03:53:00"
   },
   {
@@ -158,7 +141,6 @@
     "Date": "2019/03/09",
     "Start": "12:00 AM",
     "Finish": "12:46 AM",
-    "Minutes": "46",
     "Duration": "00:46:00"
   },
   {
@@ -167,7 +149,6 @@
     "Date": "2019/03/09",
     "Start": "11:05 AM",
     "Finish": "2:01 PM",
-    "Minutes": "176",
     "Duration": "02:56:00"
   },
   {
@@ -176,7 +157,6 @@
     "Date": "2019/03/09",
     "Start": "10:10 PM",
     "Finish": "11:59 PM",
-    "Minutes": "110",
     "Duration": "01:50:00"
   },
   {
@@ -185,7 +165,6 @@
     "Date": "2019/03/10",
     "Start": "12:00 AM",
     "Finish": "12:21 AM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -194,7 +173,6 @@
     "Date": "2019/03/10",
     "Start": "5:15 PM",
     "Finish": "11:59 PM",
-    "Minutes": "405",
     "Duration": "06:45:00"
   },
   {
@@ -203,7 +181,6 @@
     "Date": "2019/03/11",
     "Start": "12:00 AM",
     "Finish": "12:28 AM",
-    "Minutes": "28",
     "Duration": "00:28:00"
   },
   {
@@ -212,7 +189,6 @@
     "Date": "2019/03/11",
     "Start": "8:10 PM",
     "Finish": "11:59 PM",
-    "Minutes": "230",
     "Duration": "03:50:00"
   },
   {
@@ -221,7 +197,6 @@
     "Date": "2019/03/12",
     "Start": "12:00 AM",
     "Finish": "12:16 AM",
-    "Minutes": "16",
     "Duration": "00:16:00"
   },
   {
@@ -230,7 +205,6 @@
     "Date": "2019/03/12",
     "Start": "3:35 PM",
     "Finish": "11:59 PM",
-    "Minutes": "505",
     "Duration": "08:25:00"
   },
   {
@@ -239,7 +213,6 @@
     "Date": "2019/03/13",
     "Start": "12:00 AM",
     "Finish": "1:22 AM",
-    "Minutes": "82",
     "Duration": "01:22:00"
   },
   {
@@ -248,7 +221,6 @@
     "Date": "2019/03/13",
     "Start": "12:00 PM",
     "Finish": "2:30 PM",
-    "Minutes": "150",
     "Duration": "02:30:00"
   },
   {
@@ -257,7 +229,6 @@
     "Date": "2019/03/13",
     "Start": "10:01 PM",
     "Finish": "11:59 PM",
-    "Minutes": "119",
     "Duration": "01:59:00"
   },
   {
@@ -266,7 +237,6 @@
     "Date": "2019/03/14",
     "Start": "12:00 AM",
     "Finish": "1:30 PM",
-    "Minutes": "810",
     "Duration": "13:30:00"
   },
   {
@@ -275,7 +245,6 @@
     "Date": "2019/03/14",
     "Start": "11:18 AM",
     "Finish": "11:59 PM",
-    "Minutes": "762",
     "Duration": "12:42:00"
   },
   {
@@ -284,7 +253,6 @@
     "Date": "2019/03/15",
     "Start": "12:00 AM",
     "Finish": "1:05 AM",
-    "Minutes": "65",
     "Duration": "01:05:00"
   },
   {
@@ -293,7 +261,6 @@
     "Date": "2019/03/15",
     "Start": "11:20 AM",
     "Finish": "1:34 PM",
-    "Minutes": "134",
     "Duration": "02:14:00"
   },
   {
@@ -302,7 +269,6 @@
     "Date": "2019/03/15",
     "Start": "9:59 PM",
     "Finish": "11:59 PM",
-    "Minutes": "121",
     "Duration": "02:01:00"
   },
   {
@@ -311,7 +277,6 @@
     "Date": "2019/03/16",
     "Start": "12:00 AM",
     "Finish": "1:20 AM",
-    "Minutes": "80",
     "Duration": "01:20:00"
   },
   {
@@ -320,7 +285,6 @@
     "Date": "2019/03/16",
     "Start": "7:56 AM",
     "Finish": "11:59 PM",
-    "Minutes": "964",
     "Duration": "16:04:00"
   },
   {
@@ -329,7 +293,6 @@
     "Date": "2019/03/17",
     "Start": "12:00 AM",
     "Finish": "1:59 AM",
-    "Minutes": "119",
     "Duration": "01:59:00"
   },
   {
@@ -338,7 +301,6 @@
     "Date": "2019/03/17",
     "Start": "10:20 AM",
     "Finish": "11:59 PM",
-    "Minutes": "820",
     "Duration": "13:40:00"
   },
   {
@@ -347,7 +309,6 @@
     "Date": "2019/03/18",
     "Start": "12:00 AM",
     "Finish": "12:25 AM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -356,7 +317,6 @@
     "Date": "2019/03/18",
     "Start": "11:29 AM",
     "Finish": "11:59 PM",
-    "Minutes": "751",
     "Duration": "12:31:00"
   },
   {
@@ -365,7 +325,6 @@
     "Date": "2019/03/19",
     "Start": "12:00 AM",
     "Finish": "1:37 AM",
-    "Minutes": "97",
     "Duration": "01:37:00"
   },
   {
@@ -374,7 +333,6 @@
     "Date": "2019/03/19",
     "Start": "11:26 AM",
     "Finish": "11:59 PM",
-    "Minutes": "754",
     "Duration": "12:34:00"
   },
   {
@@ -383,7 +341,6 @@
     "Date": "2019/03/20",
     "Start": "12:00 AM",
     "Finish": "12:43 AM",
-    "Minutes": "43",
     "Duration": "00:43:00"
   },
   {
@@ -392,7 +349,6 @@
     "Date": "2019/03/20",
     "Start": "11:00 AM",
     "Finish": "11:59 PM",
-    "Minutes": "780",
     "Duration": "13:00:00"
   },
   {
@@ -401,7 +357,6 @@
     "Date": "2019/03/21",
     "Start": "12:00 AM",
     "Finish": "2:37 AM",
-    "Minutes": "157",
     "Duration": "02:37:00"
   },
   {
@@ -410,7 +365,6 @@
     "Date": "2019/03/21",
     "Start": "10:31 AM",
     "Finish": "11:59 PM",
-    "Minutes": "809",
     "Duration": "13:29:00"
   },
   {
@@ -419,7 +373,6 @@
     "Date": "2019/03/22",
     "Start": "12:00 AM",
     "Finish": "12:09 AM",
-    "Minutes": "9",
     "Duration": "00:09:00"
   },
   {
@@ -428,7 +381,6 @@
     "Date": "2019/03/22",
     "Start": "6:53 AM",
     "Finish": "8:05 AM",
-    "Minutes": "72",
     "Duration": "01:12:00"
   },
   {
@@ -437,7 +389,6 @@
     "Date": "2019/03/22",
     "Start": "11:36 AM",
     "Finish": "11:30 PM",
-    "Minutes": "714",
     "Duration": "11:54:00"
   },
   {
@@ -446,7 +397,6 @@
     "Date": "2019/03/23",
     "Start": "10:07 AM",
     "Finish": "11:59 PM",
-    "Minutes": "833",
     "Duration": "13:53:00"
   },
   {
@@ -455,7 +405,6 @@
     "Date": "2019/03/24",
     "Start": "12:00 AM",
     "Finish": "1:31 AM",
-    "Minutes": "91",
     "Duration": "01:31:00"
   },
   {
@@ -464,7 +413,6 @@
     "Date": "2019/03/24",
     "Start": "12:09 PM",
     "Finish": "11:59 PM",
-    "Minutes": "711",
     "Duration": "11:51:00"
   },
   {
@@ -473,7 +421,6 @@
     "Date": "2019/03/25",
     "Start": "12:00 AM",
     "Finish": "12:09 AM",
-    "Minutes": "9",
     "Duration": "00:09:00"
   },
   {
@@ -482,7 +429,6 @@
     "Date": "2019/03/25",
     "Start": "9:20 AM",
     "Finish": "11:30 AM",
-    "Minutes": "130",
     "Duration": "02:10:00"
   },
   {
@@ -491,7 +437,6 @@
     "Date": "2019/03/25",
     "Start": "3:51 PM",
     "Finish": "4:21 PM",
-    "Minutes": "30",
     "Duration": "00:30:00"
   },
   {
@@ -500,7 +445,6 @@
     "Date": "2019/03/25",
     "Start": "8:05 PM",
     "Finish": "11:27 PM",
-    "Minutes": "202",
     "Duration": "03:22:00"
   },
   {
@@ -509,7 +453,6 @@
     "Date": "2019/03/26",
     "Start": "3:39 PM",
     "Finish": "11:25 PM",
-    "Minutes": "466",
     "Duration": "07:46:00"
   },
   {
@@ -518,7 +461,6 @@
     "Date": "2019/03/27",
     "Start": "11:22 AM",
     "Finish": "11:59 PM",
-    "Minutes": "758",
     "Duration": "12:38:00"
   },
   {
@@ -527,7 +469,6 @@
     "Date": "2019/03/28",
     "Start": "12:00 AM",
     "Finish": "12:08 AM",
-    "Minutes": "8",
     "Duration": "00:08:00"
   },
   {
@@ -536,7 +477,6 @@
     "Date": "2019/03/28",
     "Start": "8:52 AM",
     "Finish": "12:06 PM",
-    "Minutes": "194",
     "Duration": "03:14:00"
   },
   {
@@ -545,7 +485,6 @@
     "Date": "2019/03/28",
     "Start": "8:09 PM",
     "Finish": "11:59 PM",
-    "Minutes": "231",
     "Duration": "03:51:00"
   },
   {
@@ -554,7 +493,6 @@
     "Date": "2019/03/29",
     "Start": "12:00 AM",
     "Finish": "1:22 AM",
-    "Minutes": "82",
     "Duration": "01:22:00"
   },
   {
@@ -563,7 +501,6 @@
     "Date": "2019/03/29",
     "Start": "10:45 AM",
     "Finish": "11:59 PM",
-    "Minutes": "794",
     "Duration": "13:14:00"
   },
   {
@@ -572,7 +509,6 @@
     "Date": "2019/03/30",
     "Start": "11:12 AM",
     "Finish": "1:58 PM",
-    "Minutes": "166",
     "Duration": "02:46:00"
   },
   {
@@ -581,7 +517,6 @@
     "Date": "2019/03/30",
     "Start": "10:04 PM",
     "Finish": "11:59 PM",
-    "Minutes": "116",
     "Duration": "01:56:00"
   },
   {
@@ -590,7 +525,6 @@
     "Date": "2019/03/31",
     "Start": "12:00 AM",
     "Finish": "1:02 AM",
-    "Minutes": "62",
     "Duration": "01:02:00"
   },
   {
@@ -599,7 +533,6 @@
     "Date": "2019/03/31",
     "Start": "9:01 AM",
     "Finish": "10:10 AM",
-    "Minutes": "69",
     "Duration": "01:09:00"
   },
   {
@@ -608,7 +541,6 @@
     "Date": "2019/03/31",
     "Start": "7:03 PM",
     "Finish": "11:59 PM",
-    "Minutes": "297",
     "Duration": "04:57:00"
   },
   {
@@ -617,7 +549,6 @@
     "Date": "2019/03/06",
     "Start": "4:01 PM",
     "Finish": "6:03 PM",
-    "Minutes": "122",
     "Duration": "02:02:00"
   },
   {
@@ -626,7 +557,6 @@
     "Date": "2019/03/08",
     "Start": "11:17 AM",
     "Finish": "2:30 PM",
-    "Minutes": "193",
     "Duration": "03:13:00"
   },
   {
@@ -635,7 +565,6 @@
     "Date": "2019/03/08",
     "Start": "3:05 PM",
     "Finish": "5:29 PM",
-    "Minutes": "144",
     "Duration": "02:24:00"
   },
   {
@@ -644,7 +573,6 @@
     "Date": "2019/03/09",
     "Start": "12:46 AM",
     "Finish": "1:44 AM",
-    "Minutes": "58",
     "Duration": "00:58:00"
   },
   {
@@ -653,7 +581,6 @@
     "Date": "2019/03/11",
     "Start": "6:47 PM",
     "Finish": "7:48 PM",
-    "Minutes": "61",
     "Duration": "01:01:00"
   },
   {
@@ -662,7 +589,6 @@
     "Date": "2019/03/12",
     "Start": "12:16 AM",
     "Finish": "12:28 AM",
-    "Minutes": "12",
     "Duration": "00:12:00"
   },
   {
@@ -671,7 +597,6 @@
     "Date": "2019/03/15",
     "Start": "3:11 PM",
     "Finish": "5:57 PM",
-    "Minutes": "166",
     "Duration": "02:46:00"
   },
   {
@@ -680,7 +605,6 @@
     "Date": "2019/03/15",
     "Start": "9:54 PM",
     "Finish": "10:53 PM",
-    "Minutes": "59",
     "Duration": "00:59:00"
   },
   {
@@ -689,7 +613,6 @@
     "Date": "2019/03/16",
     "Start": "8:08 PM",
     "Finish": "11:37 PM",
-    "Minutes": "209",
     "Duration": "03:29:00"
   },
   {
@@ -698,7 +621,6 @@
     "Date": "2019/03/18",
     "Start": "1:30 AM",
     "Finish": "3:19 AM",
-    "Minutes": "109",
     "Duration": "01:49:00"
   },
   {
@@ -707,7 +629,6 @@
     "Date": "2019/03/21",
     "Start": "6:46 PM",
     "Finish": "7:52 PM",
-    "Minutes": "66",
     "Duration": "01:06:00"
   },
   {
@@ -716,7 +637,6 @@
     "Date": "2019/03/22",
     "Start": "12:09 AM",
     "Finish": "2:39 AM",
-    "Minutes": "150",
     "Duration": "02:30:00"
   },
   {
@@ -725,7 +645,6 @@
     "Date": "2019/03/22",
     "Start": "2:49 AM",
     "Finish": "3:20 AM",
-    "Minutes": "31",
     "Duration": "00:31:00"
   },
   {
@@ -734,7 +653,6 @@
     "Date": "2019/03/27",
     "Start": "2:05 PM",
     "Finish": "4:06 PM",
-    "Minutes": "121",
     "Duration": "02:01:00"
   },
   {
@@ -743,7 +661,6 @@
     "Date": "2019/03/31",
     "Start": "12:32 AM",
     "Finish": "3:14 AM",
-    "Minutes": "162",
     "Duration": "02:42:00"
   },
   {
@@ -752,7 +669,6 @@
     "Date": "2019/03/31",
     "Start": "2:26 PM",
     "Finish": "3:29 PM",
-    "Minutes": "63",
     "Duration": "01:03:00"
   },
   {
@@ -761,7 +677,6 @@
     "Date": "2019/03/31",
     "Start": "6:18 PM",
     "Finish": "6:35 PM",
-    "Minutes": "17",
     "Duration": "00:17:00"
   },
   {
@@ -770,7 +685,6 @@
     "Date": "2019/03/01",
     "Start": "2:09 AM",
     "Finish": "11:01 AM",
-    "Minutes": "532",
     "Duration": "08:52:00"
   },
   {
@@ -779,7 +693,6 @@
     "Date": "2019/03/02",
     "Start": "2:00 AM",
     "Finish": "10:35 AM",
-    "Minutes": "515",
     "Duration": "08:35:00"
   },
   {
@@ -788,7 +701,6 @@
     "Date": "2019/03/03",
     "Start": "2:10 AM",
     "Finish": "10:12 AM",
-    "Minutes": "482",
     "Duration": "08:02:00"
   },
   {
@@ -797,7 +709,6 @@
     "Date": "2019/03/04",
     "Start": "1:48 AM",
     "Finish": "10:02 AM",
-    "Minutes": "494",
     "Duration": "08:14:00"
   },
   {
@@ -806,7 +717,6 @@
     "Date": "2019/03/05",
     "Start": "2:30 AM",
     "Finish": "10:17 AM",
-    "Minutes": "467",
     "Duration": "07:47:00"
   },
   {
@@ -815,7 +725,6 @@
     "Date": "2019/03/06",
     "Start": "3:09 AM",
     "Finish": "4:34 AM",
-    "Minutes": "85",
     "Duration": "01:25:00"
   },
   {
@@ -824,7 +733,6 @@
     "Date": "2019/03/06",
     "Start": "5:14 AM",
     "Finish": "10:03 AM",
-    "Minutes": "289",
     "Duration": "04:49:00"
   },
   {
@@ -833,7 +741,6 @@
     "Date": "2019/03/07",
     "Start": "2:20 AM",
     "Finish": "11:20 AM",
-    "Minutes": "540",
     "Duration": "09:00:00"
   },
   {
@@ -842,7 +749,6 @@
     "Date": "2019/03/08",
     "Start": "2:20 AM",
     "Finish": "10:03 AM",
-    "Minutes": "463",
     "Duration": "07:43:00"
   },
   {
@@ -851,7 +757,6 @@
     "Date": "2019/03/09",
     "Start": "2:35 AM",
     "Finish": "11:05 AM",
-    "Minutes": "510",
     "Duration": "08:30:00"
   },
   {
@@ -860,7 +765,6 @@
     "Date": "2019/03/10",
     "Start": "3:18 AM",
     "Finish": "10:52 AM",
-    "Minutes": "454",
     "Duration": "07:34:00"
   },
   {
@@ -869,7 +773,6 @@
     "Date": "2019/03/11",
     "Start": "2:02 AM",
     "Finish": "10:28 AM",
-    "Minutes": "506",
     "Duration": "08:26:00"
   },
   {
@@ -878,7 +781,6 @@
     "Date": "2019/03/12",
     "Start": "2:45 AM",
     "Finish": "11:45 AM",
-    "Minutes": "540",
     "Duration": "09:00:00"
   },
   {
@@ -887,7 +789,6 @@
     "Date": "2019/03/13",
     "Start": "3:30 AM",
     "Finish": "12:00 PM",
-    "Minutes": "510",
     "Duration": "08:30:00"
   },
   {
@@ -896,7 +797,6 @@
     "Date": "2019/03/14",
     "Start": "3:18 AM",
     "Finish": "11:17 AM",
-    "Minutes": "479",
     "Duration": "07:59:00"
   },
   {
@@ -905,7 +805,6 @@
     "Date": "2019/03/15",
     "Start": "2:59 AM",
     "Finish": "11:19 AM",
-    "Minutes": "500",
     "Duration": "08:20:00"
   },
   {
@@ -914,7 +813,6 @@
     "Date": "2019/03/16",
     "Start": "1:20 AM",
     "Finish": "7:56 AM",
-    "Minutes": "396",
     "Duration": "06:36:00"
   },
   {
@@ -923,7 +821,6 @@
     "Date": "2019/03/17",
     "Start": "4:05 AM",
     "Finish": "10:20 AM",
-    "Minutes": "375",
     "Duration": "06:15:00"
   },
   {
@@ -932,7 +829,6 @@
     "Date": "2019/03/18",
     "Start": "3:19 AM",
     "Finish": "11:29 AM",
-    "Minutes": "490",
     "Duration": "08:10:00"
   },
   {
@@ -941,7 +837,6 @@
     "Date": "2019/03/19",
     "Start": "2:49 AM",
     "Finish": "11:26 AM",
-    "Minutes": "517",
     "Duration": "08:37:00"
   },
   {
@@ -950,7 +845,6 @@
     "Date": "2019/03/20",
     "Start": "2:18 AM",
     "Finish": "10:13 AM",
-    "Minutes": "475",
     "Duration": "07:55:00"
   },
   {
@@ -959,7 +853,6 @@
     "Date": "2019/03/21",
     "Start": "3:42 AM",
     "Finish": "9:00 AM",
-    "Minutes": "318",
     "Duration": "05:18:00"
   },
   {
@@ -968,7 +861,6 @@
     "Date": "2019/03/22",
     "Start": "11:30 AM",
     "Finish": "11:59 PM",
-    "Minutes": "750",
     "Duration": "12:30:00"
   },
   {
@@ -977,7 +869,6 @@
     "Date": "2019/03/23",
     "Start": "12:00 AM",
     "Finish": "10:07 AM",
-    "Minutes": "607",
     "Duration": "10:07:00"
   },
   {
@@ -986,7 +877,6 @@
     "Date": "2019/03/24",
     "Start": "3:07 AM",
     "Finish": "12:09 PM",
-    "Minutes": "542",
     "Duration": "09:02:00"
   },
   {
@@ -995,7 +885,6 @@
     "Date": "2019/03/25",
     "Start": "2:13 AM",
     "Finish": "9:20 AM",
-    "Minutes": "427",
     "Duration": "07:07:00"
   },
   {
@@ -1004,7 +893,6 @@
     "Date": "2019/03/26",
     "Start": "12:58 AM",
     "Finish": "10:34 AM",
-    "Minutes": "576",
     "Duration": "09:36:00"
   },
   {
@@ -1013,7 +901,6 @@
     "Date": "2019/03/27",
     "Start": "2:01 AM",
     "Finish": "11:22 AM",
-    "Minutes": "561",
     "Duration": "09:21:00"
   },
   {
@@ -1022,7 +909,6 @@
     "Date": "2019/03/28",
     "Start": "2:20 AM",
     "Finish": "8:52 AM",
-    "Minutes": "392",
     "Duration": "06:32:00"
   },
   {
@@ -1031,7 +917,6 @@
     "Date": "2019/03/29",
     "Start": "2:03 AM",
     "Finish": "10:45 AM",
-    "Minutes": "522",
     "Duration": "08:42:00"
   },
   {
@@ -1040,7 +925,6 @@
     "Date": "2019/03/30",
     "Start": "2:40 AM",
     "Finish": "11:12 AM",
-    "Minutes": "512",
     "Duration": "08:32:00"
   },
   {
@@ -1049,7 +933,6 @@
     "Date": "2019/03/31",
     "Start": "3:14 AM",
     "Finish": "9:01 AM",
-    "Minutes": "347",
     "Duration": "05:47:00"
   },
   {
@@ -1058,7 +941,6 @@
     "Date": "2019/03/02",
     "Start": "4:31 PM",
     "Finish": "9:40 PM",
-    "Minutes": "309",
     "Duration": "05:09:00"
   },
   {
@@ -1067,7 +949,6 @@
     "Date": "2019/03/04",
     "Start": "1:36 PM",
     "Finish": "6:12 PM",
-    "Minutes": "276",
     "Duration": "04:36:00"
   },
   {
@@ -1076,7 +957,6 @@
     "Date": "2019/03/05",
     "Start": "11:15 AM",
     "Finish": "2:50 PM",
-    "Minutes": "215",
     "Duration": "03:35:00"
   },
   {
@@ -1085,7 +965,6 @@
     "Date": "2019/03/05",
     "Start": "10:27 PM",
     "Finish": "11:59 PM",
-    "Minutes": "93",
     "Duration": "01:33:00"
   },
   {
@@ -1094,7 +973,6 @@
     "Date": "2019/03/06",
     "Start": "12:00 AM",
     "Finish": "12:16 AM",
-    "Minutes": "16",
     "Duration": "00:16:00"
   },
   {
@@ -1103,7 +981,6 @@
     "Date": "2019/03/10",
     "Start": "12:21 AM",
     "Finish": "1:56 AM",
-    "Minutes": "95",
     "Duration": "01:35:00"
   },
   {
@@ -1112,7 +989,6 @@
     "Date": "2019/03/10",
     "Start": "11:21 AM",
     "Finish": "2:44 PM",
-    "Minutes": "203",
     "Duration": "03:23:00"
   },
   {
@@ -1121,7 +997,6 @@
     "Date": "2019/03/10",
     "Start": "3:48 PM",
     "Finish": "6:06 PM",
-    "Minutes": "138",
     "Duration": "02:18:00"
   },
   {
@@ -1130,7 +1005,6 @@
     "Date": "2019/03/13",
     "Start": "4:46 PM",
     "Finish": "7:25 PM",
-    "Minutes": "159",
     "Duration": "02:39:00"
   },
   {
@@ -1139,7 +1013,6 @@
     "Date": "2019/03/15",
     "Start": "7:47 PM",
     "Finish": "9:41 PM",
-    "Minutes": "114",
     "Duration": "01:54:00"
   },
   {
@@ -1148,7 +1021,6 @@
     "Date": "2019/03/21",
     "Start": "3:46 PM",
     "Finish": "6:46 PM",
-    "Minutes": "180",
     "Duration": "03:00:00"
   },
   {
@@ -1157,7 +1029,6 @@
     "Date": "2019/03/30",
     "Start": "8:38 PM",
     "Finish": "10:57 PM",
-    "Minutes": "139",
     "Duration": "02:19:00"
   },
   {
@@ -1166,7 +1037,6 @@
     "Date": "2019/03/06",
     "Start": "6:03 PM",
     "Finish": "9:48 PM",
-    "Minutes": "225",
     "Duration": "03:45:00"
   },
   {
@@ -1175,7 +1045,6 @@
     "Date": "2019/03/07",
     "Start": "6:15 PM",
     "Finish": "8:55 PM",
-    "Minutes": "160",
     "Duration": "02:40:00"
   },
   {
@@ -1184,7 +1053,6 @@
     "Date": "2019/03/09",
     "Start": "4:00 PM",
     "Finish": "5:20 PM",
-    "Minutes": "80",
     "Duration": "01:20:00"
   },
   {
@@ -1193,7 +1061,6 @@
     "Date": "2019/03/11",
     "Start": "6:05 PM",
     "Finish": "6:30 PM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -1202,7 +1069,6 @@
     "Date": "2019/03/21",
     "Start": "2:57 PM",
     "Finish": "3:46 PM",
-    "Minutes": "49",
     "Duration": "00:49:00"
   },
   {
@@ -1211,7 +1077,6 @@
     "Date": "2019/03/02",
     "Start": "11:16 AM",
     "Finish": "12:20 PM",
-    "Minutes": "64",
     "Duration": "01:04:00"
   },
   {
@@ -1220,7 +1085,6 @@
     "Date": "2019/03/02",
     "Start": "9:40 PM",
     "Finish": "11:51 PM",
-    "Minutes": "131",
     "Duration": "02:11:00"
   },
   {
@@ -1229,7 +1093,6 @@
     "Date": "2019/03/04",
     "Start": "6:12 PM",
     "Finish": "9:00 PM",
-    "Minutes": "168",
     "Duration": "02:48:00"
   },
   {
@@ -1238,7 +1101,6 @@
     "Date": "2019/03/06",
     "Start": "10:19 AM",
     "Finish": "11:18 AM",
-    "Minutes": "59",
     "Duration": "00:59:00"
   },
   {
@@ -1247,7 +1109,6 @@
     "Date": "2019/03/06",
     "Start": "1:09 PM",
     "Finish": "2:00 PM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -1256,7 +1117,6 @@
     "Date": "2019/03/08",
     "Start": "5:50 PM",
     "Finish": "6:33 PM",
-    "Minutes": "43",
     "Duration": "00:43:00"
   },
   {
@@ -1265,7 +1125,6 @@
     "Date": "2019/03/09",
     "Start": "9:48 PM",
     "Finish": "10:53 PM",
-    "Minutes": "65",
     "Duration": "01:05:00"
   },
   {
@@ -1274,7 +1133,6 @@
     "Date": "2019/03/10",
     "Start": "2:44 PM",
     "Finish": "3:48 PM",
-    "Minutes": "64",
     "Duration": "01:04:00"
   },
   {
@@ -1283,7 +1141,6 @@
     "Date": "2019/03/10",
     "Start": "7:00 PM",
     "Finish": "7:57 PM",
-    "Minutes": "57",
     "Duration": "00:57:00"
   },
   {
@@ -1292,7 +1149,6 @@
     "Date": "2019/03/11",
     "Start": "12:36 PM",
     "Finish": "1:46 PM",
-    "Minutes": "70",
     "Duration": "01:10:00"
   },
   {
@@ -1301,7 +1157,6 @@
     "Date": "2019/03/11",
     "Start": "7:49 PM",
     "Finish": "9:02 PM",
-    "Minutes": "73",
     "Duration": "01:13:00"
   },
   {
@@ -1310,7 +1165,6 @@
     "Date": "2019/03/12",
     "Start": "12:26 PM",
     "Finish": "12:41 PM",
-    "Minutes": "15",
     "Duration": "00:15:00"
   },
   {
@@ -1319,7 +1173,6 @@
     "Date": "2019/03/13",
     "Start": "9:26 PM",
     "Finish": "9:51 PM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -1328,7 +1181,6 @@
     "Date": "2019/03/15",
     "Start": "12:18 PM",
     "Finish": "12:43 PM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -1337,7 +1189,6 @@
     "Date": "2019/03/15",
     "Start": "9:41 PM",
     "Finish": "9:54 PM",
-    "Minutes": "13",
     "Duration": "00:13:00"
   },
   {
@@ -1346,7 +1197,6 @@
     "Date": "2019/03/16",
     "Start": "8:08 PM",
     "Finish": "10:49 PM",
-    "Minutes": "161",
     "Duration": "02:41:00"
   },
   {
@@ -1355,7 +1205,6 @@
     "Date": "2019/03/20",
     "Start": "6:03 PM",
     "Finish": "6:47 PM",
-    "Minutes": "44",
     "Duration": "00:44:00"
   },
   {
@@ -1364,7 +1213,6 @@
     "Date": "2019/03/21",
     "Start": "7:52 PM",
     "Finish": "8:33 PM",
-    "Minutes": "41",
     "Duration": "00:41:00"
   },
   {
@@ -1373,7 +1221,6 @@
     "Date": "2019/03/22",
     "Start": "10:48 AM",
     "Finish": "11:36 AM",
-    "Minutes": "48",
     "Duration": "00:48:00"
   },
   {
@@ -1382,7 +1229,6 @@
     "Date": "2019/03/24",
     "Start": "2:54 PM",
     "Finish": "3:42 PM",
-    "Minutes": "48",
     "Duration": "00:48:00"
   },
   {
@@ -1391,7 +1237,6 @@
     "Date": "2019/03/26",
     "Start": "2:33 PM",
     "Finish": "3:05 PM",
-    "Minutes": "32",
     "Duration": "00:32:00"
   },
   {
@@ -1400,7 +1245,6 @@
     "Date": "2019/03/29",
     "Start": "11:04 AM",
     "Finish": "12:06 PM",
-    "Minutes": "62",
     "Duration": "01:02:00"
   },
   {
@@ -1409,7 +1253,6 @@
     "Date": "2019/03/30",
     "Start": "11:35 AM",
     "Finish": "12:13 PM",
-    "Minutes": "38",
     "Duration": "00:38:00"
   },
   {
@@ -1418,7 +1261,6 @@
     "Date": "2019/03/31",
     "Start": "3:29 PM",
     "Finish": "5:31 PM",
-    "Minutes": "122",
     "Duration": "02:02:00"
   },
   {
@@ -1427,7 +1269,6 @@
     "Date": "2019/03/13",
     "Start": "2:41 PM",
     "Finish": "4:46 PM",
-    "Minutes": "125",
     "Duration": "02:05:00"
   },
   {
@@ -1436,7 +1277,6 @@
     "Date": "2019/03/04",
     "Start": "1:03 PM",
     "Finish": "4:18 PM",
-    "Minutes": "195",
     "Duration": "03:15:00"
   },
   {
@@ -1445,7 +1285,6 @@
     "Date": "2019/03/05",
     "Start": "10:33 AM",
     "Finish": "11:15 AM",
-    "Minutes": "42",
     "Duration": "00:42:00"
   },
   {
@@ -1454,7 +1293,6 @@
     "Date": "2019/03/06",
     "Start": "6:03 PM",
     "Finish": "9:47 PM",
-    "Minutes": "224",
     "Duration": "03:44:00"
   },
   {
@@ -1463,7 +1301,6 @@
     "Date": "2019/03/08",
     "Start": "4:12 PM",
     "Finish": "6:33 PM",
-    "Minutes": "141",
     "Duration": "02:21:00"
   },
   {
@@ -1472,7 +1309,6 @@
     "Date": "2019/03/11",
     "Start": "1:54 AM",
     "Finish": "2:02 AM",
-    "Minutes": "8",
     "Duration": "00:08:00"
   },
   {
@@ -1481,7 +1317,6 @@
     "Date": "2019/03/13",
     "Start": "2:41 PM",
     "Finish": "4:09 PM",
-    "Minutes": "88",
     "Duration": "01:28:00"
   },
   {
@@ -1490,7 +1325,6 @@
     "Date": "2019/03/13",
     "Start": "4:46 PM",
     "Finish": "7:49 PM",
-    "Minutes": "183",
     "Duration": "03:03:00"
   },
   {
@@ -1499,7 +1333,6 @@
     "Date": "2019/03/30",
     "Start": "8:55 PM",
     "Finish": "9:22 PM",
-    "Minutes": "27",
     "Duration": "00:27:00"
   },
   {
@@ -1508,7 +1341,6 @@
     "Date": "2019/03/02",
     "Start": "1:40 AM",
     "Finish": "2:00 AM",
-    "Minutes": "20",
     "Duration": "00:20:00"
   },
   {
@@ -1517,7 +1349,6 @@
     "Date": "2019/03/02",
     "Start": "9:40 PM",
     "Finish": "10:06 PM",
-    "Minutes": "26",
     "Duration": "00:26:00"
   },
   {
@@ -1526,7 +1357,6 @@
     "Date": "2019/03/03",
     "Start": "1:43 AM",
     "Finish": "2:10 AM",
-    "Minutes": "27",
     "Duration": "00:27:00"
   },
   {
@@ -1535,7 +1365,6 @@
     "Date": "2019/03/04",
     "Start": "6:12 PM",
     "Finish": "8:10 PM",
-    "Minutes": "118",
     "Duration": "01:58:00"
   },
   {
@@ -1544,7 +1373,6 @@
     "Date": "2019/03/05",
     "Start": "12:22 AM",
     "Finish": "2:17 AM",
-    "Minutes": "115",
     "Duration": "01:55:00"
   },
   {
@@ -1553,7 +1381,6 @@
     "Date": "2019/03/05",
     "Start": "11:15 AM",
     "Finish": "2:50 PM",
-    "Minutes": "215",
     "Duration": "03:35:00"
   },
   {
@@ -1562,7 +1389,6 @@
     "Date": "2019/03/05",
     "Start": "2:50 PM",
     "Finish": "3:32 PM",
-    "Minutes": "42",
     "Duration": "00:42:00"
   },
   {
@@ -1571,7 +1397,6 @@
     "Date": "2019/03/06",
     "Start": "12:37 AM",
     "Finish": "2:25 AM",
-    "Minutes": "108",
     "Duration": "01:48:00"
   },
   {
@@ -1580,7 +1405,6 @@
     "Date": "2019/03/06",
     "Start": "10:19 AM",
     "Finish": "2:00 PM",
-    "Minutes": "221",
     "Duration": "03:41:00"
   },
   {
@@ -1589,7 +1413,6 @@
     "Date": "2019/03/06",
     "Start": "3:35 PM",
     "Finish": "4:01 PM",
-    "Minutes": "26",
     "Duration": "00:26:00"
   },
   {
@@ -1598,7 +1421,6 @@
     "Date": "2019/03/08",
     "Start": "1:15 AM",
     "Finish": "2:20 AM",
-    "Minutes": "65",
     "Duration": "01:05:00"
   },
   {
@@ -1607,7 +1429,6 @@
     "Date": "2019/03/08",
     "Start": "2:15 PM",
     "Finish": "2:30 PM",
-    "Minutes": "15",
     "Duration": "00:15:00"
   },
   {
@@ -1616,7 +1437,6 @@
     "Date": "2019/03/08",
     "Start": "3:05 PM",
     "Finish": "4:12 PM",
-    "Minutes": "67",
     "Duration": "01:07:00"
   },
   {
@@ -1625,7 +1445,6 @@
     "Date": "2019/03/08",
     "Start": "6:35 PM",
     "Finish": "8:07 PM",
-    "Minutes": "92",
     "Duration": "01:32:00"
   },
   {
@@ -1634,7 +1453,6 @@
     "Date": "2019/03/09",
     "Start": "1:49 AM",
     "Finish": "2:36 AM",
-    "Minutes": "47",
     "Duration": "00:47:00"
   },
   {
@@ -1643,7 +1461,6 @@
     "Date": "2019/03/09",
     "Start": "7:31 PM",
     "Finish": "10:10 PM",
-    "Minutes": "159",
     "Duration": "02:39:00"
   },
   {
@@ -1652,7 +1469,6 @@
     "Date": "2019/03/10",
     "Start": "12:48 AM",
     "Finish": "3:15 AM",
-    "Minutes": "87",
     "Duration": "01:27:00"
   },
   {
@@ -1661,7 +1477,6 @@
     "Date": "2019/03/10",
     "Start": "11:21 AM",
     "Finish": "5:15 PM",
-    "Minutes": "354",
     "Duration": "05:54:00"
   },
   {
@@ -1670,7 +1485,6 @@
     "Date": "2019/03/11",
     "Start": "11:43 AM",
     "Finish": "8:10 PM",
-    "Minutes": "507",
     "Duration": "08:27:00"
   },
   {
@@ -1679,7 +1493,6 @@
     "Date": "2019/03/12",
     "Start": "12:28 AM",
     "Finish": "2:00 AM",
-    "Minutes": "92",
     "Duration": "01:32:00"
   },
   {
@@ -1688,7 +1501,6 @@
     "Date": "2019/03/12",
     "Start": "12:26 PM",
     "Finish": "3:30 PM",
-    "Minutes": "184",
     "Duration": "03:04:00"
   },
   {
@@ -1697,7 +1509,6 @@
     "Date": "2019/03/13",
     "Start": "2:30 PM",
     "Finish": "2:41 PM",
-    "Minutes": "11",
     "Duration": "00:11:00"
   },
   {
@@ -1706,7 +1517,6 @@
     "Date": "2019/03/13",
     "Start": "9:26 PM",
     "Finish": "10:01 PM",
-    "Minutes": "35",
     "Duration": "00:35:00"
   },
   {
@@ -1715,7 +1525,6 @@
     "Date": "2019/03/14",
     "Start": "1:54 AM",
     "Finish": "2:48 AM",
-    "Minutes": "54",
     "Duration": "00:54:00"
   },
   {
@@ -1724,7 +1533,6 @@
     "Date": "2019/03/15",
     "Start": "2:41 AM",
     "Finish": "2:59 AM",
-    "Minutes": "18",
     "Duration": "00:18:00"
   },
   {
@@ -1733,7 +1541,6 @@
     "Date": "2019/03/15",
     "Start": "1:34 PM",
     "Finish": "3:11 PM",
-    "Minutes": "97",
     "Duration": "01:37:00"
   },
   {
@@ -1742,7 +1549,6 @@
     "Date": "2019/03/15",
     "Start": "7:47 PM",
     "Finish": "9:59 PM",
-    "Minutes": "132",
     "Duration": "02:12:00"
   },
   {
@@ -1751,7 +1557,6 @@
     "Date": "2019/03/16",
     "Start": "10:49 PM",
     "Finish": "11:59 PM",
-    "Minutes": "71",
     "Duration": "01:11:00"
   },
   {
@@ -1760,7 +1565,6 @@
     "Date": "2019/03/17",
     "Start": "12:00 AM",
     "Finish": "12:49 AM",
-    "Minutes": "49",
     "Duration": "00:49:00"
   },
   {
@@ -1769,7 +1573,6 @@
     "Date": "2019/03/17",
     "Start": "3:03 AM",
     "Finish": "4:00 AM",
-    "Minutes": "57",
     "Duration": "00:57:00"
   },
   {
@@ -1778,7 +1581,6 @@
     "Date": "2019/03/18",
     "Start": "12:25 AM",
     "Finish": "1:30 AM",
-    "Minutes": "65",
     "Duration": "01:05:00"
   },
   {
@@ -1787,7 +1589,6 @@
     "Date": "2019/03/20",
     "Start": "6:03 PM",
     "Finish": "6:48 PM",
-    "Minutes": "45",
     "Duration": "00:45:00"
   },
   {
@@ -1796,7 +1597,6 @@
     "Date": "2019/03/21",
     "Start": "2:37 AM",
     "Finish": "3:42 AM",
-    "Minutes": "65",
     "Duration": "01:05:00"
   },
   {
@@ -1805,7 +1605,6 @@
     "Date": "2019/03/21",
     "Start": "9:00 AM",
     "Finish": "10:31 AM",
-    "Minutes": "91",
     "Duration": "01:31:00"
   },
   {
@@ -1814,7 +1613,6 @@
     "Date": "2019/03/21",
     "Start": "6:46 PM",
     "Finish": "7:52 PM",
-    "Minutes": "66",
     "Duration": "01:06:00"
   },
   {
@@ -1823,7 +1621,6 @@
     "Date": "2019/03/22",
     "Start": "2:49 AM",
     "Finish": "3:20 AM",
-    "Minutes": "31",
     "Duration": "00:31:00"
   },
   {
@@ -1832,7 +1629,6 @@
     "Date": "2019/03/25",
     "Start": "11:30 AM",
     "Finish": "12:59 PM",
-    "Minutes": "89",
     "Duration": "01:29:00"
   },
   {
@@ -1841,7 +1637,6 @@
     "Date": "2019/03/25",
     "Start": "2:51 PM",
     "Finish": "3:51 PM",
-    "Minutes": "60",
     "Duration": "01:00:00"
   },
   {
@@ -1850,7 +1645,6 @@
     "Date": "2019/03/25",
     "Start": "4:21 PM",
     "Finish": "5:13 PM",
-    "Minutes": "52",
     "Duration": "00:52:00"
   },
   {
@@ -1859,7 +1653,6 @@
     "Date": "2019/03/25",
     "Start": "5:15 PM",
     "Finish": "5:47 PM",
-    "Minutes": "32",
     "Duration": "00:32:00"
   },
   {
@@ -1868,7 +1661,6 @@
     "Date": "2019/03/26",
     "Start": "3:05 PM",
     "Finish": "3:40 PM",
-    "Minutes": "35",
     "Duration": "00:35:00"
   },
   {
@@ -1877,7 +1669,6 @@
     "Date": "2019/03/27",
     "Start": "2:05 PM",
     "Finish": "4:06 PM",
-    "Minutes": "121",
     "Duration": "02:01:00"
   },
   {
@@ -1886,7 +1677,6 @@
     "Date": "2019/03/28",
     "Start": "5:13 PM",
     "Finish": "6:04 PM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -1895,7 +1685,6 @@
     "Date": "2019/03/28",
     "Start": "7:33 PM",
     "Finish": "8:09 PM",
-    "Minutes": "36",
     "Duration": "00:36:00"
   },
   {
@@ -1904,7 +1693,6 @@
     "Date": "2019/03/30",
     "Start": "11:40 AM",
     "Finish": "12:05 PM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -1913,7 +1701,6 @@
     "Date": "2019/03/30",
     "Start": "6:36 PM",
     "Finish": "8:55 PM",
-    "Minutes": "139",
     "Duration": "02:19:00"
   },
   {
@@ -1922,7 +1709,6 @@
     "Date": "2019/03/30",
     "Start": "9:22 PM",
     "Finish": "10:04 PM",
-    "Minutes": "42",
     "Duration": "00:42:00"
   },
   {
@@ -1931,7 +1717,6 @@
     "Date": "2019/03/31",
     "Start": "1:36 AM",
     "Finish": "3:14 AM",
-    "Minutes": "98",
     "Duration": "01:38:00"
   },
   {
@@ -1940,7 +1725,6 @@
     "Date": "2019/03/31",
     "Start": "2:26 PM",
     "Finish": "4:53 PM",
-    "Minutes": "147",
     "Duration": "02:27:00"
   },
   {
@@ -1949,7 +1733,6 @@
     "Date": "2019/03/31",
     "Start": "5:31 PM",
     "Finish": "7:03 PM",
-    "Minutes": "92",
     "Duration": "01:32:00"
   },
   {
@@ -1958,7 +1741,6 @@
     "Date": "2019/03/06",
     "Start": "11:18 AM",
     "Finish": "1:09 PM",
-    "Minutes": "111",
     "Duration": "01:51:00"
   },
   {
@@ -1967,7 +1749,6 @@
     "Date": "2019/03/11",
     "Start": "11:30 AM",
     "Finish": "12:14 PM",
-    "Minutes": "44",
     "Duration": "00:44:00"
   },
   {
@@ -1976,7 +1757,6 @@
     "Date": "2019/03/11",
     "Start": "5:55 PM",
     "Finish": "6:05 PM",
-    "Minutes": "10",
     "Duration": "00:10:00"
   },
   {
@@ -1985,7 +1765,6 @@
     "Date": "2019/03/12",
     "Start": "5:58 PM",
     "Finish": "6:01 PM",
-    "Minutes": "3",
     "Duration": "00:03:00"
   },
   {
@@ -1994,7 +1773,6 @@
     "Date": "2019/03/08",
     "Start": "5:29 PM",
     "Finish": "5:50 PM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2003,7 +1781,6 @@
     "Date": "2019/03/11",
     "Start": "12:14 PM",
     "Finish": "12:36 PM",
-    "Minutes": "22",
     "Duration": "00:22:00"
   },
   {
@@ -2012,7 +1789,6 @@
     "Date": "2019/03/11",
     "Start": "1:46 PM",
     "Finish": "6:00 PM",
-    "Minutes": "254",
     "Duration": "04:14:00"
   },
   {
@@ -2021,7 +1797,6 @@
     "Date": "2019/03/12",
     "Start": "12:41 PM",
     "Finish": "5:12 PM",
-    "Minutes": "271",
     "Duration": "04:31:00"
   },
   {
@@ -2030,7 +1805,6 @@
     "Date": "2019/03/13",
     "Start": "1:23 AM",
     "Finish": "3:30 AM",
-    "Minutes": "127",
     "Duration": "02:07:00"
   },
   {
@@ -2039,7 +1813,6 @@
     "Date": "2019/03/13",
     "Start": "9:51 PM",
     "Finish": "10:40 PM",
-    "Minutes": "49",
     "Duration": "00:49:00"
   },
   {
@@ -2048,7 +1821,6 @@
     "Date": "2019/03/15",
     "Start": "12:44 AM",
     "Finish": "2:05 AM",
-    "Minutes": "81",
     "Duration": "01:21:00"
   },
   {
@@ -2057,7 +1829,6 @@
     "Date": "2019/03/15",
     "Start": "2:41 PM",
     "Finish": "3:11 PM",
-    "Minutes": "30",
     "Duration": "00:30:00"
   },
   {
@@ -2066,7 +1837,6 @@
     "Date": "2019/03/20",
     "Start": "11:30 AM",
     "Finish": "12:10 PM",
-    "Minutes": "40",
     "Duration": "00:40:00"
   },
   {
@@ -2075,7 +1845,6 @@
     "Date": "2019/03/20",
     "Start": "12:30 PM",
     "Finish": "4:03 PM",
-    "Minutes": "213",
     "Duration": "03:33:00"
   },
   {
@@ -2084,7 +1853,6 @@
     "Date": "2019/03/20",
     "Start": "4:21 PM",
     "Finish": "6:03 PM",
-    "Minutes": "102",
     "Duration": "01:42:00"
   },
   {
@@ -2093,7 +1861,6 @@
     "Date": "2019/03/27",
     "Start": "11:39 PM",
     "Finish": "11:59 PM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2102,7 +1869,6 @@
     "Date": "2019/03/28",
     "Start": "12:00 AM",
     "Finish": "12:29 AM",
-    "Minutes": "29",
     "Duration": "00:29:00"
   },
   {
@@ -2111,7 +1877,6 @@
     "Date": "2019/03/04",
     "Start": "10:02 AM",
     "Finish": "10:14 AM",
-    "Minutes": "12",
     "Duration": "00:12:00"
   },
   {
@@ -2120,7 +1885,6 @@
     "Date": "2019/03/04",
     "Start": "11:41 PM",
     "Finish": "11:59 PM",
-    "Minutes": "19",
     "Duration": "00:19:00"
   },
   {
@@ -2129,7 +1893,6 @@
     "Date": "2019/03/05",
     "Start": "12:00 AM",
     "Finish": "12:13 AM",
-    "Minutes": "13",
     "Duration": "00:13:00"
   },
   {
@@ -2138,7 +1901,6 @@
     "Date": "2019/03/05",
     "Start": "10:17 AM",
     "Finish": "10:33 AM",
-    "Minutes": "16",
     "Duration": "00:16:00"
   },
   {
@@ -2147,7 +1909,6 @@
     "Date": "2019/03/05",
     "Start": "3:32 PM",
     "Finish": "3:35 PM",
-    "Minutes": "3",
     "Duration": "00:03:00"
   },
   {
@@ -2156,7 +1917,6 @@
     "Date": "2019/03/06",
     "Start": "12:16 AM",
     "Finish": "12:37 AM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2165,7 +1925,6 @@
     "Date": "2019/03/06",
     "Start": "10:03 AM",
     "Finish": "10:19 AM",
-    "Minutes": "16",
     "Duration": "00:16:00"
   },
   {
@@ -2174,7 +1933,6 @@
     "Date": "2019/03/08",
     "Start": "10:03 AM",
     "Finish": "10:21 AM",
-    "Minutes": "18",
     "Duration": "00:18:00"
   },
   {
@@ -2183,7 +1941,6 @@
     "Date": "2019/03/08",
     "Start": "6:33 PM",
     "Finish": "8:07 PM",
-    "Minutes": "94",
     "Duration": "01:34:00"
   },
   {
@@ -2192,7 +1949,6 @@
     "Date": "2019/03/09",
     "Start": "1:44 AM",
     "Finish": "2:35 AM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -2201,7 +1957,6 @@
     "Date": "2019/03/09",
     "Start": "2:01 PM",
     "Finish": "2:20 PM",
-    "Minutes": "19",
     "Duration": "00:19:00"
   },
   {
@@ -2210,7 +1965,6 @@
     "Date": "2019/03/10",
     "Start": "10:52 AM",
     "Finish": "11:21 AM",
-    "Minutes": "29",
     "Duration": "00:29:00"
   },
   {
@@ -2219,7 +1973,6 @@
     "Date": "2019/03/11",
     "Start": "10:28 AM",
     "Finish": "11:43 AM",
-    "Minutes": "75",
     "Duration": "01:15:00"
   },
   {
@@ -2228,7 +1981,6 @@
     "Date": "2019/03/12",
     "Start": "11:45 AM",
     "Finish": "12:26 PM",
-    "Minutes": "41",
     "Duration": "00:41:00"
   },
   {
@@ -2237,7 +1989,6 @@
     "Date": "2019/03/15",
     "Start": "2:05 AM",
     "Finish": "2:41 AM",
-    "Minutes": "36",
     "Duration": "00:36:00"
   },
   {
@@ -2246,7 +1997,6 @@
     "Date": "2019/03/19",
     "Start": "1:37 AM",
     "Finish": "2:49 AM",
-    "Minutes": "72",
     "Duration": "01:12:00"
   },
   {
@@ -2255,7 +2005,6 @@
     "Date": "2019/03/20",
     "Start": "10:13 AM",
     "Finish": "11:00 AM",
-    "Minutes": "47",
     "Duration": "00:47:00"
   },
   {
@@ -2264,7 +2013,6 @@
     "Date": "2019/03/24",
     "Start": "12:09 PM",
     "Finish": "12:33 PM",
-    "Minutes": "24",
     "Duration": "00:24:00"
   },
   {
@@ -2273,7 +2021,6 @@
     "Date": "2019/03/26",
     "Start": "10:34 AM",
     "Finish": "10:55 AM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2282,7 +2029,6 @@
     "Date": "2019/03/29",
     "Start": "10:45 AM",
     "Finish": "11:04 AM",
-    "Minutes": "19",
     "Duration": "00:19:00"
   },
   {
@@ -2291,7 +2037,6 @@
     "Date": "2019/03/31",
     "Start": "10:10 AM",
     "Finish": "1:24 PM",
-    "Minutes": "194",
     "Duration": "03:14:00"
   },
   {
@@ -2300,7 +2045,6 @@
     "Date": "2019/03/13",
     "Start": "7:49 PM",
     "Finish": "9:26 PM",
-    "Minutes": "97",
     "Duration": "01:37:00"
   },
   {
@@ -2309,7 +2053,6 @@
     "Date": "2019/03/15",
     "Start": "5:57 PM",
     "Finish": "7:47 PM",
-    "Minutes": "110",
     "Duration": "01:50:00"
   },
   {
@@ -2318,7 +2061,6 @@
     "Date": "2019/03/04",
     "Start": "12:39 AM",
     "Finish": "1:11 AM",
-    "Minutes": "32",
     "Duration": "00:32:00"
   },
   {
@@ -2327,7 +2069,6 @@
     "Date": "2019/03/04",
     "Start": "1:25 AM",
     "Finish": "1:48 AM",
-    "Minutes": "23",
     "Duration": "00:23:00"
   },
   {
@@ -2336,7 +2077,6 @@
     "Date": "2019/03/05",
     "Start": "12:13 AM",
     "Finish": "12:22 AM",
-    "Minutes": "9",
     "Duration": "00:09:00"
   },
   {
@@ -2345,7 +2085,6 @@
     "Date": "2019/03/06",
     "Start": "2:25 AM",
     "Finish": "3:09 AM",
-    "Minutes": "44",
     "Duration": "00:44:00"
   },
   {
@@ -2354,7 +2093,6 @@
     "Date": "2019/03/06",
     "Start": "4:34 AM",
     "Finish": "5:14 AM",
-    "Minutes": "40",
     "Duration": "00:40:00"
   },
   {
@@ -2363,7 +2101,6 @@
     "Date": "2019/03/10",
     "Start": "3:15 AM",
     "Finish": "3:18 AM",
-    "Minutes": "3",
     "Duration": "00:03:00"
   },
   {
@@ -2372,7 +2109,6 @@
     "Date": "2019/03/12",
     "Start": "2:00 AM",
     "Finish": "2:45 AM",
-    "Minutes": "45",
     "Duration": "00:45:00"
   },
   {
@@ -2381,7 +2117,6 @@
     "Date": "2019/03/14",
     "Start": "2:48 AM",
     "Finish": "3:18 AM",
-    "Minutes": "30",
     "Duration": "00:30:00"
   },
   {
@@ -2390,7 +2125,6 @@
     "Date": "2019/03/17",
     "Start": "10:35 AM",
     "Finish": "11:00 AM",
-    "Minutes": "25",
     "Duration": "00:25:00"
   },
   {
@@ -2399,7 +2133,6 @@
     "Date": "2019/03/20",
     "Start": "1:57 AM",
     "Finish": "2:18 AM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2408,7 +2141,6 @@
     "Date": "2019/03/22",
     "Start": "3:20 AM",
     "Finish": "6:53 AM",
-    "Minutes": "213",
     "Duration": "03:33:00"
   },
   {
@@ -2417,7 +2149,6 @@
     "Date": "2019/03/25",
     "Start": "5:13 PM",
     "Finish": "5:15 PM",
-    "Minutes": "2",
     "Duration": "00:02:00"
   },
   {
@@ -2426,7 +2157,6 @@
     "Date": "2019/03/25",
     "Start": "5:47 PM",
     "Finish": "8:56 PM",
-    "Minutes": "189",
     "Duration": "03:09:00"
   },
   {
@@ -2435,7 +2165,6 @@
     "Date": "2019/03/26",
     "Start": "12:54 AM",
     "Finish": "12:57 AM",
-    "Minutes": "3",
     "Duration": "00:03:00"
   },
   {
@@ -2444,7 +2173,6 @@
     "Date": "2019/03/27",
     "Start": "1:10 AM",
     "Finish": "2:01 AM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -2453,7 +2181,6 @@
     "Date": "2019/03/27",
     "Start": "5:48 PM",
     "Finish": "7:24 PM",
-    "Minutes": "96",
     "Duration": "01:36:00"
   },
   {
@@ -2462,7 +2189,6 @@
     "Date": "2019/03/27",
     "Start": "10:53 PM",
     "Finish": "11:39 PM",
-    "Minutes": "46",
     "Duration": "00:46:00"
   },
   {
@@ -2471,7 +2197,6 @@
     "Date": "2019/03/28",
     "Start": "12:51 AM",
     "Finish": "2:20 AM",
-    "Minutes": "89",
     "Duration": "01:29:00"
   },
   {
@@ -2480,7 +2205,6 @@
     "Date": "2019/03/29",
     "Start": "12:32 AM",
     "Finish": "2:03 AM",
-    "Minutes": "91",
     "Duration": "01:31:00"
   },
   {
@@ -2489,7 +2213,6 @@
     "Date": "2019/03/29",
     "Start": "12:42 PM",
     "Finish": "12:51 PM",
-    "Minutes": "9",
     "Duration": "00:09:00"
   },
   {
@@ -2498,7 +2221,6 @@
     "Date": "2019/03/29",
     "Start": "1:17 PM",
     "Finish": "1:47 PM",
-    "Minutes": "30",
     "Duration": "00:30:00"
   },
   {
@@ -2507,7 +2229,6 @@
     "Date": "2019/03/29",
     "Start": "2:17 PM",
     "Finish": "3:07 PM",
-    "Minutes": "50",
     "Duration": "00:50:00"
   },
   {
@@ -2516,7 +2237,6 @@
     "Date": "2019/03/29",
     "Start": "5:16 PM",
     "Finish": "5:57 PM",
-    "Minutes": "41",
     "Duration": "00:41:00"
   },
   {
@@ -2525,7 +2245,6 @@
     "Date": "2019/03/29",
     "Start": "10:29 PM",
     "Finish": "11:59 PM",
-    "Minutes": "91",
     "Duration": "01:31:00"
   },
   {
@@ -2534,7 +2253,6 @@
     "Date": "2019/03/30",
     "Start": "12:00 AM",
     "Finish": "12:08 AM",
-    "Minutes": "8",
     "Duration": "00:08:00"
   },
   {
@@ -2543,7 +2261,6 @@
     "Date": "2019/03/30",
     "Start": "1:45 AM",
     "Finish": "2:40 AM",
-    "Minutes": "55",
     "Duration": "00:55:00"
   },
   {
@@ -2552,7 +2269,6 @@
     "Date": "2019/03/31",
     "Start": "12:31 AM",
     "Finish": "12:32 AM",
-    "Minutes": "1",
     "Duration": "00:01:00"
   },
   {
@@ -2561,7 +2277,6 @@
     "Date": "2019/03/01",
     "Start": "12:00 AM",
     "Finish": "12:27 AM",
-    "Minutes": "27",
     "Duration": "00:27:00"
   },
   {
@@ -2570,7 +2285,6 @@
     "Date": "2019/03/01",
     "Start": "12:30 AM",
     "Finish": "2:09 AM",
-    "Minutes": "99",
     "Duration": "01:39:00"
   },
   {
@@ -2579,7 +2293,6 @@
     "Date": "2019/03/01",
     "Start": "6:00 PM",
     "Finish": "11:59 PM",
-    "Minutes": "360",
     "Duration": "06:00:00"
   },
   {
@@ -2588,7 +2301,6 @@
     "Date": "2019/03/02",
     "Start": "12:00 AM",
     "Finish": "1:39 AM",
-    "Minutes": "99",
     "Duration": "01:39:00"
   },
   {
@@ -2597,7 +2309,6 @@
     "Date": "2019/03/02",
     "Start": "12:20 PM",
     "Finish": "4:31 PM",
-    "Minutes": "251",
     "Duration": "04:11:00"
   },
   {
@@ -2606,7 +2317,6 @@
     "Date": "2019/03/03",
     "Start": "12:15 AM",
     "Finish": "1:42 AM",
-    "Minutes": "87",
     "Duration": "01:27:00"
   },
   {
@@ -2615,7 +2325,6 @@
     "Date": "2019/03/03",
     "Start": "10:30 AM",
     "Finish": "11:59 PM",
-    "Minutes": "810",
     "Duration": "13:30:00"
   },
   {
@@ -2624,7 +2333,6 @@
     "Date": "2019/03/04",
     "Start": "12:00 AM",
     "Finish": "12:39 AM",
-    "Minutes": "39",
     "Duration": "00:39:00"
   },
   {
@@ -2633,7 +2341,6 @@
     "Date": "2019/03/04",
     "Start": "1:11 AM",
     "Finish": "1:25 AM",
-    "Minutes": "14",
     "Duration": "00:14:00"
   },
   {
@@ -2642,7 +2349,6 @@
     "Date": "2019/03/04",
     "Start": "11:05 AM",
     "Finish": "1:02 PM",
-    "Minutes": "117",
     "Duration": "01:57:00"
   },
   {
@@ -2651,7 +2357,6 @@
     "Date": "2019/03/04",
     "Start": "9:56 PM",
     "Finish": "11:40 PM",
-    "Minutes": "104",
     "Duration": "01:44:00"
   },
   {
@@ -2660,7 +2365,6 @@
     "Date": "2019/03/05",
     "Start": "6:00 PM",
     "Finish": "10:27 PM",
-    "Minutes": "267",
     "Duration": "04:27:00"
   },
   {
@@ -2669,7 +2373,6 @@
     "Date": "2019/03/06",
     "Start": "2:00 PM",
     "Finish": "3:35 PM",
-    "Minutes": "95",
     "Duration": "01:35:00"
   },
   {
@@ -2678,7 +2381,6 @@
     "Date": "2019/03/06",
     "Start": "11:00 PM",
     "Finish": "11:59 PM",
-    "Minutes": "60",
     "Duration": "01:00:00"
   },
   {
@@ -2687,7 +2389,6 @@
     "Date": "2019/03/07",
     "Start": "12:00 AM",
     "Finish": "1:13 AM",
-    "Minutes": "73",
     "Duration": "01:13:00"
   },
   {
@@ -2696,7 +2397,6 @@
     "Date": "2019/03/07",
     "Start": "1:20 PM",
     "Finish": "6:15 PM",
-    "Minutes": "295",
     "Duration": "04:55:00"
   },
   {
@@ -2705,7 +2405,6 @@
     "Date": "2019/03/07",
     "Start": "8:55 PM",
     "Finish": "11:59 PM",
-    "Minutes": "185",
     "Duration": "03:05:00"
   },
   {
@@ -2714,7 +2413,6 @@
     "Date": "2019/03/08",
     "Start": "12:00 AM",
     "Finish": "1:15 AM",
-    "Minutes": "75",
     "Duration": "01:15:00"
   },
   {
@@ -2723,7 +2421,6 @@
     "Date": "2019/03/08",
     "Start": "11:05 AM",
     "Finish": "2:15 PM",
-    "Minutes": "190",
     "Duration": "03:10:00"
   },
   {
@@ -2732,7 +2429,6 @@
     "Date": "2019/03/08",
     "Start": "2:30 PM",
     "Finish": "3:05 PM",
-    "Minutes": "35",
     "Duration": "00:35:00"
   },
   {
@@ -2741,7 +2437,6 @@
     "Date": "2019/03/08",
     "Start": "8:59 PM",
     "Finish": "11:59 PM",
-    "Minutes": "181",
     "Duration": "03:01:00"
   },
   {
@@ -2750,7 +2445,6 @@
     "Date": "2019/03/09",
     "Start": "12:00 AM",
     "Finish": "12:32 AM",
-    "Minutes": "32",
     "Duration": "00:32:00"
   },
   {
@@ -2759,7 +2453,6 @@
     "Date": "2019/03/09",
     "Start": "12:46 AM",
     "Finish": "1:44 AM",
-    "Minutes": "58",
     "Duration": "00:58:00"
   },
   {
@@ -2768,7 +2461,6 @@
     "Date": "2019/03/09",
     "Start": "12:12 PM",
     "Finish": "1:59 PM",
-    "Minutes": "107",
     "Duration": "01:47:00"
   },
   {
@@ -2777,7 +2469,6 @@
     "Date": "2019/03/09",
     "Start": "2:20 PM",
     "Finish": "7:31 PM",
-    "Minutes": "311",
     "Duration": "05:11:00"
   },
   {
@@ -2786,7 +2477,6 @@
     "Date": "2019/03/09",
     "Start": "11:10 PM",
     "Finish": "11:59 PM",
-    "Minutes": "50",
     "Duration": "00:50:00"
   },
   {
@@ -2795,7 +2485,6 @@
     "Date": "2019/03/10",
     "Start": "12:00 AM",
     "Finish": "12:21 AM",
-    "Minutes": "21",
     "Duration": "00:21:00"
   },
   {
@@ -2804,7 +2493,6 @@
     "Date": "2019/03/10",
     "Start": "8:00 PM",
     "Finish": "11:30 PM",
-    "Minutes": "210",
     "Duration": "03:30:00"
   },
   {
@@ -2813,7 +2501,6 @@
     "Date": "2019/03/11",
     "Start": "12:28 AM",
     "Finish": "1:54 AM",
-    "Minutes": "86",
     "Duration": "01:26:00"
   },
   {
@@ -2822,7 +2509,6 @@
     "Date": "2019/03/12",
     "Start": "8:04 PM",
     "Finish": "11:59 PM",
-    "Minutes": "236",
     "Duration": "03:56:00"
   },
   {
@@ -2831,7 +2517,6 @@
     "Date": "2019/03/13",
     "Start": "12:00 AM",
     "Finish": "1:22 AM",
-    "Minutes": "82",
     "Duration": "01:22:00"
   },
   {
@@ -2840,7 +2525,6 @@
     "Date": "2019/03/13",
     "Start": "12:20 PM",
     "Finish": "1:30 PM",
-    "Minutes": "70",
     "Duration": "01:10:00"
   },
   {
@@ -2849,7 +2533,6 @@
     "Date": "2019/03/13",
     "Start": "11:55 PM",
     "Finish": "11:59 PM",
-    "Minutes": "5",
     "Duration": "00:05:00"
   },
   {
@@ -2858,7 +2541,6 @@
     "Date": "2019/03/14",
     "Start": "12:00 AM",
     "Finish": "1:54 AM",
-    "Minutes": "114",
     "Duration": "01:54:00"
   },
   {
@@ -2867,7 +2549,6 @@
     "Date": "2019/03/14",
     "Start": "7:30 PM",
     "Finish": "11:59 PM",
-    "Minutes": "270",
     "Duration": "04:30:00"
   },
   {
@@ -2876,7 +2557,6 @@
     "Date": "2019/03/15",
     "Start": "12:00 AM",
     "Finish": "12:44 AM",
-    "Minutes": "44",
     "Duration": "00:44:00"
   },
   {
@@ -2885,7 +2565,6 @@
     "Date": "2019/03/15",
     "Start": "12:43 PM",
     "Finish": "1:34 PM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -2894,7 +2573,6 @@
     "Date": "2019/03/15",
     "Start": "11:32 PM",
     "Finish": "11:59 PM",
-    "Minutes": "28",
     "Duration": "00:28:00"
   },
   {
@@ -2903,7 +2581,6 @@
     "Date": "2019/03/16",
     "Start": "12:00 AM",
     "Finish": "1:09 AM",
-    "Minutes": "69",
     "Duration": "01:09:00"
   },
   {
@@ -2912,7 +2589,6 @@
     "Date": "2019/03/16",
     "Start": "9:52 AM",
     "Finish": "10:11 AM",
-    "Minutes": "19",
     "Duration": "00:19:00"
   },
   {
@@ -2921,7 +2597,6 @@
     "Date": "2019/03/16",
     "Start": "7:30 PM",
     "Finish": "8:07 PM",
-    "Minutes": "37",
     "Duration": "00:37:00"
   },
   {
@@ -2930,7 +2605,6 @@
     "Date": "2019/03/17",
     "Start": "1:59 AM",
     "Finish": "3:03 AM",
-    "Minutes": "64",
     "Duration": "01:04:00"
   },
   {
@@ -2939,7 +2613,6 @@
     "Date": "2019/03/18",
     "Start": "11:29 AM",
     "Finish": "12:20 PM",
-    "Minutes": "51",
     "Duration": "00:51:00"
   },
   {
@@ -2948,7 +2621,6 @@
     "Date": "2019/03/18",
     "Start": "1:20 PM",
     "Finish": "3:35 PM",
-    "Minutes": "135",
     "Duration": "02:15:00"
   },
   {
@@ -2957,7 +2629,6 @@
     "Date": "2019/03/20",
     "Start": "12:43 AM",
     "Finish": "1:57 AM",
-    "Minutes": "74",
     "Duration": "01:14:00"
   },
   {
@@ -2966,7 +2637,6 @@
     "Date": "2019/03/20",
     "Start": "6:48 PM",
     "Finish": "11:59 PM",
-    "Minutes": "312",
     "Duration": "05:12:00"
   },
   {
@@ -2975,7 +2645,6 @@
     "Date": "2019/03/21",
     "Start": "12:00 AM",
     "Finish": "12:37 AM",
-    "Minutes": "37",
     "Duration": "00:37:00"
   },
   {
@@ -2984,7 +2653,6 @@
     "Date": "2019/03/21",
     "Start": "11:26 PM",
     "Finish": "11:59 PM",
-    "Minutes": "34",
     "Duration": "00:34:00"
   },
   {
@@ -2993,7 +2661,6 @@
     "Date": "2019/03/22",
     "Start": "12:00 AM",
     "Finish": "2:49 AM",
-    "Minutes": "169",
     "Duration": "02:49:00"
   },
   {
@@ -3002,7 +2669,6 @@
     "Date": "2019/03/22",
     "Start": "8:05 AM",
     "Finish": "10:48 AM",
-    "Minutes": "163",
     "Duration": "02:43:00"
   },
   {
@@ -3011,7 +2677,6 @@
     "Date": "2019/03/22",
     "Start": "10:53 PM",
     "Finish": "11:30 PM",
-    "Minutes": "37",
     "Duration": "00:37:00"
   },
   {
@@ -3020,7 +2685,6 @@
     "Date": "2019/03/23",
     "Start": "5:30 PM",
     "Finish": "11:59 PM",
-    "Minutes": "390",
     "Duration": "06:30:00"
   },
   {
@@ -3029,7 +2693,6 @@
     "Date": "2019/03/24",
     "Start": "12:00 AM",
     "Finish": "3:07 AM",
-    "Minutes": "187",
     "Duration": "03:07:00"
   },
   {
@@ -3038,7 +2701,6 @@
     "Date": "2019/03/24",
     "Start": "1:36 PM",
     "Finish": "2:54 PM",
-    "Minutes": "78",
     "Duration": "01:18:00"
   },
   {
@@ -3047,7 +2709,6 @@
     "Date": "2019/03/24",
     "Start": "6:11 PM",
     "Finish": "6:54 PM",
-    "Minutes": "43",
     "Duration": "00:43:00"
   },
   {
@@ -3056,7 +2717,6 @@
     "Date": "2019/03/24",
     "Start": "7:39 PM",
     "Finish": "11:59 PM",
-    "Minutes": "261",
     "Duration": "04:21:00"
   },
   {
@@ -3065,7 +2725,6 @@
     "Date": "2019/03/25",
     "Start": "12:00 AM",
     "Finish": "12:02 AM",
-    "Minutes": "2",
     "Duration": "00:02:00"
   },
   {
@@ -3074,7 +2733,6 @@
     "Date": "2019/03/25",
     "Start": "12:09 AM",
     "Finish": "2:13 AM",
-    "Minutes": "124",
     "Duration": "02:04:00"
   },
   {
@@ -3083,7 +2741,6 @@
     "Date": "2019/03/25",
     "Start": "12:59 PM",
     "Finish": "2:51 PM",
-    "Minutes": "112",
     "Duration": "01:52:00"
   },
   {
@@ -3092,7 +2749,6 @@
     "Date": "2019/03/25",
     "Start": "8:56 PM",
     "Finish": "9:53 PM",
-    "Minutes": "57",
     "Duration": "00:57:00"
   },
   {
@@ -3101,7 +2757,6 @@
     "Date": "2019/03/25",
     "Start": "11:00 PM",
     "Finish": "11:59 PM",
-    "Minutes": "60",
     "Duration": "01:00:00"
   },
   {
@@ -3110,7 +2765,6 @@
     "Date": "2019/03/26",
     "Start": "12:00 AM",
     "Finish": "12:54 AM",
-    "Minutes": "54",
     "Duration": "00:54:00"
   },
   {
@@ -3119,7 +2773,6 @@
     "Date": "2019/03/26",
     "Start": "10:55 AM",
     "Finish": "2:33 PM",
-    "Minutes": "218",
     "Duration": "03:38:00"
   },
   {
@@ -3128,7 +2781,6 @@
     "Date": "2019/03/26",
     "Start": "11:25 PM",
     "Finish": "11:59 PM",
-    "Minutes": "35",
     "Duration": "00:35:00"
   },
   {
@@ -3137,7 +2789,6 @@
     "Date": "2019/03/27",
     "Start": "12:00 AM",
     "Finish": "1:10 AM",
-    "Minutes": "70",
     "Duration": "01:10:00"
   },
   {
@@ -3146,7 +2797,6 @@
     "Date": "2019/03/28",
     "Start": "12:29 AM",
     "Finish": "12:51 AM",
-    "Minutes": "22",
     "Duration": "00:22:00"
   },
   {
@@ -3155,7 +2805,6 @@
     "Date": "2019/03/28",
     "Start": "11:30 AM",
     "Finish": "5:13 PM",
-    "Minutes": "343",
     "Duration": "05:43:00"
   },
   {
@@ -3164,7 +2813,6 @@
     "Date": "2019/03/28",
     "Start": "6:04 PM",
     "Finish": "7:33 PM",
-    "Minutes": "89",
     "Duration": "01:29:00"
   },
   {
@@ -3173,7 +2821,6 @@
     "Date": "2019/03/28",
     "Start": "9:13 PM",
     "Finish": "11:59 PM",
-    "Minutes": "167",
     "Duration": "02:47:00"
   },
   {
@@ -3182,7 +2829,6 @@
     "Date": "2019/03/29",
     "Start": "12:00 AM",
     "Finish": "12:32 AM",
-    "Minutes": "32",
     "Duration": "00:32:00"
   },
   {
@@ -3191,7 +2837,6 @@
     "Date": "2019/03/29",
     "Start": "5:57 PM",
     "Finish": "7:20 PM",
-    "Minutes": "83",
     "Duration": "01:23:00"
   },
   {
@@ -3200,7 +2845,6 @@
     "Date": "2019/03/29",
     "Start": "8:15 PM",
     "Finish": "10:29 PM",
-    "Minutes": "134",
     "Duration": "02:14:00"
   },
   {
@@ -3209,7 +2853,6 @@
     "Date": "2019/03/30",
     "Start": "12:08 AM",
     "Finish": "1:45 AM",
-    "Minutes": "97",
     "Duration": "01:37:00"
   },
   {
@@ -3218,7 +2861,6 @@
     "Date": "2019/03/30",
     "Start": "12:13 PM",
     "Finish": "1:45 PM",
-    "Minutes": "92",
     "Duration": "01:32:00"
   },
   {
@@ -3227,7 +2869,6 @@
     "Date": "2019/03/30",
     "Start": "1:58 PM",
     "Finish": "6:36 PM",
-    "Minutes": "278",
     "Duration": "04:38:00"
   },
   {
@@ -3236,7 +2877,6 @@
     "Date": "2019/03/30",
     "Start": "11:03 PM",
     "Finish": "11:59 PM",
-    "Minutes": "57",
     "Duration": "00:57:00"
   },
   {
@@ -3245,7 +2885,6 @@
     "Date": "2019/03/31",
     "Start": "1:24 PM",
     "Finish": "2:26 PM",
-    "Minutes": "62",
     "Duration": "01:02:00"
   },
   {
@@ -3254,7 +2893,6 @@
     "Date": "2019/03/31",
     "Start": "8:00 PM",
     "Finish": "11:59 PM",
-    "Minutes": "240",
     "Duration": "04:00:00"
   }
 ]
