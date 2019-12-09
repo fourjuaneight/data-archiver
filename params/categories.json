@@ -39,5 +39,13 @@
     "Comics",
     "Development",
     "Technology"
+  ],
+  "time": [
+    "Group",
+    "Task",
+    "Date",
+    "Start",
+    "Finish",
+    "Duration"
   ]
 }
