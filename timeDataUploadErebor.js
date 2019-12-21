@@ -40,10 +40,10 @@ readdir(time, (err, files) => {
         },
         headers: {
           'Content-Type': 'application/json',
-          'X-Hasura-Admin-Secret': dotenv.parsed.erebor_key,
+          'X-Hasura-Admin-Secret': dotenv.parsed.EREBOR_KEY,
         },
         method: 'POST',
-        url: dotenv.parsed.erebor_endpoint,
+        url: dotenv.parsed.EREBOR_ENDPOINT,
       })
         .then(result => console.info(result.data)) // eslint-disable-line
         .catch(error => console.error(error))
