@@ -4,6 +4,11 @@
     "title": "<h2\\sclass=\\\"margintop0 marginbottom0\\\"\\sclass=\\\"title\\\">(.*)<\\/h2>",
     "url": "<source\\ssrc=\\\"(.*)\\\"\\stype=\\\"audio\\/\\w+\\\"\\s?\\/>"
   },
+  "castro": {
+    "creator": "<h2><a\\shref=\\\".*\\\"\\salt=\\\".*\\\">(.*)</a><\\/h2>",
+    "title": "<h1>(.*)<\\/h1>",
+    "url": "<source\\ssrc=\\\"(.*)\\\"\\stype=\\\"audio\\/\\w+\\\"\\s?\\/>"
+  },
   "reddit": {
     "creator": "<title>.*\\s:\\s(.*)<\\/title>",
     "title": "<title>(.*)\\s:\\s.*<\\/title>",
