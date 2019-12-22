@@ -73,9 +73,9 @@ getToken(encodedData)
         const cleanTwts = result.data.map(twt => ({
           id: twt.id,
           date: dateFmt(twt.created_at),
-          tweet: clean(twt.text),
-          retweeted: RTd(twt.text),
-          retweets: rtCount(twt.retweet_count, twt.text),
+          tweet: clean(twt.full_text),
+          retweeted: RTd(twt.full_text),
+          retweets: rtCount(twt.retweet_count, twt.full_text),
           favorite: twt.favorite_count,
         }));
         /* eslint-enable */
