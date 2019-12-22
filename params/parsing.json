@@ -7,7 +7,7 @@
   "castro": {
     "creator": "<h2><a\\shref=\\\".*\\\"\\salt=\\\".*\\\">(.*)</a><\\/h2>",
     "title": "<h1>(.*)<\\/h1>",
-    "url": "<source\\ssrc=\\\"(.*)\\\"\\stype=\\\"audio\\/\\w+\\\"\\s?\\/>"
+    "url": "<source\\ssrc=\\\"(.*)\\\"\\stype=\\\"audio\\/\\w+\\\">"
   },
   "reddit": {
     "creator": "<title>.*\\s:\\s(.*)<\\/title>",
