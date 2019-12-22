@@ -6,6 +6,7 @@ const axios = require('axios');
 const dotenv = require('dotenv').config({
   path: resolve(process.cwd(), '.env'),
 });
+const regex = require('./util/unicodeRange');
 
 const data = `${dotenv.parsed.TWITTER_KEY}:${dotenv.parsed.TWITTER_SECRET}`;
 const buffData = Buffer.from(data);
@@ -13,6 +14,7 @@ const encodedData = buffData.toString('base64');
 
 const dateFmt = date => new Date(date).toISOString();
 const RTd = tweet => tweet.match(/^RT\s/g) !== null;
+const rtCount = (count, text) => (RTd(text) ? 0 : count);
 const getToken = async keys => {
   const authOpts = {
     data: 'grant_type=client_credentials',
@@ -32,6 +34,27 @@ const getToken = async keys => {
 
   return token;
 };
+const emojiUnicode = emoji => {
+  let comp;
+
+  if (emoji.length === 1) {
+    comp = emoji.charCodeAt(0);
+  }
+
+  comp =
+    (emoji.charCodeAt(0) - 0xd800) * 0x400 +
+    (emoji.charCodeAt(1) - 0xdc00) +
+    0x10000;
+
+  if (comp < 0) {
+    comp = emoji.charCodeAt(0);
+  }
+
+  comp = `U+${comp.toString('16')}`;
+
+  return comp;
+};
+const clean = tweet => tweet.replace(regex, p1 => `${emojiUnicode(p1)}`);
 
 getToken(encodedData)
   .then(token => {
@@ -50,9 +73,9 @@ getToken(encodedData)
         const cleanTwts = result.data.map(twt => ({
           id: twt.id,
           date: dateFmt(twt.created_at),
-          tweet: twt.text,
+          tweet: clean(twt.text),
           retweeted: RTd(twt.text),
-          retweets: twt.retweet_count,
+          retweets: rtCount(twt.retweet_count, twt.text),
           favorite: twt.favorite_count,
         }));
         /* eslint-enable */

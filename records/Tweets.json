@@ -1,8 +1,16 @@
 [
   {
+    "id": 1208617919481028600,
+    "date": "2019-12-22T05:19:01.000Z",
+    "tweet": "@mattcassinelli Definitely. I really just want to watch lightsaber fights and troopers shooting people. Can't we al… https://t.co/JkKx4zZjwa",
+    "retweeted": false,
+    "retweets": 0,
+    "favorite": 1
+  },
+  {
     "id": 1208522788799176700,
     "date": "2019-12-21T23:01:00.000Z",
-    "tweet": "@wesbos Your \"cable management\" is giving me anxiety. However, nice gear 👊🏽",
+    "tweet": "@wesbos Your \"cable management\" is giving me anxiety. However, nice gear U+1f44a",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -12,7 +20,7 @@
     "date": "2019-12-21T22:58:11.000Z",
     "tweet": "RT @cgpgrey: Disney spent 4 billion dollars so that\n\nwe would buy 3 tickets\n\nto watch 2 directors \n\ndisagree over the 1 true Star Wars",
     "retweeted": true,
-    "retweets": 524,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -114,7 +122,7 @@
   {
     "id": 1203376585220472800,
     "date": "2019-12-07T18:11:50.000Z",
-    "tweet": "The best part about upgrading to the new iPhone 11 Pro, is losing 3 weeks of @timelogger_app entries 🙃\n\nGuess I'm d… https://t.co/zZE28lYCRr",
+    "tweet": "The best part about upgrading to the new iPhone 11 Pro, is losing 3 weeks of @timelogger_app entries U+1f643\n\nGuess I'm d… https://t.co/zZE28lYCRr",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -178,7 +186,7 @@
   {
     "id": 1192563768254959600,
     "date": "2019-11-07T22:05:33.000Z",
-    "tweet": "Just update 100+ DB rows in under 30s thanks to Shortcuts and GraphQL.\n\nWatching the Shortcut go was beautiful 🙂",
+    "tweet": "Just update 100+ DB rows in under 30s thanks to Shortcuts and GraphQL.\n\nWatching the Shortcut go was beautiful U+1f642",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -266,7 +274,7 @@
   {
     "id": 1192522313612349400,
     "date": "2019-11-07T19:20:50.000Z",
-    "tweet": "@mattcassinelli TL;DR\nShortcut pulls source\n⬇️\nParses the data and extracts Title, Creator, URL, and I select a Cat… https://t.co/jhY9N2vjn7",
+    "tweet": "@mattcassinelli TL;DR\nShortcut pulls source\nU+2b07\nParses the data and extracts Title, Creator, URL, and I select a Cat… https://t.co/jhY9N2vjn7",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -498,7 +506,7 @@
   {
     "id": 1174820057463120000,
     "date": "2019-09-19T22:58:23.000Z",
-    "tweet": "@simonbs Awesome updates today, man 👊🏽 Really, love the new Jayson and Scriptable features.\n\nIf you don't mind me a… https://t.co/pfGmTBCkR8",
+    "tweet": "@simonbs Awesome updates today, man U+1f44a Really, love the new Jayson and Scriptable features.\n\nIf you don't mind me a… https://t.co/pfGmTBCkR8",
     "retweeted": false,
     "retweets": 0,
     "favorite": 1
@@ -506,7 +514,7 @@
   {
     "id": 1173984571479793700,
     "date": "2019-09-17T15:38:28.000Z",
-    "tweet": "Duck went from \"I'm just winging it\" to \"I know what I have to do now\" real quick! Awesome episode! 😱 of… https://t.co/jn9zc3VWyZ",
+    "tweet": "Duck went from \"I'm just winging it\" to \"I know what I have to do now\" real quick! Awesome episode! U+1f631 of… https://t.co/jn9zc3VWyZ",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -538,7 +546,7 @@
   {
     "id": 1172356733538328600,
     "date": "2019-09-13T03:50:01.000Z",
-    "tweet": "The future is awesome 😁",
+    "tweet": "The future is awesome U+1f601",
     "retweeted": false,
     "retweets": 0,
     "favorite": 2
@@ -562,7 +570,7 @@
   {
     "id": 1171173135737139200,
     "date": "2019-09-09T21:26:49.000Z",
-    "tweet": "@simonbs You don't understand how excited I am for this app. Can't wait 😬",
+    "tweet": "@simonbs You don't understand how excited I am for this app. Can't wait U+1f62c",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -626,9 +634,9 @@
   {
     "id": 1156312618656850000,
     "date": "2019-07-30T21:16:26.000Z",
-    "tweet": "RT @alligatorio: 🖼️ Working with images in @gatsbyjs: https://t.co/pfjdKWu5uj by @fourjuaneight",
+    "tweet": "RT @alligatorio: U+1f5bc Working with images in @gatsbyjs: https://t.co/pfjdKWu5uj by @fourjuaneight",
     "retweeted": true,
-    "retweets": 7,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -682,7 +690,7 @@
   {
     "id": 1152692708508688400,
     "date": "2019-07-20T21:32:12.000Z",
-    "tweet": "@simonbs 🤦🏽‍♂️\n\nThanks for the reply!",
+    "tweet": "@simonbs U+1f926\n\nThanks for the reply!",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -756,7 +764,7 @@
     "date": "2019-07-12T19:31:47.000Z",
     "tweet": "RT @davatron5000: 80% of writing CSS is taking time to thoughtfully organize your code. The other 120% is commenting things on/off and then…",
     "retweeted": true,
-    "retweets": 38,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -770,7 +778,7 @@
   {
     "id": 1148995727693156400,
     "date": "2019-07-10T16:41:43.000Z",
-    "tweet": "@simonbs You're doing holy work. Thank you. This makes working on the iPad that much easier 👊🏽",
+    "tweet": "@simonbs You're doing holy work. Thank you. This makes working on the iPad that much easier U+1f44a",
     "retweeted": false,
     "retweets": 0,
     "favorite": 1
@@ -786,7 +794,7 @@
   {
     "id": 1146144496708702200,
     "date": "2019-07-02T19:51:57.000Z",
-    "tweet": "@mmatuzo Got it. Thanks a lot for the help man. Greatly appreciated 👍🏽",
+    "tweet": "@mmatuzo Got it. Thanks a lot for the help man. Greatly appreciated U+1f44d",
     "retweeted": false,
     "retweets": 0,
     "favorite": 1
@@ -794,7 +802,7 @@
   {
     "id": 1146090485481689100,
     "date": "2019-07-02T16:17:19.000Z",
-    "tweet": "@andybelldesign @eleven_ty I think this is exactly what I need to move from Hugo to Eleventy. Thanks 👊🏽",
+    "tweet": "@andybelldesign @eleven_ty I think this is exactly what I need to move from Hugo to Eleventy. Thanks U+1f44a",
     "retweeted": false,
     "retweets": 0,
     "favorite": 2
@@ -844,7 +852,7 @@
     "date": "2019-06-24T15:50:08.000Z",
     "tweet": "RT @AliceAvizandum: the slow but very real progression into fascism as charted by the evolution of the Lego police officer https://t.co/4Nu…",
     "retweeted": true,
-    "retweets": 11580,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -946,9 +954,9 @@
   {
     "id": 1137425508109619200,
     "date": "2019-06-08T18:25:48.000Z",
-    "tweet": "RT @MegDraws: I just met a dog whose job is to walk around the airport and be petted (to calm the passengers before their flight) 😭 the wor…",
+    "tweet": "RT @MegDraws: I just met a dog whose job is to walk around the airport and be petted (to calm the passengers before their flight) U+1f62d the wor…",
     "retweeted": true,
-    "retweets": 130,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -1026,7 +1034,7 @@
   {
     "id": 1127665810468745200,
     "date": "2019-05-12T20:04:14.000Z",
-    "tweet": "By far the best part of ⁦@robokillerapp⁩ is listening to people argue with the bots 😄\n⁦@dobyfriday⁩ https://t.co/tfxLrLzCBb",
+    "tweet": "By far the best part of ⁦@robokillerapp⁩ is listening to people argue with the bots U+1f604\n⁦@dobyfriday⁩ https://t.co/tfxLrLzCBb",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -1084,7 +1092,7 @@
     "date": "2019-04-12T19:14:34.000Z",
     "tweet": "RT @jevakallio: @AdamRackis It's super odd how you're not seeing that you're doing the exact same thing. Folks like Zeldman have done a dec…",
     "retweeted": true,
-    "retweets": 1,
+    "retweets": 0,
     "favorite": 0
   },
   {
@@ -1194,7 +1202,7 @@
   {
     "id": 1115245217236623400,
     "date": "2019-04-08T13:29:14.000Z",
-    "tweet": "@simonbs Ah, I see. Well, thanks for the reply man 👊🏽",
+    "tweet": "@simonbs Ah, I see. Well, thanks for the reply man U+1f44a",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
@@ -1258,7 +1266,7 @@
   {
     "id": 1111297958719488000,
     "date": "2019-03-28T16:04:14.000Z",
-    "tweet": "@simonbs Fantastic release man. Congrats and thank you for putting so much work into this 👊🏽 With the bookmarks fea… https://t.co/Th2ZVVjrk7",
+    "tweet": "@simonbs Fantastic release man. Congrats and thank you for putting so much work into this U+1f44a With the bookmarks fea… https://t.co/Th2ZVVjrk7",
     "retweeted": false,
     "retweets": 0,
     "favorite": 0
