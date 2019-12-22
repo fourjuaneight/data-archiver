@@ -54,7 +54,7 @@ getToken(encodedData)
         /* eslint-enable */
 
         writeFileSync(
-          resolve(__dirname, 'src/data', 'tweets.json'),
+          resolve(__dirname, 'records', 'Tweets.json'),
           JSON.stringify(cleanTwts, undefined, 2),
           'utf8'
         );
