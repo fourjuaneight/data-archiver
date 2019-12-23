@@ -10,7 +10,7 @@
   {
     "id": 1208522788799176700,
     "date": "2019-12-21T23:01:00.000Z",
-    "tweet": "@wesbos Your \"cable management\" is giving me anxiety. However, nice gear U+1f44a",
+    "tweet": "@wesbos Your 'cable management' is giving me anxiety. However, nice gear U+1f44a",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -66,7 +66,7 @@
   {
     "id": 1207401647321886700,
     "date": "2019-12-18T20:45:59.000Z",
-    "tweet": "@wesbos You can also use Cloudflare's 1.1.1.1 DNS for \"extra\" security.",
+    "tweet": "@wesbos You can also use Cloudflare's 1.1.1.1 DNS for 'extra' security.",
     "retweet": false,
     "retweeted": 1,
     "favorited": 1
@@ -114,7 +114,7 @@
   {
     "id": 1203378116938387500,
     "date": "2019-12-07T18:17:55.000Z",
-    "tweet": "I do want to take this time to say thanks to @OvercastFM for seamlessly restoring my data without an account. \"It just works\".",
+    "tweet": "I do want to take this time to say thanks to @OvercastFM for seamlessly restoring my data without an account. 'It just works'.",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -146,7 +146,7 @@
   {
     "id": 1193558729687519200,
     "date": "2019-11-10T15:59:11.000Z",
-    "tweet": "On JS-in-CSS vs CSS/Sass:\n\"...if you see it as a battle, I think that's the wrong side of the argument...\"\n\nExactly my thoughts. If it works for you and you can write good and maintainable code, no problem.\n\n@syntaxfm https://t.co/X6bca78XS4 https://t.co/LgPqZIxrt9",
+    "tweet": "On JS-in-CSS vs CSS/Sass:\n'...if you see it as a battle, I think that's the wrong side of the argument...'\n\nExactly my thoughts. If it works for you and you can write good and maintainable code, no problem.\n\n@syntaxfm https://t.co/X6bca78XS4 https://t.co/LgPqZIxrt9",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -170,7 +170,7 @@
   {
     "id": 1192568646238908400,
     "date": "2019-11-07T22:24:56.000Z",
-    "tweet": "For anyone wondering how to POST with GraphQL using iOS Shortcuts, here's a screenshot of how to set it up.\n\nYou also want to format your query correctly.\n- Escape any double-quotes.\n- Any line breaks can be replaced with `\\\\n`.\n- Wrap it inside `{ \"query\": \"&lt;formattedQuery&gt;\" }`. https://t.co/HIWWXO6D66",
+    "tweet": "For anyone wondering how to POST with GraphQL using iOS Shortcuts, here's a screenshot of how to set it up.\n\nYou also want to format your query correctly.\n- Escape any double-quotes.\n- Any line breaks can be replaced with `\\\\n`.\n- Wrap it inside `{ 'query': '&lt;formattedQuery&gt;' }`. https://t.co/HIWWXO6D66",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -362,7 +362,7 @@
   {
     "id": 1189243007733764000,
     "date": "2019-10-29T18:10:02.000Z",
-    "tweet": "@gatsbyjs I have @HasuraHQ Postgres DB with a vast library of bookmarks (articles, webcomics, podcasts episodes, etc.).\n\nMaking a searchable table with a nice responsive UI on my Gatsby site.\n\nAnd maybe add login capability with \"add new item\" on site.",
+    "tweet": "@gatsbyjs I have @HasuraHQ Postgres DB with a vast library of bookmarks (articles, webcomics, podcasts episodes, etc.).\n\nMaking a searchable table with a nice responsive UI on my Gatsby site.\n\nAnd maybe add login capability with 'add new item' on site.",
     "retweet": false,
     "retweeted": 0,
     "favorited": 3
@@ -514,7 +514,7 @@
   {
     "id": 1173984571479793700,
     "date": "2019-09-17T15:38:28.000Z",
-    "tweet": "Duck went from \"I'm just winging it\" to \"I know what I have to do now\" real quick! Awesome episode! U+1f631 of @TheZoneCast\nhttps://t.co/fQqUeQJF08 https://t.co/fQqUeQJF08 https://t.co/7ilomCVt9m",
+    "tweet": "Duck went from I'm just winging it' to 'I know what I have to do now' real quick! Awesome episode! U+1f631 of @TheZoneCast\nhttps://t.co/fQqUeQJF08 https://t.co/fQqUeQJF08 https://t.co/7ilomCVt9m",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -594,7 +594,7 @@
   {
     "id": 1166807800904859600,
     "date": "2019-08-28T20:20:32.000Z",
-    "tweet": "@davatron5000 I'm ok with dark themes that aren't completely black. Something that's aesthetically pleasing to the eyes at night/low-light is nice. But I'm definitely not feeling the whole \"pure black\" themes. They rarely get the color scheme right and it's usually harder on the eyes.",
+    "tweet": "@davatron5000 I'm ok with dark themes that aren't completely black. Something that's aesthetically pleasing to the eyes at night/low-light is nice. But I'm definitely not feeling the whole pure black themes. They rarely get the color scheme right and it's usually harder on the eyes.",
     "retweet": false,
     "retweeted": 0,
     "favorited": 1
@@ -722,7 +722,7 @@
   {
     "id": 1152045392491614200,
     "date": "2019-07-19T02:40:00.000Z",
-    "tweet": "Here's the code:\n\n{{ $cssRendered := resources.Get \"css/critical.scss\" | toCSS | postCSS | minify }}\n{{ $critical := $cssRendered.Content | safeCSS }}\n&lt;style&gt;{{ $critical }}&lt;/style&gt;",
+    "tweet": "Here's the code:\n\n{{ $cssRendered := resources.Get 'css/critical.scss' | toCSS | postCSS | minify }}\n{{ $critical := $cssRendered.Content | safeCSS }}\n&lt;style&gt;{{ $critical }}&lt;/style&gt;",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -906,7 +906,7 @@
   {
     "id": 1139255437042360300,
     "date": "2019-06-13T19:37:17.000Z",
-    "tweet": "Also,  general type and icons throughout the app are slick. And that new icon right before the app loads is a nice touch. The app has always been beautiful. The update just improves on top of that. Great job y'all. Insta-buy/sub U+1f44a",
+    "tweet": "Also, general type and icons throughout the app are slick. And that new icon right before the app loads is a nice touch. The app has always been beautiful. The update just improves on top of that. Great job y'all. Insta-buy/sub U+1f44a",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -986,7 +986,7 @@
   {
     "id": 1136517772983357400,
     "date": "2019-06-06T06:18:47.000Z",
-    "tweet": "\"The number one mistake made by designers and developers alike is assuming that things will always look like they do in the static mockup. I can assure you, they will not.\"\n@mxbck\n\nI should put this on a t-shirt… and my email signature and my forehead…\nhttps://t.co/5RIZOwlvi1",
+    "tweet": "The number one mistake made by designers and developers alike is assuming that things will always look like they do in the static mockup. I can assure you, they will not.\n- @mxbck\n\nI should put this on a t-shirt… and my email signature and my forehead…\nhttps://t.co/5RIZOwlvi1",
     "retweet": false,
     "retweeted": 0,
     "favorited": 2
@@ -1042,7 +1042,7 @@
   {
     "id": 1125141081979535400,
     "date": "2019-05-05T20:51:52.000Z",
-    "tweet": "The best thing I've ever discovered is that Steven Segal's \"Official Website\" redirects to a shady online drug store.\nhttps://t.co/vQZRpDg9UP",
+    "tweet": "The best thing I've ever discovered is that Steven Segal's Official Website redirects to a shady online drug store.\nhttps://t.co/vQZRpDg9UP",
     "retweet": false,
     "retweeted": 0,
     "favorited": 1
@@ -1050,7 +1050,7 @@
   {
     "id": 1124101998868037600,
     "date": "2019-05-03T00:02:55.000Z",
-    "tweet": "@AlecSteeleSteel \"If you need a tool, you make a tool\". That mentality is why I watch what you guys make. As a developer, it really hits home. You guys keep doing what you do. U+1f44a",
+    "tweet": "@AlecSteeleSteel If you need a tool, you make a tool. That mentality is why I watch what you guys make. As a developer, it really hits home. You guys keep doing what you do. U+1f44a",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -1226,7 +1226,7 @@
   {
     "id": 1115090909664817200,
     "date": "2019-04-08T03:16:04.000Z",
-    "tweet": "But I think I might've found a purpose for my twitter. I'll share any obscure and random \"mind-motion\" here as they pop-up in my head.",
+    "tweet": "But I think I might've found a purpose for my twitter. I'll share any obscure and random mind-motions here as they pop-up in my head.",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
@@ -1242,7 +1242,7 @@
   {
     "id": 1115090907848687600,
     "date": "2019-04-08T03:16:04.000Z",
-    "tweet": "I just came across an interesting article on the NYT Magazine about \"tiny, private mind-motions\". Like most, I have plenty of those. In my case, I associate everything I heard/read/say with some old and cheesy song.\nhttps://t.co/vxt1wm5rxM",
+    "tweet": "I just came across an interesting article on the NYT Magazine about tiny, private mind-motions. Like most, I have plenty of those. In my case, I associate everything I heard/read/say with some old and cheesy song.\nhttps://t.co/vxt1wm5rxM",
     "retweet": false,
     "retweeted": 0,
     "favorited": 0
