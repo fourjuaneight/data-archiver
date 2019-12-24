@@ -1,6 +1,6 @@
 name: Upload Tweet
 
-on: push
+on: repository_dispatch
 
 jobs:
   upload-tweet:
