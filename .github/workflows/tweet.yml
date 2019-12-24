@@ -14,4 +14,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Upload
-        run: node tweetUploader.js
+        run: node tweetUploader.js -e $EREBOR_ENDPOINT -p $EREBOR_KEY -k $TWITTER_KEY -s $TWITTER_SECRET
+        env:
+          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
+          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
+          TWITTER_KEY: ${{secrets.TWITTER_KEY}}
+          TWITTER_SECRET: ${{secrets.TWITTER_SECRET}}
