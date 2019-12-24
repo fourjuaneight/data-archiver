@@ -43,7 +43,7 @@ const getTweet = async key => {
     .then(result => {
       /* eslint-disable sort-keys */
       const cleanTweet = result.data.map(twt => ({
-        id: twt.id,
+        id: twt.id_str,
         date: dateFmt(twt.created_at),
         tweet: clean(twt.full_text),
         retweet: RTd(twt.full_text),
