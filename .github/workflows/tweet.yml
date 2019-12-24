@@ -3,7 +3,7 @@ name: Upload Tweet
 on: push
 
 jobs:
-  publish-npm:
+  upload-tweet:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1

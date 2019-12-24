@@ -6,16 +6,14 @@ const dotenv = require('dotenv').config({
 });
 const { auth, getTweet } = require('./util/twitter');
 
-const ereborEndpoint = dotenv.parsed.EREBOR_ENDPOINT;
-const ereborKey = dotenv.parsed.EREBOR_KEY;
-const twtKey = dotenv.parsed.TWITTER_KEY;
-const twtSecret = dotenv.parsed.TWITTER_SECRET;
-
-const endpoint = typeof ereborKey !== 'undefined' ? ereborKey : argv.e;
-const key = typeof twtKey !== 'undefined' ? twtKey : argv.k;
+const endpoint =
+  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_ENDPOINT : argv.e;
 const password =
-  typeof ereborEndpoint !== 'undefined' ? ereborEndpoint : argv.p;
-const secret = typeof twtSecret !== 'undefined' ? twtSecret : argv.s;
+  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_KEY : argv.p;
+const key =
+  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_KEY : argv.k;
+const secret =
+  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_SECRET : argv.s;
 
 const lastTweet = auth(key, secret)
   .then(token =>
