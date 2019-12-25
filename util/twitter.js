@@ -35,7 +35,13 @@ const getTweet = async key => {
     withCredentials: true,
   };
 
-  const dateFmt = date => new Date(date).toISOString();
+  // const dateFmt = date => new Date(`${date} GMT-05:00`).toISOString();
+  const dateFmt = date => {
+    const original = new Date(date);
+    const offset = original.getTimezoneOffset() * 60000;
+
+    return new Date(original - offset).toISOString();
+  };
   const RTd = tweet => tweet.match(/^RT\s/g) !== null;
   const rtCount = (count, text) => (RTd(text) ? 0 : count);
 
