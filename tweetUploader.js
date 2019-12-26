@@ -10,6 +10,10 @@ const endpoint =
   typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_ENDPOINT : argv.e;
 const password =
   typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_KEY : argv.p;
+const pushcut =
+  typeof dotenv.parsed !== 'undefined'
+    ? dotenv.parsed.PUSHCUT_ENDPOINT
+    : argv.n;
 const key =
   typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_KEY : argv.k;
 const secret =
@@ -19,13 +23,19 @@ const getLastTweet = auth(key, secret)
   .then(token =>
     lastTweet(token)
       .then(tweet => tweet)
-      .catch(err => {
-        throw new Error(err);
-      })
+      .catch(err =>
+        axios.post(pushcut, {
+          title: 'Error getting last Tweet',
+          text: err,
+        })
+      )
   )
-  .catch(err => {
-    throw new Error(err);
-  });
+  .catch(err =>
+    axios.post(pushcut, {
+      title: 'Error getting Twitter Bearer Token',
+      text: err,
+    })
+  );
 
 getLastTweet.then(tweet => {
   ereborTweet(endpoint, tweet[0].id, password)
@@ -46,7 +56,6 @@ getLastTweet.then(tweet => {
                   }) {
                     returning {
                       tweet
-                      id
                     }
                   }
                 }
@@ -60,16 +69,25 @@ getLastTweet.then(tweet => {
           url: endpoint,
         })
           .then(result =>
-            console.info(result.data.data.insert_tweets.returning)
-          ) // eslint-disable-line
-          .catch(err => {
-            throw new Error('Erebor:', err.response.status);
-          });
+            axios.post(pushcut, {
+              title: 'Save new Tweet to Erebor',
+              text: result.data.data.insert_tweets.returning,
+            })
+          )
+          .catch(err =>
+            axios.post(pushcut, {
+              title: 'Error uploading to Erebor',
+              text: err.response,
+            })
+          );
       } else {
         console.info('No new tweets to upload'); // eslint-disable-line
       }
     })
-    .catch(err => {
-      throw new Error('Erebor:', err.response.status);
-    });
+    .catch(err =>
+      axios.post(pushcut, {
+        title: 'Error getting Tweets from Erebor',
+        text: err.response,
+      })
+    );
 });
