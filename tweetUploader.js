@@ -4,7 +4,7 @@ const axios = require('axios');
 const dotenv = require('dotenv').config({
   path: resolve(process.cwd(), '.env'),
 });
-const { auth, getTweet } = require('./util/twitter');
+const { auth, ereborTweet, lastTweet } = require('./util/twitter');
 
 const endpoint =
   typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_ENDPOINT : argv.e;
@@ -15,9 +15,9 @@ const key =
 const secret =
   typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_SECRET : argv.s;
 
-const lastTweet = auth(key, secret)
+const getLastTweet = auth(key, secret)
   .then(token =>
-    getTweet(token)
+    lastTweet(token)
       .then(tweet => tweet)
       .catch(err => {
         throw new Error(err);
@@ -27,37 +27,49 @@ const lastTweet = auth(key, secret)
     throw new Error(err);
   });
 
-lastTweet.then(tweet =>
-  axios({
-    data: {
-      query: `
-          mutation TweetMutation {
-            insert_tweets(objects: {
-              id: "${tweet[0].id}",
-              tweet: "${tweet[0].tweet}",
-              date: "${tweet[0].date}",
-              retweet: "${tweet[0].retweet}",
-              retweeted: "${tweet[0].retweeted}",
-              favorited: "${tweet[0].favorited}",
-              created_at: "${tweet[0].date}",
-            }) {
-              returning {
-                tweet
-                id
-              }
-            }
-          }
-        `,
-    },
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Hasura-Admin-Secret': password,
-    },
-    method: 'POST',
-    url: endpoint,
-  })
-    .then(result => console.info(result.data.data.insert_tweets.returning)) // eslint-disable-line
+getLastTweet.then(tweet => {
+  ereborTweet(endpoint, tweet[0].id, password)
+    .then(results => {
+      if (!results) {
+        axios({
+          data: {
+            query: `
+                mutation TweetMutation {
+                  insert_tweets(objects: {
+                    id: "${tweet[0].id}",
+                    tweet: "${tweet[0].tweet}",
+                    date: "${tweet[0].date}",
+                    retweet: "${tweet[0].retweet}",
+                    retweeted: "${tweet[0].retweeted}",
+                    favorited: "${tweet[0].favorited}",
+                    created_at: "${tweet[0].date}",
+                  }) {
+                    returning {
+                      tweet
+                      id
+                    }
+                  }
+                }
+              `,
+          },
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Hasura-Admin-Secret': password,
+          },
+          method: 'POST',
+          url: endpoint,
+        })
+          .then(result =>
+            console.info(result.data.data.insert_tweets.returning)
+          ) // eslint-disable-line
+          .catch(err => {
+            throw new Error('Erebor:', err.response.status);
+          });
+      } else {
+        console.info('No new tweets to upload'); // eslint-disable-line
+      }
+    })
     .catch(err => {
       throw new Error('Erebor:', err.response.status);
-    })
-);
+    });
+});

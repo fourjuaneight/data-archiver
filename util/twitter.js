@@ -24,7 +24,32 @@ const auth = async (key, secret) => {
 
   return token;
 };
-const getTweet = async key => {
+const ereborTweet = async (endpoint, id, password) => {
+  const lastUploaded = await axios({
+    data: {
+      query: `
+          query LastTweet {
+            tweets_by_pk(id: "${id}") {
+              id
+            }
+          }
+        `,
+    },
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Hasura-Admin-Secret': password,
+    },
+    method: 'POST',
+    url: endpoint,
+  })
+    .then(result => result.data.data.tweets_by_pk) // eslint-disable-line
+    .catch(err => {
+      throw new Error('Erebor:', err.response.status);
+    });
+
+  return lastUploaded;
+};
+const lastTweet = async key => {
   const twtOpts = {
     headers: {
       Authorization: `Bearer ${key}`,
@@ -68,4 +93,5 @@ const getTweet = async key => {
 };
 
 exports.auth = auth;
-exports.getTweet = getTweet;
+exports.ereborTweet = ereborTweet;
+exports.lastTweet = lastTweet;
