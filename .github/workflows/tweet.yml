@@ -1,6 +1,8 @@
 name: Upload Tweet
 
-on: repository_dispatch
+on:
+  schedule:
+    - cron: '*/10 * * * *'
 
 jobs:
   upload-tweet:
