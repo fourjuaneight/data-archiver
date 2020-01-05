@@ -1,12 +1,24 @@
 {
-  "bookmarks": [
-    "Articles",
-    "Comics",
-    "Podcasts",
-    "Reddits",
-    "Tweets",
-    "Videos"
-  ],
+  "bookmarks": {
+    "matching": [
+      "castro",
+      "overcast",
+      "reddit",
+      "twitter",
+      "vimeo",
+      "youtube",
+    ],
+    "website": [
+      "Articles",
+      "Comics",
+    ],
+    "castro": "Podcasts",
+    "overcast": "Podcasts",
+    "reddit": "Reddits",
+    "twitter": "Tweets",
+    "vimeo": "Videos",
+    "youtube": "Videos",
+  },
   "books": [
     "Business",
     "Finance",
