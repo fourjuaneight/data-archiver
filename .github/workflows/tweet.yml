@@ -12,11 +12,11 @@ jobs:
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 12.14.1
       - name: Install dependencies
         run: npm ci
       - name: Upload
-        run: node tweetUploader.js -e $EREBOR_ENDPOINT -p $EREBOR_KEY -k $TWITTER_KEY -s $TWITTER_SECRET -n $PUSHCUT_ENDPOINT
+        run: node tweetUploader.js
         env:
           EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
           EREBOR_KEY: ${{secrets.EREBOR_KEY}}

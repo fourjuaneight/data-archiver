@@ -1,44 +1,27 @@
-const { resolve } = require('path');
-const argv = require('minimist')(process.argv.slice(2));
+require('dotenv').config();
 const axios = require('axios');
-const dotenv = require('dotenv').config({
-  path: resolve(process.cwd(), '.env'),
-});
 const { auth, ereborTweet, lastTweet } = require('./util/twitter');
 
-const endpoint =
-  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_ENDPOINT : argv.e;
-const password =
-  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.EREBOR_KEY : argv.p;
-const pushcut =
-  typeof dotenv.parsed !== 'undefined'
-    ? dotenv.parsed.PUSHCUT_ENDPOINT
-    : argv.n;
-const key =
-  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_KEY : argv.k;
-const secret =
-  typeof dotenv.parsed !== 'undefined' ? dotenv.parsed.TWITTER_SECRET : argv.s;
-
-const getLastTweet = auth(key, secret)
+const getLastTweet = auth(process.env.TWITTER_KEY, process.env.TWITTER_SECRET)
   .then(token =>
     lastTweet(token)
       .then(tweet => tweet)
       .catch(err =>
-        axios.post(pushcut, {
+        axios.post(process.env.PUSHCUT_ENDPOINT, {
           title: 'Error getting last Tweet',
           text: err,
         })
       )
   )
   .catch(err =>
-    axios.post(pushcut, {
+    axios.post(process.env.PUSHCUT_ENDPOINT, {
       title: 'Error getting Twitter Bearer Token',
       text: err,
     })
   );
 
 getLastTweet.then(tweet => {
-  ereborTweet(endpoint, tweet[0].id, password)
+  ereborTweet(process.env.EREBOR_ENDPOINT, tweet[0].id, process.env.EREBOR_KEY)
     .then(results => {
       if (!results) {
         axios({
@@ -63,19 +46,19 @@ getLastTweet.then(tweet => {
           },
           headers: {
             'Content-Type': 'application/json',
-            'X-Hasura-Admin-Secret': password,
+            'X-Hasura-Admin-Secret': process.env.EREBOR_KEY,
           },
           method: 'POST',
-          url: endpoint,
+          url: process.env.EREBOR_ENDPOINT,
         })
           .then(result =>
-            axios.post(pushcut, {
+            axios.post(process.env.PUSHCUT_ENDPOINT, {
               title: 'Save new Tweet to Erebor',
               text: result.data.data.insert_tweets.returning,
             })
           )
           .catch(err =>
-            axios.post(pushcut, {
+            axios.post(process.env.PUSHCUT_ENDPOINT, {
               title: 'Error uploading to Erebor',
               text: err.response,
             })
@@ -85,7 +68,7 @@ getLastTweet.then(tweet => {
       }
     })
     .catch(err =>
-      axios.post(pushcut, {
+      axios.post(process.env.PUSHCUT_ENDPOINT, {
         title: 'Error getting Tweets from Erebor',
         text: err.response,
       })
