@@ -19,7 +19,8 @@ const auth = async (key, secret) => {
   const token = await axios(authOpts)
     .then(result => result.data.access_token)
     .catch(err => {
-      throw new Error('Token:', err.response.status);
+      // eslint-disable-next-line no-console
+      console.error('Token:', err.response.status);
     });
 
   return token;
@@ -44,7 +45,8 @@ const ereborTweet = async (endpoint, id, password) => {
   })
     .then(result => result.data.data.tweets_by_pk) // eslint-disable-line
     .catch(err => {
-      throw new Error('Erebor:', err.response.status);
+      // eslint-disable-next-line no-console
+      console.error('Erebor:', err.response.status);
     });
 
   return lastUploaded;
@@ -86,7 +88,8 @@ const lastTweet = async key => {
       return cleanTweet;
     })
     .catch(err => {
-      throw new Error('Tweet:', err.response.status);
+      // eslint-disable-next-line no-console
+      console.error('Tweet:', err.response.status);
     });
 
   return tweet;
