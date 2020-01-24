@@ -1,5 +1,13 @@
 {
   "bookmarks": {
+    "all": [
+      "Articles",
+      "Comics",
+      "Podcasts",
+      "Reddits",
+      "Tweets",
+      "Videos",
+    ],
     "matching": [
       "castro",
       "overcast",
