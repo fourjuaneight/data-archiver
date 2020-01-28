@@ -1,9 +1,5 @@
 name: Upload Tweet
 
-on:
-  schedule:
-    - cron: '*/10 * * * *'
-
 jobs:
   upload-tweet:
     runs-on: ubuntu-18.04
