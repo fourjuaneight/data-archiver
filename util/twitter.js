@@ -1,5 +1,6 @@
 const axios = require('axios');
 const { clean } = require('./unicode');
+const { dateFmt } = require('./dateFmt');
 
 const auth = async (key, secret) => {
   const data = `${key}:${secret}`;
@@ -58,31 +59,30 @@ const lastTweet = async key => {
     },
     method: 'GET',
     url:
-      'https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=1&tweet_mode=extended',
+      'https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=10&tweet_mode=extended',
     withCredentials: true,
   };
 
-  // const dateFmt = date => new Date(`${date} GMT-05:00`).toISOString();
-  const dateFmt = date => {
-    const original = new Date(date);
-    const offset = original.getTimezoneOffset() * 60000;
-
-    return new Date(original - offset).toISOString();
-  };
   const RTd = tweet => tweet.match(/^RT\s/g) !== null;
   const rtCount = (count, text) => (RTd(text) ? 0 : count);
 
   const tweet = await axios(twtOpts)
     .then(result => {
       /* eslint-disable sort-keys */
-      const cleanTweet = result.data.map(twt => ({
-        id: twt.id_str,
-        date: dateFmt(twt.created_at),
-        tweet: clean(twt.full_text),
-        retweet: RTd(twt.full_text),
-        retweeted: rtCount(twt.retweet_count, twt.full_text),
-        favorited: twt.favorite_count,
-      }));
+      const cleanTweet = result.data
+        .map(twt => ({
+          id: twt.id_str,
+          date: dateFmt(twt.created_at).original,
+          tweet: clean(twt.full_text),
+          retweet: RTd(twt.full_text),
+          retweeted: rtCount(twt.retweet_count, twt.full_text),
+          favorited: twt.favorite_count,
+        }))
+        .filter(twt => {
+          const { compare, original } = dateFmt(twt.date);
+
+          return original > compare;
+        });
       /* eslint-enable */
 
       return cleanTweet;
