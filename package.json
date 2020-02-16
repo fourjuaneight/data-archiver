@@ -12,13 +12,20 @@
     "format": "prettier --write index.js",
     "lint": "eslint --fix index.js"
   },
+  "lint-staged": {
+    "*.+(js|css|ms)": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.js": [
+      "eslint --fix"
+    ]
+  },
+
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
-  },
-  "engines": {
-    "node": "10.16.3"
   },
   "repository": {
     "type": "git",

@@ -20,7 +20,7 @@ const auth = async (key, secret) => {
     .then(result => result.data.access_token)
     .catch(err => {
       // eslint-disable-next-line no-console
-      console.error('Token:', err.response.status);
+      console.error('Token:', err);
     });
 
   return token;
@@ -46,7 +46,7 @@ const ereborTweet = async (endpoint, id, password) => {
     .then(result => result.data.data.tweets_by_pk) // eslint-disable-line
     .catch(err => {
       // eslint-disable-next-line no-console
-      console.error('Erebor:', err.response.status);
+      console.error('Erebor:', err);
     });
 
   return lastUploaded;
@@ -89,7 +89,7 @@ const lastTweet = async key => {
     })
     .catch(err => {
       // eslint-disable-next-line no-console
-      console.error('Tweet:', err.response.status);
+      console.error('Tweet:', err);
     });
 
   return tweet;

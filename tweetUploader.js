@@ -60,7 +60,7 @@ getLastTweet.then(tweet => {
           .catch(err =>
             axios.post(process.env.PUSHCUT_ENDPOINT, {
               title: 'Error uploading to Erebor',
-              text: err.response,
+              text: err,
             })
           );
       } else {
@@ -70,7 +70,7 @@ getLastTweet.then(tweet => {
     .catch(err =>
       axios.post(process.env.PUSHCUT_ENDPOINT, {
         title: 'Error getting Tweets from Erebor',
-        text: err.response,
+        text: err,
       })
     );
 });
