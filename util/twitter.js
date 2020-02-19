@@ -18,12 +18,7 @@ const auth = async (key, secret) => {
   };
 
   const token = await axios(authOpts)
-    .then(result => {
-      // eslint-disable-next-line no-console
-      console.log('Token created');
-
-      return result.data.access_token;
-    })
+    .then(result => result.data.access_token)
     .catch(err => {
       // eslint-disable-next-line no-console
       console.error('Token:', err);
@@ -49,12 +44,7 @@ const ereborTweet = async (endpoint, id, password) => {
     method: 'POST',
     url: endpoint,
   })
-    .then(result => {
-      // eslint-disable-next-line no-console
-      console.log('Last tweet from Erebor fetched.');
-
-      return result.data.data.tweets_by_pk;
-    })
+    .then(result => result.data.data.tweets_by_pk) // eslint-disable-line
     .catch(err => {
       // eslint-disable-next-line no-console
       console.error('Erebor:', err);
@@ -78,8 +68,6 @@ const lastTweet = async key => {
 
   const tweet = await axios(twtOpts)
     .then(result => {
-      // eslint-disable-next-line no-console
-      console.log('Last 10 tweets fetched.');
       /* eslint-disable sort-keys */
       const cleanTweet = result.data
         .map(twt => ({

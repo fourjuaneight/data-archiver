@@ -6,19 +6,9 @@ const getLastTweet = auth(process.env.TWITTER_KEY, process.env.TWITTER_SECRET)
   .then(token =>
     lastTweet(token)
       .then(tweet => tweet)
-      .catch(err =>
-        axios.post(process.env.PUSHCUT_ENDPOINT, {
-          title: 'Error getting last Tweet',
-          text: err,
-        })
-      )
+      .catch(err => console.error(err))
   )
-  .catch(err =>
-    axios.post(process.env.PUSHCUT_ENDPOINT, {
-      title: 'Error getting Twitter Bearer Token',
-      text: err,
-    })
-  );
+  .catch(err => console.error(err));
 
 getLastTweet.then(tweets => {
   if (tweets.length > 0) {
@@ -51,18 +41,9 @@ getLastTweet.then(tweets => {
         method: 'POST',
         url: process.env.EREBOR_ENDPOINT,
       })
-        .then(result =>
-          axios.post(process.env.PUSHCUT_ENDPOINT, {
-            title: 'Save new Tweet to Erebor',
-            text: result.data.data.insert_tweets.returning,
-          })
-        )
-        .catch(err =>
-          axios.post(process.env.PUSHCUT_ENDPOINT, {
-            title: 'Error uploading to Erebor',
-            text: err,
-          })
-        );
+        // eslint-disable-next-line no-console
+        .then(result => console.info('Saved new Tweets to Erebor.', result))
+        .catch(err => console.error(err));
     }
   } else {
     console.info('No new tweets to upload'); // eslint-disable-line

@@ -21,3 +21,10 @@ before_script:
 
 script:
   - node tweetUploader.js
+
+  notifications:
+    webhooks:
+      urls:
+        - $PUSHCUT_ENDPOINT
+      on_success: never
+      on_failure: always
