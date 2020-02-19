@@ -29,13 +29,13 @@ getLastTweet.then(tweets => {
           query: `
               mutation TweetMutation {
                 insert_tweets(objects: {
-                  id: "${tweet[0].id}",
-                  tweet: "${tweet[0].tweet}",
-                  date: "${tweet[0].date}",
-                  retweet: "${tweet[0].retweet}",
-                  retweeted: "${tweet[0].retweeted}",
-                  favorited: "${tweet[0].favorited}",
-                  created_at: "${tweet[0].date}",
+                  id: "${tweet.id}",
+                  tweet: "${tweet.tweet}",
+                  date: "${tweet.date}",
+                  retweet: "${tweet.retweet}",
+                  retweeted: "${tweet.retweeted}",
+                  favorited: "${tweet.favorited}",
+                  created_at: "${tweet.date}",
                 }) {
                   returning {
                     tweet
