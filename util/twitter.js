@@ -2,6 +2,15 @@ const axios = require('axios');
 const { clean } = require('./unicode');
 const { dateFmt } = require('./dateFmt');
 
+const tenBehind = () => {
+  const now = new Date();
+  const tenMinutesAgo = now.setMinutes(now.getMinutes() - 10);
+  const offset = now.getTimezoneOffset() * 60000;
+  const dateTime = new Date(tenMinutesAgo - offset).toISOString().slice(0, -5);
+
+  return dateTime;
+};
+
 const auth = async (key, secret) => {
   const data = `${key}:${secret}`;
   const buffData = Buffer.from(data);
@@ -26,6 +35,7 @@ const auth = async (key, secret) => {
 
   return token;
 };
+
 const ereborTweet = async (endpoint, id, password) => {
   const lastUploaded = await axios({
     data: {
@@ -52,6 +62,7 @@ const ereborTweet = async (endpoint, id, password) => {
 
   return lastUploaded;
 };
+
 const lastTweet = async key => {
   const twtOpts = {
     headers: {
@@ -79,9 +90,9 @@ const lastTweet = async key => {
           favorited: twt.favorite_count,
         }))
         .filter(twt => {
-          const { original, tenBehind } = dateFmt(twt.date);
+          const { original } = dateFmt(twt.date);
 
-          return original > tenBehind;
+          return original > tenBehind();
         });
       /* eslint-enable */
 
