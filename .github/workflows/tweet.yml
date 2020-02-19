@@ -1,0 +1,39 @@
+name: Upload Tweet
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  upload-tweet:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node 12.16.0
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.16.0
+
+      - name: Cache Node.js modules
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-node-
+            ${{ runner.OS }}-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Upload
+        run: node tweetUploader.js
+
+        env:
+          CI: true
+          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
+          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
+          PUSHCUT_ENDPOINT: ${{secrets.PUSHCUT_ENDPOINT}}
+          TWITTER_KEY: ${{secrets.TWITTER_KEY}}
+          TWITTER_SECRET: ${{secrets.TWITTER_SECRET}}
