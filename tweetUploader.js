@@ -41,8 +41,13 @@ getLastTweet.then(tweets => {
         method: 'POST',
         url: process.env.EREBOR_ENDPOINT,
       })
-        // eslint-disable-next-line no-console
-        .then(result => console.info('Saved new Tweets to Erebor.', result))
+        .then(result =>
+          // eslint-disable-next-line no-console
+          console.info(
+            'Saved new Tweets to Erebor.',
+            result.data.data.insert_tweets
+          )
+        )
         .catch(err => console.error(err));
     }
   } else {
