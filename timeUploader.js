@@ -40,6 +40,7 @@ timeData.forEach(obj => {
         method: 'POST',
         url: dotenv.parsed.EREBOR_ENDPOINT,
       })
+        // eslint-disable-next-line no-console
         .then(result => console.log(result.data))
         .catch(error => console.error(error)),
     1500
