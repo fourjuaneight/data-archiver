@@ -79,9 +79,9 @@ const lastTweet = async key => {
           favorited: twt.favorite_count,
         }))
         .filter(twt => {
-          const { compare, original } = dateFmt(twt.date);
+          const { original, tenBehind } = dateFmt(twt.date);
 
-          return original > compare;
+          return original > tenBehind;
         });
       /* eslint-enable */
 

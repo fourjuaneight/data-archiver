@@ -1,14 +1,17 @@
 const dateFmt = date => {
-  const currDate = new Date();
-  const yesterday = currDate.setDate(currDate.getDate() - 1);
-  const orgDate = new Date(date);
-  const offset = currDate.getTimezoneOffset() * 60000;
-  const compare = new Date(yesterday - offset).toISOString().slice(0, -5);
-  const original = new Date(orgDate - offset).toISOString().slice(0, -5);
+  const now = new Date();
+  const oneDayAgo = now.setDate(now.getDate() - 1);
+  const tenMinutesAgo = now.setMinutes(now.getMinutes() - 10);
+  const originalDate = new Date(date);
+  const offset = now.getTimezoneOffset() * 60000;
+  const yesterday = new Date(oneDayAgo - offset).toISOString().slice(0, -5);
+  const tenBehind = new Date(tenMinutesAgo - offset).toISOString().slice(0, -5);
+  const original = new Date(originalDate - offset).toISOString().slice(0, -5);
 
   return {
-    compare,
     original,
+    tenBehind,
+    yesterday,
   };
 };
 
