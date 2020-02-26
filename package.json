@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/fourjuaneight/data#readme",
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-jcv": "0.1.1",
     "eslint-plugin-node": "^11.0.0",
