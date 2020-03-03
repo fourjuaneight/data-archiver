@@ -2,6 +2,27 @@ const axios = require('axios');
 const { clean } = require('./unicode');
 const { dateFmt } = require('./dateFmt');
 
+// Helpers
+const asyncReplace = async (str, regex, fn) => {
+  const promises = [];
+  str.replace(regex, (match, ...args) => {
+    const promise = fn(match, ...args);
+    promises.push(promise);
+  });
+  const data = await Promise.all(promises);
+
+  return str.replace(regex, () => data.shift());
+};
+
+const expandLinks = async url => {
+  const link = await axios
+    .get(url)
+    .then(response => response.request.res.responseUrl)
+    .catch(error => console.error(error));
+
+  return link;
+};
+
 const tenBehind = () => {
   const now = new Date();
   const tenMinutesAgo = now.setMinutes(now.getMinutes() - 10);
@@ -28,10 +49,7 @@ const auth = async (key, secret) => {
 
   const token = await axios(authOpts)
     .then(result => result.data.access_token)
-    .catch(err => {
-      // eslint-disable-next-line no-console
-      console.error('Token:', err);
-    });
+    .catch(err => console.error('Token:', err));
 
   return token;
 };
@@ -97,6 +115,17 @@ const lastTweet = async key => {
       /* eslint-enable */
 
       return cleanTweet;
+    })
+    .then(tweets => {
+      const expanded = tweets.map(async twt => ({
+        ...twt,
+        tweet: await asyncReplace(
+          twt.tweet,
+          /(https:\/\/t.co\/[a-zA-z0-9]+)/g,
+          expandLinks
+        ).then(result => result),
+      }));
+      return Promise.all(expanded).then(result => result);
     })
     .catch(err => {
       // eslint-disable-next-line no-console
