@@ -1,10 +1,11 @@
 require('dotenv').config();
 const axios = require('axios');
-const { auth, lastTweet } = require('./twitter');
+const { auth } = require('./auth');
+const { latest } = require('./latest');
 
 const getLastTweet = auth(process.env.TWITTER_KEY, process.env.TWITTER_SECRET)
   .then(token =>
-    lastTweet(token)
+    latest(token)
       .then(tweet => tweet)
       .catch(err => console.error(err))
   )

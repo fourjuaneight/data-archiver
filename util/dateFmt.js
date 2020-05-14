@@ -1,3 +1,4 @@
+// Get formatted current date, yesterday, and date from 10 minutes ago
 const dateFmt = date => {
   let original = null;
   const now = new Date();

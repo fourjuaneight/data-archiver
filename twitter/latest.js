@@ -2,7 +2,7 @@ const axios = require('axios');
 const { clean } = require('../util/unicode');
 const { dateFmt } = require('../util/dateFmt');
 
-// Helpers
+// Async find and replace from string
 const asyncReplace = async (str, regex, fn) => {
   const promises = [];
   str.replace(regex, (match, ...args) => {
@@ -14,6 +14,7 @@ const asyncReplace = async (str, regex, fn) => {
   return str.replace(regex, () => data.shift());
 };
 
+// Expand shortend URLs
 const expandLinks = async url => {
   const link = await axios
     .get(url)
@@ -23,6 +24,7 @@ const expandLinks = async url => {
   return link;
 };
 
+// Get time 10 minutes ago
 const tenBehind = () => {
   const now = new Date();
   const tenMinutesAgo = now.setMinutes(now.getMinutes() - 10);
@@ -32,56 +34,8 @@ const tenBehind = () => {
   return dateTime;
 };
 
-const auth = async (key, secret) => {
-  const data = `${key}:${secret}`;
-  const buffData = Buffer.from(data);
-  const encodedData = buffData.toString('base64');
-  const authOpts = {
-    data: 'grant_type=client_credentials',
-    headers: {
-      Authorization: `Basic ${encodedData}`,
-      'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-    },
-    method: 'POST',
-    url: 'https://api.twitter.com/oauth2/token',
-    withCredentials: true,
-  };
-
-  const token = await axios(authOpts)
-    .then(result => result.data.access_token)
-    .catch(err => console.error('Token:', err));
-
-  return token;
-};
-
-const ereborTweet = async (endpoint, id, password) => {
-  const lastUploaded = await axios({
-    data: {
-      query: `
-          query LastTweet {
-            tweets_by_pk(id: "${id}") {
-              id
-            }
-          }
-        `,
-    },
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Hasura-Admin-Secret': password,
-    },
-    method: 'POST',
-    url: endpoint,
-  })
-    .then(result => result.data.data.tweets_by_pk) // eslint-disable-line
-    .catch(err => {
-      // eslint-disable-next-line no-console
-      console.error('Erebor:', err);
-    });
-
-  return lastUploaded;
-};
-
-const lastTweet = async key => {
+// Get latest tweet
+const latest = async key => {
   const twtOpts = {
     headers: {
       Authorization: `Bearer ${key}`,
@@ -135,6 +89,4 @@ const lastTweet = async key => {
   return tweet;
 };
 
-exports.auth = auth;
-exports.ereborTweet = ereborTweet;
-exports.lastTweet = lastTweet;
+exports.latest = latest;
