@@ -28,7 +28,7 @@ jobs:
         run: npm ci
 
       - name: Upload
-        run: node tweetUploader.js
+        run: node twitter/uploader.js
 
         env:
           CI: true

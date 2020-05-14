@@ -1,6 +1,6 @@
 const axios = require('axios');
-const { clean } = require('./unicode');
-const { dateFmt } = require('./dateFmt');
+const { clean } = require('../util/unicode');
+const { dateFmt } = require('../util/dateFmt');
 
 // Helpers
 const asyncReplace = async (str, regex, fn) => {
