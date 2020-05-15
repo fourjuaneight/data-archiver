@@ -2,7 +2,6 @@ require('dotenv').config();
 const { resolve } = require('path');
 const { writeFile } = require('fs');
 const axios = require('axios');
-const args = require('yargs').argv;
 
 // Match table queries
 const tableQueries = {
@@ -50,4 +49,4 @@ const query = async table => {
     .catch(err => console.error('Request Error:', err));
 };
 
-query(args.table);
+Object.keys(tableQueries).forEach(table => query(table));

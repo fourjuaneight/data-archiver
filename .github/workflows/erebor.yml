@@ -1,0 +1,48 @@
+name: Backup Erebor
+
+on:
+  push
+
+jobs:
+  upload-tweet:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Use Node 12.16.0
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.16.0
+
+      - name: Cache Node.js modules
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-node-
+            ${{ runner.OS }}-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Backup
+        run: node erebor/backup.js
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.2.0
+        with:
+          commit_message: Erebor backed up at ${{steps.date.outputs.date}}.
+
+        env:
+          CI: true
+          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
+          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
