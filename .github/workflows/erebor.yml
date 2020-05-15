@@ -1,7 +1,8 @@
 name: Backup Erebor
 
 on:
-  push
+  schedule:
+    - cron: '0 3 * * *'
 
 jobs:
   upload-tweet:
