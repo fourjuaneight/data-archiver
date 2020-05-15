@@ -15,8 +15,8 @@ const tableQueries = {
 };
 
 // Get all items from table
-const query = async table => {
-  await axios({
+const query = table => {
+  axios({
     data: {
       query: `
         query {
