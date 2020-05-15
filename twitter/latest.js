@@ -1,3 +1,4 @@
+const process = require('process');
 const axios = require('axios');
 const { clean } = require('../util/unicode');
 const { dateFmt } = require('../util/dateFmt');
@@ -83,7 +84,8 @@ const latest = async key => {
     })
     .catch(err => {
       // eslint-disable-next-line no-console
-      console.error('Tweet:', err);
+      console.error('Get Tweets:', err);
+      process.exitCode = 1;
     });
 
   return tweet;

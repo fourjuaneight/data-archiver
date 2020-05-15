@@ -1,6 +1,7 @@
 require('dotenv').config();
 const { resolve } = require('path');
 const { writeFile } = require('fs');
+const process = require('process');
 const axios = require('axios');
 
 // Match table queries
@@ -34,18 +35,25 @@ for (const table of Object.keys(tableQueries)) {
   })
     .then(result => {
       if (result.data.errors) {
-        console.error('Query Error:', result.data.errors[0].message);
+        console.error('Erebor Query:', result.data.errors[0].message);
+        process.exitCode = 1;
       } else {
         writeFile(
           resolve(__dirname, '..', 'records', `${table}.json`),
           JSON.stringify(result.data.data[table], null, 2),
           err => {
-            if (err) console.error(err);
+            if (err) {
+              console.error('FS Error:', err);
+              process.exitCode = 1;
+            }
             // eslint-disable-next-line no-console
             console.info(`Saved ${table}.json to Erebor backup.`);
           }
         );
       }
     })
-    .catch(err => console.error('Request Error:', err));
+    .catch(err => {
+      console.error('Erebor Request:', err);
+      process.exitCode = 1;
+    });
 }
