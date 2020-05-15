@@ -15,14 +15,15 @@ const tableQueries = {
 };
 
 // Get all items from table
-const query = table => {
+// eslint-disable-next-line no-restricted-syntax
+for (const table of Object.keys(tableQueries)) {
   axios({
     data: {
       query: `
-        query {
-          ${table} { ${tableQueries[table]} }
-        }
-      `,
+          query {
+            ${table} { ${tableQueries[table]} }
+          }
+        `,
     },
     headers: {
       'Content-Type': 'application/json',
@@ -47,6 +48,4 @@ const query = table => {
       }
     })
     .catch(err => console.error('Request Error:', err));
-};
-
-Object.keys(tableQueries).forEach(table => query(table));
+}
