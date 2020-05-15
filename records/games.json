@@ -1,0 +1,27 @@
+[
+  {
+    "title": "INSIDE",
+    "creator": "Playdead",
+    "genre": "Platform"
+  },
+  {
+    "title": "Limbo",
+    "creator": "Playdead",
+    "genre": "Platform"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "creator": "Nintendo",
+    "genre": "Role-playing (RPG)"
+  },
+  {
+    "title": "Pokémon Gold",
+    "creator": "Game Freak",
+    "genre": "Role-playing (RPG)"
+  },
+  {
+    "title": "The Last of Us",
+    "creator": "Naughty Dog",
+    "genre": "Shooter"
+  }
+]

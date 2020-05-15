@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Bodies",
+    "url": "https://m.webtoons.com/en/challenge/bodies/list?title_no=313877",
+    "rss": "https://www.webtoons.com/en/challenge/bodies/rss?title_no=313877",
+    "category": "Comic"
+  },
+  {
+    "title": "Catana",
+    "url": "https://catanacomics.com",
+    "rss": "https://catanacomics.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "CommitStrip",
+    "url": "http://www.commitstrip.com",
+    "rss": "http://www.commitstrip.com/en/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "Fun Fact",
+    "url": "http://www.funfactcomics.com/",
+    "rss": "http://www.funfactcomics.com/rss",
+    "category": "Comic"
+  },
+  {
+    "title": "Good Bear",
+    "url": "https://goodbearcomics.com",
+    "rss": "https://goodbearcomics.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "JS Power Hour",
+    "url": "http://www.jspowerhour.com/",
+    "rss": "https://www.jspowerhour.com/comics.rss",
+    "category": "Comic"
+  },
+  {
+    "title": "Lil Char and the Gang",
+    "url": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/list?title_no=154745",
+    "rss": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/rss?title_no=154745",
+    "category": "Comic"
+  },
+  {
+    "title": "MonkeyUser",
+    "url": "https://www.monkeyuser.com",
+    "rss": "https://www.monkeyuser.com/feed.xml",
+    "category": "Comic"
+  },
+  {
+    "title": "Oglaf",
+    "url": "https://www.oglaf.com/latest/",
+    "rss": "https://www.oglaf.com/feeds/rss/",
+    "category": "Comic"
+  },
+  {
+    "title": "Poorly Drawn Lines",
+    "url": "http://www.poorlydrawnlines.com",
+    "rss": "http://www.poorlydrawnlines.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "Port Sherry",
+    "url": "http://portsherry.com/",
+    "rss": "http://portsherry.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com/",
+    "rss": "https://www.smbc-comics.com/comic/rss",
+    "category": "Comic"
+  },
+  {
+    "title": "The Oatmeal",
+    "url": "http://theoatmeal.com/",
+    "rss": "https://feeds.feedburner.com/oatmealfeed",
+    "category": "Comic"
+  },
+  {
+    "title": "The Other End",
+    "url": "http://www.kohney.com",
+    "rss": "http://www.kohney.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "The Perry Bible Fellowship",
+    "url": "https://pbfcomics.com",
+    "rss": "https://pbfcomics.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "Things in Squares",
+    "url": "https://www.thingsinsquares.com",
+    "rss": "https://www.thingsinsquares.com/feed/",
+    "category": "Comic"
+  },
+  {
+    "title": "xkcd",
+    "url": "https://xkcd.com/",
+    "rss": "https://xkcd.com/rss.xml",
+    "category": "Comic"
+  },
+  {
+    "title": "A List Apart",
+    "url": "https://alistapart.com/",
+    "rss": "https://alistapart.com/main/feed/",
+    "category": "Development"
+  },
+  {
+    "title": "Alligator",
+    "url": "https://alligator.io/",
+    "rss": "https://alligator.io/feed.xml",
+    "category": "Development"
+  },
+  {
+    "title": "Andy Bell",
+    "url": "https://andy-bell.design/",
+    "rss": "https://andy-bell.design/feed/all.xml",
+    "category": "Development"
+  },
+  {
+    "title": "CSS-Tricks",
+    "url": "https://css-tricks.com/",
+    "rss": "http://feeds.feedburner.com/CssTricks",
+    "category": "Development"
+  },
+  {
+    "title": "Dave Rupert",
+    "url": "http://daverupert.com",
+    "rss": "https://daverupert.com/atom.xml",
+    "category": "Development"
+  },
+  {
+    "title": "Ethan Marcotte",
+    "url": "https://ethanmarcotte.com",
+    "rss": "https://ethanmarcotte.com/wrote/feed.xml",
+    "category": "Development"
+  },
+  {
+    "title": "Jake Archibald",
+    "url": "https://jakearchibald.com/",
+    "rss": "https://jakearchibald.com/posts.rss",
+    "category": "Development"
+  },
+  {
+    "title": "Panic Blog",
+    "url": "https://panic.com/blog",
+    "rss": "https://panic.com/blog/feed/",
+    "category": "Development"
+  },
+  {
+    "title": "Surma",
+    "url": "https://dassur.ma/",
+    "rss": "https://dassur.ma/index.xml",
+    "category": "Development"
+  },
+  {
+    "title": "The History of the Web",
+    "url": "https://thehistoryoftheweb.com",
+    "rss": "https://thehistoryoftheweb.com/feed/",
+    "category": "Development"
+  },
+  {
+    "title": "Two-Bit History",
+    "url": "https://twobithistory.org/",
+    "rss": "https://twobithistory.org/feed.xml",
+    "category": "Development"
+  },
+  {
+    "title": "5ish",
+    "url": "https://5ish.org/feed/",
+    "rss": "https://5ish.org",
+    "category": "Entertainment"
+  },
+  {
+    "title": "500is Words",
+    "url": "https://500ish.com/feed",
+    "rss": "https://500ish.com",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Ash Furrow",
+    "url": "https://ashfurrow.com/",
+    "rss": "https://feed.ashfurrow.com/feed.xml",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Cortex Animated",
+    "url": "https://www.youtube.com/playlist?list=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Hot Ones",
+    "url": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Hyperbole and a Half",
+    "url": "http://hyperboleandahalf.blogspot.com/",
+    "rss": "http://feeds.feedburner.com/Hyperbole-and-a-half",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Hypercritical",
+    "url": "http://hypercritical.co/",
+    "rss": "http://hypercritical.co/feeds/main",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Liss is More",
+    "url": "https://www.caseyliss.com",
+    "rss": "https://www.caseyliss.com/rss",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Marco Arment",
+    "url": "https://marco.org/",
+    "rss": "https://marco.org/rss",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Movies with Mikey",
+    "url": "https://www.youtube.com/playlist?list=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
+    "category": "Entertainment"
+  },
+  {
+    "title": "The Burger Show",
+    "url": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMK8zGcsu70ju7KvWyNBWYnL",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMJe0ZOKPLRgEc-sp4cLmtz6",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Why is this interesting?",
+    "url": "https://whyisthisinteresting.substack.com",
+    "rss": "https://whyisthisinteresting.substack.com/feed/",
+    "category": "Entertainment"
+  },
+  {
+    "title": "Wait But Why",
+    "url": "https://waitbutwhy.com",
+    "rss": "https://waitbutwhy.com/feed",
+    "category": "Science"
+  },
+  {
+    "title": "What If?",
+    "url": "https://what-if.xkcd.com/feed.atom",
+    "rss": "https://what-if.xkcd.com/feed.atom",
+    "category": "Science"
+  },
+  {
+    "title": "Justin O'Beirne",
+    "url": "https://www.justinobeirne.com/",
+    "rss": "https://www.justinobeirne.com/rss?format=rss",
+    "category": "Technology"
+  },
+  {
+    "title": "MacStories",
+    "url": "https://www.macstories.net",
+    "rss": "https://www.macstories.net/feed/",
+    "category": "Technology"
+  },
+  {
+    "title": "Overreacted",
+    "url": "https://overreacted.io/",
+    "rss": "https://overreacted.io/rss.xml",
+    "category": "Development"
+  },
+  {
+    "title": "They Can't Talk",
+    "url": "https://theycantalk.com/",
+    "rss": "https://theycantalk.com/rss",
+    "category": "Comic"
+  },
+  {
+    "title": "Josh Comeau",
+    "url": "https://joshwcomeau.com/",
+    "rss": "https://joshwcomeau.com/rss.xml",
+    "category": "Development"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Mr Robot",
+    "director": "Sam Esmail",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Expanse",
+    "director": "Mark Fergus",
+    "genre": "Drama"
+  },
+  {
+    "title": "Breaking Bad",
+    "director": "Vince Gilligan",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Office",
+    "director": "Greg Daniels",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Magicians",
+    "director": "Sara Gamble",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Legion",
+    "director": "Noah Hawley",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "Stranger Things",
+    "director": "Duffer Brothers",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Leftovers",
+    "director": "Damon Lindelof",
+    "genre": "Drama"
+  },
+  {
+    "title": "Watchmen",
+    "director": "Damon Lindelof",
+    "genre": "Action"
+  },
+  {
+    "title": "The Witcher",
+    "director": "Lauren Schmidt Hissrich",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Mandalorian",
+    "director": "Jon Favreau",
+    "genre": "Action"
+  },
+  {
+    "title": "Bob's Burgers",
+    "director": "Loren Bouchard",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Adventure Time",
+    "director": "Pendleton Ward",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "director": "George Lucas",
+    "genre": "Action"
+  },
+  {
+    "title": "Naruto",
+    "director": "Masashi Kishimoto",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "director": "Yasuhiro Irie",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Attack on Titan",
+    "director": "Tetsuya Kinoshita",
+    "genre": "Action"
+  }
+]
