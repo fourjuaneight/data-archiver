@@ -31,6 +31,10 @@ jobs:
 
       - name: Backup
         run: node erebor/backup.js
+        env:
+          CI: true
+          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
+          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
 
       - name: Get current date
         id: date
@@ -40,9 +44,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.2.0
         with:
           commit_message: Erebor backed up at ${{steps.date.outputs.date}}.
-
-        env:
-          CI: true
-          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
-          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
