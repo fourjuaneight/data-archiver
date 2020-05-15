@@ -12,7 +12,7 @@ const tableQueries = {
   movies: `title director genre`,
   podcasts: `title url rss category`,
   rss: `title url rss category`,
-  shows: `title director genr`,
+  shows: `title director genre`,
 };
 
 // Get all items from table
