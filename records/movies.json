@@ -618,5 +618,20 @@
     "title": "Rosemary's Baby",
     "director": "Roman Polanski",
     "genre": "Horror"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "director": "Stanley Kubrick",
+    "genre": "Sci-Fi & Fantasy"
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "director": "Steven Spielberg",
+    "genre": "Action & Adventure"
+  },
+  {
+    "title": "Nacho Libre",
+    "director": "Jared Hess",
+    "genre": "Comedy"
   }
 ]
