@@ -220,5 +220,11 @@
     "url": "http://trolls2.libsyn.com/website",
     "rss": "https://podcasts.apple.com/podcast/id1240927514",
     "category": "Entertainment"
+  },
+  {
+    "title": "MacStories Unwind",
+    "url": "https://www.macstories.net/unwind/",
+    "rss": "https://podcasts.apple.com/podcast/id1510451759",
+    "category": "Technology"
   }
 ]
