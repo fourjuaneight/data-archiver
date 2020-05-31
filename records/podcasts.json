@@ -60,12 +60,6 @@
     "category": "Entertainment"
   },
   {
-    "title": "Last Podcast On The Left",
-    "url": "https://www.lastpodcastontheleft.com",
-    "rss": "https://podcasts.apple.com/podcast/id437299706",
-    "category": "Entertainment"
-  },
-  {
     "title": "My Brother, My Brother And Me",
     "url": "http://www.mbmbam.com",
     "rss": "https://podcasts.apple.com/podcast/id1231655849",
@@ -132,18 +126,6 @@
     "category": "Science"
   },
   {
-    "title": "Fun Fact",
-    "url": "https://funfact.fm/",
-    "rss": "https://podcasts.apple.com/podcast/id1445347384",
-    "category": "Entertainment"
-  },
-  {
-    "title": "Your Undivided Attention",
-    "url": "https://your-undivided-attention.simplecast.com/",
-    "rss": "https://podcasts.apple.com/podcast/id1460030305",
-    "category": "Science"
-  },
-  {
     "title": "Til Death Do Us Blart",
     "url": "http://blart.libsyn.com/podcast",
     "rss": "https://podcasts.apple.com/podcast/id1059007762",
@@ -154,12 +136,6 @@
     "url": "https://www.nodumbquestions.fm/",
     "rss": "https://podcasts.apple.com/podcast/id1204701206",
     "category": "Science"
-  },
-  {
-    "title": "Launched",
-    "url": "https://launchedfm.com/",
-    "rss": "https://podcasts.apple.com/podcast/id1491582246",
-    "category": "Technology"
   },
   {
     "title": "Panic Podcast",
@@ -204,12 +180,6 @@
     "category": "Science"
   },
   {
-    "title": "Nested Folders",
-    "url": "https://nestedfolderspodcast.com/",
-    "rss": "https://podcasts.apple.com/podcast/id1471770563",
-    "category": "Technology"
-  },
-  {
     "title": "The Rewatchables",
     "url": "https://art19.com/shows/the-rewatchables",
     "rss": "https://podcasts.apple.com/podcast/id1268527882",
@@ -228,9 +198,9 @@
     "category": "Technology"
   },
   {
-    "title": "Do By Friday",
-    "url": "http://dobyfriday.com/",
-    "rss": "https://podcasts.apple.com/podcast/id1169249168",
-    "category": "Entertainment"
+    "title": "Random But Memorable",
+    "url": "https://randombutmemorable.simplecast.com/",
+    "rss": "https://podcasts.apple.com/podcast/id1435486599",
+    "category": "Technology"
   }
 ]
