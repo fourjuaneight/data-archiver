@@ -108,12 +108,6 @@
     "category": "Development"
   },
   {
-    "title": "Techmeme Ride Home",
-    "url": "https://news.techmeme.com/180306/podcast",
-    "rss": "https://podcasts.apple.com/podcast/id1355212895",
-    "category": "Technology"
-  },
-  {
     "title": "The Adventure Zone",
     "url": "https://www.themcelroy.family/theadventurezone",
     "rss": "https://podcasts.apple.com/podcast/id947899573",
@@ -195,6 +189,18 @@
     "title": "MacStories Unwind",
     "url": "https://www.macstories.net/unwind/",
     "rss": "https://podcasts.apple.com/podcast/id1510451759",
+    "category": "Technology"
+  },
+  {
+    "title": "Dithering",
+    "url": "https://dithering.fm/",
+    "rss": "https://rss.stratechery.com/cask/4RS37YnDtEGiDLGatUzzAHCd84KE?series_id=95783b44-54d7-4d48-b84b-d889170af5b7",
+    "category": "Technology"
+  },
+  {
+    "title": "Stratechery",
+    "url": "https://stratechery.com/",
+    "rss": "https://rss.stratechery.com/cask/4RS37YnDtEGiDLGatUzzAHCd84KE?series_id=1b999f31-d21a-4f69-b8a6-678214aeda60",
     "category": "Technology"
   }
 ]
