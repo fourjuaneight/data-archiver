@@ -202,5 +202,29 @@
     "url": "https://stratechery.com/",
     "rss": "https://rss.stratechery.com/cask/4RS37YnDtEGiDLGatUzzAHCd84KE?series_id=1b999f31-d21a-4f69-b8a6-678214aeda60",
     "category": "Technology"
+  },
+  {
+    "title": "1619",
+    "url": "https://www.nytimes.com/column/1619-project",
+    "rss": "https://podcasts.apple.com/podcast/id1476928106",
+    "category": "Journalism"
+  },
+  {
+    "title": "Code Switch",
+    "url": "https://www.npr.org/podcasts/510312/codeswitch",
+    "rss": "https://podcasts.apple.com/podcast/id1112190608",
+    "category": "Journalism"
+  },
+  {
+    "title": "Throughline",
+    "url": "https://www.npr.org/podcasts/510333/throughline",
+    "rss": "https://podcasts.apple.com/podcast/id1451109634",
+    "category": "Journalism"
+  },
+  {
+    "title": "Up First",
+    "url": "https://www.npr.org/podcasts/510318/up-first",
+    "rss": "https://podcasts.apple.com/podcast/id1222114325",
+    "category": "Journalism"
   }
 ]
