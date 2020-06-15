@@ -193,5 +193,20 @@
     "title": "V for Vendetta",
     "author": "Alan Moore",
     "genre": "Comics"
+  },
+  {
+    "title": "Batman: The Dark Knight Returns",
+    "author": "Frank Miller",
+    "genre": "Comics"
+  },
+  {
+    "title": "Batman: Year One",
+    "author": "Frank Miller",
+    "genre": "Comics"
+  },
+  {
+    "title": "The Ultimate RPG Gameplay Guide",
+    "author": "James D'Amato",
+    "genre": "Guides"
   }
 ]
