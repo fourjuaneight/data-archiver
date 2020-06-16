@@ -4000,5 +4000,17 @@
     "creator": "xkcd",
     "url": "https://xkcd.com/323/",
     "category": "Comics"
+  },
+  {
+    "title": "screamingfrog.mp3",
+    "creator": "Dear Hank & John",
+    "url": "https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/dear-hank-john/dear-hank-john061520.mp3",
+    "category": "Podcasts"
+  },
+  {
+    "title": "No Dumb Questions with an African American Pastor",
+    "creator": "No Dumb Questions",
+    "url": "https://traffic.libsyn.com/secure/nodumbqs/085_-_No_Dumb_Questions_with_an_African_American_Pastor.mp3?dest-id=465911",
+    "category": "Podcasts"
   }
 ]
