@@ -1,278 +1,416 @@
 [
   {
+    "id": "1d899d89-5c23-426b-ab4b-4e99f2c5a310",
     "title": "Bodies",
     "url": "https://m.webtoons.com/en/challenge/bodies/list?title_no=313877",
     "rss": "https://www.webtoons.com/en/challenge/bodies/rss?title_no=313877",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:35.881957",
+    "updated_at": "2019-09-25T16:57:35.881957"
   },
   {
+    "id": "c767f2a7-06cd-4b47-a8e2-44f36a1d9f86",
     "title": "Catana",
     "url": "https://catanacomics.com",
     "rss": "https://catanacomics.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.057457",
+    "updated_at": "2019-09-25T16:57:36.057457"
   },
   {
+    "id": "3fae240e-5a97-4639-847e-fad54148851d",
     "title": "CommitStrip",
     "url": "http://www.commitstrip.com",
     "rss": "http://www.commitstrip.com/en/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.215747",
+    "updated_at": "2019-09-25T16:57:36.215747"
   },
   {
+    "id": "667b96c8-d952-439c-98b5-cfe81428ae1e",
     "title": "Fun Fact",
     "url": "http://www.funfactcomics.com/",
     "rss": "http://www.funfactcomics.com/rss",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.362449",
+    "updated_at": "2019-09-25T16:57:36.362449"
   },
   {
+    "id": "60ffc9a0-b18c-4273-a513-b9253a4ff336",
     "title": "Good Bear",
     "url": "https://goodbearcomics.com",
     "rss": "https://goodbearcomics.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.492974",
+    "updated_at": "2019-09-25T16:57:36.492974"
   },
   {
+    "id": "71720fa9-ad52-4e4b-bc10-26d3446ba483",
     "title": "JS Power Hour",
     "url": "http://www.jspowerhour.com/",
     "rss": "https://www.jspowerhour.com/comics.rss",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.619572",
+    "updated_at": "2019-09-25T16:57:36.619572"
   },
   {
+    "id": "d27766b0-0056-4810-bcf0-d06db011835a",
     "title": "Lil Char and the Gang",
     "url": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/list?title_no=154745",
     "rss": "https://www.webtoons.com/en/challenge/lil-char-and-the-gang-a-pokemon-parody-series/rss?title_no=154745",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.742737",
+    "updated_at": "2019-09-25T16:57:36.742737"
   },
   {
+    "id": "a27c96f1-9d98-4428-9e51-0fa62b907069",
     "title": "MonkeyUser",
     "url": "https://www.monkeyuser.com",
     "rss": "https://www.monkeyuser.com/feed.xml",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:36.87728",
+    "updated_at": "2019-09-25T16:57:36.87728"
   },
   {
+    "id": "d2e4a74d-a849-4db5-968b-076b41a5f37e",
     "title": "Oglaf",
     "url": "https://www.oglaf.com/latest/",
     "rss": "https://www.oglaf.com/feeds/rss/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.006879",
+    "updated_at": "2019-09-25T16:57:37.006879"
   },
   {
+    "id": "905224e2-41df-4a91-ab46-12cd172ef8e8",
     "title": "Poorly Drawn Lines",
     "url": "http://www.poorlydrawnlines.com",
     "rss": "http://www.poorlydrawnlines.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.143571",
+    "updated_at": "2019-09-25T16:57:37.143571"
   },
   {
+    "id": "bc370d33-b5c5-45d0-8dcb-7aa847d32322",
     "title": "Port Sherry",
     "url": "http://portsherry.com/",
     "rss": "http://portsherry.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.316739",
+    "updated_at": "2019-09-25T16:57:37.316739"
   },
   {
+    "id": "80562da8-c88c-4391-a37a-bd055b8c5c32",
     "title": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/",
     "rss": "https://www.smbc-comics.com/comic/rss",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.451933",
+    "updated_at": "2019-09-25T16:57:37.451933"
   },
   {
+    "id": "ae60b1cd-e80f-4535-8283-c484a61be581",
     "title": "The Oatmeal",
     "url": "http://theoatmeal.com/",
     "rss": "https://feeds.feedburner.com/oatmealfeed",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.709889",
+    "updated_at": "2019-09-25T16:57:37.709889"
   },
   {
+    "id": "aefe4494-15a6-43f5-8216-dee83ad19e3a",
     "title": "The Other End",
     "url": "http://www.kohney.com",
     "rss": "http://www.kohney.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.838326",
+    "updated_at": "2019-09-25T16:57:37.838326"
   },
   {
+    "id": "2ffd7137-8854-456d-8318-7a96e365f8b5",
     "title": "The Perry Bible Fellowship",
     "url": "https://pbfcomics.com",
     "rss": "https://pbfcomics.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:37.963876",
+    "updated_at": "2019-09-25T16:57:37.963876"
   },
   {
+    "id": "78847ee5-5731-4775-8f8c-bef15d19c460",
     "title": "Things in Squares",
     "url": "https://www.thingsinsquares.com",
     "rss": "https://www.thingsinsquares.com/feed/",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:38.096841",
+    "updated_at": "2019-09-25T16:57:38.096841"
   },
   {
+    "id": "cd7707cc-d605-42ff-bb5c-ab31f0117e9e",
     "title": "xkcd",
     "url": "https://xkcd.com/",
     "rss": "https://xkcd.com/rss.xml",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2019-09-25T16:57:38.222037",
+    "updated_at": "2019-09-25T16:57:38.222037"
   },
   {
+    "id": "e7889f18-5447-4e64-bc66-42c65dde74c0",
     "title": "A List Apart",
     "url": "https://alistapart.com/",
     "rss": "https://alistapart.com/main/feed/",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:38.355144",
+    "updated_at": "2019-09-25T16:57:38.355144"
   },
   {
+    "id": "23d9cecd-e4c5-4bd5-b63f-965aa535b7e7",
     "title": "Alligator",
     "url": "https://alligator.io/",
     "rss": "https://alligator.io/feed.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:38.484089",
+    "updated_at": "2019-09-25T16:57:38.484089"
   },
   {
+    "id": "2b7f1a6f-20f0-4968-b2db-3ae15c2f9a37",
     "title": "Andy Bell",
     "url": "https://andy-bell.design/",
     "rss": "https://andy-bell.design/feed/all.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:38.613036",
+    "updated_at": "2019-09-25T16:57:38.613036"
   },
   {
+    "id": "48890a6b-23e3-43aa-a8b9-4b456caefbf6",
     "title": "CSS-Tricks",
     "url": "https://css-tricks.com/",
     "rss": "http://feeds.feedburner.com/CssTricks",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:39.168298",
+    "updated_at": "2019-09-25T16:57:39.168298"
   },
   {
+    "id": "54f5ea31-cd9c-4a5e-a9fc-496c7d6a3609",
     "title": "Dave Rupert",
     "url": "http://daverupert.com",
     "rss": "https://daverupert.com/atom.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:39.320271",
+    "updated_at": "2019-09-25T16:57:39.320271"
   },
   {
+    "id": "fbf02635-d97c-4a2f-a807-808b93d3fab2",
     "title": "Ethan Marcotte",
     "url": "https://ethanmarcotte.com",
     "rss": "https://ethanmarcotte.com/wrote/feed.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:39.47344",
+    "updated_at": "2019-09-25T16:57:39.47344"
   },
   {
+    "id": "758f7c7d-037a-4146-acc5-c66f0ba2971c",
     "title": "Jake Archibald",
     "url": "https://jakearchibald.com/",
     "rss": "https://jakearchibald.com/posts.rss",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:39.904683",
+    "updated_at": "2019-09-25T16:57:39.904683"
   },
   {
+    "id": "10c25a29-a5f6-4c50-af8a-1cbb446b15eb",
     "title": "Panic Blog",
     "url": "https://panic.com/blog",
     "rss": "https://panic.com/blog/feed/",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:40.601925",
+    "updated_at": "2019-09-25T16:57:40.601925"
   },
   {
+    "id": "db98202d-9391-436f-8c20-43e900d1bb18",
     "title": "Surma",
     "url": "https://dassur.ma/",
     "rss": "https://dassur.ma/index.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:41.277494",
+    "updated_at": "2019-09-25T16:57:41.277494"
   },
   {
+    "id": "d6f6a440-066e-46f7-97a9-91091a67e04c",
     "title": "The History of the Web",
     "url": "https://thehistoryoftheweb.com",
     "rss": "https://thehistoryoftheweb.com/feed/",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:41.544751",
+    "updated_at": "2019-09-25T16:57:41.544751"
   },
   {
+    "id": "d3a35f18-ce65-4289-b379-49f4b6a7c5d6",
     "title": "Two-Bit History",
     "url": "https://twobithistory.org/",
     "rss": "https://twobithistory.org/feed.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-09-25T16:57:41.676025",
+    "updated_at": "2019-09-25T16:57:41.676025"
   },
   {
+    "id": "07a9012f-fe22-4eb5-8c17-5915e69d9848",
     "title": "5ish",
     "url": "https://5ish.org/feed/",
     "rss": "https://5ish.org",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:41.809994",
+    "updated_at": "2019-09-25T16:57:41.809994"
   },
   {
+    "id": "d3a7623e-e227-4c45-a004-8507252e3122",
     "title": "500is Words",
     "url": "https://500ish.com/feed",
     "rss": "https://500ish.com",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:41.94078",
+    "updated_at": "2019-09-25T16:57:41.94078"
   },
   {
+    "id": "adfaf1c8-75c4-4e00-bf79-b4056d023241",
     "title": "Ash Furrow",
     "url": "https://ashfurrow.com/",
     "rss": "https://feed.ashfurrow.com/feed.xml",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:42.073912",
+    "updated_at": "2019-09-25T16:57:42.073912"
   },
   {
+    "id": "668c95ab-bd80-452a-b598-c680b3f3bca6",
     "title": "Cortex Animated",
     "url": "https://www.youtube.com/playlist?list=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
     "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ71hYrPwym_fuFZo9WniY_diFm1dM08b",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:42.338654",
+    "updated_at": "2019-09-25T16:57:42.338654"
   },
   {
+    "id": "6e724bab-a94a-4b6e-9931-994e291736af",
     "title": "Hot Ones",
     "url": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
     "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:42.610563",
+    "updated_at": "2019-09-25T16:57:42.610563"
   },
   {
+    "id": "e9bfc811-77a7-48a1-838f-0585e7f66bcb",
     "title": "Hyperbole and a Half",
     "url": "http://hyperboleandahalf.blogspot.com/",
     "rss": "http://feeds.feedburner.com/Hyperbole-and-a-half",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:42.743629",
+    "updated_at": "2019-09-25T16:57:42.743629"
   },
   {
+    "id": "7bd5c994-4605-436b-9378-9b7c95d1577a",
     "title": "Hypercritical",
     "url": "http://hypercritical.co/",
     "rss": "http://hypercritical.co/feeds/main",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:42.879436",
+    "updated_at": "2019-09-25T16:57:42.879436"
   },
   {
+    "id": "90bea743-f717-4c11-8eeb-5a83875a6f24",
     "title": "Liss is More",
     "url": "https://www.caseyliss.com",
     "rss": "https://www.caseyliss.com/rss",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:43.135497",
+    "updated_at": "2019-09-25T16:57:43.135497"
   },
   {
+    "id": "82b6a0e1-113f-468b-b860-98e5c6529e71",
     "title": "Marco Arment",
     "url": "https://marco.org/",
     "rss": "https://marco.org/rss",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:43.263715",
+    "updated_at": "2019-09-25T16:57:43.263715"
   },
   {
+    "id": "3fcd3ba5-d0a8-4810-a020-a5c10d7bc638",
     "title": "Movies with Mikey",
     "url": "https://www.youtube.com/playlist?list=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
     "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLdGl5mi0XeW2iK2sVp2ni_VDRKrmfF_-Z",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:43.394445",
+    "updated_at": "2019-09-25T16:57:43.394445"
   },
   {
+    "id": "416e4809-341e-4ae1-8cb5-84324194151d",
     "title": "The Burger Show",
     "url": "https://www.youtube.com/playlist?list=PLAzrgbu8gEMK8zGcsu70ju7KvWyNBWYnL",
     "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAzrgbu8gEMJe0ZOKPLRgEc-sp4cLmtz6",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "created_at": "2019-09-25T16:57:43.660026",
+    "updated_at": "2019-09-25T16:57:43.660026"
   },
   {
+    "id": "4d514e9a-c98b-4c74-b06a-cb1dfc3b5827",
     "title": "Wait But Why",
     "url": "https://waitbutwhy.com",
     "rss": "https://waitbutwhy.com/feed",
-    "category": "Science"
+    "category": "Science",
+    "created_at": "2019-09-25T16:57:50.145257",
+    "updated_at": "2019-09-25T16:57:50.145257"
   },
   {
+    "id": "e897eef3-0b49-4d4f-ae50-4071eacca487",
     "title": "What If?",
     "url": "https://what-if.xkcd.com/feed.atom",
     "rss": "https://what-if.xkcd.com/feed.atom",
-    "category": "Science"
+    "category": "Science",
+    "created_at": "2019-09-25T16:57:50.28576",
+    "updated_at": "2019-09-25T16:57:50.28576"
   },
   {
+    "id": "a47d84f5-2d3f-4129-bd70-8e1de506b552",
     "title": "Justin O'Beirne",
     "url": "https://www.justinobeirne.com/",
     "rss": "https://www.justinobeirne.com/rss?format=rss",
-    "category": "Technology"
+    "category": "Technology",
+    "created_at": "2019-09-25T16:57:50.687184",
+    "updated_at": "2019-09-25T16:57:50.687184"
   },
   {
+    "id": "ce96df2e-253f-4c14-b838-9fdaae743dff",
     "title": "MacStories",
     "url": "https://www.macstories.net",
     "rss": "https://www.macstories.net/feed/",
-    "category": "Technology"
+    "category": "Technology",
+    "created_at": "2019-09-25T16:57:50.963566",
+    "updated_at": "2019-09-25T16:57:50.963566"
   },
   {
+    "id": "343adf09-f5f1-476e-811a-8edc19f2eac8",
     "title": "Overreacted",
     "url": "https://overreacted.io/",
     "rss": "https://overreacted.io/rss.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2019-10-02T05:08:46.920557",
+    "updated_at": "2019-10-02T05:08:46.920557"
   },
   {
+    "id": "16e20dc8-5828-45b0-a7da-b3a46d5ad3eb",
     "title": "They Can't Talk",
     "url": "https://theycantalk.com/",
     "rss": "https://theycantalk.com/rss",
-    "category": "Comic"
+    "category": "Comic",
+    "created_at": "2020-01-14T05:59:59",
+    "updated_at": "2020-01-14T05:59:59"
   },
   {
+    "id": "6c4de079-06ed-4cb6-b806-503260979808",
     "title": "Josh Comeau",
     "url": "https://joshwcomeau.com/",
     "rss": "https://joshwcomeau.com/rss.xml",
-    "category": "Development"
+    "category": "Development",
+    "created_at": "2020-03-07T19:51:31",
+    "updated_at": "2020-03-07T19:51:31"
   }
 ]
