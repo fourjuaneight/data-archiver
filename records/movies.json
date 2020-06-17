@@ -673,5 +673,15 @@
     "title": "Die Hard",
     "director": "John McTiernan",
     "genre": "Action & Adventure"
+  },
+  {
+    "title": "Us (2019)",
+    "director": "Jordan Peele",
+    "genre": "Horror"
+  },
+  {
+    "title": "Get Out",
+    "director": "Jordan Peele",
+    "genre": "Horror"
   }
 ]
