@@ -22,7 +22,7 @@ for (const table of Object.keys(tableQueries)) {
     data: {
       query: `
           query {
-            ${table} { ${tableQueries[table]} }
+            ${table} { id ${tableQueries[table]} created_at updated_at }
           }
         `,
     },
