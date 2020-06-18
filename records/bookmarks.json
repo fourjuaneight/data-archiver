@@ -6019,5 +6019,14 @@
     "category": "Podcasts",
     "created_at": "2020-06-16T00:44:28",
     "updated_at": "2020-06-16T00:44:28"
+  },
+  {
+    "id": "9453d0ab-9dbf-439a-b835-201e71ba2f6c",
+    "title": "What Happened to the Webmaster",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/",
+    "category": "Articles",
+    "created_at": "2020-06-17T22:26:08",
+    "updated_at": "2020-06-17T22:26:08"
   }
 ]
