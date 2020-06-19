@@ -1094,5 +1094,13 @@
     "genre": "Horror",
     "created_at": "2020-06-16T21:10:50",
     "updated_at": "2020-06-16T21:10:50"
+  },
+  {
+    "id": "e8398e2e-430c-4a97-a63a-8e2d2a9eac53",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "director": "Rodney",
+    "genre": "Action & Adventure",
+    "created_at": "2020-06-18T04:27:54",
+    "updated_at": "2020-06-18T04:27:54"
   }
 ]

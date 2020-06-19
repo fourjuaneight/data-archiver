@@ -337,10 +337,34 @@
   },
   {
     "id": "a9e0c204-3ced-4378-8362-8b7596cedb35",
-    "title": "",
-    "author": "",
-    "genre": "",
+    "title": "Batman: The Dark Knight Strikes Again",
+    "author": "Frank Miller",
+    "genre": "Comics",
     "created_at": "2020-06-17T23:32:24",
-    "updated_at": "2020-06-17T23:32:24"
+    "updated_at": "2020-06-18T04:29:52.611588"
+  },
+  {
+    "id": "e353b69d-4063-4334-8a89-6679aa2e1cfb",
+    "title": "Naruto: Vol. 1",
+    "author": "Masashi Kishimoto",
+    "genre": "Manga",
+    "created_at": "2020-06-18T04:31:13",
+    "updated_at": "2020-06-18T04:31:13"
+  },
+  {
+    "id": "fd8ccfd8-d5be-4869-a932-e3b1b907a406",
+    "title": "Naruto: Vol. 2",
+    "author": "Masashi Kishimoto",
+    "genre": "Manga",
+    "created_at": "2020-06-18T04:31:21",
+    "updated_at": "2020-06-18T04:31:21"
+  },
+  {
+    "id": "396d60f0-83b9-4587-ac7c-76221992d439",
+    "title": "Naruto: Vol. 3",
+    "author": "Masashi Kishimoto",
+    "genre": "Manga",
+    "created_at": "2020-06-18T04:31:28",
+    "updated_at": "2020-06-18T04:31:28"
   }
 ]
