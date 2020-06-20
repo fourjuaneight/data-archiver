@@ -1102,5 +1102,21 @@
     "genre": "Action & Adventure",
     "created_at": "2020-06-18T04:27:54",
     "updated_at": "2020-06-18T04:27:54"
+  },
+  {
+    "id": "a762734d-a546-4454-b8f7-91faf6d97f16",
+    "title": "Spider-Man: Homecoming",
+    "director": "Jon Watts",
+    "genre": "Action & Adventure",
+    "created_at": "2020-06-19T19:03:06",
+    "updated_at": "2020-06-19T19:03:06"
+  },
+  {
+    "id": "fa07d992-a255-4800-a190-fa8c6c20133f",
+    "title": "Spider-Man: Far from Home",
+    "director": "Jon Watts",
+    "genre": "Action & Adventure",
+    "created_at": "2020-06-19T19:03:15",
+    "updated_at": "2020-06-19T19:03:15"
   }
 ]
