@@ -1118,5 +1118,13 @@
     "genre": "Action & Adventure",
     "created_at": "2020-06-19T19:03:15",
     "updated_at": "2020-06-19T19:03:15"
+  },
+  {
+    "id": "db3be8a9-7048-4326-bd5e-bc4d3c4d3c3e",
+    "title": "Home Alone",
+    "director": "Chris Columbus",
+    "genre": "Comedy",
+    "created_at": "2020-06-22T04:00:33",
+    "updated_at": "2020-06-22T04:00:33"
   }
 ]
