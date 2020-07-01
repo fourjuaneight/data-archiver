@@ -6046,5 +6046,14 @@
     "category": "Podcasts",
     "created_at": "2020-06-28T05:29:16",
     "updated_at": "2020-06-28T05:29:16"
+  },
+  {
+    "id": "41dc44ae-6040-4a59-98c6-1e2f951cc733",
+    "title": "The hard life of a programmer VS an artist",
+    "creator": "r/comics",
+    "url": "https://www.reddit.com/r/comics/comments/hhy2li/oc_the_hard_life_of_a_programmer_vs_an_artist/",
+    "category": "Reddits",
+    "created_at": "2020-06-30T04:08:17",
+    "updated_at": "2020-06-30T04:08:17"
   }
 ]
