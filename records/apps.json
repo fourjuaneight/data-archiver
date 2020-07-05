@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "bbf90bb3-2744-47af-831e-50db70638fff",
+    "title": "1Blocker",
+    "developer": "Salavat Khanov",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1365531024",
+    "macos": "https://apps.apple.com/us/app/id1107421413",
+    "created_at": "2020-06-28T03:14:45",
+    "updated_at": "2020-06-28T03:14:45"
+  },
+  {
+    "id": "21e706f4-f36a-49a8-a92a-c2a1bfe4a92b",
+    "title": "Affinity Designer",
+    "developer": "Serif Labs",
+    "category": "Design",
+    "ios": "https://apps.apple.com/us/app/id1274090551",
+    "macos": "https://apps.apple.com/us/app/id824171161",
+    "created_at": "2020-06-28T03:17:37",
+    "updated_at": "2020-06-28T03:17:37"
+  },
+  {
+    "id": "7f236600-bec3-41a0-bb8c-02d0e1fd7fc9",
+    "title": "Backblaze",
+    "developer": "Backblaze",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.backblaze.com/cloud-backup.html",
+    "created_at": "2020-06-28T03:20:15",
+    "updated_at": "2020-06-28T03:20:15"
+  },
+  {
+    "id": "1cefa9a1-81ca-43f3-b800-0f8765d1d163",
+    "title": "Bartender",
+    "developer": "Surtees Studios",
+    "category": "Utilities",
+    "ios": null,
+    "macos": "https://www.macbartender.com",
+    "created_at": "2020-06-28T03:23:52",
+    "updated_at": "2020-06-28T03:23:52"
+  },
+  {
+    "id": "6a39e16d-472c-4501-8fc9-2b0c8eec7c2b",
+    "title": "Hazel",
+    "developer": "Noodlesoft",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.noodlesoft.com",
+    "created_at": "2020-06-28T03:24:24",
+    "updated_at": "2020-06-28T03:24:24"
+  },
+  {
+    "id": "617ed967-d30e-47ba-a0aa-2ae400ca8de5",
+    "title": "Arq",
+    "developer": "Haystack Software",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.arqbackup.com",
+    "created_at": "2020-06-28T03:19:41",
+    "updated_at": "2020-06-28T03:24:35.693266"
+  },
+  {
+    "id": "52fb71d4-8d5f-416b-99fb-27b4da6079de",
+    "title": "Alfred",
+    "developer": "Running with Crayons",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.alfredapp.com",
+    "created_at": "2020-06-28T03:18:41",
+    "updated_at": "2020-06-28T03:24:43.880314"
+  },
+  {
+    "id": "9f96c515-d54d-4bbd-913f-026066f6376a",
+    "title": "1Password",
+    "developer": "AgileBits",
+    "category": "Productivity",
+    "ios": "https://apps.apple.com/us/app/id568903335",
+    "macos": "https://apps.apple.com/us/app/id1333542190",
+    "created_at": "2020-06-28T03:16:22",
+    "updated_at": "2020-06-28T03:24:54.448918"
+  },
+  {
+    "id": "bfad0026-aef9-45a0-b679-e4d8bc12f033",
+    "title": "Choosy",
+    "developer": "George Brocklehurst",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.choosyosx.com",
+    "created_at": "2020-06-28T03:31:15",
+    "updated_at": "2020-06-28T03:31:15"
+  },
+  {
+    "id": "ee283b72-a330-443e-889f-2b86a1e24c26",
+    "title": "DaisyDisk",
+    "developer": "Software Ambience",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://apps.apple.com/us/app/id411643860",
+    "created_at": "2020-06-28T03:32:00",
+    "updated_at": "2020-06-28T03:32:00"
+  },
+  {
+    "id": "243a7149-48b0-4bb7-b56d-58dfb80924e2",
+    "title": "Deliveries",
+    "developer": "Junecloud",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id290986013",
+    "macos": "https://apps.apple.com/us/app/id924726344",
+    "created_at": "2020-06-28T03:33:14",
+    "updated_at": "2020-06-28T03:33:14"
+  },
+  {
+    "id": "41360b9b-80bc-4a68-8af7-26d62d16a0da",
+    "title": "Docker",
+    "developer": "Docker",
+    "category": "development",
+    "ios": null,
+    "macos": "https://docs.docker.com/docker-for-mac/install/",
+    "created_at": "2020-06-28T03:59:20",
+    "updated_at": "2020-06-28T03:59:20"
+  },
+  {
+    "id": "8cde5a71-1d98-41ac-9774-8ed3a181177e",
+    "title": "Drafts",
+    "developer": "Agile Tortoise",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1236254471",
+    "macos": "https://apps.apple.com/us/app/id1435957248",
+    "created_at": "2020-06-28T04:00:20",
+    "updated_at": "2020-06-28T04:00:20"
+  },
+  {
+    "id": "4315fbbf-25a5-453e-bfd5-9b55edeca0a4",
+    "title": "Fantastical",
+    "developer": "Flexibits",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id718043190",
+    "macos": "https://apps.apple.com/us/app/id975937182",
+    "created_at": "2020-06-28T04:01:18",
+    "updated_at": "2020-06-28T04:01:18"
+  },
+  {
+    "id": "3878c518-5e88-4525-8752-036cb7379941",
+    "title": "Firefox",
+    "developer": "Mozilla",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.mozilla.org/en-US/firefox/",
+    "created_at": "2020-06-28T04:02:03",
+    "updated_at": "2020-06-28T04:02:03"
+  },
+  {
+    "id": "5e527249-f826-42c8-a82a-f64d88f3efe6",
+    "title": "GitUp",
+    "developer": "Pierre-Olivier Latour",
+    "category": "development",
+    "ios": null,
+    "macos": "https://gitup.co",
+    "created_at": "2020-06-28T04:03:40",
+    "updated_at": "2020-06-28T04:03:40"
+  },
+  {
+    "id": "1dd5c0cb-00ee-461d-b740-c3515a4497b9",
+    "title": "Chrome",
+    "developer": "Google",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://www.google.com/chrome/index.html",
+    "created_at": "2020-06-28T04:04:02",
+    "updated_at": "2020-06-28T04:04:02"
+  },
+  {
+    "id": "d6ed5917-df86-477d-9130-c9e47481ada3",
+    "title": "HandBrake",
+    "developer": "The HandBrake Team",
+    "category": "video",
+    "ios": null,
+    "macos": "https://handbrake.fr",
+    "created_at": "2020-06-28T04:04:57",
+    "updated_at": "2020-06-28T04:04:57"
+  },
+  {
+    "id": "69f91188-e8e9-40a5-ab95-95c489356664",
+    "title": "iStat Menus",
+    "developer": "Bjango",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://bjango.com/mac/istatmenus/",
+    "created_at": "2020-06-28T04:06:10",
+    "updated_at": "2020-06-28T04:06:10"
+  },
+  {
+    "id": "8406464b-0a76-4375-9faa-15ffb6476b4d",
+    "title": "iTerm",
+    "developer": "George Nachman",
+    "category": "development",
+    "ios": null,
+    "macos": "https://www.iterm2.com",
+    "created_at": "2020-06-28T04:06:38",
+    "updated_at": "2020-06-28T04:06:38"
+  },
+  {
+    "id": "77099d7a-d40b-4ec3-8c7b-33846202bc6c",
+    "title": "Micro Snitch",
+    "developer": "Objective Development",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://obdev.at/products/microsnitch/index.html",
+    "created_at": "2020-06-28T04:07:17",
+    "updated_at": "2020-06-28T04:07:17"
+  },
+  {
+    "id": "c413b248-d9af-44c9-ab4b-7d73b7b0a982",
+    "title": "Moom",
+    "developer": "Many Tricks",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://manytricks.com/moom/",
+    "created_at": "2020-06-28T04:07:44",
+    "updated_at": "2020-06-28T04:07:44"
+  },
+  {
+    "id": "8a28136e-6e96-40ef-a6ec-fde4565d6f8c",
+    "title": "Optimus Player",
+    "developer": "Darren Mo",
+    "category": "video",
+    "ios": null,
+    "macos": "https://www.optimusplayer.com",
+    "created_at": "2020-06-28T04:08:19",
+    "updated_at": "2020-06-28T04:08:19"
+  },
+  {
+    "id": "0859431a-cac8-47d2-8bfb-b92e5950bfcc",
+    "title": "PCalc",
+    "developer": "James Thomson",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id284666222",
+    "macos": "https://apps.apple.com/us/app/id403504866",
+    "created_at": "2020-06-28T04:09:16",
+    "updated_at": "2020-06-28T04:09:16"
+  },
+  {
+    "id": "23a4c1e9-cd91-41c8-858d-93ec3fdc8a11",
+    "title": "Front and Center",
+    "developer": "John Siracusa",
+    "category": "productivity",
+    "ios": null,
+    "macos": "https://apps.apple.com/us/app/id1493996622",
+    "created_at": "2020-06-28T04:02:49",
+    "updated_at": "2020-06-28T04:09:44.533491"
+  },
+  {
+    "id": "110087ac-c0dd-4fd5-a96d-8a384fd754f3",
+    "title": "PDF Expert",
+    "developer": "Readdle",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id743974925",
+    "macos": "https://apps.apple.com/us/app/id1055273043",
+    "created_at": "2020-06-28T04:10:45",
+    "updated_at": "2020-06-28T04:10:45"
+  },
+  {
+    "id": "4b288023-b5eb-4ac3-8620-c34611e59f19",
+    "title": "Spark",
+    "developer": "Readdle",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id997102246",
+    "macos": "https://apps.apple.com/us/app/id1176895641",
+    "created_at": "2020-06-28T04:11:34",
+    "updated_at": "2020-06-28T04:11:34"
+  },
+  {
+    "id": "fab55bda-6806-4cb6-b785-a6eccc470ff1",
+    "title": "Rocket",
+    "developer": "Matthew Palmer",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://matthewpalmer.net/rocket/",
+    "created_at": "2020-06-28T04:12:18",
+    "updated_at": "2020-06-28T04:12:30.132338"
+  },
+  {
+    "id": "965bbb76-4862-40cc-9f41-b2b04496200a",
+    "title": "Screens Connect",
+    "developer": "Edovia",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://screensconnect.com/en/",
+    "created_at": "2020-06-28T04:13:32",
+    "updated_at": "2020-06-28T04:13:32"
+  },
+  {
+    "id": "d5b349c6-98a8-4a21-82a8-b09c5d377a50",
+    "title": "Service Station",
+    "developer": "Knurling Group",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://apps.apple.com/us/app/id1503136033",
+    "created_at": "2020-06-28T04:15:12",
+    "updated_at": "2020-06-28T04:15:12"
+  },
+  {
+    "id": "a9a747f2-3acf-4fac-8f53-2604cbaf7126",
+    "title": "Sketch",
+    "developer": "Sketch",
+    "category": "design",
+    "ios": null,
+    "macos": "https://www.sketch.com/get/",
+    "created_at": "2020-06-28T04:15:48",
+    "updated_at": "2020-06-28T04:15:48"
+  },
+  {
+    "id": "ef1bd958-80ff-433f-a401-c1d84061d822",
+    "title": "Skype",
+    "developer": "Microsoft",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/app/id304878510",
+    "macos": "https://www.skype.com/en/get-skype/download-skype-for-desktop/",
+    "created_at": "2020-06-28T04:16:43",
+    "updated_at": "2020-06-28T04:16:43"
+  },
+  {
+    "id": "db55c960-7838-4732-9109-e6b74d41f567",
+    "title": "Slack",
+    "developer": "Slack",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id618783545",
+    "macos": "https://apps.apple.com/us/app/id803453959",
+    "created_at": "2020-06-28T04:17:32",
+    "updated_at": "2020-06-28T04:17:32"
+  },
+  {
+    "id": "7e482891-dafa-4183-ab6e-c7c52ff724aa",
+    "title": "The Unarchiver",
+    "developer": "MacPaw",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://apps.apple.com/us/app/id425424353",
+    "created_at": "2020-06-28T04:18:17",
+    "updated_at": "2020-06-28T04:18:17"
+  },
+  {
+    "id": "7c0a3ec3-d6e8-4197-859f-7d721229b0ba",
+    "title": "Things",
+    "developer": "Cultured Code",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id904237743",
+    "macos": "https://apps.apple.com/us/app/id904280696",
+    "created_at": "2020-06-28T04:19:07",
+    "updated_at": "2020-06-28T04:19:07"
+  },
+  {
+    "id": "787cc73c-fb38-4e04-9294-17cbe817d0f2",
+    "title": "Transmit",
+    "developer": "Panic",
+    "category": "development",
+    "ios": null,
+    "macos": "https://apps.apple.com/us/app/id1436522307",
+    "created_at": "2020-06-28T04:20:55",
+    "updated_at": "2020-06-28T04:20:55"
+  },
+  {
+    "id": "782a14cb-ee4c-4309-8f9d-c5598823c02f",
+    "title": "Twiterriffic",
+    "developer": "The Iconfactory",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id580311103",
+    "macos": "https://apps.apple.com/us/app/id1289378661",
+    "created_at": "2020-06-28T04:21:42",
+    "updated_at": "2020-06-28T04:21:42"
+  },
+  {
+    "id": "b05de6df-5309-442e-af47-b16a0e7c736a",
+    "title": "UpWork",
+    "developer": "UpWork",
+    "category": "business",
+    "ios": "https://apps.apple.com/us/app/id1446736499",
+    "macos": "https://support.upwork.com/hc/en-us/articles/211064088-Install-the-Desktop-App",
+    "created_at": "2020-06-28T04:22:59",
+    "updated_at": "2020-06-28T04:22:59"
+  },
+  {
+    "id": "73ce52c5-465d-401f-b101-483609b2d411",
+    "title": "Visual Studio Code",
+    "developer": "Microsoft",
+    "category": "development",
+    "ios": null,
+    "macos": "https://code.visualstudio.com/Download",
+    "created_at": "2020-06-28T04:23:24",
+    "updated_at": "2020-06-28T04:23:24"
+  },
+  {
+    "id": "b43331e7-fceb-424a-89dc-f6dc9c210263",
+    "title": "Zoom",
+    "developer": "Zoom",
+    "category": "business",
+    "ios": "https://apps.apple.com/us/app/id546505307",
+    "macos": "https://zoom.us/download",
+    "created_at": "2020-06-28T04:24:44",
+    "updated_at": "2020-06-28T04:24:44"
+  },
+  {
+    "id": "fc23ada8-677c-4b9b-8ca2-82cd2e615a6f",
+    "title": "Tower",
+    "developer": "Fournova",
+    "category": "development",
+    "ios": null,
+    "macos": "https://www.git-tower.com/mac",
+    "created_at": "2020-06-28T04:19:57",
+    "updated_at": "2020-06-28T04:25:04.246123"
+  },
+  {
+    "id": "90c9c3ef-7685-4f48-b575-6fe1cf78e99b",
+    "title": "CleanMyMac",
+    "developer": "MacPaw",
+    "category": "utilities",
+    "ios": null,
+    "macos": "https://cleanmymac.com",
+    "created_at": "2020-06-28T04:26:06",
+    "updated_at": "2020-06-28T04:26:06"
+  },
+  {
+    "id": "43de9825-b09d-4fbf-8ed3-1ef2c36dc470",
+    "title": "Paw",
+    "developer": "Paw Cloud",
+    "category": "development",
+    "ios": null,
+    "macos": "https://paw.cloud",
+    "created_at": "2020-06-28T04:26:41",
+    "updated_at": "2020-06-28T04:26:41"
+  },
+  {
+    "id": "7ab7894a-4806-47cb-b7a8-a05d5be0964d",
+    "title": "Working Copy",
+    "developer": "Anders Borum",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id896694807",
+    "macos": null,
+    "created_at": "2020-06-28T05:07:47",
+    "updated_at": "2020-06-28T05:07:47"
+  },
+  {
+    "id": "fe23ce1d-dd53-42e2-adef-0c7ce99b778a",
+    "title": "Scriptable",
+    "developer": "Simon B. Støvring",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1405459188",
+    "macos": null,
+    "created_at": "2020-06-28T05:11:03",
+    "updated_at": "2020-06-28T05:11:03"
+  },
+  {
+    "id": "80acd5c4-2b93-44ef-9b6e-e703b6459dd9",
+    "title": "Data Jar",
+    "developer": "Simon B. Støvring",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1453273600",
+    "macos": null,
+    "created_at": "2020-06-28T05:14:03",
+    "updated_at": "2020-06-28T05:14:03"
+  },
+  {
+    "id": "31b8a393-ae9e-41eb-8d7b-a7556f9f1051",
+    "title": "Jayson",
+    "developer": "Simon B. Støvring",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1447750768",
+    "macos": null,
+    "created_at": "2020-06-28T05:16:24",
+    "updated_at": "2020-06-28T05:16:24"
+  },
+  {
+    "id": "998f653f-662e-4abd-a578-8b64aaadc2ca",
+    "title": "Secure ShellFish",
+    "developer": "Anders Borum",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1336634154",
+    "macos": null,
+    "created_at": "2020-06-28T05:19:17",
+    "updated_at": "2020-06-28T05:19:17"
+  },
+  {
+    "id": "7d231daf-43b7-48c1-babb-9c38eb12f947",
+    "title": "Blink Shell",
+    "developer": "Carlos Cabanero",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1156707581",
+    "macos": null,
+    "created_at": "2020-06-28T05:25:12",
+    "updated_at": "2020-06-28T05:25:12"
+  },
+  {
+    "id": "1711f8b4-d68c-4864-890d-47bf33595d61",
+    "title": "Kodex",
+    "developer": "Bruno Philipe Resende Silva",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1038574481",
+    "macos": null,
+    "created_at": "2020-06-28T05:25:34",
+    "updated_at": "2020-06-28T05:25:34"
+  },
+  {
+    "id": "b380e0d6-8454-4bfc-91ce-ce39a72eb9a0",
+    "title": "GitHub",
+    "developer": "GitHub",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1477376905",
+    "macos": null,
+    "created_at": "2020-06-28T05:26:17",
+    "updated_at": "2020-06-28T05:26:17"
+  },
+  {
+    "id": "7d383176-7b27-4aa2-911f-4d86284b8255",
+    "title": "Bear",
+    "developer": "Shiny Frog Ltd.",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1016366447",
+    "macos": "https://apps.apple.com/us/app/id1091189122",
+    "created_at": "2020-06-28T14:56:48",
+    "updated_at": "2020-06-28T14:56:48"
+  },
+  {
+    "id": "5f980c00-ab3b-47ac-a885-5a02e54c2cdf",
+    "title": "Toolbox Pro",
+    "developer": "Alexander Hay",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1476205977",
+    "macos": null,
+    "created_at": "2020-06-28T14:58:46",
+    "updated_at": "2020-06-28T14:58:46"
+  },
+  {
+    "id": "76188770-5244-4437-8365-93158727a051",
+    "title": "Pushcut",
+    "developer": "Simon Leeb",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1450936447",
+    "macos": null,
+    "created_at": "2020-06-28T15:00:36",
+    "updated_at": "2020-06-28T15:00:36"
+  },
+  {
+    "id": "488f1b62-994e-4675-8b87-260d6e2104e2",
+    "title": "Charty",
+    "developer": "Rodrigo Araujo",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1494386093",
+    "macos": null,
+    "created_at": "2020-06-28T15:01:00",
+    "updated_at": "2020-06-28T15:01:00"
+  },
+  {
+    "id": "c47eef83-fe50-4ffc-8d8e-42fd03ed5047",
+    "title": "Charles Proxy",
+    "developer": "XK72 Limited",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1134218562",
+    "macos": null,
+    "created_at": "2020-06-28T15:01:20",
+    "updated_at": "2020-06-28T15:01:20"
+  },
+  {
+    "id": "f6dc72c1-a854-48b3-bb6a-12247281914b",
+    "title": "HTTPBot",
+    "developer": "Arvindh Sukumar",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1232603544",
+    "macos": null,
+    "created_at": "2020-06-28T15:01:40",
+    "updated_at": "2020-06-28T15:01:40"
+  },
+  {
+    "id": "fa2f0d41-daba-425d-aba9-06e6336aabff",
+    "title": "Inspect Browser",
+    "developer": "Parallax Dynamics Inc.",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1203594958",
+    "macos": null,
+    "created_at": "2020-06-28T15:02:01",
+    "updated_at": "2020-06-28T15:02:01"
+  },
+  {
+    "id": "0c04dc74-bf0b-430d-b708-000573a15ebd",
+    "title": "CARROT Weather",
+    "developer": "Grailr LLC",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id961390574",
+    "macos": null,
+    "created_at": "2020-06-28T15:05:43",
+    "updated_at": "2020-06-28T15:05:43"
+  },
+  {
+    "id": "201d5808-fad3-407f-afcf-d4b87b7d90b2",
+    "title": "Keybase",
+    "developer": "Keybase",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1044461770",
+    "macos": null,
+    "created_at": "2020-06-28T15:06:14",
+    "updated_at": "2020-06-28T15:06:14"
+  },
+  {
+    "id": "e7066ee6-40d7-4e45-8412-d51268f4c634",
+    "title": "RoboKiller",
+    "developer": "TelTech Systems",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1022831885",
+    "macos": null,
+    "created_at": "2020-06-28T15:06:38",
+    "updated_at": "2020-06-28T15:06:38"
+  },
+  {
+    "id": "34903db1-25e3-4535-9b0b-cd433e6fddae",
+    "title": "Fontcase",
+    "developer": "Manolo Sanudo",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1205074470",
+    "macos": null,
+    "created_at": "2020-06-28T15:07:39",
+    "updated_at": "2020-06-28T15:07:39"
+  },
+  {
+    "id": "a6f0674d-e834-4d4f-8cf7-bfdf76947196",
+    "title": "Visual Codes",
+    "developer": "Benjamin Mayo",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1262882475",
+    "macos": null,
+    "created_at": "2020-06-28T15:08:06",
+    "updated_at": "2020-06-28T15:08:06"
+  },
+  {
+    "id": "83826a52-a866-4986-b0aa-6d8b5f46e8f3",
+    "title": "Opener",
+    "developer": "tijo, inc.",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id989565871",
+    "macos": null,
+    "created_at": "2020-06-28T15:08:26",
+    "updated_at": "2020-06-28T15:08:26"
+  },
+  {
+    "id": "55255c33-a399-471d-a2fd-ff4437e0e9e0",
+    "title": "Linky",
+    "developer": "Pragmatic Code",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id438090426",
+    "macos": null,
+    "created_at": "2020-06-28T15:10:04",
+    "updated_at": "2020-06-28T15:10:04"
+  },
+  {
+    "id": "a4e201d3-5f48-492f-8b52-ff33f6e0f1ce",
+    "title": "Timery",
+    "developer": "Joseph Hribar",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1425368544",
+    "macos": null,
+    "created_at": "2020-06-28T15:11:09",
+    "updated_at": "2020-06-28T15:11:09"
+  },
+  {
+    "id": "d7888d51-146e-4884-82de-286fe4d67133",
+    "title": "Schwab",
+    "developer": "The Charles Schwab Corporation",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id407358186",
+    "macos": null,
+    "created_at": "2020-06-28T19:35:38",
+    "updated_at": "2020-06-28T19:35:38"
+  },
+  {
+    "id": "01c2b78f-11fb-4751-8c2a-019a018ee698",
+    "title": "Betterment",
+    "developer": "Betterment",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id393156562",
+    "macos": null,
+    "created_at": "2020-06-28T19:36:10",
+    "updated_at": "2020-06-28T19:36:10"
+  },
+  {
+    "id": "f350689d-9f2d-414f-b9ec-a2b51f74551f",
+    "title": "Robinhood",
+    "developer": "Robinhood Markets, Inc.",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id938003185",
+    "macos": null,
+    "created_at": "2020-06-28T19:36:30",
+    "updated_at": "2020-06-28T19:36:30"
+  },
+  {
+    "id": "562925ab-0e2d-43be-8200-8441d7ba3af4",
+    "title": "YNAB",
+    "developer": "You Need A Budget LLC",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id1010865877",
+    "macos": null,
+    "created_at": "2020-06-28T19:36:48",
+    "updated_at": "2020-06-28T19:36:48"
+  },
+  {
+    "id": "9ca6d617-a2ae-44a0-a39f-0e4c90b013c2",
+    "title": "Capital One",
+    "developer": "Capital One",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id407558537",
+    "macos": null,
+    "created_at": "2020-06-28T19:37:11",
+    "updated_at": "2020-06-28T19:37:11"
+  },
+  {
+    "id": "5121c28a-d737-4eda-955c-45a3d79e16c9",
+    "title": "CreditWise",
+    "developer": "Capital One",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id1008234539",
+    "macos": null,
+    "created_at": "2020-06-28T19:37:36",
+    "updated_at": "2020-06-28T19:37:36"
+  },
+  {
+    "id": "3aa415f2-d3b0-4d16-8c5d-aac843a0535a",
+    "title": "Venmo",
+    "developer": "Venmo",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id351727428",
+    "macos": null,
+    "created_at": "2020-06-28T19:38:19",
+    "updated_at": "2020-06-28T19:38:19"
+  },
+  {
+    "id": "64fc4d76-a1a0-44cc-b34c-b1b481902738",
+    "title": "PayPal",
+    "developer": "PayPal, Inc.",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id283646709",
+    "macos": null,
+    "created_at": "2020-06-28T19:38:32",
+    "updated_at": "2020-06-28T19:38:32"
+  },
+  {
+    "id": "757f161f-72ec-4a61-9263-e76710e02ccb",
+    "title": "Affirm",
+    "developer": "Affirm, Inc.",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id967040652",
+    "macos": null,
+    "created_at": "2020-06-28T19:38:47",
+    "updated_at": "2020-06-28T19:38:47"
+  },
+  {
+    "id": "c7deed26-e589-4299-b773-ad3938fe6767",
+    "title": "Afterpay",
+    "developer": "Afterpay",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id1401019110",
+    "macos": null,
+    "created_at": "2020-06-28T19:39:02",
+    "updated_at": "2020-06-28T19:39:02"
+  },
+  {
+    "id": "c7ae2661-3dc6-4f23-aebe-5501f9042f09",
+    "title": "FreshBooks",
+    "developer": "FreshBooks",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id1052884030",
+    "macos": null,
+    "created_at": "2020-06-28T19:39:31",
+    "updated_at": "2020-06-28T19:39:31"
+  },
+  {
+    "id": "d8091483-c883-4fc1-bf76-0a06700a80b1",
+    "title": "Stripe",
+    "developer": "Stripe, Inc",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id978516833",
+    "macos": null,
+    "created_at": "2020-06-28T19:39:45",
+    "updated_at": "2020-06-28T19:39:45"
+  },
+  {
+    "id": "9ac3e1ef-4439-445e-8780-8c2285ffe4a4",
+    "title": "TurboTax",
+    "developer": "Intuit Inc.",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id940247939",
+    "macos": null,
+    "created_at": "2020-06-28T19:40:36",
+    "updated_at": "2020-06-28T19:40:36"
+  },
+  {
+    "id": "e27ad803-4cc6-4ddd-b8be-7a24ff0374a7",
+    "title": "Coinbase",
+    "developer": "Coinbase, Inc.",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id886427730",
+    "macos": null,
+    "created_at": "2020-06-28T19:40:53",
+    "updated_at": "2020-06-28T19:40:53"
+  },
+  {
+    "id": "ac82ab5b-3727-4f30-ad0f-d3a0cdd7bb6f",
+    "title": "Coinbase Wallet",
+    "developer": "Toshi",
+    "category": "finance",
+    "ios": "https://apps.apple.com/us/app/id1278383455",
+    "macos": null,
+    "created_at": "2020-06-28T19:41:05",
+    "updated_at": "2020-06-28T19:41:05"
+  },
+  {
+    "id": "6f6ad3a1-4479-4ff9-a6d7-ee3ed48d78e3",
+    "title": "Amazon",
+    "developer": "AMZN Mobile LLC",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id297606951",
+    "macos": null,
+    "created_at": "2020-06-28T19:42:44",
+    "updated_at": "2020-06-28T19:42:44"
+  },
+  {
+    "id": "3bfe3380-2f82-4a7c-a1b4-ff5fc2cbcf05",
+    "title": "Amazon Prime Now",
+    "developer": "AMZN Mobile LLC",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id947644950",
+    "macos": null,
+    "created_at": "2020-06-28T19:43:00",
+    "updated_at": "2020-06-28T19:43:00"
+  },
+  {
+    "id": "0c2db30a-8d57-4c83-b4f6-269a4c06ea17",
+    "title": "Instacart",
+    "developer": "Maplebear Inc",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id545599256",
+    "macos": null,
+    "created_at": "2020-06-28T19:46:34",
+    "updated_at": "2020-06-28T19:46:34"
+  },
+  {
+    "id": "f2d7ef7c-d80a-45aa-a54e-1954ea01c492",
+    "title": "Etsy",
+    "developer": "Etsy, Inc.",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id477128284",
+    "macos": null,
+    "created_at": "2020-06-28T19:46:51",
+    "updated_at": "2020-06-28T19:46:51"
+  },
+  {
+    "id": "ae459d70-e1df-4adf-98cf-c29fd84edaef",
+    "title": "Rinse",
+    "developer": "Rinse",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id694798172",
+    "macos": null,
+    "created_at": "2020-06-28T19:47:14",
+    "updated_at": "2020-06-28T19:47:14"
+  },
+  {
+    "id": "2db90882-8c75-4969-9973-53077277e55a",
+    "title": "OpenTable",
+    "developer": "OpenTable, Inc.",
+    "category": "food",
+    "ios": "https://apps.apple.com/us/app/id296581815",
+    "macos": null,
+    "created_at": "2020-06-28T19:47:37",
+    "updated_at": "2020-06-28T19:47:37"
+  },
+  {
+    "id": "10839c39-2817-4f81-8dbc-04a3ae177efc",
+    "title": "Apple Store",
+    "developer": "Apple",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id375380948",
+    "macos": null,
+    "created_at": "2020-06-28T19:47:58",
+    "updated_at": "2020-06-28T19:47:58"
+  },
+  {
+    "id": "6ffaa6b3-bb76-4785-bf06-0519e766d276",
+    "title": "Apple Support",
+    "developer": "Apple",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id1130498044",
+    "macos": null,
+    "created_at": "2020-06-28T19:48:23",
+    "updated_at": "2020-06-28T19:48:23"
+  },
+  {
+    "id": "ab878c2d-f9b5-4e3d-8d3d-5ae36e19c94b",
+    "title": "My Verizon",
+    "developer": "Verizon Wireless",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id416023011",
+    "macos": null,
+    "created_at": "2020-06-28T19:48:40",
+    "updated_at": "2020-06-28T19:48:40"
+  },
+  {
+    "id": "3b2f5783-9bd5-4940-bd4d-3681a629db14",
+    "title": "Verizon My Fios",
+    "developer": "Verizon Services Corporation",
+    "category": "shopping",
+    "ios": "https://apps.apple.com/us/app/id476394945",
+    "macos": null,
+    "created_at": "2020-06-28T19:48:53",
+    "updated_at": "2020-06-28T19:48:53"
+  },
+  {
+    "id": "13957b2d-cb51-4c81-991c-a731c3aac5da",
+    "title": "Google Meet",
+    "developer": "Google LLC",
+    "category": "business",
+    "ios": "https://apps.apple.com/us/app/id1013231476",
+    "macos": null,
+    "created_at": "2020-06-28T19:49:28",
+    "updated_at": "2020-06-28T19:49:28"
+  },
+  {
+    "id": "f86434a7-9640-4330-abb4-81d0806ef634",
+    "title": "Hangouts",
+    "developer": "Google LLC",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id643496868",
+    "macos": null,
+    "created_at": "2020-06-28T19:49:42",
+    "updated_at": "2020-06-28T19:49:42"
+  },
+  {
+    "id": "63058d79-e4ee-4d4a-8f17-7caaaea94dba",
+    "title": "PDF Viewer",
+    "developer": "PSPDFKit GmbH",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id1120099014",
+    "macos": null,
+    "created_at": "2020-06-28T19:50:05",
+    "updated_at": "2020-06-28T19:50:05"
+  },
+  {
+    "id": "51c1832b-3661-41ab-b08d-1b2dc42949c1",
+    "title": "ScanPro",
+    "developer": "doo GmbH",
+    "category": "productivity",
+    "ios": "https://apps.apple.com/us/app/id834854351",
+    "macos": null,
+    "created_at": "2020-06-28T19:50:29",
+    "updated_at": "2020-06-28T19:50:29"
+  },
+  {
+    "id": "6f574163-14c3-4c2d-926f-b5e4a225a950",
+    "title": "Screens",
+    "developer": "Edovia Inc.",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id655890150",
+    "macos": null,
+    "created_at": "2020-06-28T19:50:51",
+    "updated_at": "2020-06-28T19:50:51"
+  },
+  {
+    "id": "5efd7a9f-2505-4937-b1a4-d5bf14938839",
+    "title": "Grammarly",
+    "developer": "Grammarly, Inc",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1158877342",
+    "macos": null,
+    "created_at": "2020-06-28T19:51:17",
+    "updated_at": "2020-06-28T19:51:17"
+  },
+  {
+    "id": "c499a8fc-304f-4103-84cc-0098be95e1ef",
+    "title": "Transit",
+    "developer": "Transit App, Inc.",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id498151501",
+    "macos": null,
+    "created_at": "2020-06-28T20:38:38",
+    "updated_at": "2020-06-28T20:38:38"
+  },
+  {
+    "id": "53dfa504-2789-407a-8974-f62d4bd9d687",
+    "title": "Tripsy",
+    "developer": "Rafael Kellermann Streit",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id1429967544",
+    "macos": null,
+    "created_at": "2020-06-28T20:38:50",
+    "updated_at": "2020-06-28T20:38:50"
+  },
+  {
+    "id": "23e72d91-6875-43af-87ca-4ffd7992e9a3",
+    "title": "Uber",
+    "developer": "Uber Technologies, Inc.",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id368677368",
+    "macos": null,
+    "created_at": "2020-06-28T20:39:04",
+    "updated_at": "2020-06-28T20:39:04"
+  },
+  {
+    "id": "0692633a-c5f6-4d5f-98cf-816308ad5b39",
+    "title": "Lyft",
+    "developer": "Lyft, Inc.",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id529379082",
+    "macos": null,
+    "created_at": "2020-06-28T20:39:15",
+    "updated_at": "2020-06-28T20:39:15"
+  },
+  {
+    "id": "f9e309ab-fc55-4295-ae1c-acdfc67d9887",
+    "title": "Enterprise Rent-A-Car",
+    "developer": "Enterprise Holdings, Inc.",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id1020641417",
+    "macos": null,
+    "created_at": "2020-06-28T20:39:28",
+    "updated_at": "2020-06-28T20:39:28"
+  },
+  {
+    "id": "86551fbe-e12f-4999-b619-c5ddacfc4f30",
+    "title": "Free2Move",
+    "developer": "PSA North America Car Sharing Solutions, Inc.",
+    "category": "navigation",
+    "ios": "https://apps.apple.com/us/app/id1436509153",
+    "macos": null,
+    "created_at": "2020-06-28T20:39:42",
+    "updated_at": "2020-06-28T20:39:42"
+  },
+  {
+    "id": "1afd6599-2b69-4737-9586-29989387a8f0",
+    "title": "Airbnb",
+    "developer": "Airbnb, Inc.",
+    "category": "travel",
+    "ios": "https://apps.apple.com/us/app/id401626263",
+    "macos": null,
+    "created_at": "2020-06-28T20:40:30",
+    "updated_at": "2020-06-28T20:40:30"
+  },
+  {
+    "id": "7b02ec85-ac7d-4016-82c3-19969f934490",
+    "title": "Skiplagged",
+    "developer": "Skiplagged LLC",
+    "category": "travel",
+    "ios": "https://apps.apple.com/us/app/id823443083",
+    "macos": null,
+    "created_at": "2020-06-28T20:40:57",
+    "updated_at": "2020-06-28T20:40:57"
+  },
+  {
+    "id": "d358ce9f-21f8-467d-8b41-926a5f21ac7a",
+    "title": "Activity Stats",
+    "developer": "Indie Computing Labs, LLC",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1511179040",
+    "macos": null,
+    "created_at": "2020-06-28T21:14:21",
+    "updated_at": "2020-06-28T21:14:21"
+  },
+  {
+    "id": "08cb13f7-8642-4287-975d-9f80a9ac0bad",
+    "title": "AutoSleep",
+    "developer": "Tantsissa",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1164801111",
+    "macos": null,
+    "created_at": "2020-06-28T21:14:42",
+    "updated_at": "2020-06-28T21:14:42"
+  },
+  {
+    "id": "a98a2d52-0c0e-4787-ae63-178d872a09ed",
+    "title": "HeartWatch",
+    "developer": "Tantsissa",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1062745479",
+    "macos": null,
+    "created_at": "2020-06-28T21:15:02",
+    "updated_at": "2020-06-28T21:15:02"
+  },
+  {
+    "id": "7c2c9ef2-401c-413a-bf8a-1b2a90858b5a",
+    "title": "FoodNoms",
+    "developer": "Algebraic Labs, LLC",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1479461686",
+    "macos": null,
+    "created_at": "2020-06-28T21:15:22",
+    "updated_at": "2020-06-28T21:15:22"
+  },
+  {
+    "id": "d1f2da3d-9f75-44de-8b1f-4a7f8cbac64c",
+    "title": "PCal",
+    "developer": "Hao Pu",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1298536299",
+    "macos": null,
+    "created_at": "2020-06-28T21:15:55",
+    "updated_at": "2020-06-28T21:15:55"
+  },
+  {
+    "id": "ba5c7b5f-d43c-40da-b89d-cecdd302630e",
+    "title": "Headspace",
+    "developer": "Headspace Inc.",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id493145008",
+    "macos": null,
+    "created_at": "2020-06-28T21:16:38",
+    "updated_at": "2020-06-28T21:16:38"
+  },
+  {
+    "id": "a3ff4e55-c084-4cd7-ab8e-d80fe4241de3",
+    "title": "UnitedHealthcare",
+    "developer": "United HealthCare Services, Inc.",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1348316600",
+    "macos": null,
+    "created_at": "2020-06-28T21:18:09",
+    "updated_at": "2020-06-28T21:18:09"
+  },
+  {
+    "id": "fb5f96bb-bc84-42cf-bb2e-cfdc986b5c53",
+    "title": "Pixel Picker",
+    "developer": "Andrea Bizzotto",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id930804327",
+    "macos": null,
+    "created_at": "2020-06-28T21:18:41",
+    "updated_at": "2020-06-28T21:18:41"
+  },
+  {
+    "id": "726a3074-a34e-485d-b9ff-706b281268cd",
+    "title": "Halide",
+    "developer": "Lux Optics LLC",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id885697368",
+    "macos": null,
+    "created_at": "2020-06-28T21:20:04",
+    "updated_at": "2020-06-28T21:20:04"
+  },
+  {
+    "id": "0432f6ae-2c50-4e64-8d24-a8affe467119",
+    "title": "Google Photos",
+    "developer": "Google LLC",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id962194608",
+    "macos": null,
+    "created_at": "2020-06-28T21:20:45",
+    "updated_at": "2020-06-28T21:20:45"
+  },
+  {
+    "id": "6204e93c-f114-4723-953c-41ddc8d35e5e",
+    "title": "Annotable",
+    "developer": "Ling Wang",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id1099850421",
+    "macos": null,
+    "created_at": "2020-06-28T21:21:40",
+    "updated_at": "2020-06-28T21:21:40"
+  },
+  {
+    "id": "3aa10dd9-ff8e-4380-80b1-7c1fdbb9f8a2",
+    "title": "Castro",
+    "developer": "Supertop Software",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id1080840241",
+    "macos": null,
+    "created_at": "2020-06-28T21:26:02",
+    "updated_at": "2020-06-28T21:26:02"
+  },
+  {
+    "id": "00800e9a-977a-46cb-b3bb-7186d4cd9eea",
+    "title": "GoodLinks",
+    "developer": "Ngoc Luu",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id1474335294",
+    "macos": null,
+    "created_at": "2020-06-28T21:26:18",
+    "updated_at": "2020-06-28T21:26:18"
+  },
+  {
+    "id": "9ecb643e-8840-44f3-81d0-378885b9fcd0",
+    "title": "Apollo",
+    "developer": "Christian Selig",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id979274575",
+    "macos": null,
+    "created_at": "2020-06-28T21:27:14",
+    "updated_at": "2020-06-28T21:27:14"
+  },
+  {
+    "id": "64d67bea-bb0e-4e8c-9efb-d013965383ab",
+    "title": "Instagram",
+    "developer": "Instagram, Inc.",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id389801252",
+    "macos": null,
+    "created_at": "2020-06-28T21:27:31",
+    "updated_at": "2020-06-28T21:27:31"
+  },
+  {
+    "id": "b3d02f03-f0bf-479b-b81c-242dfa28a7f2",
+    "title": "Netflix",
+    "developer": "Netflix, Inc.",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id363590051",
+    "macos": null,
+    "created_at": "2020-06-28T21:27:47",
+    "updated_at": "2020-06-28T21:27:47"
+  },
+  {
+    "id": "b52cf91b-3cb2-4e84-971c-9b4e7d755991",
+    "title": "Crunchyroll",
+    "developer": "Ellation, Inc.",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id329913454",
+    "macos": null,
+    "created_at": "2020-06-28T21:28:02",
+    "updated_at": "2020-06-28T21:28:02"
+  },
+  {
+    "id": "874172be-7cac-4cf5-9246-d9025ca6163e",
+    "title": "Sofa",
+    "developer": "Astrio, LLC",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id1276554886",
+    "macos": null,
+    "created_at": "2020-06-28T21:28:36",
+    "updated_at": "2020-06-28T21:28:36"
+  },
+  {
+    "id": "e74a3e0e-b2a2-406c-9fd8-ec8de7d20209",
+    "title": "Dice",
+    "developer": "TLA Systems Ltd.",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id1468680083",
+    "macos": null,
+    "created_at": "2020-06-28T21:29:53",
+    "updated_at": "2020-06-28T21:29:53"
+  },
+  {
+    "id": "8c2fd148-a067-4502-a5ee-39c82f87c662",
+    "title": "LookUp",
+    "developer": "Squircle Apps LLP",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id872564448",
+    "macos": null,
+    "created_at": "2020-06-28T21:30:13",
+    "updated_at": "2020-06-28T21:30:13"
+  },
+  {
+    "id": "cfe95ba0-c56b-4d53-aa57-63a636ed4849",
+    "title": "Sky Guide",
+    "developer": "Fifth Star Labs LLC",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id576588894",
+    "macos": null,
+    "created_at": "2020-06-28T21:30:46",
+    "updated_at": "2020-06-28T21:30:46"
+  },
+  {
+    "id": "bb17b644-32a8-4177-93ba-f0a0a23d7b46",
+    "title": "WhatsApp",
+    "developer": "WhatsApp Inc.",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id310633997",
+    "macos": null,
+    "created_at": "2020-06-28T21:31:06",
+    "updated_at": "2020-06-28T21:31:06"
+  },
+  {
+    "id": "397b6ddd-3ed0-4992-a341-23c40d6947cd",
+    "title": "WaterMinder",
+    "developer": "Funn Media, LLC",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id653031147",
+    "macos": null,
+    "created_at": "2020-06-28T21:15:38",
+    "updated_at": "2020-06-28T21:15:38"
+  },
+  {
+    "id": "ff41b9e7-fa75-4dcb-9c23-0d07eba1c23d",
+    "title": "Withings Health Mate",
+    "developer": "Withings",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id542701020",
+    "macos": null,
+    "created_at": "2020-06-28T21:16:09",
+    "updated_at": "2020-06-28T21:16:09"
+  },
+  {
+    "id": "1267f164-7186-47fc-9833-d2b6f7b8d1ca",
+    "title": "Dark Noise",
+    "developer": "Charlie Chapman",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1465439395",
+    "macos": null,
+    "created_at": "2020-06-28T21:16:25",
+    "updated_at": "2020-06-28T21:16:25"
+  },
+  {
+    "id": "fb3e0d3e-6146-43d8-b403-9d2d5e8de657",
+    "title": "Apple COVID-19",
+    "developer": "Apple",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id1504132184",
+    "macos": null,
+    "created_at": "2020-06-28T21:17:55",
+    "updated_at": "2020-06-28T21:17:55"
+  },
+  {
+    "id": "e25604a5-8b35-4099-9ecb-fcfbb0bd2a7e",
+    "title": "Snapthread",
+    "developer": "Rebecca Hansmeyer",
+    "category": "video",
+    "ios": "https://apps.apple.com/us/app/id1277445843",
+    "macos": null,
+    "created_at": "2020-06-28T21:18:58",
+    "updated_at": "2020-06-28T21:18:58"
+  },
+  {
+    "id": "19e51d52-16ed-479f-be9d-0db76cf52af2",
+    "title": "Spectre",
+    "developer": "Lux Optics LLC",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id1450074595",
+    "macos": null,
+    "created_at": "2020-06-28T21:20:22",
+    "updated_at": "2020-06-28T21:20:22"
+  },
+  {
+    "id": "6f61a2e2-aa96-45e8-8cad-bc10c9b11e61",
+    "title": "Gemini",
+    "developer": "MacPaw Inc.",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id1277110040",
+    "macos": null,
+    "created_at": "2020-06-28T21:21:02",
+    "updated_at": "2020-06-28T21:21:02"
+  },
+  {
+    "id": "a48b35b5-14c5-4285-8dcc-3d1a230cf442",
+    "title": "Darkroom",
+    "developer": "Bergen Co.",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id953286746",
+    "macos": null,
+    "created_at": "2020-06-28T21:21:21",
+    "updated_at": "2020-06-28T21:21:21"
+  },
+  {
+    "id": "329f777d-8ac1-4d82-a0ee-14cfad3801f8",
+    "title": "Metapho",
+    "developer": "Zininworks Inc.",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id914457352",
+    "macos": null,
+    "created_at": "2020-06-28T21:22:06",
+    "updated_at": "2020-06-28T21:22:06"
+  },
+  {
+    "id": "836684b4-1605-4208-aad8-d4b9e133998f",
+    "title": "Picsew",
+    "developer": "Liming Mo",
+    "category": "photography",
+    "ios": "https://apps.apple.com/us/app/id1208145167",
+    "macos": null,
+    "created_at": "2020-06-28T21:22:28",
+    "updated_at": "2020-06-28T21:22:28"
+  },
+  {
+    "id": "cf81c02c-cd66-4220-b0b8-121adaf32b36",
+    "title": "Marvel Unlimited",
+    "developer": "Marvel Entertainment",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id607205403",
+    "macos": null,
+    "created_at": "2020-06-28T21:26:35",
+    "updated_at": "2020-06-28T21:26:35"
+  },
+  {
+    "id": "e0c79636-1c8a-4291-81b9-c6042775255a",
+    "title": "YouTube",
+    "developer": "Google LLC",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id544007664",
+    "macos": null,
+    "created_at": "2020-06-28T21:26:55",
+    "updated_at": "2020-06-28T21:26:55"
+  },
+  {
+    "id": "43ef061f-5ca7-4493-be4a-a20c87657589",
+    "title": "Twitch",
+    "developer": "Twitch Interactive, Inc.",
+    "category": "entertainment",
+    "ios": "https://apps.apple.com/us/app/id460177396",
+    "macos": null,
+    "created_at": "2020-06-28T21:28:19",
+    "updated_at": "2020-06-28T21:28:19"
+  },
+  {
+    "id": "31582761-0f22-43f8-85eb-278c65fd1306",
+    "title": "V for Wikipedia",
+    "developer": "Raureif",
+    "category": "reference",
+    "ios": "https://apps.apple.com/us/app/id993435362",
+    "macos": null,
+    "created_at": "2020-06-28T21:30:31",
+    "updated_at": "2020-06-28T21:30:31"
+  },
+  {
+    "id": "9f302fe7-7a73-48a0-a38e-c5ccfb04598a",
+    "title": "Signal",
+    "developer": "Signal Messenger, LLC",
+    "category": "social",
+    "ios": "https://apps.apple.com/us/app/id874139669",
+    "macos": null,
+    "created_at": "2020-06-28T21:31:22",
+    "updated_at": "2020-06-28T21:31:22"
+  },
+  {
+    "id": "b1c82c99-5c42-411b-b5b6-0828341b4759",
+    "title": "Codye",
+    "developer": "Dario Roa",
+    "category": "development",
+    "ios": "https://apps.apple.com/us/app/id1516894961",
+    "macos": "https://apps.apple.com/us/app/id1516894961",
+    "created_at": "2020-06-28T15:02:24",
+    "updated_at": "2020-06-29T20:26:43.914809"
+  },
+  {
+    "id": "65904f77-5e42-47b7-99df-1567a014a7b8",
+    "title": "WireGuard",
+    "developer": "WireGuard Development Team",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1441195209",
+    "macos": "https://apps.apple.com/us/app/id1451685025",
+    "created_at": "2020-07-01T03:14:50",
+    "updated_at": "2020-07-01T03:14:50"
+  }
+]
