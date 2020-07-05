@@ -6,6 +6,7 @@ const axios = require('axios');
 
 // Match table queries
 const tableQueries = {
+  apps: `title developer category ios macos`,
   bookmarks: `title creator url category`,
   books: `title author genre`,
   games: `title creator genre`,
