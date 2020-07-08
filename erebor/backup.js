@@ -6,14 +6,14 @@ const axios = require('axios');
 
 // Match table queries
 const tableQueries = {
-  apps: `title developer category ios macos`,
-  bookmarks: `title creator url category`,
-  books: `title author genre`,
-  games: `title creator genre`,
-  movies: `title director genre`,
-  podcasts: `title url rss category`,
-  rss: `title url rss category`,
-  shows: `title director genre`,
+  apps: 'title developer category ios macos',
+  bookmarks: 'title creator url category',
+  books: 'title author genre',
+  games: 'title creator genre',
+  movies: 'title director genre',
+  podcasts: 'title url rss category',
+  rss: 'title url rss category',
+  shows: 'title director genre',
 };
 
 // Get all items from table
