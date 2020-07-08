@@ -126,15 +126,6 @@
     "updated_at": "2019-09-25T18:14:23.888499"
   },
   {
-    "id": "d649d446-80b1-492a-838b-e698b0489b2d",
-    "title": "A Brief History of Porn on the Internet",
-    "creator": "Eric Meyer",
-    "url": "https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/",
-    "category": "Articles",
-    "created_at": "2019-09-25T18:14:24.028062",
-    "updated_at": "2019-09-25T18:14:24.028062"
-  },
-  {
     "id": "17b30e00-d47d-49bb-add2-b7aa54a4b1ab",
     "title": "Vanish",
     "creator": "Evan Ratliff",
@@ -4491,15 +4482,6 @@
     "updated_at": "2019-09-25T18:21:34.807013"
   },
   {
-    "id": "0a6bd65a-4d43-45f4-b211-967b71a08f7a",
-    "title": "1,000km Cable to the Stars",
-    "creator": "Kurzgesagt – in a Nutshell",
-    "url": "",
-    "category": "Videos",
-    "created_at": "2019-11-18T01:23:04.036946",
-    "updated_at": "2019-11-18T01:23:04.036946"
-  },
-  {
     "id": "5263adf0-6bf9-4c7d-a51a-0a9051dddef8",
     "title": "JAMstack_conf_london 2019 - Jake Archibald & Surma",
     "creator": "JAMstack Conf",
@@ -5391,15 +5373,6 @@
     "updated_at": "2019-12-01T07:18:36.090425"
   },
   {
-    "id": "c7867e7f-0e01-47fd-857f-c0a4f87d62b3",
-    "title": "Why Snatch Blocks are AWESOME (How Pulleys Work)",
-    "creator": "SmarterEveryDay",
-    "url": "",
-    "category": "Videos",
-    "created_at": "2019-12-05T22:12:24.169761",
-    "updated_at": "2019-12-05T22:12:24.169761"
-  },
-  {
     "id": "81129d9e-63a1-4314-b19b-e24deda6591a",
     "title": "Sorry Computer, You're Not a Teapot",
     "creator": "Jay Hoffmann",
@@ -5434,15 +5407,6 @@
     "category": "Podcasts",
     "created_at": "2019-12-28T14:47:41.179166",
     "updated_at": "2019-12-28T14:47:41.179166"
-  },
-  {
-    "id": "ec62c127-b411-4f3a-b8fb-0c377372003a",
-    "title": "Oh no! The Rise of Skywalker was real bad :(",
-    "creator": "Jenny Nicholson",
-    "url": "",
-    "category": "Videos",
-    "created_at": "2019-12-31T22:13:00.37929",
-    "updated_at": "2019-12-31T22:13:00.37929"
   },
   {
     "id": "4e2c3c3b-7560-4302-86d1-74645a02c9e5",
@@ -5551,6 +5515,15 @@
     "category": "Comics",
     "created_at": "2020-01-29T23:00:22",
     "updated_at": "2020-01-29T23:00:22"
+  },
+  {
+    "id": "ec62c127-b411-4f3a-b8fb-0c377372003a",
+    "title": "Oh no! The Rise of Skywalker was real bad :(",
+    "creator": "Jenny Nicholson",
+    "url": "https://youtu.be/GErIPKjwuDg",
+    "category": "Videos",
+    "created_at": "2019-12-31T22:13:00.37929",
+    "updated_at": "2020-07-07T05:08:02.755836"
   },
   {
     "id": "6811f692-4dc7-49f2-b46c-26d4550a6ace",
@@ -5778,15 +5751,6 @@
     "updated_at": "2020-04-29T05:21:17"
   },
   {
-    "id": "dfbd0caa-d317-4579-bc71-6ede93b24a6a",
-    "title": "Fly Through a Nebula 163,000 Light Years Away (Celebrating 30 Years of the Hubble Space Telescope)",
-    "creator": "It's Okay to Be Smart",
-    "url": "",
-    "category": "Videos",
-    "created_at": "2020-05-02T16:44:22",
-    "updated_at": "2020-05-02T16:44:22"
-  },
-  {
     "id": "e0778e10-8759-4078-8c2b-d89c2c29b142",
     "title": "Thank you guys, you are the real heroes",
     "creator": "r/ProgrammerHumor",
@@ -5830,15 +5794,6 @@
     "category": "Videos",
     "created_at": "2020-05-16T02:49:48",
     "updated_at": "2020-05-16T02:49:48"
-  },
-  {
-    "id": "f2d70066-7692-4441-b439-eeae603af3df",
-    "title": "If my Grandmother had wheels she would have been a bike",
-    "creator": "Digitalmediafan",
-    "url": "",
-    "category": "Videos",
-    "created_at": "2020-05-19T01:24:07",
-    "updated_at": "2020-05-19T01:24:07"
   },
   {
     "id": "33b7c100-4862-49d1-a3c5-13972a49e2c7",
@@ -6064,5 +6019,41 @@
     "category": "Comics",
     "created_at": "2020-07-03T16:11:23",
     "updated_at": "2020-07-03T16:11:23"
+  },
+  {
+    "id": "0a6bd65a-4d43-45f4-b211-967b71a08f7a",
+    "title": "1,000km Cable to the Stars",
+    "creator": "Kurzgesagt – in a Nutshell",
+    "url": "https://youtu.be/dqwpQarrDwk",
+    "category": "Videos",
+    "created_at": "2019-11-18T01:23:04.036946",
+    "updated_at": "2020-07-07T05:05:41.953585"
+  },
+  {
+    "id": "f2d70066-7692-4441-b439-eeae603af3df",
+    "title": "If my Grandmother had wheels she would have been a bike",
+    "creator": "Digitalmediafan",
+    "url": "https://youtu.be/A-RfHC91Ewc",
+    "category": "Videos",
+    "created_at": "2020-05-19T01:24:07",
+    "updated_at": "2020-07-07T05:06:14.164539"
+  },
+  {
+    "id": "c7867e7f-0e01-47fd-857f-c0a4f87d62b3",
+    "title": "Why Snatch Blocks are AWESOME (How Pulleys Work)",
+    "creator": "SmarterEveryDay",
+    "url": "https://youtu.be/M2w3NZzPwOM",
+    "category": "Videos",
+    "created_at": "2019-12-05T22:12:24.169761",
+    "updated_at": "2020-07-07T05:06:48.568615"
+  },
+  {
+    "id": "dfbd0caa-d317-4579-bc71-6ede93b24a6a",
+    "title": "Fly Through a Nebula 163,000 Light Years Away (Celebrating 30 Years of the Hubble Space Telescope)",
+    "creator": "It's Okay to Be Smart",
+    "url": "https://youtu.be/LCrs-HeXrug",
+    "category": "Videos",
+    "created_at": "2020-05-02T16:44:22",
+    "updated_at": "2020-07-07T05:07:32.428474"
   }
 ]

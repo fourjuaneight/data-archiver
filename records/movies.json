@@ -680,78 +680,6 @@
     "updated_at": "2019-11-29T13:37:03.79164"
   },
   {
-    "id": "74c1c322-19d5-4046-82b5-811c82e02ba6",
-    "title": "Men in Black",
-    "director": "Action",
-    "genre": "Barry Sonnenfeld",
-    "created_at": "2019-11-29T13:37:32.766942",
-    "updated_at": "2019-11-29T13:37:32.766942"
-  },
-  {
-    "id": "8374fd48-fdc0-461b-9eef-a507f8f7bc01",
-    "title": "Men in Black II",
-    "director": "Action",
-    "genre": "Barry Sonnenfeld",
-    "created_at": "2019-11-29T13:37:45.330875",
-    "updated_at": "2019-11-29T13:37:45.330875"
-  },
-  {
-    "id": "cbc91ca1-96ec-4eb7-bc52-5a48688abeaf",
-    "title": "Men in Black III",
-    "director": "Action",
-    "genre": "Barry Sonnenfeld",
-    "created_at": "2019-11-29T13:37:53.4204",
-    "updated_at": "2019-11-29T13:37:53.4204"
-  },
-  {
-    "id": "c0607cf0-cd69-4461-a2a7-c48e094eb0e1",
-    "title": "Paranormal Activity",
-    "director": "Horror",
-    "genre": "Oren Peli",
-    "created_at": "2019-11-29T13:38:16.545404",
-    "updated_at": "2019-11-29T13:38:16.545404"
-  },
-  {
-    "id": "5a8e0199-cffa-412b-8ad4-bfe65217c4e7",
-    "title": "Paranormal Activity 2",
-    "director": "Horror",
-    "genre": "Tod Williams",
-    "created_at": "2019-11-29T13:38:30.624314",
-    "updated_at": "2019-11-29T13:38:30.624314"
-  },
-  {
-    "id": "fa6b3cb5-0e70-46d1-8c50-5f7022716479",
-    "title": "Paranormal Activity 3",
-    "director": "Horror",
-    "genre": "Henry Joost",
-    "created_at": "2019-11-29T13:38:44.052506",
-    "updated_at": "2019-11-29T13:38:44.052506"
-  },
-  {
-    "id": "2202155f-774a-4922-bbb3-632a87f1f498",
-    "title": "Paranormal Activity 4",
-    "director": "Horror",
-    "genre": "Henry Joost",
-    "created_at": "2019-11-29T13:38:51.803788",
-    "updated_at": "2019-11-29T13:38:51.803788"
-  },
-  {
-    "id": "c69126cc-e9ee-440b-ba21-318371aa1fd2",
-    "title": "Paranormal Activity: The Ghost Dimension",
-    "director": "Horror",
-    "genre": "Gregory Plotkin",
-    "created_at": "2019-11-29T13:39:19.693005",
-    "updated_at": "2019-11-29T13:39:19.693005"
-  },
-  {
-    "id": "9f8f163a-0a79-4024-bdcd-2d1f220465ea",
-    "title": "Paranormal Activity: The Marked Ones",
-    "director": "Horror",
-    "genre": "Christopher Landon",
-    "created_at": "2019-11-29T13:39:44.031038",
-    "updated_at": "2019-11-29T13:39:44.031038"
-  },
-  {
     "id": "eb9126a0-6e9a-4f1e-9fd4-ee19ed81c453",
     "title": "The Conjuring",
     "director": "James Wan",
@@ -968,14 +896,6 @@
     "updated_at": "2020-04-23T21:38:09"
   },
   {
-    "id": "a7448ab0-b988-4430-9898-09c9acc59d25",
-    "title": "It (2017)",
-    "director": "Andy Muschietti",
-    "genre": "Horror",
-    "created_at": "2020-05-07T16:51:20",
-    "updated_at": "2020-05-07T16:51:20"
-  },
-  {
     "id": "742fcf8b-4335-4213-9745-cdca23f82ee2",
     "title": "It Chapter Two",
     "director": "Andy Muschietti",
@@ -1080,14 +1000,6 @@
     "updated_at": "2020-06-09T05:01:43"
   },
   {
-    "id": "5d938716-57fc-4f46-bef8-d9fba431fc36",
-    "title": "Us (2019)",
-    "director": "Jordan Peele",
-    "genre": "Horror",
-    "created_at": "2020-06-16T21:10:39",
-    "updated_at": "2020-06-16T21:10:39"
-  },
-  {
     "id": "54ea4e65-b2d7-4c4f-86d5-e28d406df610",
     "title": "Get Out",
     "director": "Jordan Peele",
@@ -1150,5 +1062,93 @@
     "genre": "Sci-Fi & Fantasy",
     "created_at": "2020-07-03T04:37:27",
     "updated_at": "2020-07-03T04:37:27"
+  },
+  {
+    "id": "a7448ab0-b988-4430-9898-09c9acc59d25",
+    "title": "It",
+    "director": "Andy Muschietti",
+    "genre": "Horror",
+    "created_at": "2020-05-07T16:51:20",
+    "updated_at": "2020-07-07T04:37:00.568379"
+  },
+  {
+    "id": "5d938716-57fc-4f46-bef8-d9fba431fc36",
+    "title": "Us",
+    "director": "Jordan Peele",
+    "genre": "Horror",
+    "created_at": "2020-06-16T21:10:39",
+    "updated_at": "2020-07-07T04:37:29.441566"
+  },
+  {
+    "id": "74c1c322-19d5-4046-82b5-811c82e02ba6",
+    "title": "Men in Black",
+    "director": "Barry Sonnenfeld",
+    "genre": "Action",
+    "created_at": "2019-11-29T13:37:32.766942",
+    "updated_at": "2020-07-07T04:55:36.853451"
+  },
+  {
+    "id": "8374fd48-fdc0-461b-9eef-a507f8f7bc01",
+    "title": "Men in Black II",
+    "director": "Barry Sonnenfeld",
+    "genre": "Action",
+    "created_at": "2019-11-29T13:37:45.330875",
+    "updated_at": "2020-07-07T04:56:07.991171"
+  },
+  {
+    "id": "cbc91ca1-96ec-4eb7-bc52-5a48688abeaf",
+    "title": "Men in Black III",
+    "director": "Barry Sonnenfeld",
+    "genre": "Action",
+    "created_at": "2019-11-29T13:37:53.4204",
+    "updated_at": "2020-07-07T04:56:40.54282"
+  },
+  {
+    "id": "c0607cf0-cd69-4461-a2a7-c48e094eb0e1",
+    "title": "Paranormal Activity",
+    "director": "Oren Peli",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:38:16.545404",
+    "updated_at": "2020-07-07T04:57:38.175858"
+  },
+  {
+    "id": "5a8e0199-cffa-412b-8ad4-bfe65217c4e7",
+    "title": "Paranormal Activity 2",
+    "director": "Tod Williams",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:38:30.624314",
+    "updated_at": "2020-07-07T04:59:19.876473"
+  },
+  {
+    "id": "fa6b3cb5-0e70-46d1-8c50-5f7022716479",
+    "title": "Paranormal Activity 3",
+    "director": "Henry Joost",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:38:44.052506",
+    "updated_at": "2020-07-07T04:59:49.12954"
+  },
+  {
+    "id": "2202155f-774a-4922-bbb3-632a87f1f498",
+    "title": "Paranormal Activity 4",
+    "director": "Henry Joost",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:38:51.803788",
+    "updated_at": "2020-07-07T05:00:54.432628"
+  },
+  {
+    "id": "c69126cc-e9ee-440b-ba21-318371aa1fd2",
+    "title": "Paranormal Activity: The Ghost Dimension",
+    "director": "Gregory Plotkin",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:39:19.693005",
+    "updated_at": "2020-07-07T05:01:27.964996"
+  },
+  {
+    "id": "9f8f163a-0a79-4024-bdcd-2d1f220465ea",
+    "title": "Paranormal Activity: The Marked Ones",
+    "director": "Christopher Landon",
+    "genre": "Horror",
+    "created_at": "2019-11-29T13:39:44.031038",
+    "updated_at": "2020-07-07T05:02:12.47595"
   }
 ]
