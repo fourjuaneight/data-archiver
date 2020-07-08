@@ -49,7 +49,7 @@ getLastTweet.then(tweets => {
             // eslint-disable-next-line no-console
             console.info(
               'Saved new Tweets to Airtable.',
-              result.records.fields
+              result.data.records[0].fields
             );
           }
         })
