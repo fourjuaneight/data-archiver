@@ -1,4 +1,8 @@
-name: Backup Erebor
+name: Backup Airtable
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
 
 jobs:
   upload-tweet:
@@ -27,11 +31,12 @@ jobs:
         run: npm ci
 
       - name: Backup
-        run: node erebor/backup.js
+        run: node airtable/backup.js
         env:
           CI: true
-          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
-          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
+          AIRTABLE_BOOKMARKS_ENDPOINT: ${{secrets.AIRTABLE_BOOKMARKS_ENDPOINT}}
+          AIRTABLE_MEDIA_ENDPOINT: ${{secrets.AIRTABLE_MEDIA_ENDPOINT}}
+          AIRTABLE_API: ${{secrets.AIRTABLE_API}}
 
       - name: Get current date
         id: date
@@ -40,4 +45,4 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.2.0
         with:
-          commit_message: Erebor backed up at ${{steps.date.outputs.date}}.
+          commit_message: Airtable backed up at ${{steps.date.outputs.date}}.
