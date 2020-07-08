@@ -1,50 +1,32 @@
 [
   {
-    "id": "99c3e77b-5e22-4574-84f7-cf6ee3baf244",
-    "title": "INSIDE",
-    "creator": "Playdead",
-    "genre": "Platform",
-    "created_at": "2020-03-24T05:19:48",
-    "updated_at": "2020-03-24T05:19:48"
-  },
-  {
-    "id": "18be1ee3-2a16-44b1-a88d-ed6731853edc",
-    "title": "Limbo",
-    "creator": "Playdead",
-    "genre": "Platform",
-    "created_at": "2020-03-24T20:16:55",
-    "updated_at": "2020-03-24T20:16:55"
-  },
-  {
-    "id": "dd79a2c9-8815-4d82-a016-d8cc77dbb4a7",
-    "title": "The Legend of Zelda: A Link to the Past",
-    "creator": "Nintendo",
-    "genre": "Role-playing (RPG)",
-    "created_at": "2020-03-28T05:24:03",
-    "updated_at": "2020-03-28T05:24:03"
-  },
-  {
-    "id": "118b1e4c-6061-4ff9-9e57-60595109ffe2",
-    "title": "Pokémon Gold",
-    "creator": "Game Freak",
-    "genre": "Role-playing (RPG)",
-    "created_at": "2020-03-28T05:26:01",
-    "updated_at": "2020-03-28T05:26:01"
-  },
-  {
-    "id": "e142891f-8a29-4fb2-8c6c-d0c0fd348686",
-    "title": "The Last of Us",
-    "creator": "Naughty Dog",
-    "genre": "Shooter",
-    "created_at": "2020-03-28T05:29:48",
-    "updated_at": "2020-03-28T05:29:48"
-  },
-  {
-    "id": "a0a1c8bc-1bcc-4e33-ab3a-09268f13ff16",
     "title": "The Legend of Zelda: Breath of the Wild",
     "creator": "Nintendo",
-    "genre": "Role-playing (RPG)",
-    "created_at": "2020-05-18T04:30:26",
-    "updated_at": "2020-05-18T04:30:26"
+    "genre": "rpg"
+  },
+  {
+    "title": "Pokémon Gold",
+    "creator": "Game Freak",
+    "genre": "rpg"
+  },
+  {
+    "title": "Limbo",
+    "creator": "Playdead",
+    "genre": "platform"
+  },
+  {
+    "title": "The Last of Us",
+    "creator": "Naughty Dog",
+    "genre": "shooter"
+  },
+  {
+    "title": "INSIDE",
+    "creator": "Playdead",
+    "genre": "platform"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "creator": "Nintendo",
+    "genre": "rpg"
   }
 ]
