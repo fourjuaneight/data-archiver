@@ -32,8 +32,8 @@ jobs:
 
         env:
           CI: true
-          EREBOR_ENDPOINT: ${{secrets.EREBOR_ENDPOINT}}
-          EREBOR_KEY: ${{secrets.EREBOR_KEY}}
+          AIRTABLE_MEDIA_ENDPOINT: ${{secrets.AIRTABLE_MEDIA_ENDPOINT}}
+          AIRTABLE_API: ${{secrets.AIRTABLE_API}}
           PUSHCUT_ENDPOINT: ${{secrets.PUSHCUT_ENDPOINT}}
           TWITTER_KEY: ${{secrets.TWITTER_KEY}}
           TWITTER_SECRET: ${{secrets.TWITTER_SECRET}}
