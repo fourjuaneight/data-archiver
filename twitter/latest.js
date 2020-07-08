@@ -47,20 +47,14 @@ const latest = async key => {
     withCredentials: true,
   };
 
-  const RTd = tweet => tweet.match(/^RT\s/g) !== null;
-  const rtCount = (count, text) => (RTd(text) ? 0 : count);
-
   const tweet = await axios(twtOpts)
     .then(result => {
       /* eslint-disable sort-keys */
       const cleanTweet = result.data
         .map(twt => ({
-          id: twt.id_str,
-          date: dateFmt(twt.created_at).original,
           tweet: clean(twt.full_text),
-          retweet: RTd(twt.full_text),
-          retweeted: rtCount(twt.retweet_count, twt.full_text),
-          favorited: twt.favorite_count,
+          date: dateFmt(twt.created_at).original,
+          url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
         }))
         .filter(twt => {
           const { original } = dateFmt(twt.date);

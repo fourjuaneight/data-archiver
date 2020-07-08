@@ -24,45 +24,37 @@ getLastTweet.then(tweets => {
     for (const tweet of tweets) {
       axios({
         data: {
-          query: `
-              mutation TweetMutation {
-                insert_tweets(objects: {
-                  id: "${tweet.id}",
-                  tweet: "${tweet.tweet}",
-                  date: "${tweet.date}",
-                  retweet: "${tweet.retweet}",
-                  retweeted: "${tweet.retweeted}",
-                  favorited: "${tweet.favorited}",
-                  created_at: "${tweet.date}",
-                }) {
-                  returning {
-                    tweet
-                  }
-                }
-              }
-            `,
+          records: [
+            {
+              fields: {
+                tweet: tweet.tweet,
+                date: tweet.date,
+                url: tweet.url,
+              },
+            },
+          ],
         },
         headers: {
+          Authorization: `Bearer ${process.env.AIRTABLE_API}`,
           'Content-Type': 'application/json',
-          'X-Hasura-Admin-Secret': process.env.EREBOR_KEY,
         },
         method: 'POST',
-        url: process.env.EREBOR_ENDPOINT,
+        url: `${process.env.AIRTABLE_MEDIA_ENDPOINT}/Tweets`,
       })
         .then(result => {
-          if (result.data.errors) {
-            console.error('Erebor Query:', result.data.errors[0].message);
+          if (result.error) {
+            console.error(`${result.error.type}:`, result.error.message);
             process.exitCode = 1;
           } else {
             // eslint-disable-next-line no-console
             console.info(
-              'Saved new Tweets to Erebor.',
-              result.data.data.insert_tweets
+              'Saved new Tweets to Airtable.',
+              result.records.fields
             );
           }
         })
         .catch(err => {
-          console.error('Erebor Request:', err);
+          console.error('Airtable Request:', err);
           process.exitCode = 1;
         });
     }
