@@ -1,9 +1,5 @@
 name: Backup Erebor
 
-on:
-  schedule:
-    - cron: '0 3 * * *'
-
 jobs:
   upload-tweet:
     runs-on: ubuntu-18.04
