@@ -12,7 +12,7 @@
   {
     "title": "Deadpool 2",
     "director": "David Leitch",
-    "genre": "action"
+    "genre": "action & adventure"
   },
   {
     "title": "Specter",
@@ -122,7 +122,7 @@
   {
     "title": "Princess Mononoke",
     "director": "Hayao Miyazaki",
-    "genre": "action"
+    "genre": "action & adventure"
   },
   {
     "title": "Blade Runner",
@@ -232,7 +232,7 @@
   {
     "title": "Jumanji",
     "director": "Joe Johnston",
-    "genre": "action"
+    "genre": "action & adventure"
   },
   {
     "title": "The Martian",
@@ -397,7 +397,7 @@
   {
     "title": "Zombieland",
     "director": "Ruben Fleischer",
-    "genre": "action"
+    "genre": "action & adventure"
   },
   {
     "title": "Star Trek",
@@ -462,7 +462,7 @@
   {
     "title": "Spirited Away",
     "director": "Hayao Miyazaki",
-    "genre": "action"
+    "genre": "action & adventure"
   },
   {
     "title": "The Matrix: Revolutions",
@@ -485,6 +485,11 @@
     "genre": "sci-fi"
   },
   {
+    "title": "Howl’s Moving Castle",
+    "director": "Hayao Miyazaki",
+    "genre": "action & adventure"
+  },
+  {
     "title": "The Hunger Games",
     "director": "Francis Lawrence",
     "genre": "action"
@@ -492,11 +497,6 @@
   {
     "title": "Paranormal Activity",
     "director": "Oren Peli",
-    "genre": "horror"
-  },
-  {
-    "title": "The Evil Dead",
-    "director": "Sam Raimi",
     "genre": "horror"
   }
 ]
