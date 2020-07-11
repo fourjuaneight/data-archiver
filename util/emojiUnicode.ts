@@ -32,4 +32,4 @@ const emojiUnicode: string = (emoji): string => {
   return comp;
 };
 
-exports.emojiUnicode = emojiUnicode;
+export default emojiUnicode;
