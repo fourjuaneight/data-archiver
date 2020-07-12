@@ -65,6 +65,14 @@
     ]
   },
   {
+    "title": "Okay so today I realized... DEVELOPMENT IS HARD.\n\nBetween setting up the dev environment to learning how to navigate a new monorepo to figuring out Docker and SSH keys... \n\nAnd that's all before you even write any code.",
+    "creator": "@EmmaBostian",
+    "url": "https://twitter.com/EmmaBostian/status/1280831845786161154",
+    "category": [
+      "development"
+    ]
+  },
+  {
     "title": "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it",
     "creator": "@zhuowei",
     "url": "https://twitter.com/zhuowei/status/1254266079532154880",
