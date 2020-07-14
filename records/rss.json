@@ -150,6 +150,12 @@
     "category": "comic"
   },
   {
+    "title": "Shen Comix",
+    "url": "https://shencomix.tumblr.com/",
+    "rss": "https://shencomix.tumblr.com/rss",
+    "category": "comic"
+  },
+  {
     "title": "MacStories",
     "url": "https://www.macstories.net",
     "rss": "https://www.macstories.net/feed/",
