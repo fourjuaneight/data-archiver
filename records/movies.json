@@ -80,6 +80,11 @@
     "genre": "action"
   },
   {
+    "title": "Donnie Darko",
+    "director": "Richard Kelly",
+    "genre": "sci-fi & fantasy"
+  },
+  {
     "title": "X-Men: Apocalypse",
     "director": "Bryan Singer",
     "genre": "action"
@@ -493,10 +498,5 @@
     "title": "The Hunger Games",
     "director": "Francis Lawrence",
     "genre": "action"
-  },
-  {
-    "title": "Paranormal Activity",
-    "director": "Oren Peli",
-    "genre": "horror"
   }
 ]

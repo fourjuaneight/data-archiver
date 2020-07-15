@@ -43,6 +43,14 @@
     ]
   },
   {
+    "title": "The Wet Codebase",
+    "creator": "Dan Abramov",
+    "url": "https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
+    "category": [
+      "development"
+    ]
+  },
+  {
     "title": "The Nerd Handbook",
     "creator": "Rands",
     "url": "http://randsinrepose.com/archives/the-nerd-handbook/",
@@ -314,6 +322,15 @@
     "url": "https://www.folklore.org/StoryView.py?story=Real_Artists_Ship.txt",
     "category": [
       "technology",
+      "history"
+    ]
+  },
+  {
+    "title": "The rise and fall of Adobe Flash",
+    "creator": "Richard Moss",
+    "url": "https://arstechnica.com/information-technology/2020/07/the-rise-and-fall-of-adobe-flash/",
+    "category": [
+      "development",
       "history"
     ]
   },
