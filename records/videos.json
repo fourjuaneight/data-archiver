@@ -450,6 +450,13 @@
     "url": "https://vimeo.com/224385535"
   },
   {
+    "title": "Dave Landau",
+    "creator": "Comedy Central",
+    "category": [
+      "comedy"
+    ]
+  },
+  {
     "title": "Why Alien Life Would be our Doom - The Great Filter",
     "creator": "Kurzgesagt – In a Nutshell",
     "url": "https://youtu.be/UjtOGPJ0URM"
@@ -493,10 +500,5 @@
     "title": "TIE Fighter Remastered Animated",
     "creator": "Pascal Ramseier",
     "url": "https://youtu.be/E9GRYa_3gno"
-  },
-  {
-    "title": "Vsauce and Sean Evans Test Spicy Food Remedies",
-    "creator": "First We Feast",
-    "url": "https://youtu.be/BvogZ88qRTk"
   }
 ]

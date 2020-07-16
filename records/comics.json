@@ -335,6 +335,14 @@
     "url": "https://www.monkeyuser.com/2017/open-source-issues/"
   },
   {
+    "title": "COVID Risk Chart",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/2333/",
+    "category": [
+      "health"
+    ]
+  },
+  {
     "title": "Self-care isn’t selfish",
     "creator": "Ketnipz",
     "url": "https://www.instagram.com/p/BuuDAwYjRfb/"
@@ -493,10 +501,5 @@
     "title": "Cold",
     "creator": "xkcd",
     "url": "https://xkcd.com/1321/"
-  },
-  {
-    "title": "Origin Story",
-    "creator": "Port Sherry",
-    "url": "http://portsherry.com/comic/origin-story/"
   }
 ]
