@@ -195,6 +195,13 @@
     "url": "https://youtu.be/7Pq-S557XQU"
   },
   {
+    "title": "Carl Sagan - Cosmos - Eratosthenes",
+    "creator": "carlsagandotcom",
+    "category": [
+      "astronomy"
+    ]
+  },
+  {
     "title": "Majora’s Mask - Terrible Fate",
     "creator": "CGMeetup",
     "url": "https://youtu.be/dqc4gno0Hso"
@@ -495,10 +502,5 @@
     "title": "Lockdown Productivity: Spaceship You",
     "creator": "CGP Grey",
     "url": "https://youtu.be/snAhsXyO3Ck"
-  },
-  {
-    "title": "TIE Fighter Remastered Animated",
-    "creator": "Pascal Ramseier",
-    "url": "https://youtu.be/E9GRYa_3gno"
   }
 ]
