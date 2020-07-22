@@ -235,6 +235,11 @@
     "genre": "action"
   },
   {
+    "title": "Mad Max: Fury Road",
+    "director": "George Miller",
+    "genre": "action & adventure"
+  },
+  {
     "title": "Jumanji",
     "director": "Joe Johnston",
     "genre": "action & adventure"
@@ -493,10 +498,5 @@
     "title": "Howl’s Moving Castle",
     "director": "Hayao Miyazaki",
     "genre": "action & adventure"
-  },
-  {
-    "title": "The Hunger Games",
-    "director": "Francis Lawrence",
-    "genre": "action"
   }
 ]
