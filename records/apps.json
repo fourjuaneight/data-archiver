@@ -190,6 +190,13 @@
     "ios": "https://apps.apple.com/us/app/id962194608"
   },
   {
+    "title": "Reincubate Camo",
+    "developer": "Reincubate",
+    "category": "utilities",
+    "ios": "https://apps.apple.com/us/app/id1514199064",
+    "macos": "https://reincubate.com/camo/"
+  },
+  {
     "title": "Grammarly",
     "developer": "Grammarly, Inc",
     "category": "utilities",
@@ -496,6 +503,12 @@
     "macos": "https://apps.apple.com/us/app/id1516894961"
   },
   {
+    "title": "Streaks",
+    "developer": "Crunchy Bagel",
+    "category": "health",
+    "ios": "https://apps.apple.com/us/app/id963034692"
+  },
+  {
     "title": "Toolbox Pro",
     "developer": "Alexander Hay",
     "category": "utilities",
@@ -596,17 +609,5 @@
     "developer": "PayPal, Inc.",
     "category": "finance",
     "ios": "https://apps.apple.com/us/app/id283646709"
-  },
-  {
-    "title": "Apple COVID-19",
-    "developer": "Apple",
-    "category": "health",
-    "ios": "https://apps.apple.com/us/app/id1504132184"
-  },
-  {
-    "title": "Backblaze",
-    "developer": "Backblaze",
-    "category": "utilities",
-    "macos": "https://www.backblaze.com/cloud-backup.html"
   }
 ]
