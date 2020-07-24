@@ -102,6 +102,12 @@
     "category": "comic"
   },
   {
+    "title": "And now it’s all this",
+    "url": "http://www.leancrew.com/all-this/",
+    "rss": "https://leancrew.com/all-this/feed/",
+    "category": "development"
+  },
+  {
     "title": "What If?",
     "url": "https://what-if.xkcd.com/feed.atom",
     "rss": "https://what-if.xkcd.com/feed.atom",
