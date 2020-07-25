@@ -260,6 +260,11 @@
     "genre": "action"
   },
   {
+    "title": "V for Vendetta",
+    "director": "James McTeigue",
+    "genre": "action & adventure"
+  },
+  {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "director": "Peter Jackson",
     "genre": "fantasy"
@@ -493,10 +498,5 @@
     "title": "Back to the Future III",
     "director": "Robert Zemeckis",
     "genre": "sci-fi"
-  },
-  {
-    "title": "Howl’s Moving Castle",
-    "director": "Hayao Miyazaki",
-    "genre": "action & adventure"
   }
 ]
