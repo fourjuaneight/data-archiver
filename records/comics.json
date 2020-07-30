@@ -185,6 +185,14 @@
     "url": "https://xkcd.com/1531/"
   },
   {
+    "title": "Who put me in here?",
+    "creator": "Port Sherry",
+    "url": "http://portsherry.com/comic/who-put-me-in-here/",
+    "category": [
+      "life"
+    ]
+  },
+  {
     "title": "Trap I",
     "creator": "Poorly Drawn Lines",
     "url": "http://www.poorlydrawnlines.com/comic/trap/"
@@ -496,10 +504,5 @@
     "title": "Sleeping with Someone in Winter",
     "creator": "Adamtots",
     "url": "https://www.instagram.com/p/BkyJ-OIA1AG/"
-  },
-  {
-    "title": "Cold",
-    "creator": "xkcd",
-    "url": "https://xkcd.com/1321/"
   }
 ]
