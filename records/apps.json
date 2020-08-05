@@ -335,7 +335,8 @@
     "title": "Gemini",
     "developer": "MacPaw Inc.",
     "category": "photography",
-    "ios": "https://apps.apple.com/us/app/id1277110040"
+    "ios": "https://apps.apple.com/us/app/id1277110040",
+    "macos": "https://macpaw.com/gemini"
   },
   {
     "title": "Bear",
@@ -433,6 +434,12 @@
     "developer": "Headspace Inc.",
     "category": "health",
     "ios": "https://apps.apple.com/us/app/id493145008"
+  },
+  {
+    "title": "Transnomio",
+    "developer": "Bastiaan Verreijt",
+    "category": "utilities",
+    "macos": "https://transnomino.bastiaanverreijt.com/"
   },
   {
     "title": "Blink Shell",
@@ -603,11 +610,5 @@
     "developer": "Simon B. Støvring",
     "category": "productivity",
     "ios": "https://apps.apple.com/us/app/id1447750768"
-  },
-  {
-    "title": "PayPal",
-    "developer": "PayPal, Inc.",
-    "category": "finance",
-    "ios": "https://apps.apple.com/us/app/id283646709"
   }
 ]
