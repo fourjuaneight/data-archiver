@@ -25,6 +25,11 @@
     "genre": "sci-fi"
   },
   {
+    "title": "Legion",
+    "director": "Noah Hawley",
+    "genre": "fantasy"
+  },
+  {
     "title": "Bob's Burgers",
     "director": "Loren Bouchard",
     "genre": "comedy"
@@ -50,6 +55,11 @@
     "genre": "fantasy"
   },
   {
+    "title": "Halt and Catch Fire",
+    "director": "\t\nChristopher Cantwell",
+    "genre": "drama"
+  },
+  {
     "title": "Breaking Bad",
     "director": "Vince Gilligan",
     "genre": "drama"
@@ -68,11 +78,6 @@
     "title": "Watchmen",
     "director": "Damon Lindelof",
     "genre": "action"
-  },
-  {
-    "title": "Legion",
-    "director": "Noah Hawley",
-    "genre": "sci-fi"
   },
   {
     "title": "The Expanse",
