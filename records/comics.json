@@ -394,6 +394,14 @@
     "url": "https://xkcd.com/1319/"
   },
   {
+    "title": "Come Back",
+    "creator": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com/comic/come-back",
+    "category": [
+      "life"
+    ]
+  },
+  {
     "title": "Gear",
     "creator": "Adamtots",
     "url": "https://www.instagram.com/p/BnZNB-bAKV9/"
@@ -502,10 +510,5 @@
     "title": "Blorp",
     "creator": "Adamtots",
     "url": "https://www.instagram.com/p/BkrCIw8gY_s/"
-  },
-  {
-    "title": "Ten Thousand",
-    "creator": "xkcd",
-    "url": "https://xkcd.com/1053/"
   }
 ]
