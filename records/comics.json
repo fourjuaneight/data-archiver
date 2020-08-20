@@ -87,10 +87,7 @@
   {
     "title": "My haircut-decision-making braincells are not doing well",
     "creator": "Catana",
-    "url": "https://www.instagram.com/p/CDMTxldgtUz/?igshid=1ancb2nyfllg7",
-    "category": [
-      "life"
-    ]
+    "url": "https://www.instagram.com/p/CDMTxldgtUz/?igshid=1ancb2nyfllg7"
   },
   {
     "title": "Masaje",
@@ -195,10 +192,7 @@
   {
     "title": "Who put me in here?",
     "creator": "Port Sherry",
-    "url": "http://portsherry.com/comic/who-put-me-in-here/",
-    "category": [
-      "life"
-    ]
+    "url": "http://portsherry.com/comic/who-put-me-in-here/"
   },
   {
     "title": "Trap I",
@@ -254,6 +248,11 @@
     "title": "The Truth",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/the-truth"
+  },
+  {
+    "title": "COVID Risk Comfort Zone",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/2346/"
   },
   {
     "title": "Pull Request",
@@ -353,10 +352,7 @@
   {
     "title": "COVID Risk Chart",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2333/",
-    "category": [
-      "health"
-    ]
+    "url": "https://xkcd.com/2333/"
   },
   {
     "title": "Self-care isn’t selfish",
@@ -396,10 +392,7 @@
   {
     "title": "Come Back",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/come-back",
-    "category": [
-      "life"
-    ]
+    "url": "https://www.smbc-comics.com/comic/come-back"
   },
   {
     "title": "Gear",
@@ -505,10 +498,5 @@
     "title": "Harlot’s Web",
     "creator": "The Perry Bible Fellowship",
     "url": "http://pbfcomics.com/comics/harlots-web/"
-  },
-  {
-    "title": "Blorp",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BkrCIw8gY_s/"
   }
 ]
