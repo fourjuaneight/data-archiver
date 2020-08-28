@@ -7,29 +7,32 @@ const range = new RegExp(
  * Get the unicode code of an emoji in base 16.
  * @function
  *
- * @param   {string} emoji the emoji character
+ * @param   {string} emojiString the string containing emoji characters
  * @returns {string}       the unicode code
  */
-const emojiUnicode: string = (emoji): string => {
+const emojiUnicode = (emojiString: string): string => {
   let comp: string | number;
 
-  if (emoji.length === 1) {
-    comp = emoji.charCodeAt(0);
+  if (emojiString.length === 1) {
+    comp = emojiString.charCodeAt(0);
   }
 
   comp =
-    (emoji.charCodeAt(0) - 0xd800) * 0x400 +
-    (emoji.charCodeAt(1) - 0xdc00) +
+    (emojiString.charCodeAt(0) - 0xd800) * 0x400 +
+    (emojiString.charCodeAt(1) - 0xdc00) +
     0x10000;
 
   if (comp < 0) {
-    comp = emoji.charCodeAt(0);
+    comp = emojiString.charCodeAt(0);
   }
 
   // get the unicode code of an emoji in base 16
-  comp = `U+${comp.toString("16")}`;
+  comp = `U+${comp.toString(16)}`;
 
   return comp;
 };
 
-export default emojiUnicode;
+const clean = (tweet: string) =>
+  tweet.replace(range, (p1) => `${emojiUnicode(p1)}`);
+
+export default clean;
