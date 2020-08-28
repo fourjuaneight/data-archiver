@@ -1,38 +1,44 @@
-import ky from 'https://unpkg.com/ky/index.js';
+import ky from "https://unpkg.com/ky/index.js";
+import { Base64 } from "https://deno.land/x/bb64/mod.ts";
+import "https://deno.land/x/dotenv/load.ts";
 
-import { Base64 } from 'https://deno.land/x/bb64/mod.ts';
+import { IAuthToken } from "../types.d.ts";
 
 /**
  * Get authorization token from Twitter.
  * Uses ky as a Fetch wrapper.
  * @function
  *
- * @param   {string} key    Twitter authorization key
- * @param   {string} secret Twitter authorization secret
- * @returns {Promise<Response>} fetch response body
+ * @returns {Promise<string>} fetch response body
  */
-const auth = async (key: string, secret: string): Promise<Response> => {
+const auth = async (): Promise<string> => {
   const encoder = new TextEncoder();
 
-  const data: string = `${key}:${secret}`;
+  const data: string = `${Deno.env.get("TWITTER_KEY")}:${Deno.env.get(
+    "TWITTER_SECRET"
+  )}`;
   const buffData = encoder.encode(data);
   const encodedData = Base64.fromUint8Array(buffData).toString();
 
   const authOpts: Object = {
-    body: 'grant_type=client_credentials',
+    body: "grant_type=client_credentials",
     headers: {
       Authorization: `Basic ${encodedData}`,
-      'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
+      "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
     },
     withCredentials: true,
   };
 
-  const token: Promise<Response> = await ky
-    .post('https://api.twitter.com/oauth2/token', authOpts)
-    .then((response: Response) => response.json())
-    .catch((err: string) => console.error('Token:', err));
+  try {
+    const response: Promise<IAuthToken> = await ky
+      .post("https://api.twitter.com/oauth2/token", authOpts)
+      .json();
 
-  return token;
+    return (await response).access_token;
+  } catch (error) {
+    Deno.exit(1);
+    return error;
+  }
 };
 
 export default auth;
