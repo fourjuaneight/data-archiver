@@ -8,8 +8,8 @@ interface DateFmtValues {
  * Get formatted current date, yesterday, and date from 10 minutes ago
  * @function
  *
- * @param   {string} date original date
- * @return  {object}      {original data, ten minutes ago, yesteday}
+ * @param {string} date original date
+ * @return {object} {original data, ten minutes ago, yesteday}
  */
 const dateFmt = (date?: string): DateFmtValues => {
   let original: string | undefined;

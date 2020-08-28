@@ -4,7 +4,7 @@ import ky from "https://unpkg.com/ky/index.js";
  * Expand shortend URLs.
  * @function
  *
- * @param   {string} url shortned url string
+ * @param {string} url shortned url string
  * @returns {Promise<Response>} expanded URL
  */
 const expandLinks = async (url: string): Promise<string> => {
@@ -20,8 +20,8 @@ const expandLinks = async (url: string): Promise<string> => {
  * Get expanded URLs.
  * @function
  *
- * @param   {string} str   string to replace
- * @param   {RegExp} regex pattern to match
+ * @param {string} str string to replace
+ * @param {RegExp} regex pattern to match
  * @returns {Promise<string>} list of expanded URLs from str
  */
 const expandShortLink = async (
