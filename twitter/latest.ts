@@ -50,6 +50,13 @@ const emojiUnicodeTweets = (rawTweets: ILatestTweet[]): Promise<ILatestTweetFmt[
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
   }));
   // TODO: filter to the last 10 minutes.
+  /*
+  .filter(twt => {
+    const { original } = dateFmt(twt.date);
+
+    return original > tenBehind();
+  })
+  */
   const expanded: Promise<ILatestTweetFmt>[] = converted.map(
     async (twt: ILatestTweetFmt) => ({
       ...twt,
