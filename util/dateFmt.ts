@@ -37,4 +37,20 @@ const dateFmt = (date?: string): DateFmtValues => {
   };
 };
 
+/**
+ * Get timestamp from 10 minutes ago.
+ *
+ * @return {string} datetime - 10m
+ */
+export const tenBehind = (): string => {
+  const now: Date = new Date();
+  const tenMinutesAgo: number = now.setMinutes(now.getMinutes() - 10);
+  const offset: number = now.getTimezoneOffset() * 60000;
+  const dateTime: string = new Date(tenMinutesAgo - offset)
+    .toISOString()
+    .slice(0, -5);
+
+  return dateTime;
+};
+
 export default dateFmt;

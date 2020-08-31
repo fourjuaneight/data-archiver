@@ -1,3 +1,14 @@
+export interface IKyOptions {
+  method?: string;
+  headers: {
+    Authorization?: string;
+    "Content-Type"?: string;
+  };
+  withCredentials?: boolean;
+  body?: string;
+  json?: {};
+}
+
 export interface IAuthToken {
   token_type: string;
   access_token: string;

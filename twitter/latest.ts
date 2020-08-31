@@ -1,10 +1,10 @@
 import ky from "https://unpkg.com/ky/index.js";
 
 import auth from "./auth.ts";
-import dateFmt from "../util/dateFmt.ts";
+import dateFmt, { tenBehind } from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
-import { ILatestTweet, ILatestTweetFmt } from "../types.d.ts";
+import { IKyOptions, ILatestTweet, ILatestTweetFmt } from "../types.d.ts";
 
 /**
  * Get the latest Tweets as of the last 10 minutes
@@ -14,7 +14,7 @@ import { ILatestTweet, ILatestTweetFmt } from "../types.d.ts";
  * @return {Promise<ILatestTweet[]>} request response with list of tweets
  */
 const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
-  const twtOpts: Object = {
+  const twtOpts: IKyOptions = {
     headers: {
       Authorization: `Bearer ${key}`,
     },
@@ -43,30 +43,29 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
  * @param {ILatestTweet[]} rawTweets raw tweet object array from Twitter API response
  * @return {Promise<ILatestTweetFmt[]>} formatted tweet object array; tweet (emojis converted && links expanded), ISO date, url.
  */
-const emojiUnicodeTweets = (rawTweets: ILatestTweet[]): Promise<ILatestTweetFmt[]> => {
+const emojiUnicodeTweets = (
+  rawTweets: ILatestTweet[]
+): Promise<ILatestTweetFmt[]> => {
   const converted: ILatestTweetFmt[] = rawTweets.map((twt: ILatestTweet) => ({
     tweet: emojiUnicode(twt.full_text),
     date: dateFmt(twt.created_at).original,
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
   }));
-  // TODO: filter to the last 10 minutes.
-  /*
-  .filter(twt => {
-    const { original } = dateFmt(twt.date);
+  const expanded: Promise<ILatestTweetFmt>[] = converted
+    .filter((twt: ILatestTweetFmt) => {
+      const { original } = dateFmt(twt.date);
 
-    return original > tenBehind();
-  })
-  */
-  const expanded: Promise<ILatestTweetFmt>[] = converted.map(
-    async (twt: ILatestTweetFmt) => ({
+      if (original) {
+        return original > tenBehind();
+      }
+    })
+    .map(async (twt: ILatestTweetFmt) => ({
       ...twt,
       tweet: await expandShortLink(
         twt.tweet,
         /(https:\/\/t.co\/[a-zA-z0-9]+)/g
       ).then((result: string) => result),
-    })
-  );
-
+    }));
   return Promise.all(expanded);
 };
 
@@ -74,7 +73,7 @@ const emojiUnicodeTweets = (rawTweets: ILatestTweet[]): Promise<ILatestTweetFmt[
  * Get latest tweets from Twitter API, formatted.
  * @function
  *
- * @return  {Promise<ILatestTweetFmt[]>} { tweet, date, url }
+ * @return {Promise<ILatestTweetFmt[]>} { tweet, date, url }
  */
 const latest = async (): Promise<ILatestTweetFmt[]> => {
   try {

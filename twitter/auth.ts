@@ -2,7 +2,7 @@ import ky from "https://unpkg.com/ky/index.js";
 import { Base64 } from "https://deno.land/x/bb64/mod.ts";
 import "https://deno.land/x/dotenv/load.ts";
 
-import { IAuthToken } from "../types.d.ts";
+import { IAuthToken, IKyOptions } from "../types.d.ts";
 
 /**
  * Get authorization token from Twitter.
@@ -20,7 +20,7 @@ const auth = async (): Promise<string> => {
   const buffData = encoder.encode(data);
   const encodedData = Base64.fromUint8Array(buffData).toString();
 
-  const authOpts: Object = {
+  const authOpts: IKyOptions = {
     body: "grant_type=client_credentials",
     headers: {
       Authorization: `Basic ${encodedData}`,
