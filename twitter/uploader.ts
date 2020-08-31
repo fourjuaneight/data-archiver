@@ -1,7 +1,7 @@
 import ky from "https://unpkg.com/ky/index.js";
 
 import latest from "./latest.ts";
-import { IKyOptions, ILatestTweetFmt } from "../types.d.ts";
+import { IKyOptions, ILatestTweetFmt } from "./types.ts";
 
 /**
  * Upload tweet object to Airtable

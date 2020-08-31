@@ -4,7 +4,7 @@ import auth from "./auth.ts";
 import dateFmt, { tenBehind } from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
-import { IKyOptions, ILatestTweet, ILatestTweetFmt } from "../types.d.ts";
+import { IKyOptions, ILatestTweet, ILatestTweetFmt } from "./types.ts";
 
 /**
  * Get the latest Tweets as of the last 10 minutes
