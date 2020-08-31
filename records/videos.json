@@ -1,7 +1,7 @@
 [
   {
     "title": "How to Build a Dyson Sphere - The Ultimate Megastructure",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/pP44EPBMb8A"
   },
   {
@@ -65,19 +65,34 @@
     "url": "https://youtu.be/A-RfHC91Ewc"
   },
   {
+    "title": "The Billion Ant Mega Colony and the Biggest War on Earth",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/cqECNYmM23A"
+  },
+  {
+    "title": "Neutron Stars – The Most Extreme Things that are not Black Holes",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/udFxKZRyQt4"
+  },
+  {
     "title": "A Night at the Garden",
     "creator": "Field of Vision",
     "url": "https://vimeo.com/237489146"
   },
   {
     "title": "Time: The History & Future of Everything",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/5TbUxGZtwGI"
   },
   {
     "title": "Brief History of the Royal Family",
     "creator": "CGPGrey",
     "url": "https://youtu.be/jNgP6d9HraI"
+  },
+  {
+    "title": "The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/qsN1LglrX9s"
   },
   {
     "title": "Why You Don't Want Invisibility",
@@ -101,7 +116,8 @@
   },
   {
     "title": "Toxicity by System of a Down",
-    "creator": "Nandi Bushell"
+    "creator": "Nandi Bushell",
+    "url": "https://youtu.be/rIP-Gfp04bM"
   },
   {
     "title": "Why There Are Thousands of Giant Arrows Across the US",
@@ -110,12 +126,12 @@
   },
   {
     "title": "The Egg",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/h6fcK_fRYaI"
   },
   {
     "title": "Building a Marsbase is a Horrible Idea: Let’s do it!",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/uqKGREZs6-w"
   },
   {
@@ -147,6 +163,11 @@
     "title": "Jake Archibald: In The Loop",
     "creator": "JSConf",
     "url": "https://youtu.be/cCOL7MC4Pl0"
+  },
+  {
+    "title": "The Warrior Kingdoms of the Weaver Ant",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/B3QTAgHlwEg"
   },
   {
     "title": "Game of Thrones Anime",
@@ -200,7 +221,8 @@
   },
   {
     "title": "Carl Sagan - Cosmos - Eratosthenes",
-    "creator": "carlsagandotcom"
+    "creator": "carlsagandotcom",
+    "url": "https://youtu.be/G8cbIWMv0rI"
   },
   {
     "title": "Majora’s Mask - Terrible Fate",
@@ -219,7 +241,8 @@
   },
   {
     "title": "John Cena Horse",
-    "creator": "S0NIX"
+    "creator": "S0NIX",
+    "url": "https://youtu.be/pUeJgnN3qF4"
   },
   {
     "title": "The (mostly) true story of hobo graffiti",
@@ -268,7 +291,7 @@
   },
   {
     "title": "Why Meat is the Best Worst Thing in the World",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/NxvQPzrg2Wg"
   },
   {
@@ -308,7 +331,7 @@
   },
   {
     "title": "Optimistic Nihilism",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/MBRqu0YOH14"
   },
   {
@@ -353,7 +376,7 @@
   },
   {
     "title": "1,000km Cable to the Stars",
-    "creator": "Kurzgesagt – in a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/dqwpQarrDwk"
   },
   {
@@ -373,7 +396,7 @@
   },
   {
     "title": "Loneliness",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/n3Xv_g3g-mA"
   },
   {
@@ -417,13 +440,23 @@
     "url": "https://youtu.be/9hPIobthvHg"
   },
   {
+    "title": "The World War of the Ants – The Army Ant",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/7_e0CA_nhaE"
+  },
+  {
     "title": "A Floridian's Guide to Living Someplace Very Very Cold",
     "creator": "vlogbrothers",
     "url": "https://youtu.be/KVI-blFfDWc"
   },
   {
+    "title": "How to Build a Dyson Sphere",
+    "creator": "Kurzgesagt",
+    "url": "https://youtu.be/pP44EPBMb8A"
+  },
+  {
     "title": "The Most Efficient Way to Destroy the Universe – False Vacuum",
-    "creator": "Kurzgesagt – In a Nutshell",
+    "creator": "Kurzgesagt",
     "url": "https://youtu.be/ijFm6DxNVyI"
   },
   {
@@ -463,36 +496,7 @@
   },
   {
     "title": "Dave Landau",
-    "creator": "Comedy Central"
-  },
-  {
-    "title": "Why Alien Life Would be our Doom - The Great Filter",
-    "creator": "Kurzgesagt – In a Nutshell",
-    "url": "https://youtu.be/UjtOGPJ0URM"
-  },
-  {
-    "title": "What OCD Is Like (for Me)",
-    "creator": "vlogbrothers",
-    "url": "https://youtu.be/jNEUz9v5RYo"
-  },
-  {
-    "title": "Can We Create Artificial Gravity?",
-    "creator": "Real Engineering",
-    "url": "https://youtu.be/im-JM0f_J7s"
-  },
-  {
-    "title": "The Dying Of The Light",
-    "creator": "Pre-Future LLC",
-    "url": "https://vimeo.com/243399864"
-  },
-  {
-    "title": "How Machines Learn",
-    "creator": "CGPGrey",
-    "url": "https://youtu.be/R9OHn5ZF4Uo"
-  },
-  {
-    "title": "The Side Effects of Vaccines - How High is the Risk?",
-    "creator": "Kurzgesagt – In a Nutshell",
-    "url": "https://youtu.be/zBkVCpbNnkU"
+    "creator": "Comedy Central",
+    "url": "https://youtu.be/eibWo9t6pos"
   }
 ]
