@@ -1,0 +1,5 @@
+{
+  "deno.enable": true,
+  "eslint.alwaysShowStatus": false,
+  "eslint.enable": false
+}
