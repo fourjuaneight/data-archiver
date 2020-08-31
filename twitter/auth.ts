@@ -1,6 +1,6 @@
-import ky from "https://unpkg.com/ky/index.js";
-import { Base64 } from "https://deno.land/x/bb64/mod.ts";
 import "https://deno.land/x/dotenv/load.ts";
+import { Base64 } from "https://deno.land/x/bb64/mod.ts";
+import ky from "https://unpkg.com/ky/index.js";
 
 import { IAuthToken, IKyOptions } from "./types.ts";
 
