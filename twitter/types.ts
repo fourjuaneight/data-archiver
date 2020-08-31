@@ -1,5 +1,4 @@
 export interface IKyOptions {
-  method?: string;
   headers: {
     Authorization?: string;
     "Content-Type"?: string;
