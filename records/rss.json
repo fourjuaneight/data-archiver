@@ -37,7 +37,7 @@
   },
   {
     "title": "Ethan Marcotte",
-    "url": "https://ethanmarcotte.com",
+    "url": "https://ethanmarcotte.com/",
     "rss": "https://ethanmarcotte.com/wrote/feed.xml",
     "category": "development"
   },
@@ -49,7 +49,7 @@
   },
   {
     "title": "Things in Squares",
-    "url": "https://www.thingsinsquares.com",
+    "url": "https://www.thingsinsquares.com/",
     "rss": "https://www.thingsinsquares.com/feed/",
     "category": "comic"
   },
@@ -67,8 +67,8 @@
   },
   {
     "title": "5ish",
-    "url": "https://5ish.org/feed/",
-    "rss": "https://5ish.org",
+    "url": "https://5ish.org/",
+    "rss": "https://5ish.org/feed/",
     "category": "entertainment"
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "title": "CommitStrip",
-    "url": "http://www.commitstrip.com",
+    "url": "http://www.commitstrip.com/",
     "rss": "http://www.commitstrip.com/en/feed/",
     "category": "comic"
   },
@@ -109,7 +109,7 @@
   },
   {
     "title": "What If?",
-    "url": "https://what-if.xkcd.com/feed.atom",
+    "url": "https://what-if.xkcd.com/",
     "rss": "https://what-if.xkcd.com/feed.atom",
     "category": "science"
   },
@@ -127,7 +127,7 @@
   },
   {
     "title": "Catana",
-    "url": "https://catanacomics.com",
+    "url": "https://catanacomics.com/",
     "rss": "https://catanacomics.com/feed/",
     "category": "comic"
   },
@@ -139,14 +139,14 @@
   },
   {
     "title": "MonkeyUser",
-    "url": "https://www.monkeyuser.com",
+    "url": "https://www.monkeyuser.com/",
     "rss": "https://www.monkeyuser.com/feed.xml",
     "category": "comic"
   },
   {
     "title": "500is Words",
-    "url": "https://500ish.com/feed",
-    "rss": "https://500ish.com",
+    "url": "https://500ish.com/",
+    "rss": "https://500ish.com/feed/",
     "category": "entertainment"
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "title": "MacStories",
-    "url": "https://www.macstories.net",
+    "url": "https://www.macstories.net/",
     "rss": "https://www.macstories.net/feed/",
     "category": "technology"
   },
@@ -199,7 +199,7 @@
   },
   {
     "title": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com",
+    "url": "http://www.poorlydrawnlines.com/",
     "rss": "http://www.poorlydrawnlines.com/feed/",
     "category": "comic"
   },
@@ -223,7 +223,7 @@
   },
   {
     "title": "Liss is More",
-    "url": "https://www.caseyliss.com",
+    "url": "https://www.caseyliss.com/",
     "rss": "https://www.caseyliss.com/rss",
     "category": "entertainment"
   },
@@ -265,7 +265,7 @@
   },
   {
     "title": "Dave Rupert",
-    "url": "http://daverupert.com",
+    "url": "http://daverupert.com/",
     "rss": "https://daverupert.com/atom.xml",
     "category": "development"
   },
