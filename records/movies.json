@@ -195,6 +195,11 @@
     "genre": "horror"
   },
   {
+    "title": "Fantastic Beasts and Where to Find Them",
+    "director": "David Yates",
+    "genre": "action & adventure"
+  },
+  {
     "title": "The Conjuring",
     "director": "James Wan",
     "genre": "horror"
@@ -223,6 +228,11 @@
     "title": "A Silent Voice",
     "director": "Naoko Yamada",
     "genre": "anime"
+  },
+  {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "director": "David Yates",
+    "genre": "action & adventure"
   },
   {
     "title": "Groundhog Day",
@@ -488,15 +498,5 @@
     "title": "School of Rock",
     "director": "Richard Linklater",
     "genre": "comedy"
-  },
-  {
-    "title": "The Amityville Horror",
-    "director": "Stuart Rosenberg",
-    "genre": "horror"
-  },
-  {
-    "title": "Back to the Future III",
-    "director": "Robert Zemeckis",
-    "genre": "sci-fi"
   }
 ]
