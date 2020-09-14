@@ -1,5 +1,5 @@
 import "https://deno.land/x/dotenv/load.ts";
-import { ensureFile, writeTextFile } from "https://deno.land/std/fs/mod.ts";
+import { ensureFile } from "https://deno.land/std/fs/mod.ts";
 import ky from "https://unpkg.com/ky/index.js";
 
 import {
@@ -70,7 +70,7 @@ const saveBookmarks = async (
     // create file if doesn't exsit
     await ensureFile(`./records/${record}.json`);
     // write record to file
-    await writeTextFile(`./records/${record}.json`, JSON.stringify(fields, undefined, 2));
+    await Deno.writeTextFile(`./records/${record}.json`, JSON.stringify(fields, undefined, 2));
   } catch (error) {
     console.error(error);
     throw new Error(error);
