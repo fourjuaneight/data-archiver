@@ -2,7 +2,7 @@ import "https://deno.land/x/dotenv/load.ts";
 import { ensureFile } from "https://deno.land/std/fs/mod.ts";
 import ky from "https://unpkg.com/ky/index.js";
 
-import { IBases, IEndpoints, IFields, IKyOptions, IRecords, StringArray } from "./types.ts";
+import type { IBases, IEndpoints, IFields, IKyOptions, IRecords, StringArray } from "./types.ts";
 
 // Match table queries
 const baseQueries: IBases = {
