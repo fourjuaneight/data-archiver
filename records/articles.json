@@ -242,7 +242,11 @@
   {
     "title": "Richard",
     "creator": "Allie Brosh",
-    "url": "http://hyperboleandahalf.blogspot.com/2020/09/richard.html"
+    "url": "http://hyperboleandahalf.blogspot.com/2020/09/richard.html",
+    "tags": [
+      "comedy",
+      "life"
+    ]
   },
   {
     "title": "The Trauma Floor",
