@@ -225,6 +225,14 @@
     "url": "https://craigmod.com/essays/software_slump/"
   },
   {
+    "title": "React + Redux + Comlink = Off-main-thread",
+    "creator": "Surma",
+    "url": "https://dassur.ma/things/react-redux-comlink/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "Browser Wars Part 2: How the Web Was Won",
     "creator": "Jay Hoffmann",
     "url": "http://thehistoryoftheweb.com/browser-wars-part-2/"
