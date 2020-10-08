@@ -190,6 +190,16 @@
     "url": "https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html"
   },
   {
+    "title": "15 Months of Fresh Hell Inside Facebook",
+    "creator": "Nicholas Thompson",
+    "url": "https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/",
+    "tags": [
+      "politics",
+      "social",
+      "technology"
+    ]
+  },
+  {
     "title": "The Importance of Being on Usenet",
     "creator": "Jay Hoffmann",
     "url": "http://thehistoryoftheweb.com/the-importance-of-being-on-usenet/"
@@ -225,6 +235,14 @@
     "url": "https://craigmod.com/essays/software_slump/"
   },
   {
+    "title": "React + Redux + Comlink = Off-main-thread",
+    "creator": "Surma",
+    "url": "https://dassur.ma/things/react-redux-comlink/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "Browser Wars Part 2: How the Web Was Won",
     "creator": "Jay Hoffmann",
     "url": "http://thehistoryoftheweb.com/browser-wars-part-2/"
@@ -238,6 +256,15 @@
     "title": "The System That Actually Worked",
     "creator": "Charles Fishman",
     "url": "https://www.theatlantic.com/ideas/archive/2020/05/miracle-internet-not-breaking/611212/"
+  },
+  {
+    "title": "Richard",
+    "creator": "Allie Brosh",
+    "url": "http://hyperboleandahalf.blogspot.com/2020/09/richard.html",
+    "tags": [
+      "comedy",
+      "life"
+    ]
   },
   {
     "title": "The Trauma Floor",
@@ -333,6 +360,14 @@
     "title": "Project from Hell",
     "creator": "Liu Zhaoyang",
     "url": "https://projectfailures.wordpress.com/2008/06/24/project-from-hell/#comments"
+  },
+  {
+    "title": "The Prophecies of Q",
+    "creator": "Adrienne LaFrance",
+    "url": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/",
+    "tags": [
+      "conspiracies"
+    ]
   },
   {
     "title": "How Evan Ratliff Was Caught",
