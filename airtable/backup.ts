@@ -6,7 +6,7 @@ import type { IBases, IEndpoints, IFields, IKyOptions, IRecords, StringArray } f
 
 // Match table queries
 const baseQueries: IBases = {
-  Bookmarks: ["Articles", "Comics", "Podcasts", "Reddits", "Tweets", "Videos"],
+  Bookmarks: ["Articles", "Comics", "Podcasts", "Tweets", "Videos"],
   Media: ["Apps", "Books", "Games", "Movies", "Podcasts", "RSS", "Shows"],
 };
 
@@ -54,16 +54,18 @@ const getBookmarks = async (base: string, list: StringArray): Promise<IRecords[]
  */
 const saveBookmarks = async (
   records: IRecords[],
+  base: string,
   list: StringArray
 ): Promise<void> => {
   const fields: IFields[] = records.map((record: IRecords) => record.fields);
+  const category: string = base.toLowerCase();
   const record: string = list.toLowerCase();
 
   try {
     // create file if doesn't exsit
-    await ensureFile(`./records/${record}.json`);
+    await ensureFile(`./records/${category}/${record}.json`);
     // write record to file
-    await Deno.writeTextFile(`./records/${record}.json`, JSON.stringify(fields, undefined, 2));
+    await Deno.writeTextFile(`./records/${category}/${record}.json`, JSON.stringify(fields, undefined, 2));
   } catch (error) {
     console.error(error);
     throw new Error(error);
@@ -82,7 +84,7 @@ const backup = async (base: string, list: StringArray): Promise<void> => {
   try {
     const records: IRecords[] = await getBookmarks(base, list);
 
-    await saveBookmarks(records, list);
+    await saveBookmarks(records, base, list);
   } catch (error) {
     console.error(error);
     throw new Error(error);
