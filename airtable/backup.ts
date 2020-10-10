@@ -2,7 +2,14 @@ import "https://deno.land/x/dotenv/load.ts";
 import { ensureFile } from "https://deno.land/std/fs/mod.ts";
 import ky from "https://unpkg.com/ky/index.js";
 
-import type { IBases, IEndpoints, IFields, IKyOptions, IRecords, StringArray } from "./types.ts";
+import type {
+  IBases,
+  IEndpoints,
+  IFields,
+  IKyOptions,
+  IRecords,
+  StringArray,
+} from "./types.ts";
 
 // Match table queries
 const baseQueries: IBases = {
@@ -24,7 +31,10 @@ const endpoints: IEndpoints = {
  * @param {StringArray} list database list
  * @return {Promise<IRecords[]>}
  */
-const getBookmarks = async (base: string, list: StringArray): Promise<IRecords[]> => {
+const getBookmarks = async (
+  base: string,
+  list: StringArray
+): Promise<IRecords[]> => {
   const atOpts: IKyOptions = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
@@ -65,7 +75,10 @@ const saveBookmarks = async (
     // create file if doesn't exsit
     await ensureFile(`./records/${category}/${record}.json`);
     // write record to file
-    await Deno.writeTextFile(`./records/${category}/${record}.json`, JSON.stringify(fields, undefined, 2));
+    await Deno.writeTextFile(
+      `./records/${category}/${record}.json`,
+      JSON.stringify(fields, undefined, 2)
+    );
   } catch (error) {
     console.error(error);
     throw new Error(error);
