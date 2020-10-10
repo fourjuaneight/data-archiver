@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Attack on Titan",
+    "director": "Tetsuya Kinoshita",
+    "genre": "action"
+  },
+  {
+    "title": "Naruto",
+    "director": "Masashi Kishimoto",
+    "genre": "adventure"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "director": "George Lucas",
+    "genre": "action"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "director": "Yasuhiro Irie",
+    "genre": "adventure"
+  },
+  {
+    "title": "Dark",
+    "director": "Baran bo Odar",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "Legion",
+    "director": "Noah Hawley",
+    "genre": "fantasy"
+  },
+  {
+    "title": "Bob's Burgers",
+    "director": "Loren Bouchard",
+    "genre": "comedy"
+  },
+  {
+    "title": "The Leftovers",
+    "director": "Damon Lindelof",
+    "genre": "drama"
+  },
+  {
+    "title": "Adventure Time",
+    "director": "Pendleton Ward",
+    "genre": "fantasy"
+  },
+  {
+    "title": "Stranger Things",
+    "director": "Duffer Brothers",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "The Magicians",
+    "director": "Sara Gamble",
+    "genre": "fantasy"
+  },
+  {
+    "title": "Halt and Catch Fire",
+    "director": "\t\nChristopher Cantwell",
+    "genre": "drama"
+  },
+  {
+    "title": "Breaking Bad",
+    "director": "Vince Gilligan",
+    "genre": "drama"
+  },
+  {
+    "title": "The Mandalorian",
+    "director": "Jon Favreau",
+    "genre": "action"
+  },
+  {
+    "title": "Mr Robot",
+    "director": "Sam Esmail",
+    "genre": "drama"
+  },
+  {
+    "title": "Watchmen",
+    "director": "Damon Lindelof",
+    "genre": "action"
+  },
+  {
+    "title": "The Expanse",
+    "director": "Mark Fergus",
+    "genre": "drama"
+  },
+  {
+    "title": "The Witcher",
+    "director": "Lauren Schmidt Hissrich",
+    "genre": "fantasy"
+  },
+  {
+    "title": "The Office",
+    "director": "Greg Daniels",
+    "genre": "comedy"
+  }
+]

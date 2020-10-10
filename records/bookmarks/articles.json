@@ -1,0 +1,417 @@
+[
+  {
+    "title": "Normalizing Struggle",
+    "creator": "Ash Furrow",
+    "url": "https://ashfurrow.com/blog/normalizing-struggle/"
+  },
+  {
+    "title": "The Confessions of the Hacker Who Saved the Internet",
+    "creator": "Andy Greenberg",
+    "url": "https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/"
+  },
+  {
+    "title": "The Devastating Decline of a Brilliant Young Coder",
+    "creator": "Sandra Upson",
+    "url": "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"
+  },
+  {
+    "title": "Into the Personal-Website-Verse",
+    "creator": "Matthias Ott",
+    "url": "https://matthiasott.com/articles/into-the-personal-website-verse"
+  },
+  {
+    "title": "The Perils of Rehydration",
+    "creator": "Josh Comeau",
+    "url": "https://joshwcomeau.com/react/the-perils-of-rehydration"
+  },
+  {
+    "title": "The Wet Codebase",
+    "creator": "Dan Abramov",
+    "url": "https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase"
+  },
+  {
+    "title": "The Nerd Handbook",
+    "creator": "Rands",
+    "url": "http://randsinrepose.com/archives/the-nerd-handbook/"
+  },
+  {
+    "title": "A Brief History of Porn on the Internet",
+    "creator": "David Kushner",
+    "url": "https://www.wired.com/story/brief-history-porn-internet/"
+  },
+  {
+    "title": "The AI Revolution: Our Immortality or Extinction",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
+  },
+  {
+    "title": "Programming Sucks",
+    "creator": "Peter Welch",
+    "url": "https://www.stilldrinking.org/programming-sucks"
+  },
+  {
+    "title": "Defining Productivity",
+    "creator": "Jeremy Wegner",
+    "url": "https://jeremy.codes/blog/defining-productivity/"
+  },
+  {
+    "title": "A Spreadsheet Way of Knowledge",
+    "creator": "Steven Levy",
+    "url": "https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/"
+  },
+  {
+    "title": "The CSS Mindset",
+    "creator": "Max Böck",
+    "url": "https://mxb.dev/blog/the-css-mindset/"
+  },
+  {
+    "title": "What Happened to the Webmaster",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/"
+  },
+  {
+    "title": "The AI Revolution: The Road to Superintelligence",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
+  },
+  {
+    "title": "React's useCallback and useMemo Hooks By Example",
+    "creator": "Nikolay Grozev",
+    "url": "https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/"
+  },
+  {
+    "title": "How to Pick a Career (That Actually Fits You)",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2018/04/picking-career.html"
+  },
+  {
+    "title": "Second-guessing the modern web",
+    "creator": "Tom MacWright",
+    "url": "https://macwright.org/2020/05/10/spa-fatigue.html"
+  },
+  {
+    "title": "Just",
+    "creator": "Brad Frost",
+    "url": "https://bradfrost.com/blog/post/just/"
+  },
+  {
+    "title": "Fertility Doctor Donald Cline's Secret Children",
+    "creator": "Sarah Zhang",
+    "url": "https://www.theatlantic.com/magazine/archive/2019/04/fertility-doctor-donald-cline-secret-children/583249/"
+  },
+  {
+    "title": "The Ethics of Web Performance",
+    "creator": "Tim Kadlec",
+    "url": "https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/"
+  },
+  {
+    "title": "Chapter 1: Birth",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-1-birth/"
+  },
+  {
+    "title": "Making Peace With The Feast Or Famine Of Freelancing",
+    "creator": "Liz Elcoate",
+    "url": "https://www.smashingmagazine.com/2019/08/feast-famine-freelancing/"
+  },
+  {
+    "title": "Using the iPad Pro as my development machine",
+    "creator": "Fatih Arslan",
+    "url": "https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/"
+  },
+  {
+    "title": "The Browser Engine That Could",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/how-a-browser-engine-dominates-the-market/"
+  },
+  {
+    "title": "You Won't Believe My Morning",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2020/03/my-morning.html"
+  },
+  {
+    "title": "Writer Evan Ratliff Tried to Vanish: Here's What Happened",
+    "creator": "Evan Ratliff",
+    "url": "https://www.wired.com/2009/11/ff-vanish2/"
+  },
+  {
+    "title": "What I’ve learned from nearly three years of enterprise Wi-Fi at home",
+    "creator": "Lee Hutchinson",
+    "url": "https://arstechnica.com/information-technology/2018/07/enterprise-wi-fi-at-home-part-two-reflecting-on-almost-three-years-with-pro-gear/"
+  },
+  {
+    "title": "Fandom, Folksonomies, and Tagging Things Right",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/postscript/fandom-folksonomies-and-tagging-things-right/"
+  },
+  {
+    "title": "The Web began dying in 2014, here's how",
+    "creator": "André Staltz",
+    "url": "https://staltz.com/the-web-began-dying-in-2014-heres-how.html"
+  },
+  {
+    "title": "Going Indie. Reclaiming Content",
+    "creator": "Matthias Ott",
+    "url": "https://matthiasott.com/articles/going-indie-reclaiming-content"
+  },
+  {
+    "title": "Survival of the Richest",
+    "creator": "Douglas Rushkoff",
+    "url": "https://medium.com/s/futurehuman/survival-of-the-richest-9ef6cddd0cc1"
+  },
+  {
+    "title": "Japan’s Rent-a-Family Industry",
+    "creator": "Elif Batuman",
+    "url": "https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry"
+  },
+  {
+    "title": "Things nobody ever taught me about CSS",
+    "creator": "Charlie Gerard",
+    "url": "https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e"
+  },
+  {
+    "title": "How to Write a Blog Post",
+    "creator": "Rands",
+    "url": "http://randsinrepose.com/archives/how-to-write-a-blog-post/"
+  },
+  {
+    "title": "The Rise and Demise of RSS",
+    "creator": "Sinclair Target",
+    "url": "https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss"
+  },
+  {
+    "title": "Map Shows How Climate Change Will Affect Health Across US ",
+    "creator": "Sara G. Miller",
+    "url": "https://www.livescience.com/58270-climate-change-health-effects-united-states.html"
+  },
+  {
+    "title": "A plan to rescue the Web from the Internet",
+    "creator": "André Staltz",
+    "url": "https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html"
+  },
+  {
+    "title": "15 Months of Fresh Hell Inside Facebook",
+    "creator": "Nicholas Thompson",
+    "url": "https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/",
+    "tags": [
+      "politics",
+      "social",
+      "technology"
+    ]
+  },
+  {
+    "title": "The Importance of Being on Usenet",
+    "creator": "Jay Hoffmann",
+    "url": "http://thehistoryoftheweb.com/the-importance-of-being-on-usenet/"
+  },
+  {
+    "title": "The Sad, Beautiful Fact That We're All Going To Miss Almost Everything",
+    "creator": "Linda Holmes",
+    "url": "https://www.npr.org/2011/04/18/135508305/the-sad-beautiful-fact-that-were-all-going-to-miss-almost-everything"
+  },
+  {
+    "title": "RSS: A Well Formed Log Entry",
+    "creator": "Jay Hoffmann",
+    "url": "http://thehistoryoftheweb.com/rss-well-formed-log-entry/"
+  },
+  {
+    "title": "Chinese AI Is Creating an Axis of Autocracy",
+    "creator": "Ross Andersen",
+    "url": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/"
+  },
+  {
+    "title": "Real Artists Ship",
+    "creator": "Andy Hertzfeld",
+    "url": "https://www.folklore.org/StoryView.py?story=Real_Artists_Ship.txt"
+  },
+  {
+    "title": "The rise and fall of Adobe Flash",
+    "creator": "Richard Moss",
+    "url": "https://arstechnica.com/information-technology/2020/07/the-rise-and-fall-of-adobe-flash/"
+  },
+  {
+    "title": "Brilliant Hardware in the Valley of the Software Slump",
+    "creator": "Craig Mod",
+    "url": "https://craigmod.com/essays/software_slump/"
+  },
+  {
+    "title": "React + Redux + Comlink = Off-main-thread",
+    "creator": "Surma",
+    "url": "https://dassur.ma/things/react-redux-comlink/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
+    "title": "Browser Wars Part 2: How the Web Was Won",
+    "creator": "Jay Hoffmann",
+    "url": "http://thehistoryoftheweb.com/browser-wars-part-2/"
+  },
+  {
+    "title": "The Taste of the Day",
+    "creator": "Rands",
+    "url": "http://randsinrepose.com/archives/the-taste-of-the-day/"
+  },
+  {
+    "title": "The System That Actually Worked",
+    "creator": "Charles Fishman",
+    "url": "https://www.theatlantic.com/ideas/archive/2020/05/miracle-internet-not-breaking/611212/"
+  },
+  {
+    "title": "Richard",
+    "creator": "Allie Brosh",
+    "url": "http://hyperboleandahalf.blogspot.com/2020/09/richard.html",
+    "tags": [
+      "comedy",
+      "life"
+    ]
+  },
+  {
+    "title": "The Trauma Floor",
+    "creator": "Casey Newton",
+    "url": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona"
+  },
+  {
+    "title": "These Are the Models Who Get New York City High",
+    "creator": "Suketu Mehta",
+    "url": "https://www.gq.com/story/green-angels-weed-delivery-models-new-york"
+  },
+  {
+    "title": "The Great Divide",
+    "creator": "Chris Coyier",
+    "url": "https://css-tricks.com/the-great-divide/"
+  },
+  {
+    "title": "‘Real’ Programming Is an Elitist Myth",
+    "creator": "Paul Ford",
+    "url": "https://www.wired.com/story/databases-coding-real-programming-myth/"
+  },
+  {
+    "title": "How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?",
+    "creator": "Sinclair Target",
+    "url": "https://twobithistory.org/2019/11/06/doom-bsp.html"
+  },
+  {
+    "title": "The Evolution of Blogging",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/the-evolution-of-blogging/"
+  },
+  {
+    "title": "How (and Why) SpaceX Will Colonize Mars",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html"
+  },
+  {
+    "title": "Browser Wars Part 1: When Netscape Met Microsoft",
+    "creator": "Jay Hoffmann",
+    "url": "http://thehistoryoftheweb.com/browser-wars/"
+  },
+  {
+    "title": "Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY",
+    "creator": "Saagar Jha",
+    "url": "https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/"
+  },
+  {
+    "title": "How a group of neighbors created their own Internet service",
+    "creator": "Jon Brodkin",
+    "url": "https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/"
+  },
+  {
+    "title": "100 Blocks a Day",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2016/10/100-blocks-day.html"
+  },
+  {
+    "title": "Cognitive Overload",
+    "creator": "Dave Rupert",
+    "url": "https://daverupert.com/2017/12/cognitive-overload/"
+  },
+  {
+    "title": "How to Feed the Birds",
+    "creator": "Lacey Williams Henschel",
+    "url": "https://superyesmore.com/how-to-feed-the-birds-b6dfe758ae0ae56cac2ee0cc261ef4d0"
+  },
+  {
+    "title": "Red Dead Online players hate my Belgian Draft horse Hayseed",
+    "creator": "Cass Marshall",
+    "url": "https://www.polygon.com/2019/2/28/18244135/red-dead-rdr2-online-horse"
+  },
+  {
+    "title": "The Snowden Legacy, part one: What’s changed, really?",
+    "creator": "Sean Gallagher",
+    "url": "https://arstechnica.com/tech-policy/2018/11/the-snowden-legacy-part-one-whats-changed-really/"
+  },
+  {
+    "title": "iOS vs JavaScript: How to Learn From Other Programming Communities",
+    "creator": "Ash Furrow",
+    "url": "https://ashfurrow.com/blog/learning-from-other-programming-communities/"
+  },
+  {
+    "title": "The Cook and the Chef: Musk’s Secret Sauce",
+    "creator": "Tim Urban",
+    "url": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html"
+  },
+  {
+    "title": "Growth Loops: circular causality is real",
+    "creator": "Jessica Kerr",
+    "url": "https://medium.com/@jessitron/growth-loops-circular-causality-is-real-586fcc55fcf7"
+  },
+  {
+    "title": "Project from Hell",
+    "creator": "Liu Zhaoyang",
+    "url": "https://projectfailures.wordpress.com/2008/06/24/project-from-hell/#comments"
+  },
+  {
+    "title": "The Prophecies of Q",
+    "creator": "Adrienne LaFrance",
+    "url": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/",
+    "tags": [
+      "conspiracies"
+    ]
+  },
+  {
+    "title": "How Evan Ratliff Was Caught",
+    "creator": "Nicholas Thompson",
+    "url": "https://www.wired.com/2009/09/how-evan-ratliff-was-caught/"
+  },
+  {
+    "title": "How a Vermont social network became a model for online communities",
+    "creator": "Andrew Liptak",
+    "url": "https://www.theverge.com/2019/1/24/18129437/front-porch-forum-vermont-social-network-listserv-local-online-community"
+  },
+  {
+    "title": "Code is Prose",
+    "creator": "Matthew Bischoff",
+    "url": "http://matthewbischoff.com/code-is-prose/"
+  },
+  {
+    "title": "Sorry Computer, You're Not a Teapot",
+    "creator": "Jay Hoffmann",
+    "url": "https://thehistoryoftheweb.com/im-a-teapot/"
+  },
+  {
+    "title": "Vanish",
+    "creator": "Evan Ratliff",
+    "url": "http://www.cazart.net/vanish"
+  },
+  {
+    "title": "Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell",
+    "creator": "Charles Duhigg",
+    "url": "https://www.wired.com/story/elon-musk-tesla-life-inside-gigafactory/"
+  },
+  {
+    "title": "Understanding the Gatsby lifecycle",
+    "creator": "Dennis Brotzky",
+    "url": "https://www.narative.co/articles/understanding-the-gatsby-lifecycle"
+  },
+  {
+    "title": "The New French Hacker-Artist Underground",
+    "creator": "Jon Lackman",
+    "url": "https://www.wired.com/2012/01/ff_ux/"
+  },
+  {
+    "title": "I Was A Cable Guy. I Saw The Worst Of America.",
+    "creator": "Lauren Hough",
+    "url": "https://www.huffpost.com/entry/cable-tech-dick-cheney-sex-dungeon_n_5c0ea571e4b06484c9fd4c21"
+  }
+]
