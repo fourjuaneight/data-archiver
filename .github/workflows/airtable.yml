@@ -5,7 +5,7 @@ on:
     - cron: '0 3 * * *'
 
 jobs:
-  upload-tweet:
+  backup-airtable:
     runs-on: ubuntu-18.04
 
     steps:
