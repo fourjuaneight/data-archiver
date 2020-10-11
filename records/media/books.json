@@ -20,6 +20,16 @@
     "genre": "comics"
   },
   {
+    "title": "Baby Teeth - Vol. 1",
+    "author": "Donny Cates",
+    "genre": "comics"
+  },
+  {
+    "title": "Teen Titans: Beast Boy",
+    "author": "Kami Garcia",
+    "genre": "comics"
+  },
+  {
     "title": "Little Moments of Love",
     "author": "Catana Chetwynd",
     "genre": "comics"
@@ -60,6 +70,11 @@
     "genre": "comics"
   },
   {
+    "title": "Emergency Contact",
+    "author": "Mary H.K. Choi",
+    "genre": "drama"
+  },
+  {
     "title": "Superchill",
     "author": "Adam Ellis",
     "genre": "comics"
@@ -73,6 +88,11 @@
     "title": "Naruto: Vol. 1",
     "author": "Masashi Kishimoto",
     "genre": "manga"
+  },
+  {
+    "title": "Snug",
+    "author": "Catana Chetwynd",
+    "genre": "comics"
   },
   {
     "title": "D&D: Player's Handbook",
@@ -110,6 +130,16 @@
     "genre": "comics"
   },
   {
+    "title": "Harry Potter: Film Vault: Volume 1",
+    "author": "Jody Revenson",
+    "genre": "history"
+  },
+  {
+    "title": "Naruto: The Seventh Hokage and the Scarlet Spring",
+    "author": "Masashi Kishimoto",
+    "genre": "manga"
+  },
+  {
     "title": "D&D: Dungeon Master's Guide",
     "author": "Wizards of the Coast",
     "genre": "guides"
@@ -120,9 +150,19 @@
     "genre": "guides"
   },
   {
+    "title": "Me Before You",
+    "author": "JoJo Moyes",
+    "genre": "romance"
+  },
+  {
     "title": "Batman: The Dark Knight Returns",
     "author": "Frank Miller",
     "genre": "comics"
+  },
+  {
+    "title": "Momentary",
+    "author": "Ilkya Kuvshinov",
+    "genre": "art"
   },
   {
     "title": "The Adventure Zone: Here There Be Gerblins",
@@ -170,6 +210,11 @@
     "genre": "comics"
   },
   {
+    "title": "Naruto: The Official Character Data Book",
+    "author": "Masashi Kishimoto",
+    "genre": "guides"
+  },
+  {
     "title": "Emotions Explained With Buff Dudes",
     "author": "Andrew Tsyaston",
     "genre": "comics"
@@ -195,9 +240,29 @@
     "genre": "sci-fi"
   },
   {
+    "title": "Wolverine: Old Man Logan",
+    "author": "Mark Miller",
+    "genre": "comics"
+  },
+  {
     "title": "Endless Loop: The History of the Basic Programming Language",
     "author": "Mark Jones Lorenzo",
     "genre": "history"
+  },
+  {
+    "title": "Outsider",
+    "author": "Stephen King",
+    "genre": "mystery"
+  },
+  {
+    "title": "Naruto: Naruto's Story - Family Day",
+    "author": "Masashi Kishimoto",
+    "genre": "manga"
+  },
+  {
+    "title": "The Adventure Zone: Petals to the Metal",
+    "author": "McElroy Brothers",
+    "genre": "comics"
   },
   {
     "title": "Batman: The Dark Knight: Master Race",
@@ -215,9 +280,29 @@
     "genre": "comics"
   },
   {
+    "title": "The Fault in our Stars",
+    "author": "John Green",
+    "genre": "drama"
+  },
+  {
+    "title": "D&D: Acquisitions Incorporated",
+    "author": "Wizards of the Coast",
+    "genre": "guides"
+  },
+  {
     "title": "Watchmen",
     "author": "Alan Moore",
     "genre": "comics"
+  },
+  {
+    "title": "Cardcaptor Sakura Collector's - Edition 3",
+    "author": "CLAMP",
+    "genre": "manga"
+  },
+  {
+    "title": "All You Need Is Kill",
+    "author": "Hiroshi Sakurazaka",
+    "genre": "manga"
   },
   {
     "title": "Naruto: Vol. 2",
