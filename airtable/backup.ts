@@ -14,7 +14,7 @@ import type {
 // Match table queries
 const baseQueries: IBases = {
   Bookmarks: ["Articles", "Comics", "Podcasts", "Tweets", "Videos"],
-  Media: ["Apps", "Books", "Games", "Movies", "Podcasts", "RSS", "Shows"],
+  Media: ["Books", "Games", "Movies", "Podcasts", "RSS", "Shows"],
 };
 
 // Base endpoints
