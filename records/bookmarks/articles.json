@@ -10,6 +10,15 @@
     "url": "https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/"
   },
   {
+    "title": "Chapter 2: Browsers",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-2-browsers/",
+    "tags": [
+      "development",
+      "history"
+    ]
+  },
+  {
     "title": "The Devastating Decline of a Brilliant Young Coder",
     "creator": "Sandra Upson",
     "url": "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"
@@ -65,6 +74,14 @@
     "url": "https://mxb.dev/blog/the-css-mindset/"
   },
   {
+    "title": "Promises & Async/Await",
+    "creator": "Lydia Hallie",
+    "url": "https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "What Happened to the Webmaster",
     "creator": "Jay Hoffmann",
     "url": "https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/"
@@ -107,7 +124,11 @@
   {
     "title": "Chapter 1: Birth",
     "creator": "Jay Hoffmann",
-    "url": "https://css-tricks.com/chapter-1-birth/"
+    "url": "https://css-tricks.com/chapter-1-birth/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "Making Peace With The Feast Or Famine Of Freelancing",
@@ -163,6 +184,15 @@
     "title": "Japan’s Rent-a-Family Industry",
     "creator": "Elif Batuman",
     "url": "https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry"
+  },
+  {
+    "title": "Chapter 4: Search",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-4-search/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "Things nobody ever taught me about CSS",
@@ -246,6 +276,14 @@
     "title": "Browser Wars Part 2: How the Web Was Won",
     "creator": "Jay Hoffmann",
     "url": "http://thehistoryoftheweb.com/browser-wars-part-2/"
+  },
+  {
+    "title": "Deep Dive into Worker Threads in Node.js",
+    "creator": "Deepal Jayasekara",
+    "url": "https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "The Taste of the Day",
@@ -393,6 +431,15 @@
     "title": "Vanish",
     "creator": "Evan Ratliff",
     "url": "http://www.cazart.net/vanish"
+  },
+  {
+    "title": "Chapter 3: The Website",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-3-the-website/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell",
