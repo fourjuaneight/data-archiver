@@ -275,6 +275,15 @@
     "url": "https://www.instagram.com/p/Bkkx4oFAQ-i/"
   },
   {
+    "title": "Tech Support",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/806/",
+    "tags": [
+      "development",
+      "technology"
+    ]
+  },
+  {
     "title": "Lisp",
     "creator": "xkcd",
     "url": "https://xkcd.com/224/"
@@ -493,10 +502,5 @@
     "title": "Password Strength",
     "creator": "xkcd",
     "url": "https://xkcd.com/936/"
-  },
-  {
-    "title": "Harlot’s Web",
-    "creator": "The Perry Bible Fellowship",
-    "url": "http://pbfcomics.com/comics/harlots-web/"
   }
 ]
