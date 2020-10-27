@@ -265,6 +265,15 @@
     "url": "https://www.smbc-comics.com/comic/quantum-bits"
   },
   {
+    "title": "Animal Racism",
+    "creator": "Wooden Plank Studios",
+    "url": "https://www.woodenplankstudios.com/comic/animal-racism/",
+    "tags": [
+      "animals",
+      "gaming"
+    ]
+  },
+  {
     "title": "Backpack Decisions",
     "creator": "xkcd",
     "url": "https://xkcd.com/1952/"
@@ -497,10 +506,5 @@
     "title": "Judge",
     "creator": "they can talk",
     "url": "https://theycantalk.com/image/172891420445"
-  },
-  {
-    "title": "Password Strength",
-    "creator": "xkcd",
-    "url": "https://xkcd.com/936/"
   }
 ]
