@@ -215,6 +215,11 @@
     "genre": "horror"
   },
   {
+    "title": "Dawn of the Dead",
+    "director": "Zack Snyder",
+    "genre": "horror"
+  },
+  {
     "title": "Blade Runner 2049",
     "director": "Denis Villeneuve",
     "genre": "sci-fi"
@@ -493,10 +498,5 @@
     "title": "The Matrix: Revolutions",
     "director": "Wachowski",
     "genre": "action"
-  },
-  {
-    "title": "School of Rock",
-    "director": "Richard Linklater",
-    "genre": "comedy"
   }
 ]
