@@ -50,6 +50,14 @@
     "url": "https://youtu.be/suiVi4kjvbI"
   },
   {
+    "title": "The Art of Code Comments",
+    "creator": "JSConf",
+    "url": "https://youtu.be/yhF7OmuIILc",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "DOOM’s Development: A Year of Madness",
     "creator": "WeAreDevelopers",
     "url": "https://youtu.be/eBU34NZhW7I"
@@ -497,10 +505,5 @@
     "title": "A Floridian's Guide to Living Someplace Very Very Cold",
     "creator": "vlogbrothers",
     "url": "https://youtu.be/KVI-blFfDWc"
-  },
-  {
-    "title": "Parm Heros from Lots of Things",
-    "creator": "Binging with Babish",
-    "url": "https://youtu.be/DkiyT-dnmv8"
   }
 ]
