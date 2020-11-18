@@ -92,7 +92,11 @@
   {
     "title": "What Happened to the Webmaster",
     "creator": "Jay Hoffmann",
-    "url": "https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/"
+    "url": "https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "The AI Revolution: The Road to Superintelligence",
@@ -151,7 +155,11 @@
   {
     "title": "The Browser Engine That Could",
     "creator": "Jay Hoffmann",
-    "url": "https://thehistoryoftheweb.com/how-a-browser-engine-dominates-the-market/"
+    "url": "https://thehistoryoftheweb.com/how-a-browser-engine-dominates-the-market/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "You Won't Believe My Morning",
@@ -171,7 +179,11 @@
   {
     "title": "Fandom, Folksonomies, and Tagging Things Right",
     "creator": "Jay Hoffmann",
-    "url": "https://thehistoryoftheweb.com/postscript/fandom-folksonomies-and-tagging-things-right/"
+    "url": "https://thehistoryoftheweb.com/postscript/fandom-folksonomies-and-tagging-things-right/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "The Web began dying in 2014, here's how",
@@ -240,7 +252,11 @@
   {
     "title": "The Importance of Being on Usenet",
     "creator": "Jay Hoffmann",
-    "url": "http://thehistoryoftheweb.com/the-importance-of-being-on-usenet/"
+    "url": "http://thehistoryoftheweb.com/the-importance-of-being-on-usenet/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "The Sad, Beautiful Fact That We're All Going To Miss Almost Everything",
@@ -250,7 +266,11 @@
   {
     "title": "RSS: A Well Formed Log Entry",
     "creator": "Jay Hoffmann",
-    "url": "http://thehistoryoftheweb.com/rss-well-formed-log-entry/"
+    "url": "http://thehistoryoftheweb.com/rss-well-formed-log-entry/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "Chinese AI Is Creating an Axis of Autocracy",
@@ -328,6 +348,15 @@
     "url": "https://css-tricks.com/the-great-divide/"
   },
   {
+    "title": "Chapter 5: Publishing",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-5-publishing/",
+    "tags": [
+      "development",
+      "history"
+    ]
+  },
+  {
     "title": "‘Real’ Programming Is an Elitist Myth",
     "creator": "Paul Ford",
     "url": "https://www.wired.com/story/databases-coding-real-programming-myth/"
@@ -340,7 +369,11 @@
   {
     "title": "The Evolution of Blogging",
     "creator": "Jay Hoffmann",
-    "url": "https://thehistoryoftheweb.com/the-evolution-of-blogging/"
+    "url": "https://thehistoryoftheweb.com/the-evolution-of-blogging/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "How (and Why) SpaceX Will Colonize Mars",
@@ -433,7 +466,11 @@
   {
     "title": "Sorry Computer, You're Not a Teapot",
     "creator": "Jay Hoffmann",
-    "url": "https://thehistoryoftheweb.com/im-a-teapot/"
+    "url": "https://thehistoryoftheweb.com/im-a-teapot/",
+    "tags": [
+      "development",
+      "history"
+    ]
   },
   {
     "title": "Vanish",
