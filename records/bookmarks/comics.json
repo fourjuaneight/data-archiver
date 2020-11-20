@@ -458,6 +458,14 @@
     "url": "https://xkcd.com/386/"
   },
   {
+    "title": "Making Progress",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/1906/",
+    "tags": [
+      "productivity"
+    ]
+  },
+  {
     "title": "Bean Room Tour",
     "creator": "Ketnipz",
     "url": "https://www.instagram.com/p/Bmww7Onn5tn/"
@@ -501,10 +509,5 @@
     "title": "Simpler Times",
     "creator": "Poorly Drawn Lines",
     "url": "http://www.poorlydrawnlines.com/comic/simpler-times/"
-  },
-  {
-    "title": "Judge",
-    "creator": "they can talk",
-    "url": "https://theycantalk.com/image/172891420445"
   }
 ]
