@@ -1,8 +1,6 @@
-import ky from "https://unpkg.com/ky/index.js";
-
 import latest from "./latest.ts";
 
-import type { IKyOptions, ILatestTweetFmt } from "./types.ts";
+import type { ILatestTweetFmt } from "./types.ts";
 
 /**
  * Upload tweet object to Airtable
@@ -12,12 +10,12 @@ import type { IKyOptions, ILatestTweetFmt } from "./types.ts";
  * @return {Promise<voide>}
  */
 const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
-  const atOpts: IKyOptions = {
+  const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
       "Content-Type": "application/json",
     },
-    json: {
+    body: JSON.stringify({
       records: [
         {
           fields: {
@@ -27,18 +25,29 @@ const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
           },
         },
       ],
-    },
+    }),
   };
 
   try {
-    const reponse: any = await ky
-      .post(`${Deno.env.get("AIRTABLE_MEDIA_ENDPOINT")}/Tweets`, atOpts)
-      .json();
+    const response: Response = await fetch(
+      `${Deno.env.get("AIRTABLE_MEDIA_ENDPOINT")}/Tweets`,
+      atOpts
+    );
+    const results = await response.json();
 
-    return reponse.records[0].id;
+    if (!response.ok) {
+      console.error("Twitter Uploader:", {
+        code: response.status,
+        type: response.type,
+        text: response.statusText,
+      });
+      Deno.exit(1);
+    }
+
+    return results.records[0].id;
   } catch (error) {
-    console.error(error);
-    throw new Error(error);
+    console.error("Twitter Uploader:", error);
+    Deno.exit(1);
   }
 };
 
@@ -57,15 +66,15 @@ const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
           // post Airtable ID to console when uploaded
           console.log("Tweet uploaded:", upload);
         } catch (error) {
-          console.error(error);
-          throw new Error(error);
+          console.error("Twitter Upload Loop:", error);
+          Deno.exit(1);
         }
       }
     } else {
       console.info("No new tweets to upload.");
     }
   } catch (error) {
-    console.error(error);
-    throw new Error(error);
+    console.error("Twitter Upload Main:", error);
+    Deno.exit(1);
   }
 })();

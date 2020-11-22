@@ -5,6 +5,7 @@ export interface IKyOptions {
   };
   withCredentials?: boolean;
   body?: string;
+  method?: string;
   json?: {};
 }
 

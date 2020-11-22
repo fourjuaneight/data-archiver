@@ -1,11 +1,9 @@
-import ky from "https://unpkg.com/ky/index.js";
-
 import auth from "./auth.ts";
 import dateFmt, { tenBehind } from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
-import type { IKyOptions, ILatestTweet, ILatestTweetFmt } from "./types.ts";
+import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
 
 /**
  * Get the latest Tweets as of the last 10 minutes
@@ -15,25 +13,32 @@ import type { IKyOptions, ILatestTweet, ILatestTweetFmt } from "./types.ts";
  * @return {Promise<ILatestTweet[]>} request response with list of tweets
  */
 const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
-  const twtOpts: IKyOptions = {
+  const twtOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${key}`,
     },
-    withCredentials: true,
   };
 
   try {
-    const tweets: ILatestTweet[] = await ky
-      .get(
-        "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=10&tweet_mode=extended",
-        twtOpts
-      )
-      .json();
+    const response: Response = await fetch(
+      "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=15&tweet_mode=extended",
+      twtOpts
+    );
+    const results: ILatestTweet[] = await response.json();
 
-    return tweets;
+    if (!response.ok) {
+      console.error("Twitter Latest:", {
+        code: response.status,
+        type: response.type,
+        text: response.statusText,
+      });
+      Deno.exit(1);
+    }
+
+    return results;
   } catch (error) {
-    console.error(error);
-    throw new Error(error);
+    console.error("Twitter Latest:", error);
+    Deno.exit(1);
   }
 };
 
@@ -53,13 +58,13 @@ const emojiUnicodeTweets = (
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
   }));
   const expanded: Promise<ILatestTweetFmt>[] = converted
-    .filter((twt: ILatestTweetFmt) => {
-      const { original } = dateFmt(twt.date);
+    // .filter((twt: ILatestTweetFmt) => {
+    //   const { original } = dateFmt(twt.date);
 
-      if (original) {
-        return original > tenBehind();
-      }
-    })
+    //   if (original) {
+    //     return original > tenBehind();
+    //   }
+    // })
     .map(async (twt: ILatestTweetFmt) => ({
       ...twt,
       tweet: await expandShortLink(
@@ -67,6 +72,7 @@ const emojiUnicodeTweets = (
         /(https:\/\/t.co\/[a-zA-z0-9]+)/g
       ).then((result: string) => result),
     }));
+
   return Promise.all(expanded);
 };
 
@@ -84,8 +90,8 @@ const latest = async (): Promise<ILatestTweetFmt[]> => {
 
     return lastFmt;
   } catch (error) {
-    console.error(error);
-    throw new Error(error);
+    console.error("Twitter Latest Formatted:", error);
+    Deno.exit(1);
   }
 };
 

@@ -1,5 +1,3 @@
-import ky from "https://unpkg.com/ky/index.js";
-
 /**
  * Expand shortend URLs.
  * @function
@@ -8,12 +6,23 @@ import ky from "https://unpkg.com/ky/index.js";
  * @returns {Promise<Response>} expanded URL
  */
 const expandLinks = async (url: string): Promise<string> => {
-  const link: Promise<string> = await ky
-    .get(url)
-    .then((response: Response) => response.url)
-    .catch((err: string) => console.error(err));
+  try {
+    const response: Response = await fetch(url);
 
-  return link;
+    if (!response.ok) {
+      console.error("Expand Links:", {
+        code: response.status,
+        type: response.type,
+        text: response.statusText,
+      });
+      Deno.exit(1);
+    }
+
+    return response.url;
+  } catch (error) {
+    console.error("Expand Links:", error);
+    Deno.exit(1);
+  }
 };
 
 /**
@@ -24,10 +33,7 @@ const expandLinks = async (url: string): Promise<string> => {
  * @param {RegExp} regex pattern to match
  * @returns {Promise<string>} list of expanded URLs from str
  */
-const expandShortLink = async (
-  str: string,
-  regex: RegExp
-): Promise<string> => {
+const expandShortLink = async (str: string, regex: RegExp): Promise<string> => {
   const promises: Promise<string>[] = [];
   const pattern: RegExp = new RegExp(regex);
 
