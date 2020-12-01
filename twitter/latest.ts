@@ -58,13 +58,13 @@ const emojiUnicodeTweets = (
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
   }));
   const expanded: Promise<ILatestTweetFmt>[] = converted
-    // .filter((twt: ILatestTweetFmt) => {
-    //   const { original } = dateFmt(twt.date);
+    .filter((twt: ILatestTweetFmt) => {
+      const { original } = dateFmt(twt.date);
 
-    //   if (original) {
-    //     return original > tenBehind();
-    //   }
-    // })
+      if (original) {
+        return original > tenBehind();
+      }
+    })
     .map(async (twt: ILatestTweetFmt) => ({
       ...twt,
       tweet: await expandShortLink(
