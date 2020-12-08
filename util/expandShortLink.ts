@@ -3,7 +3,7 @@
  * @function
  *
  * @param {string} url shortned url string
- * @returns {Promise<Response>} expanded URL
+ * @returns {Promise<string>} expanded URL
  */
 const expandLinks = async (url: string): Promise<string> => {
   try {
