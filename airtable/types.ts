@@ -40,3 +40,8 @@ export interface IRecords {
   fields: IFields;
   createdTime: string;
 }
+
+export interface IAirtableResp {
+  records: IRecords[];
+  offset: string;
+}

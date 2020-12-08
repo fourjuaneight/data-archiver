@@ -1,12 +1,11 @@
 import "https://deno.land/x/dotenv/load.ts";
 import { ensureFile } from "https://deno.land/std/fs/mod.ts";
-import ky from "https://unpkg.com/ky/index.js";
 
 import type {
+  IAirtableResp,
   IBases,
   IEndpoints,
   IFields,
-  IKyOptions,
   IRecords,
   StringArray,
 } from "./types.ts";
@@ -35,7 +34,7 @@ const getBookmarks = async (
   base: string,
   list: StringArray
 ): Promise<IRecords[]> => {
-  const atOpts: IKyOptions = {
+  const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
       "Content-Type": "application/json",
@@ -43,11 +42,10 @@ const getBookmarks = async (
   };
 
   try {
-    const reponse: any = await ky
-      .get(`${endpoints[base]}/${list}?maxRecords=1000`, atOpts)
-      .json();
+    const response: Response = await fetch(`${endpoints[base]}/${list}?maxRecords=1000`, atOpts);
+    const results: IAirtableResp = await response.json();
 
-    return reponse.records;
+    return results.records;
   } catch (error) {
     console.error(error);
     throw new Error(error);
