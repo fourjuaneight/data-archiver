@@ -1,9 +1,25 @@
 import auth from "./auth.ts";
-import dateFmt, { tenBehind } from "../util/dateFmt.ts";
+import dateFmt from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
 import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
+
+/**
+ * Get timestamp from 10 minutes ago.
+ *
+ * @return {string} datetime - 10m
+ */
+const tenBehind = (): string => {
+  const now: Date = new Date();
+  const tenMinutesAgo: number = now.setMinutes(now.getMinutes() - 10);
+  const offset: number = now.getTimezoneOffset() * 60000;
+  const dateTime: string = new Date(tenMinutesAgo - offset)
+    .toISOString()
+    .slice(0, -5);
+
+  return dateTime;
+};
 
 /**
  * Get the latest Tweets as of the last 10 minutes
