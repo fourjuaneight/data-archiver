@@ -6,13 +6,13 @@ import expandShortLink from "../util/expandShortLink.ts";
 import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
 
 /**
- * Get timestamp from 10 minutes ago.
+ * Get timestamp from 1 day ago.
  *
  * @return {string} datetime - 10m
  */
-const tenBehind = (): string => {
+const dayAgo = (): string => {
   const now: Date = new Date();
-  const tenMinutesAgo: number = now.setMinutes(now.getMinutes() - 10);
+  const tenMinutesAgo: number = now.setDate(now.getDate() - 1);
   const offset: number = now.getTimezoneOffset() * 60000;
   const dateTime: string = new Date(tenMinutesAgo - offset)
     .toISOString()
@@ -37,7 +37,7 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
 
   try {
     const response: Response = await fetch(
-      "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=15&tweet_mode=extended",
+      "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=50&tweet_mode=extended",
       twtOpts
     );
     const results: ILatestTweet[] = await response.json();
@@ -78,7 +78,7 @@ const emojiUnicodeTweets = (
       const { original } = dateFmt(twt.date);
 
       if (original) {
-        return original > tenBehind();
+        return original > dayAgo();
       }
     })
     .map(async (twt: ILatestTweetFmt) => ({
