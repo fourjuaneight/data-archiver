@@ -1,4 +1,4 @@
-import latest from "./latest.ts";
+import current from "./current.ts";
 
 import type { ILatestTweetFmt } from "./types.ts";
 
@@ -55,24 +55,11 @@ const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
 (async () => {
   try {
     // get formatted tweets
-    const tweets: ILatestTweetFmt[] = await latest();
+    const tweet: ILatestTweetFmt = await current();
+    const upload = await uploadTweet(tweet);
 
-    // upload each individually
-    if (tweets.length > 0) {
-      for (const tweet of tweets) {
-        try {
-          const upload = await uploadTweet(tweet);
-
-          // post Airtable ID to console when uploaded
-          console.log("Tweet uploaded:", upload);
-        } catch (error) {
-          console.error("Twitter Upload Loop:", error);
-          Deno.exit(1);
-        }
-      }
-    } else {
-      console.info("No new tweets to upload.");
-    }
+    // post Airtable ID to console when uploaded
+    console.log("Tweet uploaded:", upload);
   } catch (error) {
     console.error("Twitter Upload Main:", error);
     Deno.exit(1);

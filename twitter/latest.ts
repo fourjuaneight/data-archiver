@@ -52,7 +52,13 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
       Deno.exit(1);
     }
 
-    return results;
+    return results.filter((twt: ILatestTweet) => {
+      const { original } = dateFmt(twt.created_at);
+
+      if (original) {
+        return original > dayAgo();
+      }
+    });
   } catch (error) {
     console.error("Twitter Latest:", error);
     Deno.exit(1);
@@ -69,19 +75,12 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
 const emojiUnicodeTweets = (
   rawTweets: ILatestTweet[]
 ): Promise<ILatestTweetFmt[]> => {
-  const converted: ILatestTweetFmt[] = rawTweets.map((twt: ILatestTweet) => ({
-    tweet: emojiUnicode(twt.full_text),
-    date: dateFmt(twt.created_at).original,
-    url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
-  }));
-  const expanded: Promise<ILatestTweetFmt>[] = converted
-    .filter((twt: ILatestTweetFmt) => {
-      const { original } = dateFmt(twt.date);
-
-      if (original) {
-        return original > dayAgo();
-      }
-    })
+  const expanded: Promise<ILatestTweetFmt>[] = rawTweets
+    .map((twt: ILatestTweet) => ({
+      tweet: emojiUnicode(twt.full_text),
+      date: dateFmt(twt.created_at).original,
+      url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
+    }))
     .map(async (twt: ILatestTweetFmt) => ({
       ...twt,
       tweet: await expandShortLink(
