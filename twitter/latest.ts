@@ -22,7 +22,8 @@ const dayAgo = (): string => {
 };
 
 /**
- * Get the latest Tweets as of the last 10 minutes
+ * Get the last 50 Tweets with extended content.
+ * Docs: https://developer.twitter.com/en/docs/twitter-api/v1/tweets/timelines/api-reference/get-statuses-user_timeline
  * @function
  *
  * @param {string} key Twitter authorization token
