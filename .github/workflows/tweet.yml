@@ -1,0 +1,29 @@
+name: Upload Latest Tweets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  upload-tweets:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Use Deno 1.6.1
+        uses: denolib/setup-deno@v2
+        with:
+          deno-version: v1.6.1
+
+      - name: Upload
+        run: deno run --allow-read --allow-env --allow-net twitter/uploadLatest.ts
+
+        env:
+          CI: true
+          AIRTABLE_MEDIA_ENDPOINT: ${{secrets.AIRTABLE_MEDIA_ENDPOINT}}
+          AIRTABLE_API: ${{secrets.AIRTABLE_API}}
+          TWITTER_KEY: ${{secrets.TWITTER_KEY}}
+          TWITTER_SECRET: ${{secrets.TWITTER_SECRET}}
