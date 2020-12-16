@@ -1,5 +1,3 @@
-import current from "./current.ts";
-
 import type { ILatestTweetFmt } from "./types.ts";
 
 /**
@@ -9,7 +7,7 @@ import type { ILatestTweetFmt } from "./types.ts";
  * @param {ILatestTweetFmt} tweet
  * @return {Promise<voide>}
  */
-const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
+const uploader = async (tweet: ILatestTweetFmt): Promise<void> => {
   const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
@@ -51,17 +49,4 @@ const uploadTweet = async (tweet: ILatestTweetFmt): Promise<void> => {
   }
 };
 
-// Upload latest tweets to Airtable base.
-(async () => {
-  try {
-    // get formatted tweets
-    const tweet: ILatestTweetFmt = await current();
-    const upload = await uploadTweet(tweet);
-
-    // post Airtable ID to console when uploaded
-    console.log("Tweet uploaded:", upload);
-  } catch (error) {
-    console.error("Twitter Upload Main:", error);
-    Deno.exit(1);
-  }
-})();
+export default uploader;
