@@ -1,5 +1,5 @@
 import current from "./current.ts";
-import uploader from "./uploader";
+import uploader from "./uploader.ts";
 
 import type { ILatestTweetFmt } from "./types.ts";
 
