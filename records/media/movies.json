@@ -55,6 +55,11 @@
     "genre": "fantasy"
   },
   {
+    "title": "All The President's Men",
+    "director": "Alan J. Pakula",
+    "genre": "drama"
+  },
+  {
     "title": "X-Men: The Last Stand",
     "director": "Brett Ratner",
     "genre": "action"
@@ -493,10 +498,5 @@
     "title": "Spirited Away",
     "director": "Hayao Miyazaki",
     "genre": "action & adventure"
-  },
-  {
-    "title": "The Matrix: Revolutions",
-    "director": "Wachowski",
-    "genre": "action"
   }
 ]
