@@ -506,6 +506,14 @@
     "url": "https://www.narative.co/articles/understanding-the-gatsby-lifecycle"
   },
   {
+    "title": "Idiomatic Redux: Redux Toolkit 1.0",
+    "creator": "Mark Erikson",
+    "url": "https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "The New French Hacker-Artist Underground",
     "creator": "Jon Lackman",
     "url": "https://www.wired.com/2012/01/ff_ux/"
