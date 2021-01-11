@@ -9,7 +9,7 @@ const expandLinks = async (url: string): Promise<string> => {
   try {
     const response: Response = await fetch(url);
 
-    if (!response.ok) {
+    if (!response.url) {
       console.error("Expand Links:", {
         code: response.status,
         type: response.type,
