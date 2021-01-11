@@ -1,25 +1,11 @@
+import { isAfter, subDays } from 'https://cdn.skypack.dev/date-fns?dts';
+
 import auth from "./auth.ts";
 import dateFmt from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
 import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
-
-/**
- * Get timestamp from 1 day ago.
- *
- * @return {string} datetime - 10m
- */
-const dayAgo = (): string => {
-  const now: Date = new Date();
-  const tenMinutesAgo: number = now.setDate(now.getDate() - 1);
-  const offset: number = now.getTimezoneOffset() * 60000;
-  const dateTime: string = new Date(tenMinutesAgo - offset)
-    .toISOString()
-    .slice(0, -5);
-
-  return dateTime;
-};
 
 /**
  * Get the last 50 Tweets with extended content.
@@ -53,11 +39,9 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
     }
 
     return results.filter((twt: ILatestTweet) => {
-      const { original } = dateFmt(twt.created_at);
+      const dayAgo: string = subDays(new Date(), 1);
 
-      if (original) {
-        return original > dayAgo();
-      }
+      return isAfter(new Date(twt.created_at), dayAgo);
     });
   } catch (error) {
     console.error("Twitter Latest:", error);
