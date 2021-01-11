@@ -1,7 +1,11 @@
 import "https://deno.land/x/dotenv/load.ts";
+import {
+  formatISO,
+  isAfter,
+  subDays,
+} from "https://cdn.skypack.dev/date-fns?dts";
 
 import auth from "./auth.ts";
-import dateFmt from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
@@ -61,7 +65,7 @@ const currentTweet = async (
  * @param {ILatestTweet} rawTweet raw tweet object from Twitter API response
  * @return {Promise<ILatestTweetFmt>} formatted tweet object; tweet (emojis converted && links expanded), ISO date, url.
  */
-const emojiUnicodeTweets = async (
+const formatTweet = async (
   rawTweet: ILatestTweet
 ): Promise<ILatestTweetFmt> => {
   const encoded: string = emojiUnicode(rawTweet.full_text);
@@ -71,7 +75,7 @@ const emojiUnicodeTweets = async (
   ).then((result: string) => result);
   const formatted: ILatestTweetFmt = {
     tweet: expanded,
-    date: dateFmt(rawTweet.created_at).original,
+    date: formatISO(new Date(twt.created_at)),
     url: `https://twitter.com/fourjuaneight/status/${rawTweet.id_str}`,
   };
 
@@ -91,7 +95,7 @@ const current = async (): Promise<ILatestTweetFmt> => {
       key,
       Deno.env.get("TWEET_ID")
     );
-    const lastFmt: ILatestTweetFmt = await emojiUnicodeTweets(last);
+    const lastFmt: ILatestTweetFmt = await formatTweet(last);
 
     return lastFmt;
   } catch (error) {

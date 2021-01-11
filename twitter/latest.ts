@@ -1,7 +1,10 @@
-import { isAfter, subDays } from 'https://cdn.skypack.dev/date-fns?dts';
+import {
+  formatISO,
+  isAfter,
+  subDays,
+} from "https://cdn.skypack.dev/date-fns?dts";
 
 import auth from "./auth.ts";
-import dateFmt from "../util/dateFmt.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
@@ -18,7 +21,7 @@ import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
 const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
   const twtOpts: RequestInit = {
     headers: {
-      Authorization: `Bearer ${key}`,
+      Authorization: `Bearer ${await key}`,
     },
   };
 
@@ -28,6 +31,7 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
       twtOpts
     );
     const results: ILatestTweet[] = await response.json();
+    const dayAgo: Date = subDays(new Date(), 1);
 
     if (!response.ok) {
       console.error("Twitter Latest:", {
@@ -38,11 +42,9 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
       Deno.exit(1);
     }
 
-    return results.filter((twt: ILatestTweet) => {
-      const dayAgo: string = subDays(new Date(), 1);
-
-      return isAfter(new Date(twt.created_at), dayAgo);
-    });
+    return results.filter((twt: ILatestTweet) =>
+      isAfter(new Date(twt.created_at), dayAgo)
+    );
   } catch (error) {
     console.error("Twitter Latest:", error);
     Deno.exit(1);
@@ -50,28 +52,39 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
 };
 
 /**
- * Extract relevate parts of Twitter response and create formatted object
+ * Extract relevate parts of Twitter response and create formatted object.
  * @function
  *
  * @param {ILatestTweet[]} rawTweets raw tweet object array from Twitter API response
- * @return {Promise<ILatestTweetFmt[]>} formatted tweet object array; tweet (emojis converted && links expanded), ISO date, url.
+ * @return {ILatestTweetFmt[]} formatted tweet object array; tweet (emojis converted), ISO date, url
  */
-const emojiUnicodeTweets = (
-  rawTweets: ILatestTweet[]
+const formatTweets = (rawTweets: ILatestTweet[]): ILatestTweetFmt[] => {
+  const formatted: ILatestTweetFmt[] = rawTweets.map((twt: ILatestTweet) => ({
+    tweet: emojiUnicode(twt.full_text),
+    date: formatISO(new Date(twt.created_at)),
+    url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
+  }));
+
+  return formatted;
+};
+
+/**
+ * Expand shortened links in tweet body.
+ * @function
+ *
+ * @param {ILatestTweetFmt[]} fmtTweets formatted tweet object array
+ * @return {Promise<ILatestTweetFmt[]>} formatted tweet object array; links expanded
+ */
+const expandTweets = (
+  fmtTweets: ILatestTweetFmt[]
 ): Promise<ILatestTweetFmt[]> => {
-  const expanded: Promise<ILatestTweetFmt>[] = rawTweets
-    .map((twt: ILatestTweet) => ({
-      tweet: emojiUnicode(twt.full_text),
-      date: dateFmt(twt.created_at).original,
-      url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
-    }))
-    .map(async (twt: ILatestTweetFmt) => ({
-      ...twt,
-      tweet: await expandShortLink(
-        twt.tweet,
-        /(https:\/\/t.co\/[a-zA-z0-9]+)/g
-      ).then((result: string) => result),
-    }));
+  const expanded = fmtTweets.map(async (twt: ILatestTweetFmt) => ({
+    ...twt,
+    tweet: await expandShortLink(
+      twt.tweet,
+      /(https:\/\/t.co\/[a-zA-z0-9]+)/g
+    ).then((result: string) => result),
+  }));
 
   return Promise.all(expanded);
 };
@@ -86,9 +99,10 @@ const latest = async (): Promise<ILatestTweetFmt[]> => {
   try {
     const key: string = await auth();
     const last: ILatestTweet[] = await latestTweets(key);
-    const lastFmt: ILatestTweetFmt[] = await emojiUnicodeTweets(last);
+    const lastFmt: ILatestTweetFmt[] = await formatTweets(last);
+    const lastExp: ILatestTweetFmt[] = await expandTweets(lastFmt);
 
-    return lastFmt;
+    return lastExp;
   } catch (error) {
     console.error("Twitter Latest Formatted:", error);
     Deno.exit(1);
