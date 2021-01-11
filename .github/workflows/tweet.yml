@@ -2,7 +2,7 @@ name: Upload Latest Tweets
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 5 * * *"
 
 jobs:
   upload-tweets:
@@ -13,10 +13,10 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Use Deno 1.6.1
+      - name: Use Deno 1.6.3
         uses: denolib/setup-deno@v2
         with:
-          deno-version: v1.6.1
+          deno-version: v1.6.3
 
       - name: Upload
         run: deno run --allow-read --allow-env --allow-net twitter/uploadLatest.ts
