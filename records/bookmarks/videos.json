@@ -40,6 +40,14 @@
     "url": "https://youtu.be/YycAzdtUIko"
   },
   {
+    "title": "Illusions of Time",
+    "creator": "VSauce",
+    "url": "https://youtu.be/zHL9GP_B30E",
+    "tags": [
+      "psychology"
+    ]
+  },
+  {
     "title": "Manipulating the YouTube Algorithm",
     "creator": "SmarterEveryDay",
     "url": "https://youtu.be/1PGm8LslEb4"
@@ -500,10 +508,5 @@
     "title": "The World War of the Ants – The Army Ant",
     "creator": "Kurzgesagt",
     "url": "https://youtu.be/7_e0CA_nhaE"
-  },
-  {
-    "title": "A Floridian's Guide to Living Someplace Very Very Cold",
-    "creator": "vlogbrothers",
-    "url": "https://youtu.be/KVI-blFfDWc"
   }
 ]
