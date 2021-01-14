@@ -38,7 +38,7 @@
     "creator": "Nicholas Thompson",
     "url": "https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/",
     "tags": [
-      "crime"
+      "mystery"
     ]
   },
   {
@@ -300,6 +300,14 @@
     "url": "https://www.folklore.org/StoryView.py?story=Real_Artists_Ship.txt"
   },
   {
+    "title": "The Unsettling Truth About the ‘Mostly Harmless’ Hiker",
+    "creator": "Nicholas Thompson",
+    "url": "https://www.wired.com/story/unsettling-truth-mostly-harmless-hiker/",
+    "tags": [
+      "mystery"
+    ]
+  },
+  {
     "title": "The rise and fall of Adobe Flash",
     "creator": "Richard Moss",
     "url": "https://arstechnica.com/information-technology/2020/07/the-rise-and-fall-of-adobe-flash/"
@@ -468,7 +476,10 @@
   {
     "title": "How Evan Ratliff Was Caught",
     "creator": "Nicholas Thompson",
-    "url": "https://www.wired.com/2009/09/how-evan-ratliff-was-caught/"
+    "url": "https://www.wired.com/2009/09/how-evan-ratliff-was-caught/",
+    "tags": [
+      "mystery"
+    ]
   },
   {
     "title": "How a Vermont social network became a model for online communities",
