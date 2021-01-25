@@ -7,7 +7,11 @@
   {
     "title": "Full Force",
     "creator": "iDubbzTV",
-    "url": "https://youtu.be/HfwPL-bd_mk"
+    "url": "https://youtu.be/HfwPL-bd_mk",
+    "tags": [
+      "life",
+      "satire"
+    ]
   },
   {
     "title": "The Bizarre Behavior of Rotating Bodies, Explained",
@@ -55,7 +59,10 @@
   {
     "title": "Breath of the Wild is a Masterpiece",
     "creator": "FilmJoy",
-    "url": "https://youtu.be/suiVi4kjvbI"
+    "url": "https://youtu.be/suiVi4kjvbI",
+    "tags": [
+      "gaming"
+    ]
   },
   {
     "title": "The Art of Code Comments",
@@ -73,22 +80,35 @@
   {
     "title": "1911 - A Trip Through New York City",
     "creator": "Guy Jones",
-    "url": "https://youtu.be/aohXOpKtns0"
+    "url": "https://youtu.be/aohXOpKtns0",
+    "tags": [
+      "history",
+      "anthropology"
+    ]
   },
   {
     "title": "Chicken Tikka Masala",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/Bkd0LxBd2L8"
+    "url": "https://youtu.be/Bkd0LxBd2L8",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "One Pot Pastas",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/cs8OYby6RrA"
+    "url": "https://youtu.be/cs8OYby6RrA",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "If my Grandmother had wheels she would have been a bike",
     "creator": "Digitalmediafan",
-    "url": "https://youtu.be/A-RfHC91Ewc"
+    "url": "https://youtu.be/A-RfHC91Ewc",
+    "tags": [
+      "comedy"
+    ]
   },
   {
     "title": "The Billion Ant Mega Colony and the Biggest War on Earth",
@@ -103,7 +123,11 @@
   {
     "title": "A Night at the Garden",
     "creator": "Field of Vision",
-    "url": "https://vimeo.com/237489146"
+    "url": "https://vimeo.com/237489146",
+    "tags": [
+      "politics",
+      "history"
+    ]
   },
   {
     "title": "Time: The History & Future of Everything",
@@ -113,7 +137,11 @@
   {
     "title": "Brief History of the Royal Family",
     "creator": "CGPGrey",
-    "url": "https://youtu.be/jNgP6d9HraI"
+    "url": "https://youtu.be/jNgP6d9HraI",
+    "tags": [
+      "politics",
+      "history"
+    ]
   },
   {
     "title": "The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs",
@@ -123,7 +151,12 @@
   {
     "title": "Why You Don't Want Invisibility",
     "creator": "Because Science",
-    "url": "https://youtu.be/4oTa1BabYpE"
+    "url": "https://youtu.be/4oTa1BabYpE",
+    "tags": [
+      "film",
+      "tv",
+      "science"
+    ]
   },
   {
     "title": "Northbound",
@@ -148,12 +181,20 @@
   {
     "title": "Why There Are Thousands of Giant Arrows Across the US",
     "creator": "Half as Interesting",
-    "url": "https://youtu.be/P7QSYp0bqio"
+    "url": "https://youtu.be/P7QSYp0bqio",
+    "tags": [
+      "aviation"
+    ]
   },
   {
     "title": "How Can We Win",
     "creator": "David Jones Media",
-    "url": "https://youtu.be/sb9_qGOa9Go"
+    "url": "https://youtu.be/sb9_qGOa9Go",
+    "tags": [
+      "politics",
+      "life",
+      "community"
+    ]
   },
   {
     "title": "The Egg",
@@ -173,7 +214,11 @@
   {
     "title": "The Trouble with Transporters",
     "creator": "CGPGrey",
-    "url": "https://youtu.be/nQHBAdShgYI"
+    "url": "https://youtu.be/nQHBAdShgYI",
+    "tags": [
+      "science",
+      "technology"
+    ]
   },
   {
     "title": "Super Slow Motion Birds",
@@ -213,7 +258,12 @@
   {
     "title": "Why You Don't Actually Want Super Strength!",
     "creator": "Because Science",
-    "url": "https://youtu.be/kD06SQtfA5s"
+    "url": "https://youtu.be/kD06SQtfA5s",
+    "tags": [
+      "science",
+      "film",
+      "tv"
+    ]
   },
   {
     "title": "How NASA Reinvented The Wheel - Shape Memory Alloys",
@@ -221,14 +271,20 @@
     "url": "https://youtu.be/2lv6Vs12jLc"
   },
   {
-    "title": "Don't Star In School",
+    "title": "Don't Stay In School",
     "creator": "BoyInABand",
-    "url": "https://youtu.be/E9GRYa_3gno"
+    "url": "https://youtu.be/8xe6nLVXEC0",
+    "tags": [
+      "education"
+    ]
   },
   {
     "title": "The Lord of the Rings Mythology Explained - Part 2",
     "creator": "CGPGrey",
-    "url": "https://youtu.be/WKU0qDpu3AM"
+    "url": "https://youtu.be/WKU0qDpu3AM",
+    "tags": [
+      "film"
+    ]
   },
   {
     "title": "The Philosophy of J.R.R. Tolkien: Why Things Keep Getting Worse",
@@ -238,22 +294,36 @@
   {
     "title": "Fly Through a Nebula 163,000 Light Years Away (Celebrating 30 Years of the Hubble Space Telescope)",
     "creator": "It's Okay To Be Smart",
-    "url": "https://youtu.be/LCrs-HeXrug"
+    "url": "https://youtu.be/LCrs-HeXrug",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "The Impossible Hugeness of Deep Time",
     "creator": "It's Okay To Be Smart",
-    "url": "https://youtu.be/dI7SbZx_Qiw"
+    "url": "https://youtu.be/dI7SbZx_Qiw",
+    "tags": [
+      "history",
+      "science"
+    ]
   },
   {
     "title": "Humans Need Not Apply",
     "creator": "CGPGrey",
-    "url": "https://youtu.be/7Pq-S557XQU"
+    "url": "https://youtu.be/7Pq-S557XQU",
+    "tags": [
+      "science",
+      "technology"
+    ]
   },
   {
     "title": "Sauces",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/bLW-o5UTWKU"
+    "url": "https://youtu.be/bLW-o5UTWKU",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "Day in the Life of a Japanese Manga Creator",
@@ -263,17 +333,27 @@
   {
     "title": "Carl Sagan - Cosmos - Eratosthenes",
     "creator": "carlsagandotcom",
-    "url": "https://youtu.be/G8cbIWMv0rI"
+    "url": "https://youtu.be/G8cbIWMv0rI",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "Majora’s Mask - Terrible Fate",
     "creator": "CGMeetup",
-    "url": "https://youtu.be/dqc4gno0Hso"
+    "url": "https://youtu.be/dqc4gno0Hso",
+    "tags": [
+      "film",
+      "gaming"
+    ]
   },
   {
     "title": "Potato Hash",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/R4kwxiDlKzs"
+    "url": "https://youtu.be/R4kwxiDlKzs",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "The Past We Can Never Return To – The Anthropocene Reviewed",
@@ -333,7 +413,10 @@
   {
     "title": "Star Wars - A New Hope Animated",
     "creator": "Dmitry Grozov",
-    "url": "https://youtu.be/Ib_4A2CG2Ag"
+    "url": "https://youtu.be/Ib_4A2CG2Ag",
+    "tags": [
+      "film"
+    ]
   },
   {
     "title": "Why Meat is the Best Worst Thing in the World",
@@ -353,7 +436,11 @@
   {
     "title": "Pollo a la Plancha from Moonlight",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/ZsBWgeQHjnM"
+    "url": "https://youtu.be/ZsBWgeQHjnM",
+    "tags": [
+      "film",
+      "cooking"
+    ]
   },
   {
     "title": "How Trees Bend the Laws of Physics",
@@ -363,7 +450,11 @@
   {
     "title": "Tea Consent",
     "creator": "Blue Seat Studios",
-    "url": "https://youtu.be/oQbei5JGiT8"
+    "url": "https://youtu.be/oQbei5JGiT8",
+    "tags": [
+      "relationships",
+      "health"
+    ]
   },
   {
     "title": "Messages For The Future",
@@ -388,17 +479,31 @@
   {
     "title": "Why You Don't Want Teleportation",
     "creator": "Because Science",
-    "url": "https://youtu.be/Nm5QhMH-EXY"
+    "url": "https://youtu.be/Nm5QhMH-EXY",
+    "tags": [
+      "film",
+      "tv",
+      "science"
+    ]
   },
   {
     "title": "The Somewhat Secret Subway System Under the US Capitol",
     "creator": "Half as Interesting",
-    "url": "https://youtu.be/1z4CAphVjk0"
+    "url": "https://youtu.be/1z4CAphVjk0",
+    "tags": [
+      "politics",
+      "architecture"
+    ]
   },
   {
     "title": "Why You Don't Want Super Speed",
     "creator": "Because Science",
-    "url": "https://youtu.be/FTEDZQaEIts"
+    "url": "https://youtu.be/FTEDZQaEIts",
+    "tags": [
+      "film",
+      "tv",
+      "science"
+    ]
   },
   {
     "title": "Why Gravity is NOT a Force",
@@ -417,7 +522,11 @@
   {
     "title": "Puerco Pibil from Once Upon a Time in Mexico",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/5_sdhAFGmbw"
+    "url": "https://youtu.be/5_sdhAFGmbw",
+    "tags": [
+      "film",
+      "cooking"
+    ]
   },
   {
     "title": "Timelapse of The Entire Universe",
@@ -427,7 +536,11 @@
   {
     "title": "The $289,500 New York Hot Dog Stand License",
     "creator": "Half as Interesting",
-    "url": "https://youtu.be/nzWDXhXkEQQ"
+    "url": "https://youtu.be/nzWDXhXkEQQ",
+    "tags": [
+      "finance",
+      "business"
+    ]
   },
   {
     "title": "1,000km Cable to the Stars",
@@ -437,12 +550,19 @@
   {
     "title": "How A Massive Dam in China Slowed the Earth's Rotation",
     "creator": "Half as Interesting",
-    "url": "https://youtu.be/JvU3hUSime8"
+    "url": "https://youtu.be/JvU3hUSime8",
+    "tags": [
+      "ecology",
+      "architecture"
+    ]
   },
   {
     "title": "Stock & Chicken Noodle Soup",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/74tZ-yOOPy0"
+    "url": "https://youtu.be/74tZ-yOOPy0",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "Unforeseen Consequences: A Half-Life Documentary",
@@ -452,7 +572,10 @@
   {
     "title": "You Are Two",
     "creator": "CGPGrey",
-    "url": "https://youtu.be/wfYbgdo8e-8"
+    "url": "https://youtu.be/wfYbgdo8e-8",
+    "tags": [
+      "psychology"
+    ]
   },
   {
     "title": "Loneliness",
@@ -477,7 +600,10 @@
   {
     "title": "The Mystery at the Bottom of Physics",
     "creator": "Exurb1a",
-    "url": "https://youtu.be/EH-z9gE2uGY"
+    "url": "https://youtu.be/EH-z9gE2uGY",
+    "tags": [
+      "physics"
+    ]
   },
   {
     "title": "JAMstack_conf_london 2019 - Jake Archibald & Surma",
@@ -487,7 +613,11 @@
   {
     "title": "Hidden Details of the New York Public Library",
     "creator": "Architectural Digest",
-    "url": "https://youtu.be/roi5V8ppi7Y"
+    "url": "https://youtu.be/roi5V8ppi7Y",
+    "tags": [
+      "education",
+      "architecture"
+    ]
   },
   {
     "title": "Why Snatch Blocks are AWESOME (How Pulleys Work)",
@@ -502,7 +632,10 @@
   {
     "title": "Mashed Potatoes",
     "creator": "Binging with Babish",
-    "url": "https://youtu.be/ZLnWdPPJvYg"
+    "url": "https://youtu.be/ZLnWdPPJvYg",
+    "tags": [
+      "cooking"
+    ]
   },
   {
     "title": "The World War of the Ants – The Army Ant",
