@@ -50,11 +50,6 @@
     "url": "http://www.kohney.com/comic/anxious/"
   },
   {
-    "title": "My Package",
-    "creator": "Catana",
-    "url": "https://www.instagram.com/p/BmLwMQjl7K-/"
-  },
-  {
     "title": "Thin Ice",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/thin-ice"
@@ -70,29 +65,9 @@
     "url": "http://smbc-comics.com/comic/the-real-villain"
   },
   {
-    "title": "Butt-chin Bean",
-    "creator": "Ketnipz",
-    "url": "https://www.instagram.com/p/BpQaLz3HctA/"
-  },
-  {
     "title": "Relationships: A Guide",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/2010-11-03"
-  },
-  {
-    "title": "Planting",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BltrldOgSSa/"
-  },
-  {
-    "title": "My haircut-decision-making braincells are not doing well",
-    "creator": "Catana",
-    "url": "https://www.instagram.com/p/CDMTxldgtUz/?igshid=1ancb2nyfllg7"
-  },
-  {
-    "title": "Masaje",
-    "creator": "betinorama",
-    "url": "https://www.instagram.com/p/BmLZMxGACxv/"
   },
   {
     "title": "Self-Isolate",
@@ -110,11 +85,6 @@
     "url": "https://www.smbc-comics.com/comic/hubris"
   },
   {
-    "title": "El Cherry Blossom Mexicano",
-    "creator": "Pictoline",
-    "url": "http://pictoline.com/9976-la-proxima-vez-que-veas-una-jacaranda-en-mexico-piensa-que-esta-ahi-gracias-a-un-jardinero-japones-su-nombre-era-tatsugoro-matsumoto-y-asi-fue-como-trajo-nuestro-cherry-blossom/"
-  },
-  {
     "title": "A Bunch of Rocks",
     "creator": "xkcd",
     "url": "https://xkcd.com/505/"
@@ -125,11 +95,6 @@
     "url": "http://www.kohney.com/comic/bears-gone-camping/"
   },
   {
-    "title": "¿Qué les pasa a los árboles en el otoño?",
-    "creator": "Pictoline",
-    "url": "http://pictoline.com/10863-que-les-pasa-a-los-arboles-en-el-otono%F0%9F%8D%82%F0%9F%8D%82%F0%9F%98%8C%F0%9F%8D%82%F0%9F%8D%82/"
-  },
-  {
     "title": "HTTP Status Codes",
     "creator": "MonkeyUser",
     "url": "https://www.monkeyuser.com/2017/http-status-codes/"
@@ -138,11 +103,6 @@
     "title": "The Event",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/the-event"
-  },
-  {
-    "title": "I'm Tired",
-    "creator": "Catana",
-    "url": "https://www.instagram.com/p/Bl5viWKlOP2/"
   },
   {
     "title": "Know",
@@ -200,11 +160,6 @@
     "url": "http://www.poorlydrawnlines.com/comic/trap/"
   },
   {
-    "title": "Bread Cops",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BmB5kr3A-WH/"
-  },
-  {
     "title": "If my dogs were a pair of middle-aged men - PART TWO",
     "creator": "The Oatmeal",
     "url": "https://theoatmeal.com/comics/dogs_as_men2"
@@ -225,11 +180,6 @@
     "url": "https://theoatmeal.com/comics/dogs_as_men"
   },
   {
-    "title": "Sigue Dibujando",
-    "creator": "Pictoline",
-    "url": "http://pictoline.com/10027-sailor-moon-goku-caballeros-del-zodiaco-sakura-pokemones-personajes-que-amabamos-dibujar-de-ninos-cuando-no-nos-daba-miedo-dibujar-%F0%9F%91%A7%F0%9F%91%A6%E2%9C%8F%EF%B8%8F%E2%9D%A4/"
-  },
-  {
     "title": "Unfinished Work",
     "creator": "MonkeyUser",
     "url": "http://www.monkeyuser.com/2018/unfinished-work/"
@@ -238,11 +188,6 @@
     "title": "You're not going to believe what I'm about to tell you",
     "creator": "The Oatmeal",
     "url": "https://theoatmeal.com/comics/believe"
-  },
-  {
-    "title": "Jacket Season",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BnnYwV-A4AN/"
   },
   {
     "title": "The Truth",
@@ -279,11 +224,6 @@
     "url": "https://xkcd.com/1952/"
   },
   {
-    "title": "Wasn't Planning On It",
-    "creator": "Catana",
-    "url": "https://www.instagram.com/p/Bkkx4oFAQ-i/"
-  },
-  {
     "title": "Tech Support",
     "creator": "xkcd",
     "url": "https://xkcd.com/806/",
@@ -300,12 +240,10 @@
   {
     "title": "Worst Thing That Could Happen",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2261/"
-  },
-  {
-    "title": "Rehén",
-    "creator": "betinorama",
-    "url": "https://www.instagram.com/p/BnFc3J1BsLl/"
+    "url": "https://xkcd.com/2261/",
+    "tags": [
+      "paranoia"
+    ]
   },
   {
     "title": "Challengers",
@@ -316,11 +254,6 @@
     "title": "Instagram",
     "creator": "xkcd",
     "url": "https://xkcd.com/1150/"
-  },
-  {
-    "title": "Bean and the Watermelon Seed",
-    "creator": "Ketnipz",
-    "url": "https://www.instagram.com/p/Blg8S72nA3O/"
   },
   {
     "title": "Everything Bagel",
@@ -348,16 +281,6 @@
     "url": "https://xkcd.com/979/"
   },
   {
-    "title": "Modern Day RPG Items",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BqgV-qIBFVH/"
-  },
-  {
-    "title": "Ki",
-    "creator": "betinorama",
-    "url": "https://www.instagram.com/p/BnGed-QBy9y/"
-  },
-  {
     "title": "Software Development",
     "creator": "xkcd",
     "url": "https://xkcd.com/2021/"
@@ -373,34 +296,14 @@
     "url": "https://xkcd.com/2333/"
   },
   {
-    "title": "Self-care isn’t selfish",
-    "creator": "Ketnipz",
-    "url": "https://www.instagram.com/p/BuuDAwYjRfb/"
-  },
-  {
     "title": "Potential",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/potential-2"
   },
   {
-    "title": "Estados Del Ser Según Tu CVerveza",
-    "creator": "Pictoline",
-    "url": "http://pictoline.com/10496-los-estados-del-ser-segun-tu-cerveza-%F0%9F%8D%BA-actualizado-feliz-diainternacionaldelacerveza-internationalbeerday-%F0%9F%8D%BB/"
-  },
-  {
     "title": "Unsubscribe Message",
     "creator": "xkcd",
     "url": "https://xkcd.com/2257/"
-  },
-  {
-    "title": "Vintage Hits",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/Bn9QdaagKOJ/"
-  },
-  {
-    "title": "Just a Bad Dream",
-    "creator": "Ketnipz",
-    "url": "https://www.instagram.com/p/BkwBJptHw2A/"
   },
   {
     "title": "Automation",
@@ -411,11 +314,6 @@
     "title": "Come Back",
     "creator": "Saturday Morning Breakfast Cereal",
     "url": "https://www.smbc-comics.com/comic/come-back"
-  },
-  {
-    "title": "Gear",
-    "creator": "Adamtots",
-    "url": "https://www.instagram.com/p/BnZNB-bAKV9/"
   },
   {
     "title": "Starwatching",
@@ -431,11 +329,6 @@
     "title": "Talk to me",
     "creator": "Commitstrip ",
     "url": "https://www.commitstrip.com/2020/07/03/talk-to-me"
-  },
-  {
-    "title": "May The 4th Be With You",
-    "creator": "Pictoline",
-    "url": "http://pictoline.com/10054-%E2%9D%A4%EF%B8%8F-maythe4thbewithyou-starwarsday/"
   },
   {
     "title": "Balls",
@@ -466,11 +359,6 @@
     ]
   },
   {
-    "title": "Bean Room Tour",
-    "creator": "Ketnipz",
-    "url": "https://www.instagram.com/p/Bmww7Onn5tn/"
-  },
-  {
     "title": "Cobol Programmer",
     "creator": "Dilbert",
     "url": "https://dilbert.com/strip/1997-11-04"
@@ -491,11 +379,6 @@
     "url": "https://xkcd.com/2030/"
   },
   {
-    "title": "Sleepy",
-    "creator": "Catana",
-    "url": "https://www.instagram.com/p/Bob8zunljbA/"
-  },
-  {
     "title": "Ballmer Peak",
     "creator": "xkcd",
     "url": "https://xkcd.com/323/"
@@ -509,5 +392,109 @@
     "title": "Simpler Times",
     "creator": "Poorly Drawn Lines",
     "url": "http://www.poorlydrawnlines.com/comic/simpler-times/"
+  },
+  {
+    "title": "Judge",
+    "creator": "they can talk",
+    "url": "https://theycantalk.com/image/172891420445"
+  },
+  {
+    "title": "Password Strength",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/936/"
+  },
+  {
+    "title": "Harlot’s Web",
+    "creator": "The Perry Bible Fellowship",
+    "url": "http://pbfcomics.com/comics/harlots-web/"
+  },
+  {
+    "title": "Ten Thousand",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/1053/"
+  },
+  {
+    "title": "Cold",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/1321/"
+  },
+  {
+    "title": "Origin Story",
+    "creator": "Port Sherry",
+    "url": "http://portsherry.com/comic/origin-story/"
+  },
+  {
+    "title": "Sperm Whale",
+    "creator": "Hot Paper Comics",
+    "url": "https://hotpapercomics.com/2018/04/06/sperm-whale/"
+  },
+  {
+    "title": "Space Poop",
+    "creator": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com/comic/space-poop"
+  },
+  {
+    "title": "Seeking Answer",
+    "creator": "MonkeyUser",
+    "url": "https://www.monkeyuser.com/2017/seeking-answer/"
+  },
+  {
+    "title": "I'm American",
+    "creator": "Things in Squares",
+    "url": "https://www.thingsinsquares.com/comics/im-american/"
+  },
+  {
+    "title": "Lemons",
+    "creator": "Things in Squares",
+    "url": "https://www.thingsinsquares.com/comics/lemons/"
+  },
+  {
+    "title": "Trap III: Peace",
+    "creator": "Poorly Drawn Lines",
+    "url": "http://www.poorlydrawnlines.com/comic/trap-iii-peace/"
+  },
+  {
+    "title": "Process",
+    "creator": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com/comic/process"
+  },
+  {
+    "title": "Die",
+    "creator": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com/comic/die"
+  },
+  {
+    "title": "Authorizing",
+    "creator": "Amanda Panda",
+    "url": "http://amandapandacomics.com/authorizing/",
+    "tags": [
+      "finance",
+      "paranoia"
+    ]
+  },
+  {
+    "title": "The Birds",
+    "creator": "Port Sherry",
+    "url": "http://portsherry.com/comic/the-birds/"
+  },
+  {
+    "title": "Keep Up to Date",
+    "creator": "MonkeyUser",
+    "url": "https://www.monkeyuser.com/2017/keep-up-to-date/"
+  },
+  {
+    "title": "The New Me",
+    "creator": "The Other End",
+    "url": "http://www.kohney.com/comic/the-new-me/"
+  },
+  {
+    "title": "Trivial Bug",
+    "creator": "MonkeyUser",
+    "url": "https://www.monkeyuser.com/2017/trivial-bug/"
+  },
+  {
+    "title": "Seven Years",
+    "creator": "xkcd",
+    "url": "https://xkcd.com/1928/"
   }
 ]

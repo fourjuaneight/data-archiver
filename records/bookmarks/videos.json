@@ -2,7 +2,12 @@
   {
     "title": "How to Build a Dyson Sphere - The Ultimate Megastructure",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/pP44EPBMb8A"
+    "url": "https://youtu.be/pP44EPBMb8A",
+    "tags": [
+      "astronomy",
+      "engineering",
+      "physics"
+    ]
   },
   {
     "title": "Full Force",
@@ -16,45 +21,73 @@
   {
     "title": "The Bizarre Behavior of Rotating Bodies, Explained",
     "creator": "Veritasium",
-    "url": "https://youtu.be/1VPfZ_XzisU"
+    "url": "https://youtu.be/1VPfZ_XzisU",
+    "tags": [
+      "physics"
+    ]
   },
   {
     "title": "Business",
     "creator": "Kati Skelton",
-    "url": "https://vimeo.com/199950440"
+    "url": "https://vimeo.com/199950440",
+    "tags": [
+      "fiction",
+      "business"
+    ]
   },
   {
     "title": "Wells for Boys",
     "creator": "SNL",
-    "url": "https://youtu.be/BONhk-hbiXk"
+    "url": "https://youtu.be/BONhk-hbiXk",
+    "tags": [
+      "comedy"
+    ]
   },
   {
     "title": "Culture Rot",
     "creator": "Matthew Bischoff",
-    "url": "https://vimeo.com/259586099"
+    "url": "https://vimeo.com/259586099",
+    "tags": [
+      "development",
+      "community"
+    ]
   },
   {
     "title": "A Theory of Flight | Better Worlds",
     "creator": "The Verge",
-    "url": "https://youtu.be/nWqiNgL4_rk"
+    "url": "https://youtu.be/nWqiNgL4_rk",
+    "tags": [
+      "sci-fi"
+    ]
   },
   {
     "title": "Are Space and Time An Illusion?",
     "creator": "Space Time",
-    "url": "https://youtu.be/YycAzdtUIko"
+    "url": "https://youtu.be/YycAzdtUIko",
+    "tags": [
+      "astronomy",
+      "physics",
+      "time"
+    ]
   },
   {
     "title": "Illusions of Time",
     "creator": "VSauce",
     "url": "https://youtu.be/zHL9GP_B30E",
     "tags": [
-      "psychology"
+      "psychology",
+      "time"
     ]
   },
   {
     "title": "Manipulating the YouTube Algorithm",
     "creator": "SmarterEveryDay",
-    "url": "https://youtu.be/1PGm8LslEb4"
+    "url": "https://youtu.be/1PGm8LslEb4",
+    "tags": [
+      "engineering",
+      "social",
+      "psychology"
+    ]
   },
   {
     "title": "Breath of the Wild is a Masterpiece",
@@ -75,7 +108,11 @@
   {
     "title": "DOOM’s Development: A Year of Madness",
     "creator": "WeAreDevelopers",
-    "url": "https://youtu.be/eBU34NZhW7I"
+    "url": "https://youtu.be/eBU34NZhW7I",
+    "tags": [
+      "development",
+      "gaming"
+    ]
   },
   {
     "title": "1911 - A Trip Through New York City",
@@ -113,12 +150,20 @@
   {
     "title": "The Billion Ant Mega Colony and the Biggest War on Earth",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/cqECNYmM23A"
+    "url": "https://youtu.be/cqECNYmM23A",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
   },
   {
     "title": "Neutron Stars – The Most Extreme Things that are not Black Holes",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/udFxKZRyQt4"
+    "url": "https://youtu.be/udFxKZRyQt4",
+    "tags": [
+      "astronomy",
+      "physics"
+    ]
   },
   {
     "title": "A Night at the Garden",
@@ -132,7 +177,11 @@
   {
     "title": "Time: The History & Future of Everything",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/5TbUxGZtwGI"
+    "url": "https://youtu.be/5TbUxGZtwGI",
+    "tags": [
+      "history",
+      "time"
+    ]
   },
   {
     "title": "Brief History of the Royal Family",
@@ -146,7 +195,11 @@
   {
     "title": "The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/qsN1LglrX9s"
+    "url": "https://youtu.be/qsN1LglrX9s",
+    "tags": [
+      "astronomy",
+      "physics"
+    ]
   },
   {
     "title": "Why You Don't Want Invisibility",
@@ -161,22 +214,36 @@
   {
     "title": "Northbound",
     "creator": "Turbin Film",
-    "url": "https://vimeo.com/208432684"
+    "url": "https://vimeo.com/208432684",
+    "tags": [
+      "film",
+      "travel"
+    ]
   },
   {
     "title": "A Brief History of Everything",
     "creator": "minutephysics",
-    "url": "https://youtu.be/7KYTJ8tBoZ8"
+    "url": "https://youtu.be/7KYTJ8tBoZ8",
+    "tags": [
+      "history"
+    ]
   },
   {
     "title": "The Science of Six Degrees of Separation",
     "creator": "Veritasium",
-    "url": "https://youtu.be/TcxZSmzPw8k"
+    "url": "https://youtu.be/TcxZSmzPw8k",
+    "tags": [
+      "life",
+      "community"
+    ]
   },
   {
     "title": "Toxicity by System of a Down",
     "creator": "Nandi Bushell",
-    "url": "https://youtu.be/rIP-Gfp04bM"
+    "url": "https://youtu.be/rIP-Gfp04bM",
+    "tags": [
+      "music"
+    ]
   },
   {
     "title": "Why There Are Thousands of Giant Arrows Across the US",
@@ -191,25 +258,34 @@
     "creator": "David Jones Media",
     "url": "https://youtu.be/sb9_qGOa9Go",
     "tags": [
-      "politics",
-      "life",
-      "community"
+      "race"
     ]
   },
   {
     "title": "The Egg",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/h6fcK_fRYaI"
+    "url": "https://youtu.be/h6fcK_fRYaI",
+    "tags": [
+      "sci-fi"
+    ]
   },
   {
     "title": "Building a Marsbase is a Horrible Idea: Let’s do it!",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/uqKGREZs6-w"
+    "url": "https://youtu.be/uqKGREZs6-w",
+    "tags": [
+      "astronomy",
+      "engineering"
+    ]
   },
   {
     "title": "DC’s abandoned fire and police call boxes, explained",
     "creator": "Vox",
-    "url": "https://youtu.be/KSO5vRGsD1M"
+    "url": "https://youtu.be/KSO5vRGsD1M",
+    "tags": [
+      "culture",
+      "history"
+    ]
   },
   {
     "title": "The Trouble with Transporters",
@@ -223,37 +299,63 @@
   {
     "title": "Super Slow Motion Birds",
     "creator": "The Slow Mo Guys",
-    "url": "https://youtu.be/e-5xPpBxihI"
+    "url": "https://youtu.be/e-5xPpBxihI",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Farewell Mr. Bunting",
     "creator": "SNL",
-    "url": "https://youtu.be/Ie6LpKOJVf0"
+    "url": "https://youtu.be/Ie6LpKOJVf0",
+    "tags": [
+      "comedy"
+    ]
   },
   {
     "title": "What Is The Shape of Space?",
     "creator": "minutephysics",
-    "url": "https://youtu.be/oCK5oGmRtxQ"
+    "url": "https://youtu.be/oCK5oGmRtxQ",
+    "tags": [
+      "physics",
+      "astronomy"
+    ]
   },
   {
     "title": "Jake Archibald: In The Loop",
     "creator": "JSConf",
-    "url": "https://youtu.be/cCOL7MC4Pl0"
+    "url": "https://youtu.be/cCOL7MC4Pl0",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "The Warrior Kingdoms of the Weaver Ant",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/B3QTAgHlwEg"
+    "url": "https://youtu.be/B3QTAgHlwEg",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
   },
   {
     "title": "Game of Thrones Anime",
     "creator": "Malec",
-    "url": "https://youtu.be/efD3nmwF-IM"
+    "url": "https://youtu.be/efD3nmwF-IM",
+    "tags": [
+      "fantasy",
+      "tv"
+    ]
   },
   {
     "title": "Tatiana Mac :: How Privilege Defines Performance :: #PerfMatters Conference 2019",
     "creator": "PerfMatters Conference",
-    "url": "https://youtu.be/nQq_gZiZ-jg"
+    "url": "https://youtu.be/nQq_gZiZ-jg",
+    "tags": [
+      "community",
+      "development",
+      "race"
+    ]
   },
   {
     "title": "Why You Don't Actually Want Super Strength!",
@@ -268,7 +370,11 @@
   {
     "title": "How NASA Reinvented The Wheel - Shape Memory Alloys",
     "creator": "Real Engineering",
-    "url": "https://youtu.be/2lv6Vs12jLc"
+    "url": "https://youtu.be/2lv6Vs12jLc",
+    "tags": [
+      "engineering",
+      "history"
+    ]
   },
   {
     "title": "Don't Stay In School",
@@ -289,7 +395,11 @@
   {
     "title": "The Philosophy of J.R.R. Tolkien: Why Things Keep Getting Worse",
     "creator": "Wisecrack",
-    "url": "https://youtu.be/_-sTbaH-aA0"
+    "url": "https://youtu.be/_-sTbaH-aA0",
+    "tags": [
+      "film",
+      "philosophy"
+    ]
   },
   {
     "title": "Fly Through a Nebula 163,000 Light Years Away (Celebrating 30 Years of the Hubble Space Telescope)",
@@ -304,8 +414,8 @@
     "creator": "It's Okay To Be Smart",
     "url": "https://youtu.be/dI7SbZx_Qiw",
     "tags": [
-      "history",
-      "science"
+      "physics",
+      "time"
     ]
   },
   {
@@ -328,7 +438,10 @@
   {
     "title": "Day in the Life of a Japanese Manga Creator",
     "creator": "Paolo fromTOKYO",
-    "url": "https://youtu.be/t3rKrTehORY"
+    "url": "https://youtu.be/t3rKrTehORY",
+    "tags": [
+      "art"
+    ]
   },
   {
     "title": "Carl Sagan - Cosmos - Eratosthenes",
@@ -358,57 +471,102 @@
   {
     "title": "The Past We Can Never Return To – The Anthropocene Reviewed",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/YbgnlkJPga4"
+    "url": "https://youtu.be/YbgnlkJPga4",
+    "tags": [
+      "history",
+      "anthropology"
+    ]
   },
   {
     "title": "Hackers - Wizards of the Electronic Age",
     "creator": "TheMac6010",
-    "url": "https://youtu.be/zOP1LNr70aU"
+    "url": "https://youtu.be/zOP1LNr70aU",
+    "tags": [
+      "development",
+      "hacking",
+      "history"
+    ]
   },
   {
     "title": "John Cena Horse",
     "creator": "S0NIX",
-    "url": "https://youtu.be/pUeJgnN3qF4"
+    "url": "https://youtu.be/pUeJgnN3qF4",
+    "tags": [
+      "memes"
+    ]
   },
   {
     "title": "The (mostly) true story of hobo graffiti",
     "creator": "Vox",
-    "url": "https://youtu.be/2-MLV_RJ6KQ"
+    "url": "https://youtu.be/2-MLV_RJ6KQ",
+    "tags": [
+      "history",
+      "community"
+    ]
   },
   {
     "title": "World's Roundest Object!",
     "creator": "Veritasium",
-    "url": "https://youtu.be/ZMByI4s-D-Y"
+    "url": "https://youtu.be/ZMByI4s-D-Y",
+    "tags": [
+      "engineering",
+      "physics"
+    ]
   },
   {
     "title": "Twitter Platform Manipulation",
     "creator": "SmarterEveryDay",
-    "url": "https://youtu.be/V-1RhQ1uuQ4"
+    "url": "https://youtu.be/V-1RhQ1uuQ4",
+    "tags": [
+      "engineering",
+      "psychology",
+      "social"
+    ]
   },
   {
-    "title": "Shells of Cosmic Time (ft. @AstroKatie)",
+    "title": "Shells of Cosmic Time",
     "creator": "minutephysics",
-    "url": "https://youtu.be/Cfg11qQwPzQ"
+    "url": "https://youtu.be/Cfg11qQwPzQ",
+    "tags": [
+      "astronomy",
+      "time"
+    ]
   },
   {
     "title": "How Was Video Invented?",
     "creator": "Veritasium",
-    "url": "https://youtu.be/rjDX5ItsOnQ"
+    "url": "https://youtu.be/rjDX5ItsOnQ",
+    "tags": [
+      "film",
+      "technology",
+      "history"
+    ]
   },
   {
     "title": "A Sun Will Always Sing | Better Worlds",
     "creator": "The Verge",
-    "url": "https://youtu.be/Yslk7DfADac"
+    "url": "https://youtu.be/Yslk7DfADac",
+    "tags": [
+      "sci-fi"
+    ]
   },
   {
     "title": "Does time work differently in different languages? - Hopi Time",
     "creator": "NativLang",
-    "url": "https://youtu.be/u6eXw0AAKZ8"
+    "url": "https://youtu.be/u6eXw0AAKZ8",
+    "tags": [
+      "linguistics",
+      "time"
+    ]
   },
   {
     "title": "How Overnight Shipping Works",
     "creator": "Wendover Productions",
-    "url": "https://youtu.be/y3qfeoqErtY"
+    "url": "https://youtu.be/y3qfeoqErtY",
+    "tags": [
+      "technology",
+      "business"
+    ]
   },
   {
     "title": "Star Wars - A New Hope Animated",
@@ -421,17 +579,27 @@
   {
     "title": "Why Meat is the Best Worst Thing in the World",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/NxvQPzrg2Wg"
+    "url": "https://youtu.be/NxvQPzrg2Wg",
+    "tags": [
+      "ecology",
+      "food"
+    ]
   },
   {
-    "title": "Only Slightly Exaggerated | Travel Oregon",
+    "title": "Only Slightly Exaggerated",
     "creator": "Oregon",
-    "url": "https://youtu.be/XXRBLyQQ78A"
+    "url": "https://youtu.be/XXRBLyQQ78A",
+    "tags": [
+      "travel"
+    ]
   },
   {
     "title": "Time",
     "creator": "Vsauce3",
-    "url": "https://youtu.be/AORsw8NpN4E"
+    "url": "https://youtu.be/AORsw8NpN4E",
+    "tags": [
+      "time"
+    ]
   },
   {
     "title": "Pollo a la Plancha from Moonlight",
@@ -445,7 +613,11 @@
   {
     "title": "How Trees Bend the Laws of Physics",
     "creator": "Veritasium",
-    "url": "https://youtu.be/BickMFHAZR0"
+    "url": "https://youtu.be/BickMFHAZR0",
+    "tags": [
+      "ecology",
+      "physics"
+    ]
   },
   {
     "title": "Tea Consent",
@@ -459,22 +631,38 @@
   {
     "title": "Messages For The Future",
     "creator": "Vsauce",
-    "url": "https://youtu.be/GDrBIKOR01c"
+    "url": "https://youtu.be/GDrBIKOR01c",
+    "tags": [
+      "technology",
+      "time"
+    ]
   },
   {
     "title": "Stealth - How Does it Work? (Northrop B-2 Spirit)",
     "creator": "Real Engineering",
-    "url": "https://youtu.be/ya8umwgtsLw"
+    "url": "https://youtu.be/ya8umwgtsLw",
+    "tags": [
+      "aviation",
+      "engineering"
+    ]
   },
   {
     "title": "Optimistic Nihilism",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/MBRqu0YOH14"
+    "url": "https://youtu.be/MBRqu0YOH14",
+    "tags": [
+      "life",
+      "physics"
+    ]
   },
   {
     "title": "Anti-Gravity Wheel?",
     "creator": "Veritasium",
-    "url": "https://youtu.be/GeyDf4ooPdo"
+    "url": "https://youtu.be/GeyDf4ooPdo",
+    "tags": [
+      "physics",
+      "puzzles"
+    ]
   },
   {
     "title": "Why You Don't Want Teleportation",
@@ -517,7 +705,10 @@
   {
     "title": "A Baffling Balloon Behavior",
     "creator": "SmarterEveryDay",
-    "url": "https://youtu.be/y8mzDvpKzfY"
+    "url": "https://youtu.be/y8mzDvpKzfY",
+    "tags": [
+      "physics"
+    ]
   },
   {
     "title": "Puerco Pibil from Once Upon a Time in Mexico",
@@ -531,7 +722,11 @@
   {
     "title": "Timelapse of The Entire Universe",
     "creator": "melodysheep",
-    "url": "https://youtu.be/TBikbn5XJhg"
+    "url": "https://youtu.be/TBikbn5XJhg",
+    "tags": [
+      "astronomy",
+      "physics"
+    ]
   },
   {
     "title": "The $289,500 New York Hot Dog Stand License",
@@ -545,7 +740,11 @@
   {
     "title": "1,000km Cable to the Stars",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/dqwpQarrDwk"
+    "url": "https://youtu.be/dqwpQarrDwk",
+    "tags": [
+      "science",
+      "engineering"
+    ]
   },
   {
     "title": "How A Massive Dam in China Slowed the Earth's Rotation",
@@ -567,7 +766,10 @@
   {
     "title": "Unforeseen Consequences: A Half-Life Documentary",
     "creator": "Noclip",
-    "url": "https://youtu.be/BQLEW1c-69c"
+    "url": "https://youtu.be/BQLEW1c-69c",
+    "tags": [
+      "gaming"
+    ]
   },
   {
     "title": "You Are Two",
@@ -580,22 +782,39 @@
   {
     "title": "Loneliness",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/n3Xv_g3g-mA"
+    "url": "https://youtu.be/n3Xv_g3g-mA",
+    "tags": [
+      "health",
+      "life",
+      "community"
+    ]
   },
   {
     "title": "Could You Survive The Movies? MAD MAX",
     "creator": "Vsauce3",
-    "url": "https://youtu.be/pZkCZ4LCO0o"
+    "url": "https://youtu.be/pZkCZ4LCO0o",
+    "tags": [
+      "film"
+    ]
   },
   {
     "title": "Meet the KGB Spies Who Invented Fake News",
     "creator": "NYT",
-    "url": "https://youtu.be/h5WjRjz5mTU"
+    "url": "https://youtu.be/h5WjRjz5mTU",
+    "tags": [
+      "politics",
+      "war",
+      "news"
+    ]
   },
   {
     "title": "In Search of Forgotten Colours - Sachio Yoshioka and the Art of Natural Dyeing",
     "creator": "Victoria and Albert Museum",
-    "url": "https://youtu.be/7OiG-WjbCQA"
+    "url": "https://youtu.be/7OiG-WjbCQA",
+    "tags": [
+      "art",
+      "history"
+    ]
   },
   {
     "title": "The Mystery at the Bottom of Physics",
@@ -608,7 +827,10 @@
   {
     "title": "JAMstack_conf_london 2019 - Jake Archibald & Surma",
     "creator": "JAMstack Conf",
-    "url": "https://youtu.be/TsTt7Tja30Q"
+    "url": "https://youtu.be/TsTt7Tja30Q",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Hidden Details of the New York Public Library",
@@ -622,12 +844,19 @@
   {
     "title": "Why Snatch Blocks are AWESOME (How Pulleys Work)",
     "creator": "SmarterEveryDay",
-    "url": "https://youtu.be/M2w3NZzPwOM"
+    "url": "https://youtu.be/M2w3NZzPwOM",
+    "tags": [
+      "engineering"
+    ]
   },
   {
     "title": "Dominoes - HARDCORE Mode",
     "creator": "SmarterEveryDay",
-    "url": "https://youtu.be/9hPIobthvHg"
+    "url": "https://youtu.be/9hPIobthvHg",
+    "tags": [
+      "engineering",
+      "gaming"
+    ]
   },
   {
     "title": "Mashed Potatoes",
@@ -640,6 +869,11 @@
   {
     "title": "The World War of the Ants – The Army Ant",
     "creator": "Kurzgesagt",
-    "url": "https://youtu.be/7_e0CA_nhaE"
+    "url": "https://youtu.be/7_e0CA_nhaE",
+    "tags": [
+      "biology",
+      "ecology",
+      "war"
+    ]
   }
 ]
