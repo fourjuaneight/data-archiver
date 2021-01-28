@@ -2,212 +2,336 @@
   {
     "title": "Computer Problems",
     "creator": "xkcd",
-    "url": "https://xkcd.com/722/"
+    "url": "https://xkcd.com/722/",
+    "tags": [
+      "technology"
+    ]
   },
   {
     "title": "Bully",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://smbc-comics.com/comic/bully"
+    "url": "https://smbc-comics.com/comic/bully",
+    "tags": [
+      "relationships"
+    ]
   },
   {
     "title": "Perspective",
     "creator": "xkcd",
-    "url": "https://xkcd.com/198/"
+    "url": "https://xkcd.com/198/",
+    "tags": [
+      "technology"
+    ]
   },
   {
     "title": "Workflow",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1172/"
+    "url": "https://xkcd.com/1172/",
+    "tags": [
+      "productivity"
+    ]
   },
   {
     "title": "Happy Easter",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/happy-easter/"
+    "url": "http://www.kohney.com/comic/happy-easter/",
+    "tags": [
+      "religion"
+    ]
   },
   {
     "title": "Fossils",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/fossils-2"
+    "url": "https://www.smbc-comics.com/comic/fossils-2",
+    "tags": [
+      "religion"
+    ]
   },
   {
     "title": "Real Programmers",
     "creator": "xkcd",
-    "url": "https://xkcd.com/378/"
+    "url": "https://xkcd.com/378/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "On November 26th, a mole will land on Mars",
     "creator": "The Oatmeal",
-    "url": "https://theoatmeal.com/static/insight.html"
+    "url": "https://theoatmeal.com/static/insight.html",
+    "tags": [
+      "astronomy",
+      "engineering"
+    ]
   },
   {
     "title": "Tech Support Cheat Sheet",
     "creator": "xkcd",
-    "url": "https://xkcd.com/627/"
+    "url": "https://xkcd.com/627/",
+    "tags": [
+      "technology"
+    ]
   },
   {
     "title": "Anxious",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/anxious/"
+    "url": "http://www.kohney.com/comic/anxious/",
+    "tags": [
+      "psychology"
+    ]
   },
   {
     "title": "Thin Ice",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/thin-ice"
+    "url": "https://www.smbc-comics.com/comic/thin-ice",
+    "tags": [
+      "climate"
+    ]
   },
   {
     "title": "Pigeon",
     "creator": "they can talk",
-    "url": "https://theycantalk.com/image/169716055855"
+    "url": "https://theycantalk.com/image/169716055855",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "The Real Villain",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "http://smbc-comics.com/comic/the-real-villain"
+    "url": "http://smbc-comics.com/comic/the-real-villain",
+    "tags": [
+      "crime"
+    ]
   },
   {
     "title": "Relationships: A Guide",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/2010-11-03"
+    "url": "https://www.smbc-comics.com/comic/2010-11-03",
+    "tags": [
+      "relationships"
+    ]
   },
   {
     "title": "Self-Isolate",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2276/"
+    "url": "https://xkcd.com/2276/",
+    "tags": [
+      "health",
+      "life"
+    ]
   },
   {
     "title": "Screen Time",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "http://smbc-comics.com/comic/screen-time"
+    "url": "http://smbc-comics.com/comic/screen-time",
+    "tags": [
+      "health",
+      "technology"
+    ]
   },
   {
     "title": "Hubris",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/hubris"
+    "url": "https://www.smbc-comics.com/comic/hubris",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "A Bunch of Rocks",
     "creator": "xkcd",
-    "url": "https://xkcd.com/505/"
+    "url": "https://xkcd.com/505/",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "Bears Gone Camping",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/bears-gone-camping/"
+    "url": "http://www.kohney.com/comic/bears-gone-camping/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "HTTP Status Codes",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/http-status-codes/"
+    "url": "https://www.monkeyuser.com/2017/http-status-codes/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "The Event",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/the-event"
+    "url": "https://www.smbc-comics.com/comic/the-event",
+    "tags": [
+      "fear",
+      "work"
+    ]
   },
   {
     "title": "Know",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/know/"
+    "url": "http://www.poorlydrawnlines.com/comic/know/",
+    "tags": [
+      "knowledge"
+    ]
   },
   {
     "title": "On November 26th, a mole will land on Mars",
     "creator": "Matthew Inman",
-    "url": "https://theoatmeal.com/static/insight.html"
+    "url": "https://theoatmeal.com/static/insight.html",
+    "tags": [
+      "astronomy",
+      "engineering"
+    ]
   },
   {
     "title": "Report",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/report/"
+    "url": "http://www.poorlydrawnlines.com/comic/report/",
+    "tags": [
+      "astronomy",
+      "engineering"
+    ]
   },
   {
     "title": "Everytime",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2018/everytime/"
+    "url": "https://www.monkeyuser.com/2018/everytime/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Solar System Changes",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2258/"
+    "url": "https://xkcd.com/2258/",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "How to eat a burrito",
     "creator": "The Oatmeal",
-    "url": "https://theoatmeal.com/comics/how_eat_burrito"
+    "url": "https://theoatmeal.com/comics/how_eat_burrito",
+    "tags": [
+      "food"
+    ]
   },
   {
     "title": "Tasks",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1425/"
-  },
-  {
-    "title": "The Flower and I are Friends",
-    "creator": "Shen Comix",
-    "url": "http://shencomix.com/post/179386781559"
+    "url": "https://xkcd.com/1425/",
+    "tags": [
+      "productivity"
+    ]
   },
   {
     "title": "The BDLPSWDKS Effect",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1531/"
+    "url": "https://xkcd.com/1531/",
+    "tags": [
+      "science"
+    ]
   },
   {
     "title": "Who put me in here?",
     "creator": "Port Sherry",
-    "url": "http://portsherry.com/comic/who-put-me-in-here/"
+    "url": "http://portsherry.com/comic/who-put-me-in-here/",
+    "tags": [
+      "life"
+    ]
   },
   {
     "title": "Trap I",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/trap/"
+    "url": "http://www.poorlydrawnlines.com/comic/trap/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "If my dogs were a pair of middle-aged men - PART TWO",
     "creator": "The Oatmeal",
-    "url": "https://theoatmeal.com/comics/dogs_as_men2"
+    "url": "https://theoatmeal.com/comics/dogs_as_men2",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Trap II: Mouse Problems",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/trap-ii-mouse-problems/"
+    "url": "http://www.poorlydrawnlines.com/comic/trap-ii-mouse-problems/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "npm Delivery",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/npm-delivery/"
+    "url": "https://www.monkeyuser.com/2017/npm-delivery/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "If my dogs were a pair of middle-aged men",
     "creator": "The Oatmeal",
-    "url": "https://theoatmeal.com/comics/dogs_as_men"
+    "url": "https://theoatmeal.com/comics/dogs_as_men",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Unfinished Work",
     "creator": "MonkeyUser",
-    "url": "http://www.monkeyuser.com/2018/unfinished-work/"
+    "url": "http://www.monkeyuser.com/2018/unfinished-work/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "You're not going to believe what I'm about to tell you",
     "creator": "The Oatmeal",
-    "url": "https://theoatmeal.com/comics/believe"
+    "url": "https://theoatmeal.com/comics/believe",
+    "tags": [
+      "history"
+    ]
   },
   {
     "title": "The Truth",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/the-truth"
+    "url": "https://www.smbc-comics.com/comic/the-truth",
+    "tags": [
+      "family"
+    ]
   },
   {
     "title": "COVID Risk Comfort Zone",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2346/"
+    "url": "https://xkcd.com/2346/",
+    "tags": [
+      "health"
+    ]
   },
   {
     "title": "Pull Request",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2018/pull-request/"
+    "url": "https://www.monkeyuser.com/2018/pull-request/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Quantum Bits",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/quantum-bits"
+    "url": "https://www.smbc-comics.com/comic/quantum-bits",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "Animal Racism",
@@ -215,13 +339,18 @@
     "url": "https://www.woodenplankstudios.com/comic/animal-racism/",
     "tags": [
       "animals",
-      "gaming"
+      "gaming",
+      "race"
     ]
   },
   {
     "title": "Backpack Decisions",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1952/"
+    "url": "https://xkcd.com/1952/",
+    "tags": [
+      "travel",
+      "productivity"
+    ]
   },
   {
     "title": "Tech Support",
@@ -235,7 +364,10 @@
   {
     "title": "Lisp",
     "creator": "xkcd",
-    "url": "https://xkcd.com/224/"
+    "url": "https://xkcd.com/224/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Worst Thing That Could Happen",
@@ -248,107 +380,176 @@
   {
     "title": "Challengers",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2067/"
+    "url": "https://xkcd.com/2067/",
+    "tags": [
+      "politics"
+    ]
   },
   {
     "title": "Instagram",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1150/"
+    "url": "https://xkcd.com/1150/",
+    "tags": [
+      "social"
+    ]
   },
   {
     "title": "Everything Bagel",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/everything-bagel/"
+    "url": "http://www.kohney.com/comic/everything-bagel/",
+    "tags": [
+      "food",
+      "fantasy"
+    ]
   },
   {
     "title": "Stone Cold",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/stone-cold/"
+    "url": "http://www.poorlydrawnlines.com/comic/stone-cold/",
+    "tags": [
+      "relationships"
+    ]
   },
   {
     "title": "Footprints and Photos",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/footprints-and-photos/"
+    "url": "http://www.kohney.com/comic/footprints-and-photos/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Man vs Nature",
     "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/man-vs-nature/"
+    "url": "http://www.kohney.com/comic/man-vs-nature/",
+    "tags": [
+      "animals",
+      "ecology"
+    ]
   },
   {
     "title": "Wisdom of the Ancients",
     "creator": "xkcd",
-    "url": "https://xkcd.com/979/"
+    "url": "https://xkcd.com/979/",
+    "tags": [
+      "development",
+      "knowledge"
+    ]
   },
   {
     "title": "Software Development",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2021/"
+    "url": "https://xkcd.com/2021/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Open Source Issues",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/open-source-issues/"
+    "url": "https://www.monkeyuser.com/2017/open-source-issues/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "COVID Risk Chart",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2333/"
+    "url": "https://xkcd.com/2333/",
+    "tags": [
+      "health"
+    ]
   },
   {
     "title": "Potential",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/potential-2"
+    "url": "https://www.smbc-comics.com/comic/potential-2",
+    "tags": [
+      "family",
+      "life"
+    ]
   },
   {
     "title": "Unsubscribe Message",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2257/"
+    "url": "https://xkcd.com/2257/",
+    "tags": [
+      "advertising"
+    ]
   },
   {
     "title": "Automation",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1319/"
+    "url": "https://xkcd.com/1319/",
+    "tags": [
+      "engineering"
+    ]
   },
   {
     "title": "Come Back",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/come-back"
+    "url": "https://www.smbc-comics.com/comic/come-back",
+    "tags": [
+      "knowledge",
+      "finance"
+    ]
   },
   {
     "title": "Starwatching",
     "creator": "xkcd",
-    "url": "https://xkcd.com/428/"
+    "url": "https://xkcd.com/428/",
+    "tags": [
+      "astronomy"
+    ]
   },
   {
     "title": "Platypus",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/platypus"
+    "url": "https://www.smbc-comics.com/comic/platypus",
+    "tags": [
+      "animals",
+      "religion"
+    ]
   },
   {
     "title": "Talk to me",
     "creator": "Commitstrip ",
-    "url": "https://www.commitstrip.com/2020/07/03/talk-to-me"
+    "url": "https://www.commitstrip.com/2020/07/03/talk-to-me",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Balls",
     "creator": "Things in Squares",
-    "url": "https://www.thingsinsquares.com/comics/balls/"
+    "url": "https://www.thingsinsquares.com/comics/balls/",
+    "tags": [
+      "sports"
+    ]
   },
   {
     "title": "Hole",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/hole/"
+    "url": "http://www.poorlydrawnlines.com/comic/hole/",
+    "tags": [
+      "finance"
+    ]
   },
   {
     "title": "Hard Work",
     "creator": "Extra Fabulos",
-    "url": "http://extrafabulouscomics.com/comic/504/"
+    "url": "http://extrafabulouscomics.com/comic/504/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Duty Calls",
     "creator": "xkcd",
-    "url": "https://xkcd.com/386/"
+    "url": "https://xkcd.com/386/",
+    "tags": [
+      "social"
+    ]
   },
   {
     "title": "Making Progress",
@@ -361,140 +562,192 @@
   {
     "title": "Cobol Programmer",
     "creator": "Dilbert",
-    "url": "https://dilbert.com/strip/1997-11-04"
-  },
-  {
-    "title": "With Great Power...",
-    "creator": "Tony BTS",
-    "url": "https://www.instagram.com/p/Bos893Vh31H/"
+    "url": "https://dilbert.com/strip/1997-11-04",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Debugging",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2018/debugging/"
+    "url": "https://www.monkeyuser.com/2018/debugging/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Voting Software",
     "creator": "xkcd",
-    "url": "https://xkcd.com/2030/"
+    "url": "https://xkcd.com/2030/",
+    "tags": [
+      "politics",
+      "technology"
+    ]
   },
   {
     "title": "Ballmer Peak",
     "creator": "xkcd",
-    "url": "https://xkcd.com/323/"
+    "url": "https://xkcd.com/323/",
+    "tags": [
+      "engineering"
+    ]
   },
   {
     "title": "Smaug",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/smaug"
+    "url": "https://www.smbc-comics.com/comic/smaug",
+    "tags": [
+      "finance",
+      "fantasy"
+    ]
   },
   {
     "title": "Simpler Times",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/simpler-times/"
+    "url": "http://www.poorlydrawnlines.com/comic/simpler-times/",
+    "tags": [
+      "community"
+    ]
   },
   {
     "title": "Judge",
     "creator": "they can talk",
-    "url": "https://theycantalk.com/image/172891420445"
+    "url": "https://theycantalk.com/image/172891420445",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Password Strength",
     "creator": "xkcd",
-    "url": "https://xkcd.com/936/"
+    "url": "https://xkcd.com/936/",
+    "tags": [
+      "security",
+      "privacy"
+    ]
   },
   {
     "title": "Harlot’s Web",
     "creator": "The Perry Bible Fellowship",
-    "url": "http://pbfcomics.com/comics/harlots-web/"
+    "url": "http://pbfcomics.com/comics/harlots-web/",
+    "tags": [
+      "animals",
+      "relationships"
+    ]
   },
   {
     "title": "Ten Thousand",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1053/"
+    "url": "https://xkcd.com/1053/",
+    "tags": [
+      "knowledge"
+    ]
   },
   {
     "title": "Cold",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1321/"
+    "url": "https://xkcd.com/1321/",
+    "tags": [
+      "climate"
+    ]
   },
   {
     "title": "Origin Story",
     "creator": "Port Sherry",
-    "url": "http://portsherry.com/comic/origin-story/"
-  },
-  {
-    "title": "Sperm Whale",
-    "creator": "Hot Paper Comics",
-    "url": "https://hotpapercomics.com/2018/04/06/sperm-whale/"
+    "url": "http://portsherry.com/comic/origin-story/",
+    "tags": [
+      "family"
+    ]
   },
   {
     "title": "Space Poop",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/space-poop"
+    "url": "https://www.smbc-comics.com/comic/space-poop",
+    "tags": [
+      "astronomy",
+      "engineering"
+    ]
   },
   {
     "title": "Seeking Answer",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/seeking-answer/"
+    "url": "https://www.monkeyuser.com/2017/seeking-answer/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "I'm American",
     "creator": "Things in Squares",
-    "url": "https://www.thingsinsquares.com/comics/im-american/"
+    "url": "https://www.thingsinsquares.com/comics/im-american/",
+    "tags": [
+      "politics"
+    ]
   },
   {
     "title": "Lemons",
     "creator": "Things in Squares",
-    "url": "https://www.thingsinsquares.com/comics/lemons/"
+    "url": "https://www.thingsinsquares.com/comics/lemons/",
+    "tags": [
+      "life"
+    ]
   },
   {
     "title": "Trap III: Peace",
     "creator": "Poorly Drawn Lines",
-    "url": "http://www.poorlydrawnlines.com/comic/trap-iii-peace/"
+    "url": "http://www.poorlydrawnlines.com/comic/trap-iii-peace/",
+    "tags": [
+      "animals"
+    ]
   },
   {
     "title": "Process",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/process"
+    "url": "https://www.smbc-comics.com/comic/process",
+    "tags": [
+      "art",
+      "fantasy"
+    ]
   },
   {
     "title": "Die",
     "creator": "Saturday Morning Breakfast Cereal",
-    "url": "https://www.smbc-comics.com/comic/die"
-  },
-  {
-    "title": "Authorizing",
-    "creator": "Amanda Panda",
-    "url": "http://amandapandacomics.com/authorizing/",
+    "url": "https://www.smbc-comics.com/comic/die",
     "tags": [
-      "finance",
-      "paranoia"
+      "life"
     ]
   },
   {
     "title": "The Birds",
     "creator": "Port Sherry",
-    "url": "http://portsherry.com/comic/the-birds/"
+    "url": "http://portsherry.com/comic/the-birds/",
+    "tags": [
+      "film"
+    ]
   },
   {
     "title": "Keep Up to Date",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/keep-up-to-date/"
-  },
-  {
-    "title": "The New Me",
-    "creator": "The Other End",
-    "url": "http://www.kohney.com/comic/the-new-me/"
+    "url": "https://www.monkeyuser.com/2017/keep-up-to-date/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Trivial Bug",
     "creator": "MonkeyUser",
-    "url": "https://www.monkeyuser.com/2017/trivial-bug/"
+    "url": "https://www.monkeyuser.com/2017/trivial-bug/",
+    "tags": [
+      "development"
+    ]
   },
   {
     "title": "Seven Years",
     "creator": "xkcd",
-    "url": "https://xkcd.com/1928/"
+    "url": "https://xkcd.com/1928/",
+    "tags": [
+      "relationships",
+      "health"
+    ]
   }
 ]
