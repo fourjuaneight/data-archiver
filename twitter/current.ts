@@ -1,6 +1,6 @@
 import "https://deno.land/x/dotenv/load.ts";
+import { format } from "https://deno.land/std/datetime/mod.ts";
 import {
-  formatISO,
   isAfter,
   subDays,
 } from "https://cdn.skypack.dev/date-fns?dts";
@@ -75,7 +75,7 @@ const formatTweet = async (
   ).then((result: string) => result);
   const formatted: ILatestTweetFmt = {
     tweet: expanded,
-    date: formatISO(new Date(twt.created_at)),
+    date: format(new Date(twt.created_at), "yyyy-MM-dd'T'HH:mm:ss"),
     url: `https://twitter.com/fourjuaneight/status/${rawTweet.id_str}`,
   };
 

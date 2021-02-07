@@ -1,8 +1,5 @@
-import {
-  formatISO,
-  isAfter,
-  subDays,
-} from "https://cdn.skypack.dev/date-fns?dts";
+import { format } from "https://deno.land/std/datetime/mod.ts";
+import { isAfter, subDays } from "https://cdn.skypack.dev/date-fns?dts";
 
 import auth from "./auth.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
@@ -61,7 +58,7 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
 const formatTweets = (rawTweets: ILatestTweet[]): ILatestTweetFmt[] => {
   const formatted: ILatestTweetFmt[] = rawTweets.map((twt: ILatestTweet) => ({
     tweet: emojiUnicode(twt.full_text),
-    date: formatISO(new Date(twt.created_at)),
+    date: format(new Date(twt.created_at), "yyyy-MM-dd'T'HH:mm:ss"),
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
   }));
 
