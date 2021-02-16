@@ -33,7 +33,7 @@ export interface IFields {
   rss?: string;
   title: string;
   url?: string;
-  tags?: string[];
+  tags?: string | string[];
 }
 
 export interface IRecords {
