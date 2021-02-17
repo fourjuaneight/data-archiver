@@ -72,10 +72,18 @@
     "category": "entertainment"
   },
   {
+    "title": "Web History",
+    "category": "development"
+  },
+  {
     "title": "Top Four",
     "url": "https://www.relay.fm/topfour/",
     "rss": "https://podcasts.apple.com/podcast/id1031275903",
     "category": "entertainment"
+  },
+  {
+    "title": "Consider This",
+    "category": "journalism"
   },
   {
     "title": "My Brother, My Brother And Me",
@@ -132,6 +140,10 @@
     "category": "entertainment"
   },
   {
+    "title": "Enthusiast!",
+    "category": "entertainment"
+  },
+  {
     "title": "The Rewatchables",
     "url": "https://art19.com/shows/the-rewatchables/",
     "rss": "https://podcasts.apple.com/podcast/id1268527882",
@@ -156,10 +168,22 @@
     "category": "gaming"
   },
   {
+    "title": "Darknet Diaries",
+    "category": "development"
+  },
+  {
     "title": "Land of the Giants",
     "url": "https://www.vox.com/land-of-the-giants-podcast/",
     "rss": "https://podcasts.apple.com/podcast/id1465767420",
     "category": "journalism"
+  },
+  {
+    "title": "Crazy/Genius",
+    "category": "technology"
+  },
+  {
+    "title": "Dithering",
+    "category": "technology"
   },
   {
     "title": "Serial",
@@ -184,6 +208,10 @@
     "url": "https://www.ridehome.info/podcast/techmeme-ride-home/",
     "rss": "https://podcasts.apple.com/podcast/id1355212895",
     "category": "technology"
+  },
+  {
+    "title": "Last Podcast on the Left",
+    "category": "entertainment"
   },
   {
     "title": "Undiscovered",

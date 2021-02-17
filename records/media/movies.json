@@ -35,6 +35,11 @@
     "genre": "horror"
   },
   {
+    "title": "Weathering With You",
+    "director": "Makoto Shinkai",
+    "genre": "animated"
+  },
+  {
     "title": "Prometheus",
     "director": "Ridley Scott",
     "genre": "sci-fi"
@@ -95,6 +100,11 @@
     "genre": "action"
   },
   {
+    "title": "Color out of Space",
+    "director": "Richard Stanley",
+    "genre": "horror"
+  },
+  {
     "title": "The Evil Dead 2",
     "director": "Sam Raimi",
     "genre": "horror"
@@ -127,6 +137,11 @@
   {
     "title": "The Shinning",
     "director": "Stanley Kubrick",
+    "genre": "horror"
+  },
+  {
+    "title": "Train to Busan",
+    "director": "Sang-ho Yeon",
     "genre": "horror"
   },
   {
@@ -245,6 +260,11 @@
     "genre": "action & adventure"
   },
   {
+    "title": "Gonjiam: Haunted Asylum",
+    "director": "Jung Bum-Shik",
+    "genre": "horror"
+  },
+  {
     "title": "Groundhog Day",
     "director": "Harold Ramis",
     "genre": "comedy"
@@ -288,6 +308,11 @@
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "director": "Peter Jackson",
     "genre": "fantasy"
+  },
+  {
+    "title": "Tropic Thunder",
+    "director": "Ben Stiller",
+    "genre": "comedy"
   },
   {
     "title": "The LEGO Movie",
@@ -353,6 +378,11 @@
     "title": "Kill Bill: Vol. 2",
     "director": "Quentin Tarantino",
     "genre": "action"
+  },
+  {
+    "title": "Annihilation",
+    "director": "Alex Garland",
+    "genre": "sci-fi"
   },
   {
     "title": "Harry Potter and The Chamber of Secrets",
@@ -468,35 +498,5 @@
     "title": "Nacho Libre",
     "director": "Jared Hess",
     "genre": "comedy"
-  },
-  {
-    "title": "Logan",
-    "director": "James Mangold",
-    "genre": "action"
-  },
-  {
-    "title": "Jurassic World",
-    "director": "Colin Trevorrow",
-    "genre": "action"
-  },
-  {
-    "title": "Men in Black II",
-    "director": "Barry Sonnenfeld",
-    "genre": "action"
-  },
-  {
-    "title": "Harry Potter and The Order of the Phoenix",
-    "director": "David Yates",
-    "genre": "fantasy"
-  },
-  {
-    "title": "The Matrix",
-    "director": "Wachowski",
-    "genre": "action"
-  },
-  {
-    "title": "The Void",
-    "director": "Jeremy Gillespie",
-    "genre": "horror"
   }
 ]
