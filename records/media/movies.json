@@ -37,12 +37,22 @@
   {
     "title": "Weathering With You",
     "director": "Makoto Shinkai",
-    "genre": "animated"
+    "genre": "anime"
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "director": "Jared Hess",
+    "genre": "comedy"
   },
   {
     "title": "Prometheus",
     "director": "Ridley Scott",
     "genre": "sci-fi"
+  },
+  {
+    "title": "Doctor Sleep",
+    "director": "Mike Flanagan",
+    "genre": "horror"
   },
   {
     "title": "Ghost in the Shell",
@@ -105,7 +115,7 @@
     "genre": "horror"
   },
   {
-    "title": "The Evil Dead 2",
+    "title": "Evil Dead 2",
     "director": "Sam Raimi",
     "genre": "horror"
   },
@@ -118,6 +128,11 @@
     "title": "Insidious: Chapter 2",
     "director": "James Wan",
     "genre": "horror"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "genre": "drama"
   },
   {
     "title": "The Dark Knight Rises",
@@ -165,8 +180,13 @@
     "genre": "horror"
   },
   {
-    "title": "I Want You",
-    "director": "Fernando",
+    "title": "Hoy Tengo Ganas De Tí",
+    "director": "Fernando Gonzalez Molina",
+    "genre": "drama"
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "director": "Quentin Tarantino",
     "genre": "drama"
   },
   {
@@ -188,6 +208,11 @@
     "title": "Ready Player One",
     "director": "Steven Spielberg",
     "genre": "action"
+  },
+  {
+    "title": "Arrival",
+    "director": "Denis Villeneuve",
+    "genre": "sci-fi"
   },
   {
     "title": "The Godfather",
@@ -328,11 +353,6 @@
     "title": "Your Name",
     "director": "Makoto Shinkai",
     "genre": "anime"
-  },
-  {
-    "title": "Aliens",
-    "director": "Ridley Scott",
-    "genre": "sci-fi"
   },
   {
     "title": "Back to the Future",
@@ -478,25 +498,5 @@
     "title": "The Wolverine",
     "director": "James Mangold",
     "genre": "action"
-  },
-  {
-    "title": "Paranormal Activity 4",
-    "director": "Henry Joost",
-    "genre": "horror"
-  },
-  {
-    "title": "Ferris Bueller's Day Off",
-    "director": "John Hughes",
-    "genre": "comedy"
-  },
-  {
-    "title": "My Neighbor Totoro",
-    "director": "Hayao Miyazaki",
-    "genre": "action & adventure"
-  },
-  {
-    "title": "Nacho Libre",
-    "director": "Jared Hess",
-    "genre": "comedy"
   }
 ]

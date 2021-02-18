@@ -192,6 +192,12 @@
     "category": "entertainment"
   },
   {
+    "title": "Mediastyle",
+    "url": "https://medialyte.substack.com/",
+    "rss": "https://medialyte.substack.com/feed/",
+    "category": "entertainment"
+  },
+  {
     "title": "Backchannel",
     "url": "https://www.wired.com/category/backchannel/",
     "rss": "https://www.wired.com/feed/category/backchannel/latest/rss/",

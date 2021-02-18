@@ -73,6 +73,8 @@
   },
   {
     "title": "Web History",
+    "url": "https://css-tricks.com/category/history/",
+    "rss": "https://podcasts.apple.com/podcast/id1535003098",
     "category": "development"
   },
   {
@@ -83,6 +85,8 @@
   },
   {
     "title": "Consider This",
+    "url": "https://www.npr.org/podcasts/510355/considerthis",
+    "rss": "https://podcasts.apple.com/podcast/id1503226625",
     "category": "journalism"
   },
   {
@@ -141,6 +145,8 @@
   },
   {
     "title": "Enthusiast!",
+    "url": "https://enthusiastpodcast.com",
+    "rss": "https://podcasts.apple.com/us/podcast/id1533208070",
     "category": "entertainment"
   },
   {
@@ -169,6 +175,8 @@
   },
   {
     "title": "Darknet Diaries",
+    "url": "https://darknetdiaries.com",
+    "rss": "https://podcasts.apple.com/us/podcast/id1296350485",
     "category": "development"
   },
   {
@@ -179,10 +187,14 @@
   },
   {
     "title": "Crazy/Genius",
+    "url": "https://www.theatlantic.com/podcasts/crazygenius/",
+    "rss": "https://itunes.apple.com/us/podcast/id1378618386",
     "category": "technology"
   },
   {
     "title": "Dithering",
+    "url": "https://dithering.fm",
+    "rss": "https://rss.stratechery.com/cask/4RS37YnDtEGiDLGatUzzAHCd84KE?series_id=95783b44-54d7-4d48-b84b-d889170af5b7",
     "category": "technology"
   },
   {
@@ -211,6 +223,8 @@
   },
   {
     "title": "Last Podcast on the Left",
+    "url": "https://www.lastpodcastontheleft.com",
+    "rss": "https://access.acast.com/rss/60073b2316161057431ae2be/n4cjYgSz",
     "category": "entertainment"
   },
   {
