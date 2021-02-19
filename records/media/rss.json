@@ -300,6 +300,12 @@
     "category": "science"
   },
   {
+    "title": "Astral Codex Ten",
+    "url": "https://astralcodexten.substack.com/",
+    "rss": "https://astralcodexten.substack.com/feed/",
+    "category": "entertainment"
+  },
+  {
     "title": "xkcd",
     "url": "https://xkcd.com/",
     "rss": "https://xkcd.com/rss.xml",
