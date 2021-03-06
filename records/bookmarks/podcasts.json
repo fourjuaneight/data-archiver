@@ -401,6 +401,15 @@
     ]
   },
   {
+    "title": "6 Days to Air",
+    "creator": "Cortex",
+    "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_064.mp3",
+    "tags": [
+      "productivity",
+      "tv"
+    ]
+  },
+  {
     "title": "One More Thing with Steve Wozniak",
     "creator": "Command Line Heroes",
     "url": "https://tracking.feedpress.it/link/18442/13509547/clh-s4-ep-woz-vfinal_tc.mp3",
@@ -871,15 +880,6 @@
       "anthropology",
       "music",
       "relationships"
-    ]
-  },
-  {
-    "title": "How Did We Get Here?",
-    "creator": "The Elephant",
-    "url": "http://media.blubrry.com/theelephant/http://feeds.soundcloud.com/stream/352812995-elephantpodcast-s2-episode-1-how-did-we-get-here.mp3",
-    "tags": [
-      "climate",
-      "history"
     ]
   }
 ]
