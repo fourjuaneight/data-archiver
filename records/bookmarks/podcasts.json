@@ -518,6 +518,15 @@
     ]
   },
   {
+    "title": "Alexa, What's Amazon Doing Inside My Home?",
+    "creator": "Land of the Giants",
+    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6389369771.mp3",
+    "tags": [
+      "privacy",
+      "technology"
+    ]
+  },
+  {
     "title": "What’s it like to code for NASA?",
     "creator": "CodeNewbie",
     "url": "http://media.blubrry.com/codenewbie/content.blubrry.com/codenewbie/CN_EP189_jesslyn_tannady.mp3",
@@ -751,6 +760,16 @@
     ]
   },
   {
+    "title": "Why the Robot Revolution is Our Fault",
+    "creator": "Land of the Giants",
+    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4681636389.mp3",
+    "tags": [
+      "automation",
+      "robotics",
+      "technology"
+    ]
+  },
+  {
     "title": "Children of God Part IV - Ricky",
     "creator": "Last Podcast on the Left",
     "url": "http://traffic.libsyn.com/lpotl/9bf01763-9ed8-47f7-b3e1-9c47571ec1a2.mp3?dest-id=754182#t=0",
@@ -862,24 +881,6 @@
     "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/371eb805-2a0c-4751-b16f-30aca9182d69/364_He_s_Still_Neutral_pt01.mp3#t=0",
     "tags": [
       "religion"
-    ]
-  },
-  {
-    "title": "WebVR",
-    "creator": "ShopTalk",
-    "url": "https://audio.simplecast.com/62695.mp3#t=0",
-    "tags": [
-      "development"
-    ]
-  },
-  {
-    "title": "You'll Never Walk Alone and Jerzy Dudek",
-    "creator": "The Anthropocene Reviewed",
-    "url": "https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/anthropocene-reviewed/anthropocene-reviewed052820_walk_jerzy.mp3",
-    "tags": [
-      "anthropology",
-      "music",
-      "relationships"
     ]
   }
 ]
