@@ -502,6 +502,14 @@
     ]
   },
   {
+    "title": "Now THAT’S What I Call Service Worker!",
+    "creator": "Jeremy Wagner",
+    "url": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
     "title": "The Unsettling Truth About the ‘Mostly Harmless’ Hiker",
     "creator": "Nicholas Thompson",
     "url": "https://www.wired.com/story/unsettling-truth-mostly-harmless-hiker/",
@@ -877,18 +885,6 @@
     "url": "https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/",
     "tags": [
       "development"
-    ]
-  },
-  {
-    "title": "The New French Hacker-Artist Underground",
-    "creator": "Jon Lackman",
-    "url": "https://www.wired.com/2012/01/ff_ux/",
-    "tags": [
-      "hacking",
-      "crime",
-      "culture",
-      "art",
-      "film"
     ]
   }
 ]
