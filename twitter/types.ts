@@ -1,4 +1,4 @@
-export interface IKyOptions {
+export interface KyOptions {
   headers: {
     Authorization?: string;
     "Content-Type"?: string;
@@ -9,12 +9,12 @@ export interface IKyOptions {
   json?: {};
 }
 
-export interface IAuthToken {
+export interface AuthToken {
   token_type: string;
   access_token: string;
 }
 
-export interface ILatestTweet {
+export interface LatestTweet {
   created_at: string;
   id: number;
   id_str: string;
@@ -208,7 +208,7 @@ export interface ILatestTweet {
   lang: string;
 }
 
-export interface ILatestTweetFmt {
+export interface LatestTweetFmt {
   tweet: string;
   date?: string;
   url: string;

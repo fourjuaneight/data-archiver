@@ -9,7 +9,7 @@ import auth from "./auth.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
-import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
+import type { LatestTweet, LatestTweetFmt } from "./types.ts";
 
 /**
  * Get the extended Tweets by ID.
@@ -18,12 +18,12 @@ import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
  *
  * @param {string} key Twitter authorization token
  * @param {string} [id] Tweet ID
- * @return {Promise<ILatestTweet>} request response with tweet details
+ * @return {Promise<LatestTweet>} request response with tweet details
  */
 const currentTweet = async (
   key: string,
   id?: string
-): Promise<ILatestTweet> => {
+): Promise<LatestTweet> => {
   const twtOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${key}`,
@@ -36,7 +36,7 @@ const currentTweet = async (
         `https://api.twitter.com/1.1/statuses/show.json?id=${id}&tweet_mode=extended`,
         twtOpts
       );
-      const results: ILatestTweet = await response.json();
+      const results: LatestTweet = await response.json();
 
       if (!response.ok) {
         console.error("Current Tweet:", {
@@ -62,18 +62,18 @@ const currentTweet = async (
  * Extract relevate parts of Twitter response and create formatted object
  * @function
  *
- * @param {ILatestTweet} rawTweet raw tweet object from Twitter API response
- * @return {Promise<ILatestTweetFmt>} formatted tweet object; tweet (emojis converted && links expanded), ISO date, url.
+ * @param {LatestTweet} rawTweet raw tweet object from Twitter API response
+ * @return {Promise<LatestTweetFmt>} formatted tweet object; tweet (emojis converted && links expanded), ISO date, url.
  */
 const formatTweet = async (
-  rawTweet: ILatestTweet
-): Promise<ILatestTweetFmt> => {
+  rawTweet: LatestTweet
+): Promise<LatestTweetFmt> => {
   const encoded: string = emojiUnicode(rawTweet.full_text);
   const expanded: string = await expandShortLink(
     encoded,
     /(https:\/\/t.co\/[a-zA-z0-9]+)/g
   ).then((result: string) => result);
-  const formatted: ILatestTweetFmt = {
+  const formatted: LatestTweetFmt = {
     tweet: expanded,
     date: format(new Date(twt.created_at), "yyyy-MM-dd'T'HH:mm:ss"),
     url: `https://twitter.com/fourjuaneight/status/${rawTweet.id_str}`,
@@ -86,16 +86,16 @@ const formatTweet = async (
  * Get current tweet from Twitter API, formatted.
  * @function
  *
- * @return {Promise<ILatestTweetFmt>} { tweet, date, url }
+ * @return {Promise<LatestTweetFmt>} { tweet, date, url }
  */
-const current = async (): Promise<ILatestTweetFmt> => {
+const current = async (): Promise<LatestTweetFmt> => {
   try {
     const key: string = await auth();
-    const last: ILatestTweet = await currentTweet(
+    const last: LatestTweet = await currentTweet(
       key,
       Deno.env.get("TWEET_ID")
     );
-    const lastFmt: ILatestTweetFmt = await formatTweet(last);
+    const lastFmt: LatestTweetFmt = await formatTweet(last);
 
     return lastFmt;
   } catch (error) {

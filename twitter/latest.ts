@@ -5,7 +5,7 @@ import auth from "./auth.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
-import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
+import type { LatestTweet, LatestTweetFmt } from "./types.ts";
 
 /**
  * Get the last 50 Tweets with extended content.
@@ -13,9 +13,9 @@ import type { ILatestTweet, ILatestTweetFmt } from "./types.ts";
  * @function
  *
  * @param {string} key Twitter authorization token
- * @return {Promise<ILatestTweet[]>} request response with list of tweets
+ * @return {Promise<LatestTweet[]>} request response with list of tweets
  */
-const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
+const latestTweets = async (key: string): Promise<LatestTweet[]> => {
   const twtOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${await key}`,
@@ -27,7 +27,7 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
       "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=50&tweet_mode=extended",
       twtOpts
     );
-    const results: ILatestTweet[] = await response.json();
+    const results: LatestTweet[] = await response.json();
     const dayAgo: Date = subDays(new Date(), 1);
 
     if (!response.ok) {
@@ -39,7 +39,7 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
       Deno.exit(1);
     }
 
-    return results.filter((twt: ILatestTweet) =>
+    return results.filter((twt: LatestTweet) =>
       isAfter(new Date(twt.created_at), dayAgo)
     );
   } catch (error) {
@@ -52,11 +52,11 @@ const latestTweets = async (key: string): Promise<ILatestTweet[]> => {
  * Extract relevate parts of Twitter response and create formatted object.
  * @function
  *
- * @param {ILatestTweet[]} rawTweets raw tweet object array from Twitter API response
- * @return {ILatestTweetFmt[]} formatted tweet object array; tweet (emojis converted), ISO date, url
+ * @param {LatestTweet[]} rawTweets raw tweet object array from Twitter API response
+ * @return {LatestTweetFmt[]} formatted tweet object array; tweet (emojis converted), ISO date, url
  */
-const formatTweets = (rawTweets: ILatestTweet[]): ILatestTweetFmt[] => {
-  const formatted: ILatestTweetFmt[] = rawTweets.map((twt: ILatestTweet) => ({
+const formatTweets = (rawTweets: LatestTweet[]): LatestTweetFmt[] => {
+  const formatted: LatestTweetFmt[] = rawTweets.map((twt: LatestTweet) => ({
     tweet: emojiUnicode(twt.full_text),
     date: format(new Date(twt.created_at), "yyyy-MM-dd'T'HH:mm:ss"),
     url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
@@ -69,13 +69,13 @@ const formatTweets = (rawTweets: ILatestTweet[]): ILatestTweetFmt[] => {
  * Expand shortened links in tweet body.
  * @function
  *
- * @param {ILatestTweetFmt[]} fmtTweets formatted tweet object array
- * @return {Promise<ILatestTweetFmt[]>} formatted tweet object array; links expanded
+ * @param {LatestTweetFmt[]} fmtTweets formatted tweet object array
+ * @return {Promise<LatestTweetFmt[]>} formatted tweet object array; links expanded
  */
 const expandTweets = (
-  fmtTweets: ILatestTweetFmt[]
-): Promise<ILatestTweetFmt[]> => {
-  const expanded = fmtTweets.map(async (twt: ILatestTweetFmt) => ({
+  fmtTweets: LatestTweetFmt[]
+): Promise<LatestTweetFmt[]> => {
+  const expanded = fmtTweets.map(async (twt: LatestTweetFmt) => ({
     ...twt,
     tweet: await expandShortLink(
       twt.tweet,
@@ -90,14 +90,14 @@ const expandTweets = (
  * Get latest tweets from Twitter API, formatted.
  * @function
  *
- * @return {Promise<ILatestTweetFmt[]>} { tweet, date, url }
+ * @return {Promise<LatestTweetFmt[]>} { tweet, date, url }
  */
-const latest = async (): Promise<ILatestTweetFmt[]> => {
+const latest = async (): Promise<LatestTweetFmt[]> => {
   try {
     const key: string = await auth();
-    const last: ILatestTweet[] = await latestTweets(key);
-    const lastFmt: ILatestTweetFmt[] = await formatTweets(last);
-    const lastExp: ILatestTweetFmt[] = await expandTweets(lastFmt);
+    const last: LatestTweet[] = await latestTweets(key);
+    const lastFmt: LatestTweetFmt[] = await formatTweets(last);
+    const lastExp: LatestTweetFmt[] = await expandTweets(lastFmt);
 
     return lastExp;
   } catch (error) {

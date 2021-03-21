@@ -1,13 +1,13 @@
 import latest from "./latest.ts";
 import uploader from "./uploader.ts";
 
-import type { ILatestTweetFmt } from "./types.ts";
+import type { LatestTweetFmt } from "./types.ts";
 
 // Upload latest tweets to Airtable base.
 (async () => {
   try {
     // get formatted tweets
-    const tweets: ILatestTweetFmt[] = await latest();
+    const tweets: LatestTweetFmt[] = await latest();
 
     // upload each individually
     if (tweets.length > 0) {

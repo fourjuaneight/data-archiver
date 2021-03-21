@@ -1,13 +1,13 @@
-import type { ILatestTweetFmt } from "./types.ts";
+import type { LatestTweetFmt } from "./types.ts";
 
 /**
  * Upload tweet object to Airtable
  * @function
  *
- * @param {ILatestTweetFmt} tweet
+ * @param {LatestTweetFmt} tweet
  * @return {Promise<voide>}
  */
-const uploader = async (tweet: ILatestTweetFmt): Promise<void> => {
+const uploader = async (tweet: LatestTweetFmt): Promise<void> => {
   const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,

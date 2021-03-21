@@ -1,7 +1,7 @@
 import "https://deno.land/x/dotenv/load.ts";
 import { Base64 } from "https://deno.land/x/bb64/mod.ts";
 
-import type { IAuthToken } from "./types.ts";
+import type { AuthToken } from "./types.ts";
 
 /**
  * Get authorization token from Twitter.
@@ -32,7 +32,7 @@ const auth = async (): Promise<string> => {
       "https://api.twitter.com/oauth2/token",
       authOpts
     );
-    const results: IAuthToken = await response.json();
+    const results: AuthToken = await response.json();
 
     if (!response.ok) {
       console.error("Twitter Auth:", {
