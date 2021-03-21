@@ -2,17 +2,16 @@ import "https://deno.land/x/dotenv/load.ts";
 import { ensureFile } from "https://deno.land/std/fs/mod.ts";
 
 import type {
-  IAirtableResp,
-  IBases,
-  IEndpoints,
-  IFields,
-  IList,
-  IRecords,
+  AirtableResp,
+  Bases,
+  Fields,
+  Endpoints,
+  Records,
   StringArray,
 } from "./types.ts";
 
 // Match table queries
-const baseQueries: IBases = {
+const baseQueries: Bases = {
   Bookmarks: {
     Articles: [],
     Comics: [],
@@ -31,7 +30,7 @@ const bookmarksList = Object.keys(baseQueries.Bookmarks);
 const mediaList = Object.keys(baseQueries.Media);
 
 // Base endpoints
-const endpoints: IEndpoints = {
+const endpoints: Endpoints = {
   Bookmarks: Deno.env.get("AIRTABLE_BOOKMARKS_ENDPOINT"),
   Media: Deno.env.get("AIRTABLE_MEDIA_ENDPOINT"),
 };
@@ -44,13 +43,13 @@ const endpoints: IEndpoints = {
  * @param {string} base Airtable database
  * @param {string} list database list
  * @param {[string]} offset param to request remainding records
- * @return {Promise<IAirtableResp>}
+ * @return {Promise<AirtableResp >}
  */
 const getBookmarksWithOffset = async (
   base: string,
   list: string,
   offset?: string
-): Promise<IAirtableResp> => {
+): Promise<AirtableResp> => {
   const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
@@ -64,7 +63,7 @@ const getBookmarksWithOffset = async (
   try {
     return fetch(url, atOpts)
       .then((response: Response) => response.json())
-      .then(async (airtableRes: IAirtableResp) => {
+      .then(async (airtableRes: AirtableResp) => {
         baseQueries[base][list] = [
           ...baseQueries[base][list],
           ...airtableRes.records,
@@ -86,17 +85,17 @@ const getBookmarksWithOffset = async (
  * Saves Airtable record response to a local JSON file.
  * @function
  *
- * @param {IRecords[]} records record object
+ * @param {Records[]} records record object
  * @param {string} base Airtable database
  * @param {string} list database list
  * @return {Promise<void>}
  */
 const saveBookmarks = async (
-  records: IRecords[],
+  records: Records[],
   base: string,
   list: string
 ): Promise<void> => {
-  const fields: IFields[] = records.map((record: IRecords) => record.fields);
+  const fields: Fields = records.map((record: Records) => record.fields);
   const category: string = base.toLowerCase();
   const record: string = list.toLowerCase();
 
