@@ -6,15 +6,31 @@ import type {
   IBases,
   IEndpoints,
   IFields,
+  IList,
   IRecords,
   StringArray,
 } from "./types.ts";
 
 // Match table queries
 const baseQueries: IBases = {
-  Bookmarks: ["Articles", "Comics", "Podcasts", "Tweets", "Videos"],
-  Media: ["Books", "Games", "Movies", "Podcasts", "RSS", "Shows"],
+  Bookmarks: {
+    Articles: [],
+    Comics: [],
+    Podcasts: [],
+    Tweets: [],
+    Videos: [],
+  },
+  Media: {
+    Books: [],
+    Games: [],
+    Movies: [],
+    Podcasts: [],
+    RSS: [],
+    Shows: [],
+  },
 };
+const bookmarksList = Object.keys(baseQueries.Bookmarks);
+const mediaList = Object.keys(baseQueries.Media);
 
 // Base endpoints
 const endpoints: IEndpoints = {
@@ -23,29 +39,45 @@ const endpoints: IEndpoints = {
 };
 
 /**
- * Get bookmarks list from Airtable
+ * Get bookmarks list from Airtable.
+ * Request can be recursive is there is more than 100 records.
  * @function
  *
  * @param {string} base Airtable database
- * @param {StringArray} list database list
- * @return {Promise<IRecords[]>}
+ * @param {string} list database list
+ * @param {[string]} offset param to request remainding records
+ * @return {Promise<IAirtableResp>}
  */
-const getBookmarks = async (
+const getBookmarksWithOffset = async (
   base: string,
-  list: StringArray
-): Promise<IRecords[]> => {
+  list: string,
+  offset?: string
+): Promise<IAirtableResp> => {
   const atOpts: RequestInit = {
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
       "Content-Type": "application/json",
     },
   };
+  const url = offset
+    ? `${endpoints[base]}/${list}?offset=${offset}`
+    : `${endpoints[base]}/${list}`;
 
   try {
-    const response: Response = await fetch(`${endpoints[base]}/${list}?maxRecords=1000`, atOpts);
-    const results: IAirtableResp = await response.json();
+    return fetch(url, atOpts)
+      .then((response: Response) => response.json())
+      .then(async (airtableRes: IAirtableResp) => {
+        baseQueries[base][list] = [
+          ...baseQueries[base][list],
+          ...airtableRes.records,
+        ];
 
-    return results.records;
+        if (airtableRes.offset) {
+          return getBookmarksWithOffset(base, list, airtableRes.offset);
+        } else {
+          return airtableRes;
+        }
+      });
   } catch (error) {
     console.error(error);
     throw new Error(error);
@@ -57,13 +89,14 @@ const getBookmarks = async (
  * @function
  *
  * @param {IRecords[]} records record object
- * @param {StringArray} list database list
+ * @param {string} base Airtable database
+ * @param {string} list database list
  * @return {Promise<void>}
  */
 const saveBookmarks = async (
   records: IRecords[],
   base: string,
-  list: StringArray
+  list: string
 ): Promise<void> => {
   const fields: IFields[] = records.map((record: IRecords) => record.fields);
   const category: string = base.toLowerCase();
@@ -88,14 +121,13 @@ const saveBookmarks = async (
  * @function
  *
  * @param {string} base Airtable database
- * @param {StringArray} list database list
+ * @param {string} list database list
  * @return {Promise<void>}
  */
-const backup = async (base: string, list: StringArray): Promise<void> => {
+const backup = async (base: string, list: string): Promise<void> => {
   try {
-    const records: IRecords[] = await getBookmarks(base, list);
-
-    await saveBookmarks(records, base, list);
+    await getBookmarksWithOffset(base, list);
+    await saveBookmarks(baseQueries[base][list], base, list);
   } catch (error) {
     console.error(error);
     throw new Error(error);
@@ -103,8 +135,10 @@ const backup = async (base: string, list: StringArray): Promise<void> => {
 };
 
 // Get all items from table and save them locally
-for (const base in baseQueries) {
-  for (const list of baseQueries[base]) {
-    backup(base, list);
-  }
+for (const list of bookmarksList) {
+  backup("Bookmarks", list);
+}
+
+for (const list of mediaList) {
+  backup("Media", list);
 }

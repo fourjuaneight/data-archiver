@@ -3,10 +3,14 @@ export interface StringArray {
   toLowerCase(): string;
 }
 
+export interface IList {
+  [key: string]: IRecords[];
+}
+
 export interface IBases {
-  Bookmarks: StringArray[];
-  Media: StringArray[];
-  [key: string]: StringArray[];
+  Bookmarks: IList;
+  Media: IList;
+  [key: string]: IList;
 }
 
 export interface IEndpoints {
