@@ -4,13 +4,15 @@ export interface StringArray {
 }
 
 export interface List {
-  [key: string]: IRecords[];
+  [key: string]: Records[];
 }
 
 export interface Bases {
-  Bookmarks: IList;
-  Media: IList;
-  [key: string]: IList;
+  Bookmarks: List;
+  Favorites: List;
+  Media: List;
+  Records: List;
+  [key: string]: List;
 }
 
 export interface Endpoints {
@@ -57,11 +59,11 @@ export type Fields = BookmarksFields | MediaFields | RecordsFields;
 
 export interface Records {
   id: string;
-  fields: IFields;
+  fields: Fields;
   createdTime: string;
 }
 
 export interface AirtableResp {
-  records: IRecords[];
+  records: Records[];
   offset: string;
 }

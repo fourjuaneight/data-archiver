@@ -23,7 +23,9 @@ jobs:
         env:
           CI: true
           AIRTABLE_BOOKMARKS_ENDPOINT: ${{secrets.AIRTABLE_BOOKMARKS_ENDPOINT}}
+          AIRTABLE_FAVORITES_ENDPOINT: ${{secrets.AIRTABLE_FAVORITES_ENDPOINT}}
           AIRTABLE_MEDIA_ENDPOINT: ${{secrets.AIRTABLE_MEDIA_ENDPOINT}}
+          AIRTABLE_RECORDS_ENDPOINT: ${{secrets.AIRTABLE_RECORDS_ENDPOINT}}
           AIRTABLE_API: ${{secrets.AIRTABLE_API}}
 
       - name: Get current date

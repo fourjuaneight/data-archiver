@@ -19,20 +19,37 @@ const baseQueries: Bases = {
     Tweets: [],
     Videos: [],
   },
-  Media: {
+  Favorites: {
+    Anime: [],
     Books: [],
     Movies: [],
     Shows: [],
     Games: [],
   },
+  Media: {
+    Books: [],
+    Games: [],
+    Movies: [],
+    Shows: [],
+  },
+  Records: {
+    Clients: [],
+    Jobs: [],
+    Podcasts: [],
+    RSS: [],
+  },
 };
 const bookmarksList = Object.keys(baseQueries.Bookmarks);
+const favoritesList = Object.keys(baseQueries.Favorites);
 const mediaList = Object.keys(baseQueries.Media);
+const recordsList = Object.keys(baseQueries.Records);
 
 // Base endpoints
 const endpoints: Endpoints = {
   Bookmarks: Deno.env.get("AIRTABLE_BOOKMARKS_ENDPOINT"),
+  Favorites: Deno.env.get("AIRTABLE_FAVORITES_ENDPOINT"),
   Media: Deno.env.get("AIRTABLE_MEDIA_ENDPOINT"),
+  Records: Deno.env.get("AIRTABLE_RECORDS_ENDPOINT"),
 };
 
 /**
@@ -85,9 +102,9 @@ const getBookmarksWithOffset = async (
  * Saves Airtable record response to a local JSON file.
  * @function
  *
- * @param {Records[]} records record object
- * @param {string} base Airtable database
- * @param {string} list database list
+ * @param  {Records[]} records record object
+ * @param  {string} base Airtable database
+ * @param  {string} list database list
  * @return {Promise<void>}
  */
 const saveBookmarks = async (
@@ -95,7 +112,7 @@ const saveBookmarks = async (
   base: string,
   list: string
 ): Promise<void> => {
-  const fields: Fields = records.map((record: Records) => record.fields);
+  const fields: Fields[] = records.map((record: Records) => record.fields);
   const category: string = base.toLowerCase();
   const record: string = list.toLowerCase();
 
@@ -136,6 +153,14 @@ for (const list of bookmarksList) {
   backup("Bookmarks", list);
 }
 
+for (const list of favoritesList) {
+  backup("Favorites", list);
+}
+
 for (const list of mediaList) {
   backup("Media", list);
+}
+
+for (const list of recordsList) {
+  backup("Records", list);
 }
