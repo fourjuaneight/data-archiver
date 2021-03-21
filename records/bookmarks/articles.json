@@ -313,6 +313,15 @@
     ]
   },
   {
+    "title": "The Secretive Company That Might End Privacy as We Know It",
+    "creator": "Kashmir Hill",
+    "url": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
+    "tags": [
+      "ai",
+      "privacy"
+    ]
+  },
+  {
     "title": "What I’ve learned from nearly three years of enterprise Wi-Fi at home",
     "creator": "Lee Hutchinson",
     "url": "https://arstechnica.com/information-technology/2018/07/enterprise-wi-fi-at-home-part-two-reflecting-on-almost-three-years-with-pro-gear/",
@@ -875,14 +884,6 @@
     "title": "Understanding the Gatsby lifecycle",
     "creator": "Dennis Brotzky",
     "url": "https://www.narative.co/articles/understanding-the-gatsby-lifecycle",
-    "tags": [
-      "development"
-    ]
-  },
-  {
-    "title": "Idiomatic Redux: Redux Toolkit 1.0",
-    "creator": "Mark Erikson",
-    "url": "https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/",
     "tags": [
       "development"
     ]
