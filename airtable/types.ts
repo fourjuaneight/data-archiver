@@ -30,10 +30,9 @@ export interface IFields {
   author?: string;
   category?: string;
   creator?: string;
-  developer?: string;
   director?: string;
   genre?: string;
-  ios?: string;
+  studio?: string;
   rss?: string;
   title: string;
   url?: string;
