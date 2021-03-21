@@ -22,11 +22,9 @@ const baseQueries: IBases = {
   },
   Media: {
     Books: [],
-    Games: [],
     Movies: [],
-    Podcasts: [],
-    RSS: [],
     Shows: [],
+    Games: [],
   },
 };
 const bookmarksList = Object.keys(baseQueries.Bookmarks);
