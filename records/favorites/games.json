@@ -1,0 +1,32 @@
+[
+  {
+    "creator": "Nintendo",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "genre": "rpg"
+  },
+  {
+    "creator": "Playdead",
+    "title": "Limbo",
+    "genre": "platform"
+  },
+  {
+    "creator": "Playdead",
+    "title": "INSIDE",
+    "genre": "platform"
+  },
+  {
+    "creator": "Matt Makes Games",
+    "title": "Celeste",
+    "genre": "platform"
+  },
+  {
+    "creator": "Nintendo",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "rpg"
+  },
+  {
+    "creator": "Naughty Dog",
+    "title": "The Last of Us",
+    "genre": "shooter"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Rurouni Kenshin",
+    "creator": "Nobuhiro Watsuki",
+    "genre": "action"
+  },
+  {
+    "title": "Gundam Wing",
+    "creator": "Katsuyuki Sumizawa",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "creator": "Gege Akutami",
+    "genre": "thriller"
+  },
+  {
+    "title": "Naruto",
+    "creator": "Masashi Kishimoto",
+    "genre": "adventure"
+  },
+  {
+    "title": "Attack on Titan",
+    "creator": "Tetsuya Kinoshita",
+    "genre": "action"
+  },
+  {
+    "title": "Demon Slayer",
+    "creator": "Koyoharu Gotouge",
+    "genre": "adventure"
+  }
+]

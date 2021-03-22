@@ -887,5 +887,44 @@
     "tags": [
       "development"
     ]
+  },
+  {
+    "title": "Idiomatic Redux: Redux Toolkit 1.0",
+    "creator": "Mark Erikson",
+    "url": "https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/",
+    "tags": [
+      "development"
+    ]
+  },
+  {
+    "title": "The New French Hacker-Artist Underground",
+    "creator": "Jon Lackman",
+    "url": "https://www.wired.com/2012/01/ff_ux/",
+    "tags": [
+      "hacking",
+      "crime",
+      "culture",
+      "art",
+      "film"
+    ]
+  },
+  {
+    "title": "I Was A Cable Guy. I Saw The Worst Of America.",
+    "creator": "Lauren Hough",
+    "url": "https://www.huffpost.com/entry/cable-tech-dick-cheney-sex-dungeon_n_5c0ea571e4b06484c9fd4c21",
+    "tags": [
+      "work",
+      "life"
+    ]
+  },
+  {
+    "title": "What Happens When Our Faces Are Tracked Everywhere We Go?",
+    "creator": "Kashmir Hill",
+    "url": "https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html",
+    "tags": [
+      "ai",
+      "privacy",
+      "technology"
+    ]
   }
 ]

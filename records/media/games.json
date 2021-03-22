@@ -1,32 +1,162 @@
 [
   {
+    "title": "Pokémon Ruby",
+    "studio": "Game Freak",
+    "genre": "rpg"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "studio": "Nintendo",
+    "genre": "racing"
+  },
+  {
+    "title": "Minecraft",
+    "studio": "Mojang",
+    "genre": "sandbox"
+  },
+  {
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Legend of Zelda: The Minish Cap",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "studio": "Nintendo",
+    "genre": "fighting"
+  },
+  {
     "title": "The Legend of Zelda: Breath of the Wild",
-    "creator": "Nintendo",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Undertale",
+    "studio": "Toby Fox",
     "genre": "rpg"
   },
   {
     "title": "Pokémon Gold",
-    "creator": "Game Freak",
+    "studio": "Game Freak",
     "genre": "rpg"
+  },
+  {
+    "title": "Bastion",
+    "studio": "Supergiant Games",
+    "genre": "rpg"
+  },
+  {
+    "title": "Transistor",
+    "studio": "Supergiant Games",
+    "genre": "rpg"
+  },
+  {
+    "title": "Hollow Knight",
+    "studio": "Team Cherry",
+    "genre": "action"
+  },
+  {
+    "title": "Pokémon Pearl",
+    "studio": "Game Freak",
+    "genre": "rpg"
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Scott Pilgrim vs The World: The Game",
+    "studio": "Ubisoft ",
+    "genre": "platform"
+  },
+  {
+    "title": "Hyrule Warriors: Age of Calamity",
+    "studio": "Omega Force",
+    "genre": "action"
+  },
+  {
+    "title": "Shovel Knight: Treasure Trove",
+    "studio": "Yacht Club Games",
+    "genre": "platform"
+  },
+  {
+    "title": "GRIS",
+    "studio": "Nomada Studio",
+    "genre": "platform"
   },
   {
     "title": "Limbo",
-    "creator": "Playdead",
+    "studio": "Playdead",
     "genre": "platform"
   },
   {
-    "title": "The Last of Us",
-    "creator": "Naughty Dog",
-    "genre": "shooter"
+    "title": "Cuphead",
+    "studio": "Studio MDHR",
+    "genre": "platform"
+  },
+  {
+    "title": "Stardew Valley",
+    "studio": "Eric Barone",
+    "genre": "rpg"
+  },
+  {
+    "title": "Hades",
+    "studio": "Supergiant Games",
+    "genre": "roguelike"
+  },
+  {
+    "title": "Shovel Knight: King of Cards",
+    "studio": "Yacht Club Games",
+    "genre": "platform"
+  },
+  {
+    "title": "Dandara",
+    "studio": "Long Hat House",
+    "genre": "platform"
+  },
+  {
+    "title": "The Legend of Zelda: Majorca's Mask",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Luigi's Mansion 3",
+    "studio": "Nintendo",
+    "genre": "action"
   },
   {
     "title": "INSIDE",
-    "creator": "Playdead",
+    "studio": "Playdead",
     "genre": "platform"
   },
   {
-    "title": "The Legend of Zelda: A Link to the Past",
-    "creator": "Nintendo",
+    "title": "Hyper Light Drifter",
+    "studio": "GameMaker",
     "genre": "rpg"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Celeste",
+    "studio": "Matt Makes Games",
+    "genre": "platform"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "studio": "Nintendo",
+    "genre": "adventure"
+  },
+  {
+    "title": "Dead Cells",
+    "studio": "Motion Twin",
+    "genre": "roguelike"
   }
 ]

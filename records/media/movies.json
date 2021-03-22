@@ -12,7 +12,7 @@
   {
     "title": "Deadpool 2",
     "director": "David Leitch",
-    "genre": "action & adventure"
+    "genre": "action"
   },
   {
     "title": "Specter",
@@ -102,7 +102,7 @@
   {
     "title": "Donnie Darko",
     "director": "Richard Kelly",
-    "genre": "sci-fi & fantasy"
+    "genre": "sci-fi"
   },
   {
     "title": "X-Men: Apocalypse",
@@ -162,7 +162,7 @@
   {
     "title": "Princess Mononoke",
     "director": "Hayao Miyazaki",
-    "genre": "action & adventure"
+    "genre": "anime"
   },
   {
     "title": "Blade Runner",
@@ -230,6 +230,11 @@
     "genre": "horror"
   },
   {
+    "title": "Ex Machina",
+    "director": "Alex Garland",
+    "genre": "sci-fi"
+  },
+  {
     "title": "The Hunger Games: Catching Fire",
     "director": "Francis Lawrence",
     "genre": "action"
@@ -242,7 +247,7 @@
   {
     "title": "Fantastic Beasts and Where to Find Them",
     "director": "David Yates",
-    "genre": "action & adventure"
+    "genre": "adventure"
   },
   {
     "title": "The Conjuring",
@@ -282,7 +287,7 @@
   {
     "title": "Fantastic Beasts: The Crimes of Grindelwald",
     "director": "David Yates",
-    "genre": "action & adventure"
+    "genre": "adventure"
   },
   {
     "title": "Gonjiam: Haunted Asylum",
@@ -302,12 +307,12 @@
   {
     "title": "Mad Max: Fury Road",
     "director": "George Miller",
-    "genre": "action & adventure"
+    "genre": "action"
   },
   {
     "title": "Jumanji",
     "director": "Joe Johnston",
-    "genre": "action & adventure"
+    "genre": "adventure"
   },
   {
     "title": "The Martian",
@@ -327,7 +332,7 @@
   {
     "title": "V for Vendetta",
     "director": "James McTeigue",
-    "genre": "action & adventure"
+    "genre": "action"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -482,7 +487,7 @@
   {
     "title": "Zombieland",
     "director": "Ruben Fleischer",
-    "genre": "action & adventure"
+    "genre": "comedy"
   },
   {
     "title": "Star Trek",
@@ -498,5 +503,345 @@
     "title": "The Wolverine",
     "director": "James Mangold",
     "genre": "action"
+  },
+  {
+    "title": "Paranormal Activity 4",
+    "director": "Henry Joost",
+    "genre": "horror"
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "director": "John Hughes",
+    "genre": "comedy"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "director": "Hayao Miyazaki",
+    "genre": "anime"
+  },
+  {
+    "title": "Nacho Libre",
+    "director": "Jared Hess",
+    "genre": "comedy"
+  },
+  {
+    "title": "Logan",
+    "director": "James Mangold",
+    "genre": "action"
+  },
+  {
+    "title": "Jurassic World",
+    "director": "Colin Trevorrow",
+    "genre": "action"
+  },
+  {
+    "title": "Men in Black II",
+    "director": "Barry Sonnenfeld",
+    "genre": "action"
+  },
+  {
+    "title": "Harry Potter and The Order of the Phoenix",
+    "director": "David Yates",
+    "genre": "fantasy"
+  },
+  {
+    "title": "The Matrix",
+    "director": "Wachowski",
+    "genre": "action"
+  },
+  {
+    "title": "The Void",
+    "director": "Jeremy Gillespie",
+    "genre": "horror"
+  },
+  {
+    "title": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "genre": "anime"
+  },
+  {
+    "title": "The Matrix: Revolutions",
+    "director": "Wachowski",
+    "genre": "action"
+  },
+  {
+    "title": "School of Rock",
+    "director": "Richard Linklater",
+    "genre": "comedy"
+  },
+  {
+    "title": "The Amityville Horror",
+    "director": "Stuart Rosenberg",
+    "genre": "horror"
+  },
+  {
+    "title": "Back to the Future III",
+    "director": "Robert Zemeckis",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "director": "Hayao Miyazaki",
+    "genre": "anime"
+  },
+  {
+    "title": "The Hunger Games",
+    "director": "Francis Lawrence",
+    "genre": "action"
+  },
+  {
+    "title": "Paranormal Activity",
+    "director": "Oren Peli",
+    "genre": "horror"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "director": "Hayao Miyazaki",
+    "genre": "anime"
+  },
+  {
+    "title": "Evil Dead",
+    "director": "Sam Raimi",
+    "genre": "horror"
+  },
+  {
+    "title": "Paranormal Activity 2",
+    "director": "Tod Williams",
+    "genre": "horror"
+  },
+  {
+    "title": "Zombieland: Double Tap",
+    "director": "Ruben Fleischer",
+    "genre": "comedy"
+  },
+  {
+    "title": "Harry Potter and The Goblet of Fire",
+    "director": "Mike Newell",
+    "genre": "fantasy"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "genre": "fantasy"
+  },
+  {
+    "title": "Insidious",
+    "director": "James Wan",
+    "genre": "horror"
+  },
+  {
+    "title": "X-Men: X-Men United",
+    "director": "Bryan Singer",
+    "genre": "action"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "director": "Jon Watts",
+    "genre": "action"
+  },
+  {
+    "title": "Jurassic Park 2",
+    "director": "Steven Spielberg",
+    "genre": "adventure"
+  },
+  {
+    "title": "Akira",
+    "director": "Katsuhiro Otomo",
+    "genre": "anime"
+  },
+  {
+    "title": "Carrie",
+    "director": "Brian De Palma",
+    "genre": "horror"
+  },
+  {
+    "title": "Hereditary",
+    "director": "Ari Aster",
+    "genre": "horror"
+  },
+  {
+    "title": "Spider-Man: Far from Home",
+    "director": "Jon Watts",
+    "genre": "action"
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "director": "Steven Spielberg",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Last Exorcism: Part II",
+    "director": "Ed Gass-Donnelly",
+    "genre": "horror"
+  },
+  {
+    "title": "Hannibal",
+    "director": "Ridley Scott",
+    "genre": "horror"
+  },
+  {
+    "title": "X-Men: First Class",
+    "director": "Matthew Vaughn",
+    "genre": "action"
+  },
+  {
+    "title": "Alien Covenant",
+    "director": "Ridley Scott",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "The Breakfast Club",
+    "director": "John Hughes",
+    "genre": "drama"
+  },
+  {
+    "title": "Home Alone",
+    "director": "Chris Columbus",
+    "genre": "comedy"
+  },
+  {
+    "title": "Live Die Repeat: Edge of Tomorrow",
+    "director": "Doug Liman",
+    "genre": "action"
+  },
+  {
+    "title": "Harry Potter and The Prisoner of Azkaban",
+    "director": "Alfonso Cuarón",
+    "genre": "fantasy"
+  },
+  {
+    "title": "Watchmen",
+    "director": "Zack Snyder",
+    "genre": "action"
+  },
+  {
+    "title": "Die Hard",
+    "director": "John McTiernan",
+    "genre": "action"
+  },
+  {
+    "title": "Paranormal Activity: The Marked Ones",
+    "director": "Christopher Landon",
+    "genre": "horror"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "director": "Bryan Singer",
+    "genre": "action"
+  },
+  {
+    "title": "Deadpool",
+    "director": "Tim Miller",
+    "genre": "action"
+  },
+  {
+    "title": "Ghostbusters 2",
+    "director": "Ivan Reitman",
+    "genre": "action"
+  },
+  {
+    "title": "Halloween",
+    "director": "John Carpenter",
+    "genre": "horror"
+  },
+  {
+    "title": "The Blair Witch Project",
+    "director": "Eduardo Sánchez",
+    "genre": "horror"
+  },
+  {
+    "title": "The Matrix: Reloaded",
+    "director": "Wachowski",
+    "genre": "action"
+  },
+  {
+    "title": "Knives Out",
+    "director": "Rian Johnson",
+    "genre": "thriller"
+  },
+  {
+    "title": "Sinister",
+    "director": "Scott Derrickson",
+    "genre": "horror"
+  },
+  {
+    "title": "Poltergeist",
+    "director": "Tobe Hooper",
+    "genre": "horror"
+  },
+  {
+    "title": "Midsommar",
+    "director": "Ari Aster",
+    "genre": "thriller"
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "director": "Francis Lawrence",
+    "genre": "action"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "director": "Rodney",
+    "genre": "action"
+  },
+  {
+    "title": "John Wick",
+    "director": "Chad Stahelski",
+    "genre": "action"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "director": "Quentin Tarantino",
+    "genre": "action"
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "director": "Drew Goddard",
+    "genre": "horror"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "genre": "drama"
+  },
+  {
+    "title": "Alien",
+    "director": "Ridley Scott",
+    "genre": "sci-fi"
+  },
+  {
+    "title": "3 Metros Sobre El Cielo",
+    "director": "Fernando Gonzalez Molina",
+    "genre": "drama"
+  },
+  {
+    "title": "Harry Potter and The Half-Blood Prince",
+    "director": "David Yates",
+    "genre": "fantasy"
+  },
+  {
+    "title": "World War Z",
+    "director": "Marc Forster",
+    "genre": "thriller"
+  },
+  {
+    "title": "Men in Black",
+    "director": "Barry Sonnenfeld",
+    "genre": "action"
+  },
+  {
+    "title": "The Big Lebowski",
+    "director": "Joel Coen",
+    "genre": "comedy"
+  },
+  {
+    "title": "Get Out",
+    "director": "Jordan Peele",
+    "genre": "horror"
   }
 ]
