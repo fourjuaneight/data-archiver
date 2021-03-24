@@ -322,7 +322,7 @@
     ]
   },
   {
-    "title": "What I’ve learned from nearly three years of enterprise Wi-Fi at home",
+    "title": "What I've learned from nearly three years of enterprise Wi-Fi at home",
     "creator": "Lee Hutchinson",
     "url": "https://arstechnica.com/information-technology/2018/07/enterprise-wi-fi-at-home-part-two-reflecting-on-almost-three-years-with-pro-gear/",
     "tags": [
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "title": "The Terrifying Warning Lurking in the Earth’s Ancient Rock Record",
+    "title": "The Terrifying Warning Lurking in the Earth's Ancient Rock Record",
     "creator": "Peter Brannen",
     "url": "https://www.theatlantic.com/magazine/archive/2021/03/extreme-climate-change-history/617793/",
     "tags": [
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "title": "Japan’s Rent-a-Family Industry",
+    "title": "Japan's Rent-a-Family Industry",
     "creator": "Elif Batuman",
     "url": "https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry",
     "tags": [
@@ -388,6 +388,15 @@
     "title": "Chapter 4: Search",
     "creator": "Jay Hoffmann",
     "url": "https://css-tricks.com/chapter-4-search/",
+    "tags": [
+      "development",
+      "history"
+    ]
+  },
+  {
+    "title": "Chapter 7: Standards",
+    "creator": "Jay Hoffmann",
+    "url": "https://css-tricks.com/chapter-7-standards/",
     "tags": [
       "development",
       "history"
@@ -502,16 +511,7 @@
     ]
   },
   {
-    "title": "Real Artists Ship",
-    "creator": "Andy Hertzfeld",
-    "url": "https://www.folklore.org/StoryView.py?story=Real_Artists_Ship.txt",
-    "tags": [
-      "history",
-      "technology"
-    ]
-  },
-  {
-    "title": "Now THAT’S What I Call Service Worker!",
+    "title": "Now THAT'S What I Call Service Worker!",
     "creator": "Jeremy Wagner",
     "url": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
     "tags": [
@@ -519,7 +519,7 @@
     ]
   },
   {
-    "title": "The Unsettling Truth About the ‘Mostly Harmless’ Hiker",
+    "title": "The Unsettling Truth About the 'Mostly Harmless' Hiker",
     "creator": "Nicholas Thompson",
     "url": "https://www.wired.com/story/unsettling-truth-mostly-harmless-hiker/",
     "tags": [
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "title": "‘Real’ Programming Is an Elitist Myth",
+    "title": "'Real' Programming Is an Elitist Myth",
     "creator": "Paul Ford",
     "url": "https://www.wired.com/story/databases-coding-real-programming-myth/",
     "tags": [
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "title": "LinkedIn’s Alternate Universe",
+    "title": "LinkedIn's Alternate Universe",
     "creator": "Fadeke Adegbuyi",
     "url": "https://every.to/divinations/linkedins-alternate-universe-21780381",
     "tags": [
@@ -760,7 +760,7 @@
     ]
   },
   {
-    "title": "The Snowden Legacy, part one: What’s changed, really?",
+    "title": "The Snowden Legacy, part one: What's changed, really?",
     "creator": "Sean Gallagher",
     "url": "https://arstechnica.com/tech-policy/2018/11/the-snowden-legacy-part-one-whats-changed-really/",
     "tags": [
@@ -778,7 +778,7 @@
     ]
   },
   {
-    "title": "The Cook and the Chef: Musk’s Secret Sauce",
+    "title": "The Cook and the Chef: Musk's Secret Sauce",
     "creator": "Tim Urban",
     "url": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html",
     "tags": [
