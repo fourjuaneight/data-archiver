@@ -37,10 +37,13 @@ export interface BookmarksFields {
 export interface MediaFields {
   author?: string;
   creator?: string;
+  date?: string;
   director?: string;
-  genre: string;
+  genre?: string;
   studio?: string;
-  title: string;
+  title?: string;
+  tweet?: string;
+  url?: string;
 }
 export interface RecordsFields {
   category?: string[];

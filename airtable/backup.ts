@@ -9,6 +9,7 @@ import type {
   Records,
   StringArray,
 } from "./types.ts";
+import type { LatestTweetFmt } from "../twitter/types.ts";
 
 // Match table queries
 const baseQueries: Bases = {
@@ -31,6 +32,7 @@ const baseQueries: Bases = {
     Games: [],
     Movies: [],
     Shows: [],
+    Tweets: [],
   },
   Records: {
     Clients: [],
