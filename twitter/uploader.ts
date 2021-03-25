@@ -9,6 +9,7 @@ import type { LatestTweetFmt } from "./types.ts";
  */
 const uploader = async (tweet: LatestTweetFmt): Promise<void> => {
   const atOpts: RequestInit = {
+    method: "POST",
     headers: {
       Authorization: `Bearer ${Deno.env.get("AIRTABLE_API")}`,
       "Content-Type": "application/json",

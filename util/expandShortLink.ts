@@ -15,13 +15,13 @@ const expandLinks = async (url: string): Promise<string> => {
         type: response.type,
         text: response.statusText,
       });
-      Deno.exit(1);
+      return url;
     }
 
     return response.url;
   } catch (error) {
-    console.error("Expand Links:", error);
-    Deno.exit(1);
+    console.error("Expand Links:", { url, error });
+    return url;
   }
 };
 

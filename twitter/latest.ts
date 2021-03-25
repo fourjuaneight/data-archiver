@@ -1,47 +1,57 @@
+import "https://deno.land/x/dotenv/load.ts";
 import { format } from "https://deno.land/std/datetime/mod.ts";
-import { isAfter, subDays } from "https://cdn.skypack.dev/date-fns?dts";
+import {
+  formatISO,
+  isAfter,
+  subDays,
+} from "https://cdn.skypack.dev/date-fns?dts";
 
-import auth from "./auth.ts";
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
 
-import type { LatestTweet, LatestTweetFmt } from "./types.ts";
+import type { LatestTweet, LatestTweetFmt, TwitterResponse } from "./types.ts";
+
+let tweets: LatestTweet[] = [];
 
 /**
- * Get the last 50 Tweets with extended content.
- * Docs: https://developer.twitter.com/en/docs/twitter-api/v1/tweets/timelines/api-reference/get-statuses-user_timeline
+ * Get the lastest Tweets from the last 24 hours.
+ * Docs: https://developer.twitter.com/en/docs/twitter-api/tweets/timelines/api-reference/get-users-id-tweets#tab2
  * @function
  *
- * @param {string} key Twitter authorization token
+ * @param {[string]} pagination offset pagination token
  * @return {Promise<LatestTweet[]>} request response with list of tweets
  */
-const latestTweets = async (key: string): Promise<LatestTweet[]> => {
+const latestTweets = async (pagination?: string): Promise<TwitterResponse> => {
+  const dayAgo: Date = subDays(new Date(), 1);
   const twtOpts: RequestInit = {
     headers: {
-      Authorization: `Bearer ${await key}`,
+      Authorization: `Bearer ${Deno.env.get("TWEET_TOKEN")}`,
+      "Content-Type": "application/json",
     },
   };
+  const params: string = pagination
+    ? `max_results=100&tweet.fields=created_at&start_time=${formatISO(
+        dayAgo
+      )}&pagination_token=${pagination}`
+    : `max_results=100&tweet.fields=created_at&start_time=${formatISO(dayAgo)}`;
 
   try {
-    const response: Response = await fetch(
-      "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=fourjuaneight&count=50&tweet_mode=extended",
+    return fetch(
+      `https://api.twitter.com/2/users/${Deno.env.get(
+        "TWEET_USER_ID"
+      )}/tweets?${params}`,
       twtOpts
-    );
-    const results: LatestTweet[] = await response.json();
-    const dayAgo: Date = subDays(new Date(), 1);
+    )
+      .then((response: Response) => response.json())
+      .then((twitterResponse: TwitterResponse) => {
+        tweets = [...tweets, ...twitterResponse.data];
 
-    if (!response.ok) {
-      console.error("Twitter Latest:", {
-        code: response.status,
-        type: response.type,
-        text: response.statusText,
+        if (twitterResponse.meta.result_count === 100) {
+          return latestTweets(twitterResponse.meta.next_token);
+        } else {
+          return twitterResponse;
+        }
       });
-      Deno.exit(1);
-    }
-
-    return results.filter((twt: LatestTweet) =>
-      isAfter(new Date(twt.created_at), dayAgo)
-    );
   } catch (error) {
     console.error("Twitter Latest:", error);
     Deno.exit(1);
@@ -57,9 +67,9 @@ const latestTweets = async (key: string): Promise<LatestTweet[]> => {
  */
 const formatTweets = (rawTweets: LatestTweet[]): LatestTweetFmt[] => {
   const formatted: LatestTweetFmt[] = rawTweets.map((twt: LatestTweet) => ({
-    tweet: emojiUnicode(twt.full_text),
-    date: format(new Date(twt.created_at), "yyyy-MM-dd'T'HH:mm:ss"),
-    url: `https://twitter.com/fourjuaneight/status/${twt.id_str}`,
+    tweet: emojiUnicode(twt.text),
+    date: twt.created_at,
+    url: `https://twitter.com/fourjuaneight/status/${twt.id}`,
   }));
 
   return formatted;
@@ -94,9 +104,8 @@ const expandTweets = (
  */
 const latest = async (): Promise<LatestTweetFmt[]> => {
   try {
-    const key: string = await auth();
-    const last: LatestTweet[] = await latestTweets(key);
-    const lastFmt: LatestTweetFmt[] = await formatTweets(last);
+    await latestTweets();
+    const lastFmt: LatestTweetFmt[] = await formatTweets(tweets);
     const lastExp: LatestTweetFmt[] = await expandTweets(lastFmt);
 
     return lastExp;
