@@ -11,7 +11,7 @@ import expandShortLink from "../util/expandShortLink.ts";
 
 import type { LatestTweet, LatestTweetFmt, TwitterResponse } from "./types.ts";
 
-let tweets: LatestTweet[] = [];
+let tweets: any[] = [];
 
 /**
  * Get the lastest Tweets from the last 24 hours.
@@ -44,7 +44,9 @@ const latestTweets = async (pagination?: string): Promise<TwitterResponse> => {
     )
       .then((response: Response) => response.json())
       .then((twitterResponse: TwitterResponse) => {
-        tweets = [...tweets, ...twitterResponse.data];
+        if (twitterResponse.data) {
+          tweets = [...tweets, ...twitterResponse.data];
+        }
 
         if (twitterResponse.meta.result_count === 100) {
           return latestTweets(twitterResponse.meta.next_token);
@@ -102,13 +104,17 @@ const expandTweets = (
  *
  * @return {Promise<LatestTweetFmt[]>} { tweet, date, url }
  */
-const latest = async (): Promise<LatestTweetFmt[]> => {
+const latest = async (): Promise<LatestTweetFmt[] | null> => {
   try {
     await latestTweets();
-    const lastFmt: LatestTweetFmt[] = await formatTweets(tweets);
-    const lastExp: LatestTweetFmt[] = await expandTweets(lastFmt);
+    if (tweets.length > 0) {
+      const lastFmt: LatestTweetFmt[] = await formatTweets(tweets);
+      const lastExp: LatestTweetFmt[] = await expandTweets(lastFmt);
 
-    return lastExp;
+      return lastExp;
+    }
+
+    return null;
   } catch (error) {
     console.error("Twitter Latest Formatted:", error);
     Deno.exit(1);

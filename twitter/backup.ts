@@ -7,10 +7,10 @@ import type { LatestTweetFmt } from "./types.ts";
 (async () => {
   try {
     // get formatted tweets
-    const tweets: LatestTweetFmt[] = await latest();
+    const tweets: LatestTweetFmt[] | null = await latest();
 
     // upload each individually
-    if (tweets.length > 0) {
+    if (tweets && tweets.length > 0) {
       for (const tweet of tweets) {
         try {
           const upload = await uploader(tweet);
