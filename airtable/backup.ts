@@ -126,6 +126,8 @@ const saveBookmarks = async (
       `./records/${category}/${record}.json`,
       JSON.stringify(fields, undefined, 2)
     );
+
+    console.info("Bookmarks saved");
   } catch (error) {
     console.error(error);
     throw new Error(error);
