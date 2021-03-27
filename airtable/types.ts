@@ -28,37 +28,83 @@ export interface KyOptions {
   };
 }
 
-export interface BookmarksFields {
+export interface BKWebFields {
   creator: string;
   title: string;
   url: string;
   tags: string[];
 }
-export interface MediaFields {
-  author?: string;
-  creator?: string;
-  date?: string;
-  director?: string;
-  genre?: string;
-  studio?: string;
-  title?: string;
-  tweet?: string;
-  url?: string;
-}
-export interface RecordsFields {
-  category?: string[];
-  company?: string;
-  end?: string | null;
-  name?: string;
-  position?: string;
-  rss?: string;
-  stack?: string[];
-  start?: string;
-  title?: string;
-  url?: string;
+
+export interface BKTweetFields {
+  creator: string;
+  tweet: string;
+  url: string;
+  tags: string[];
 }
 
-export type Fields = BookmarksFields | MediaFields | RecordsFields;
+export interface MDTweetFields {
+  tweet: string;
+  date: string;
+  url: string;
+}
+
+export interface MDVideoFields {
+  director: string;
+  genre: string;
+  title: string;
+}
+
+export interface MDAnimeFields {
+  creator: string;
+  genre: string;
+  title: string;
+}
+
+export interface MDBookFields {
+  author: string;
+  genre: string;
+  title: string;
+}
+
+export interface MDGameFields {
+  genre: string;
+  studio: string;
+  title: string;
+}
+
+export interface RCFeedFields {
+  category: string;
+  title: string;
+  rss: string;
+  url: string;
+}
+
+export interface RCClientsFields {
+  company: string;
+  end: string | null;
+  name: string;
+  stack: string[];
+  start: string;
+}
+
+export interface RCJobsFields {
+  company: string;
+  end: string | null;
+  position: string;
+  start: string;
+}
+
+export type Fields =
+  | BKWebFields
+  | BKTweetFields
+  | MDTweetFields
+  | MDVideoFields
+  | MDAnimeFields
+  | MDBookFields
+  | MDGameFields
+  | RCFeedFields
+  | RCClientsFields
+  | RCJobsFields;
 
 export interface Records {
   id: string;
