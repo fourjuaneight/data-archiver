@@ -1,31 +1,31 @@
 [
   {
-    "creator": "Nintendo",
+    "studio": "Nintendo",
     "title": "The Legend of Zelda: A Link to the Past",
     "genre": "rpg"
   },
   {
-    "creator": "Playdead",
+    "studio": "Playdead",
     "title": "Limbo",
     "genre": "platform"
   },
   {
-    "creator": "Playdead",
+    "studio": "Playdead",
     "title": "INSIDE",
     "genre": "platform"
   },
   {
-    "creator": "Matt Makes Games",
+    "studio": "Matt Makes Games",
     "title": "Celeste",
     "genre": "platform"
   },
   {
-    "creator": "Nintendo",
+    "studio": "Nintendo",
     "title": "The Legend of Zelda: Breath of the Wild",
     "genre": "rpg"
   },
   {
-    "creator": "Naughty Dog",
+    "studio": "Naughty Dog",
     "title": "The Last of Us",
     "genre": "shooter"
   }
