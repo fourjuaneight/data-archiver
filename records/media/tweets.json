@@ -265,6 +265,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1299426617954099202"
   },
   {
+    "tweet": "Jay Hoffman and CSS-Tricks also have a wonderful series on the same topic.\nhttps://css-tricks.com/category/history/",
+    "date": "2021-03-28T16:28:19.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376209548965523461"
+  },
+  {
     "tweet": "@simonbs Maybe have a photo picker, sorta like Metaphoto, where you can select multiple photos (or all) and show stats for said selections? Simple UI but quite useful and I think worth an app.\n\nCan even see this having Shortcuts integration to pull the stats and even a Share sheet action.",
     "date": "2020-10-30T18:00:49.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1322237035730653184"
@@ -853,6 +858,11 @@
     "tweet": "I have finally reached peak Shortcuts! I have a shortcut that:\n- Gets latest photos from the week\n- Renames based on IMG-{yyyy}-{mm}-{dd}-{hh}-{mm}-{ss}\n- Uploads to my home computer via @ShellFishApp in /Photos/{yyyy}/{img}\n\nAnd this can now run as an Automatjon every week! U+1f62dU+NaN️",
     "date": "2019-09-13T03:49:27.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1172356592941096960"
+  },
+  {
+    "tweet": "@davatron5000 But also, this is a wonderful excuse to just eat taquitos all Sunday.",
+    "date": "2021-03-28T16:18:54.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376207177157857282"
   },
   {
     "tweet": "If we all wear our face masks on our chin, we can definitely make the first wave the second U+1f91eU+1f3fd/s",
@@ -1715,6 +1725,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1300802398076755970"
   },
   {
+    "tweet": "Jay has also been writing about this for a while now over at https://thehistoryoftheweb.com/",
+    "date": "2021-03-28T16:29:26.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376209830222921731"
+  },
+  {
     "tweet": "When I'm having a bad day, I usually go for a walk to clear my mind. I definitely don't go on a murder spree while I'm out. Just saying.",
     "date": "2021-03-21T05:02:58.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1373500360309022721"
@@ -1905,6 +1920,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1176245215180611585"
   },
   {
+    "tweet": "Ana Valens’ books about the history of the web are fantastic. And the website is pure early web nostalgia.\nhttps://www.instarbooks.com/remember-the-internet.html",
+    "date": "2021-03-28T16:26:56.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376209198535565319"
+  },
+  {
     "tweet": "@DasSurma This is the content I subscribed for.",
     "date": "2021-03-19T15:54:39.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1372939582883438593"
@@ -1918,6 +1938,11 @@
     "tweet": "I tried Redux today for the first time. I don't know if it was the Redux methodology or the lack of comments on the 100+ component codebase. But I hated every minute of it.",
     "date": "2020-04-26T23:23:31.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1254551711932350465"
+  },
+  {
+    "tweet": "Started listening to @TheAtlantic’s Social Distance from the start. And it’s been a nice retelling of the pandemic in a comforting sort of way. Mostly because I told my wife this would last at least a year and I like being right. But also, great podcast.\nhttps://www.theatlantic.com/podcasts/socialdistance/",
+    "date": "2021-03-28T16:24:22.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376208554768629765"
   },
   {
     "tweet": "Nothing says \"It just works!\" like a new iOS update breaking compatibility with HomeKit accessories.",
