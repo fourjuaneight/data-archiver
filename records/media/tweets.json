@@ -955,6 +955,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1307123690040168448"
   },
   {
+    "tweet": "@wesbos What is it with designers and border-radius? Looks like they all rediscovered it a couple of years ago and collectively thought we all needed more of it in our lives.",
+    "date": "2021-03-30T18:51:20.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376970316438761476"
+  },
+  {
     "tweet": "@mattcassinelli That action parses the API response to determine if the content was saved successfully or not. If good, I get a notification letting me know. Otherwise, the response is parsed and I get an alert letting me know why it failed. The API has pretty helpful error messages.\n[8/10]",
     "date": "2019-11-07T19:22:58.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1192522853654159362"
@@ -1198,6 +1203,11 @@
     "tweet": "@zachleat My coding playground where I almost never write but pretend that I blog.\n\nhttps://www.juanvillela.dev/",
     "date": "2020-04-02T19:55:14.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1245801987221925894"
+  },
+  {
+    "tweet": "I support this message. https://twitter.com/VilifiedPeanut/status/1371970719286915075",
+    "date": "2021-03-30T15:35:29.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376921028815912965"
   },
   {
     "tweet": "@andybelldesign And dev tools",
@@ -1730,6 +1740,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1300802398076755970"
   },
   {
+    "tweet": "@iamdevloper Fucking Swordfish, man. That’s what got my naive child brain into coding.",
+    "date": "2021-03-30T18:47:05.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376969245100285954"
+  },
+  {
     "tweet": "Jay has also been writing about this for a while now over at https://thehistoryoftheweb.com/",
     "date": "2021-03-28T16:29:26.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1376209830222921731"
@@ -1938,6 +1953,11 @@
     "tweet": "@siracusa I'm more concerned about how lightly everyone takes something moving near them at close to the speed of light.",
     "date": "2021-03-20T21:03:34.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1373379713046036481"
+  },
+  {
+    "tweet": "@simonbs I genuinely want this to happen. Primarily because you’re doing some amazing work for the iOS automation community. But also because I fear the day you have to stop work on Scriptable and I have to automate iOS with Shortcuts only like an animal U+1f641",
+    "date": "2021-03-30T18:44:45.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1376968659185369104"
   },
   {
     "tweet": "I tried Redux today for the first time. I don't know if it was the Redux methodology or the lack of comments on the 100+ component codebase. But I hated every minute of it.",
