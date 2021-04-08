@@ -2,166 +2,211 @@
   {
     "title": "Pokémon Ruby",
     "studio": "Game Freak",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Game Boy Advance"
   },
   {
     "title": "Mario Kart 8 Deluxe",
     "studio": "Nintendo",
-    "genre": "racing"
+    "genre": "racing",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Minecraft",
     "studio": "Mojang",
-    "genre": "sandbox"
+    "genre": "sandbox",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "The Legend of Zelda: A Link Between Worlds",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Nintendo 3DS"
   },
   {
     "title": "The Legend of Zelda: The Minish Cap",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Game Boy Advance"
   },
   {
     "title": "Super Smash Bros. Ultimate",
     "studio": "Nintendo",
-    "genre": "fighting"
+    "genre": "fighting",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "The Legend of Zelda: Breath of the Wild",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Undertale",
     "studio": "Toby Fox",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Pokémon Gold",
     "studio": "Game Freak",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Game Boy"
   },
   {
     "title": "Bastion",
     "studio": "Supergiant Games",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Transistor",
     "studio": "Supergiant Games",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Hollow Knight",
     "studio": "Team Cherry",
-    "genre": "action"
+    "genre": "action",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Pokémon Pearl",
     "studio": "Game Freak",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo DS"
   },
   {
     "title": "The Legend of Zelda: Twilight Princess",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Nintendo Wii"
   },
   {
     "title": "Scott Pilgrim vs The World: The Game",
     "studio": "Ubisoft ",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening",
+    "studio": "Nintendo",
+    "genre": "adventure",
+    "Platform": "Nintendo Switch"
+  },
+  {
+    "title": "Firewatch",
+    "studio": "Campo Santo",
+    "genre": "adventure",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Hyrule Warriors: Age of Calamity",
     "studio": "Omega Force",
-    "genre": "action"
+    "genre": "action",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Shovel Knight: Treasure Trove",
     "studio": "Yacht Club Games",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "GRIS",
     "studio": "Nomada Studio",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Limbo",
     "studio": "Playdead",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Cuphead",
     "studio": "Studio MDHR",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Stardew Valley",
     "studio": "Eric Barone",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Hades",
     "studio": "Supergiant Games",
-    "genre": "roguelike"
+    "genre": "roguelike",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Shovel Knight: King of Cards",
     "studio": "Yacht Club Games",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Dandara",
     "studio": "Long Hat House",
-    "genre": "platform"
-  },
-  {
-    "title": "The Legend of Zelda: Links's Awakening",
-    "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "The Legend of Zelda: Majorca's Mask",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Nintendo 64"
   },
   {
     "title": "Luigi's Mansion 3",
     "studio": "Nintendo",
-    "genre": "action"
+    "genre": "action",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "INSIDE",
     "studio": "Playdead",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Hyper Light Drifter",
     "studio": "GameMaker",
-    "genre": "rpg"
+    "genre": "rpg",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "The Legend of Zelda: A Link to the Past",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Game Boy Advance"
   },
   {
     "title": "Celeste",
     "studio": "Matt Makes Games",
-    "genre": "platform"
+    "genre": "platform",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "The Legend of Zelda: Ocarina of Time",
     "studio": "Nintendo",
-    "genre": "adventure"
+    "genre": "adventure",
+    "Platform": "Nintendo 64"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "studio": "Nintendo",
+    "genre": "adventure",
+    "Platform": "Nintendo Switch"
   },
   {
     "title": "Dead Cells",
     "studio": "Motion Twin",
-    "genre": "roguelike"
+    "genre": "roguelike",
+    "Platform": "Nintendo Switch"
   }
 ]
