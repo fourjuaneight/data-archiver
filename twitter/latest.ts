@@ -1,10 +1,5 @@
 import "https://deno.land/x/dotenv/load.ts";
-import { format } from "https://deno.land/std/datetime/mod.ts";
-import {
-  formatISO,
-  isAfter,
-  subDays,
-} from "https://cdn.skypack.dev/date-fns?dts";
+import { formatISO, subDays } from "https://cdn.skypack.dev/date-fns?dts";
 
 import emojiUnicode from "../util/emojiUnicode.ts";
 import expandShortLink from "../util/expandShortLink.ts";
@@ -21,7 +16,7 @@ let tweets: any[] = [];
  * @param {[string]} pagination offset pagination token
  * @return {Promise<LatestTweet[]>} request response with list of tweets
  */
-const latestTweets = async (pagination?: string): Promise<TwitterResponse> => {
+const latestTweets = (pagination?: string): Promise<TwitterResponse> => {
   const dayAgo: Date = subDays(new Date(), 1);
   const twtOpts: RequestInit = {
     headers: {

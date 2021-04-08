@@ -35,7 +35,7 @@ const expandLinks = async (url: string): Promise<string> => {
  */
 const expandShortLink = async (str: string, regex: RegExp): Promise<string> => {
   const promises: Promise<string>[] = [];
-  const pattern: RegExp = new RegExp(regex);
+  const pattern = new RegExp(regex);
 
   str.replace(pattern, (match, ...args) => {
     const promise = expandLinks(match);

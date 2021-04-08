@@ -7,9 +7,7 @@ import type {
   Fields,
   Endpoints,
   Records,
-  StringArray,
 } from "./types.ts";
-import type { LatestTweetFmt } from "../twitter/types.ts";
 
 // Match table queries
 const baseQueries: Bases = {
@@ -64,7 +62,7 @@ const endpoints: Endpoints = {
  * @param {[string]} offset param to request remainding records
  * @return {Promise<AirtableResp >}
  */
-const getBookmarksWithOffset = async (
+const getBookmarksWithOffset = (
   base: string,
   list: string,
   offset?: string
@@ -82,7 +80,7 @@ const getBookmarksWithOffset = async (
   try {
     return fetch(url, atOpts)
       .then((response: Response) => response.json())
-      .then(async (airtableRes: AirtableResp) => {
+      .then((airtableRes: AirtableResp) => {
         baseQueries[base][list] = [
           ...baseQueries[base][list],
           ...airtableRes.records,
@@ -127,7 +125,7 @@ const saveBookmarks = async (
       JSON.stringify(fields, undefined, 2)
     );
 
-    console.info("Bookmarks saved");
+    console.info(`${base} saved`);
   } catch (error) {
     console.error(error);
     throw new Error(error);
