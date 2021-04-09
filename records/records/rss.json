@@ -60,6 +60,12 @@
     "rss": "https://www.webtoons.com/en/challenge/bodies/rss?title_no=313877"
   },
   {
+    "title": "M.G. Siegler",
+    "category": "entertainment",
+    "url": "https://mgs.blog/",
+    "rss": "https://medium.com/feed/@mgs"
+  },
+  {
     "title": "History | CSS-Tricks",
     "category": "development",
     "url": "https://css-tricks.com/category/history/",
@@ -174,6 +180,12 @@
     "rss": "https://5ish.org/feed/"
   },
   {
+    "title": "OneZero",
+    "category": "technology",
+    "url": "https://onezero.medium.com",
+    "rss": "https://onezero.medium.com/feed"
+  },
+  {
     "title": "Dave Rupert",
     "category": "development",
     "url": "http://daverupert.com/",
@@ -274,6 +286,18 @@
     "category": "comic",
     "url": "https://www.webtoons.com/en/challenge/turtle-nova/list?title_no=549084",
     "rss": "https://www.webtoons.com/en/challenge/turtle-nova/rss?title_no=549084"
+  },
+  {
+    "title": "Tedium",
+    "category": "technology",
+    "url": "https://tedium.co",
+    "rss": "https://feed.tedium.co/"
+  },
+  {
+    "title": "Pindrop",
+    "category": "science",
+    "url": "https://youtube.com/playlist?list=PLkahZjV5wKe_5qGhL7JeNS8aJUjSdYHHD",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLkahZjV5wKe_5qGhL7JeNS8aJUjSdYHHD"
   },
   {
     "title": "Mediastyle",
@@ -418,6 +442,12 @@
     "category": "development",
     "url": "https://jakearchibald.com/",
     "rss": "https://jakearchibald.com/posts.rss"
+  },
+  {
+    "title": "Weathered",
+    "category": "science",
+    "url": "https://www.youtube.com/playlist?list=PLnNZYWyBGJ1GLPmb55WQAln2Q7rZn5AFX",
+    "rss": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLnNZYWyBGJ1GLPmb55WQAln2Q7rZn5AFX"
   },
   {
     "title": "Matt Mullenweg",
