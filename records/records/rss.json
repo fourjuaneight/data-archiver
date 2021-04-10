@@ -312,6 +312,12 @@
     "rss": "https://medium.com/feed/@williamfleitch"
   },
   {
+    "title": "Midrange",
+    "category": "technology",
+    "url": "https://midrange.tedium.co",
+    "rss": "https://midrange.tedium.co/?format=rss"
+  },
+  {
     "title": "Letters from an American",
     "category": "politics",
     "url": "https://heathercoxrichardson.substack.com/",
