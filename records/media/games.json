@@ -96,6 +96,12 @@
     "Platform": "Nintendo Switch"
   },
   {
+    "title": "Super Mario Galaxy",
+    "studio": "Nintendo",
+    "genre": "adventure",
+    "Platform": "Nintendo Wii"
+  },
+  {
     "title": "Firewatch",
     "studio": "Campo Santo",
     "genre": "adventure",
@@ -174,6 +180,12 @@
     "Platform": "Nintendo Switch"
   },
   {
+    "title": "Super Mario Bros. 3",
+    "studio": "Nintendo",
+    "genre": "platform",
+    "Platform": "Nintendo Entertainment System"
+  },
+  {
     "title": "Hyper Light Drifter",
     "studio": "GameMaker",
     "genre": "rpg",
@@ -190,6 +202,12 @@
     "studio": "Matt Makes Games",
     "genre": "platform",
     "Platform": "Nintendo Switch"
+  },
+  {
+    "title": "Super Mario Sunshine",
+    "studio": "Nintendo",
+    "genre": "adventure",
+    "Platform": "GameCude"
   },
   {
     "title": "The Legend of Zelda: Ocarina of Time",
