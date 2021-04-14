@@ -145,6 +145,11 @@
     "url": "https://twitter.com/fourjuaneight/status/1337061688336654340"
   },
   {
+    "tweet": "Spent 3 days trying to compile a TS worker to JS for Cloudflare. And could not for the life of me get the node_modules to resolve. Fuck you Webpack. But you know what took just 1hr? Pulling data from an API, sticking it into a GH Action, and running that shit on a cron job.",
+    "date": "2021-04-12T22:12:47.000Z",
+    "url": "https://twitter.com/fourjuaneight/status/1381732052794544131"
+  },
+  {
     "tweet": "RT @CARROT_app: You meatbags finally did something right.",
     "date": "2020-11-07T16:57:28.000Z",
     "url": "https://twitter.com/fourjuaneight/status/1325120196210810880"
