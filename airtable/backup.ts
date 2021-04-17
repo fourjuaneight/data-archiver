@@ -4,7 +4,7 @@ import { ensureFile } from "https://deno.land/std/fs/mod.ts";
 import type {
   AirtableResp,
   Bases,
-  Fields,
+  BKWebFields,
   Endpoints,
   Records,
 } from "./types.ts";
@@ -112,9 +112,30 @@ const saveBookmarks = async (
   base: string,
   list: string
 ): Promise<void> => {
-  const fields: Fields[] = records.map((record: Records) => record.fields);
+  let fields = [];
+  fields = records.map((record: Records) => record.fields);
+
   const category: string = base.toLowerCase();
   const record: string = list.toLowerCase();
+  const filter = [
+    record === "articles",
+    record === "comics",
+    record === "podcasts",
+    record === "videos",
+  ].includes(true);
+
+  if (category === "bookmarks" && filter) {
+    fields = fields.map((record) => {
+      const data = record as BKWebFields;
+
+      return {
+        title: data.title,
+        creator: data.creator,
+        url: data.url,
+        tags: data.tags,
+      };
+    });
+  }
 
   try {
     // create file if doesn't exsit

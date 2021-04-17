@@ -29,6 +29,7 @@ export interface KyOptions {
 }
 
 export interface BKWebFields {
+  archive: string;
   creator: string;
   title: string;
   url: string;
